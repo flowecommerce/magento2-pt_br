@@ -1,0 +1,154 @@
+Segments,Segmentos,module,Magento_CustomerSegment
+"Add Segment","Adicionar o segmento",module,Magento_CustomerSegment
+"Refresh Segment Data","Atualizar dados do segmento",module,Magento_CustomerSegment
+"Save and Continue Edit","Salvar e Continuar a Editar",module,Magento_CustomerSegment
+"Edit Segment '%1'","Editar o segmento '%1'",module,Magento_CustomerSegment
+"New Segment","Novo segmento",module,Magento_CustomerSegment
+"Segment Information","Informação por segmentos",module,Magento_CustomerSegment
+Conditions,Condições,module,Magento_CustomerSegment
+"* applicable to visitors and registered customers","* Aplicável aos visitantes e clientes registados",module,Magento_CustomerSegment
+"General Properties","Propriedades gerais",module,Magento_CustomerSegment
+"Segment Name","Nome do segmento",module,Magento_CustomerSegment
+Description,Descrição,module,Magento_CustomerSegment
+"Assigned to Website","Atribuído ao Website",module,Magento_CustomerSegment
+Status,Status,module,Magento_CustomerSegment
+Active,Ativo,module,Magento_CustomerSegment
+Inactive,Inativo,module,Magento_CustomerSegment
+"Apply To","Aplicar a",module,Magento_CustomerSegment
+"Visitors and Registered Customers","Visitantes e Clientes",module,Magento_CustomerSegment
+"Registered Customers","Clientes registados",module,Magento_CustomerSegment
+Visitors,Visitantes,module,Magento_CustomerSegment
+"Please save this information to specify segmentation conditions.","Por favor, salve essas informações para especificar as condições de segmentação.",module,Magento_CustomerSegment
+"Matched Customers (%1)","Clientes correspondentes (%1)",module,Magento_CustomerSegment
+ID,ID,module,Magento_CustomerSegment
+Segment,Segmento,module,Magento_CustomerSegment
+Website,Website,module,Magento_CustomerSegment
+"Customer Segment Report","Relatório segmento de clientes",module,Magento_CustomerSegment
+"Customer Segment Report '%1'","Relatório Segmento de Cliente '%1'",module,Magento_CustomerSegment
+"Customer Segments Report","Relatório de segmentos de cliente",module,Magento_CustomerSegment
+Back,Voltar,module,Magento_CustomerSegment
+From,De,module,Magento_CustomerSegment
+To,Até,module,Magento_CustomerSegment
+"Please request the correct customer segment.","Por favor, solicite o segmento correto de cliente.",module,Magento_CustomerSegment
+"You deleted the segment.","Você excluiu o segmento.",module,Magento_CustomerSegment
+"We're unable to delete the segement.","Não foi possível excluir o seguimento.",module,Magento_CustomerSegment
+"Customer Segments","Segmentação de Clientes",module,Magento_CustomerSegment
+"Edit Segment","Editar Segmento",module,Magento_CustomerSegment
+"Segment Customers matching error",Todos,module,Magento_CustomerSegment
+"You saved the segment.","Você salvou o segmento.",module,Magento_CustomerSegment
+"We can't save the segment right now.","Nesse momento, não foi possível salvar o segmento.",module,Magento_CustomerSegment
+Reports,Relatórios,module,Magento_CustomerSegment
+Customers,Clientes,module,Magento_CustomerSegment
+"Viewing combined ""%1"" report from segments: %2.",todo.,module,Magento_CustomerSegment
+Details,Detalhes,module,Magento_CustomerSegment
+"The Customer Segment data has been refreshed.","Os dados do segmento de cliente serão atualizados.",module,Magento_CustomerSegment
+Union,União,module,Magento_CustomerSegment
+Intersection,Interseção,module,Magento_CustomerSegment
+All,Todos,module,Magento_CustomerSegment
+Specified,Especificado,module,Magento_CustomerSegment
+"Applies to All of the Specified Customer Segments","Aplica-se a todos os segmentos de cliente especificados",module,Magento_CustomerSegment
+"Apply to the Selected Customer Segments",Todos,module,Magento_CustomerSegment
+contains,contém,module,Magento_CustomerSegment
+"does not contains","não contém",module,Magento_CustomerSegment
+"Matched %1 Customers of Segment %2",Todos,module,Magento_CustomerSegment
+"Unknown operator specified.","O operador especificado é desconhecido.",module,Magento_CustomerSegment
+"Conditions Combination","Combinação de Condições",module,Magento_CustomerSegment
+"Customer Address","Endereço do cliente",module,Magento_CustomerSegment
+"Product List","Lista de Produtos",module,Magento_CustomerSegment
+"Product History","Histórico de produtos",module,Magento_CustomerSegment
+Products,Produtos,module,Magento_CustomerSegment
+"Wrong ""ApplyTo"" type","O tipo de ""ApplyTo"" esta incorreto",module,Magento_CustomerSegment
+Customer,Cliente,module,Magento_CustomerSegment
+"If Customer Addresses match %1 of these Conditions:","Se o endereço dos clientes correspondem %1 dessas condições:",module,Magento_CustomerSegment
+"Address Attributes","Atributos de endereço",module,Magento_CustomerSegment
+"Customer Address %1","Endereço de cliente: %1",module,Magento_CustomerSegment
+"Default Address","Endereço padrão",module,Magento_CustomerSegment
+Billing,Cobrança,module,Magento_CustomerSegment
+Shipping,Frete,module,Magento_CustomerSegment
+"Customer Address %1 Default %2 Address","Endereço do cliente endereço %1 padrão %2",module,Magento_CustomerSegment
+"Has State/Province","Tem estado/província",module,Magento_CustomerSegment
+"If Customer Address %1 State/Province specified","Se especificado cliente endereço %1 estado/província",module,Magento_CustomerSegment
+has,tem,module,Magento_CustomerSegment
+"does not have","não tem",module,Magento_CustomerSegment
+exists,existe,module,Magento_CustomerSegment
+"does not exist","não existe",module,Magento_CustomerSegment
+"Customer %1","Cliente %1",module,Magento_CustomerSegment
+"Newsletter Subscription","Assinar Newsletter",module,Magento_CustomerSegment
+"Customer is %1 to newsletter.","Cliente é %1 a newsletter.",module,Magento_CustomerSegment
+subscribed,inscrito,module,Magento_CustomerSegment
+"not subscribed","não inscrito",module,Magento_CustomerSegment
+"Store Credit","Loja de Crédito",module,Magento_CustomerSegment
+"Customer Store Credit Amount %1 %2:","Quantidade %1 %2 de crédito ao cliente loja:",module,Magento_CustomerSegment
+"Date Range","Intervalo de Data",module,Magento_CustomerSegment
+"Open Chooser","Abrir Seletor",module,Magento_CustomerSegment
+"Date Range %1 within %2","Intervalo de datas %1 entre %2",module,Magento_CustomerSegment
+"If Order Addresses match %1 of these Conditions:","Se os endereços do pedidos correspondem a %1 dessas condições:",module,Magento_CustomerSegment
+"Order Address Attributes","Atributos do Endereço do Pedido",module,Magento_CustomerSegment
+"Order Address %1","Endereço do Pedido %1",module,Magento_CustomerSegment
+"Address Type","Tipo de endereço",module,Magento_CustomerSegment
+"Order Address %1 a %2 Address","Ordem endereço %1 um endereço %2",module,Magento_CustomerSegment
+"Order Status","Situação do pedido",module,Magento_CustomerSegment
+Any,Qualquer,module,Magento_CustomerSegment
+"Order Status %1 %2:","Status do Pedido %1 %2:",module,Magento_CustomerSegment
+"Product Attributes","Atributos de Produto",module,Magento_CustomerSegment
+"Product %1","Produto %1",module,Magento_CustomerSegment
+"Date Ranges","Intervalo de Data",module,Magento_CustomerSegment
+viewed,visualizaram,module,Magento_CustomerSegment
+ordered,ordenou,module,Magento_CustomerSegment
+was,era,module,Magento_CustomerSegment
+"was not","não era",module,Magento_CustomerSegment
+"If Product %1 %2 and matches %3 of these Conditions:","Se produto %1 %3 %2 e partidas destas condições:",module,Magento_CustomerSegment
+"Shopping Cart","Carrinho de Compras",module,Magento_CustomerSegment
+"Wish List","Lista de desejos",module,Magento_CustomerSegment
+found,encontrados,module,Magento_CustomerSegment
+"not found","não encontrado",module,Magento_CustomerSegment
+"If Product is %1 in the %2 with %3 of these Conditions match:","Se o produto é %1 na %2 com %3 destas condições correspondem:",module,Magento_CustomerSegment
+"Order Address","Endereço do Pedido",module,Magento_CustomerSegment
+"Sales Amount","Quantidade de vendas",module,Magento_CustomerSegment
+"Number of Orders","Número de pedidos",module,Magento_CustomerSegment
+"Purchased Quantity","Quantidade comprada",module,Magento_CustomerSegment
+Sales,Vendas,module,Magento_CustomerSegment
+"%1 %2 %3 %4 while %5 of these Conditions match:","%1 %2 %3 %4 ao %5 dessas condições correspondem:",module,Magento_CustomerSegment
+Total,Total,module,Magento_CustomerSegment
+Average,Média,module,Magento_CustomerSegment
+"If Customer Segment %1 %2","Se o segmento do cliente %1 %2",module,Magento_CustomerSegment
+matches,"corresponde a",module,Magento_CustomerSegment
+"does not match","não coincide",module,Magento_CustomerSegment
+"is one of","é um dos",module,Magento_CustomerSegment
+"is not one of","não é um dos",module,Magento_CustomerSegment
+"Shopping Cart Total",Total,module,Magento_CustomerSegment
+Subtotal,Subtotal,module,Magento_CustomerSegment
+"Grand Total","Total geral",module,Magento_CustomerSegment
+Tax,Taxa,module,Magento_CustomerSegment
+"Gift Card","Cartão de presente",module,Magento_CustomerSegment
+"Shopping Cart %1 Amount %2 %3:","Carrinho %1 quantidade %2 %3 de compras:",module,Magento_CustomerSegment
+"Unknown quote total specified.","O total do orçamento especificado é desconhecido.",module,Magento_CustomerSegment
+"Number of Cart Line Items","Número de Itens no Carrinho",module,Magento_CustomerSegment
+"Number of Shopping Cart Line Items %1 %2:","Número da linha carrinho de compras itens %1 %2:",module,Magento_CustomerSegment
+"Products Quantity","Quantidade de produtos",module,Magento_CustomerSegment
+"Shopping Cart Products Qty %1 %2:","Qtde. de produtos no carrinho %1 %2:",module,Magento_CustomerSegment
+"equals or greater than","é igual ou maior que",module,Magento_CustomerSegment
+"equals or less than","é igual ou menor que",module,Magento_CustomerSegment
+"greater than","maior do que",module,Magento_CustomerSegment
+"less than","menos que",module,Magento_CustomerSegment
+"Up To Date",Atualizado,module,Magento_CustomerSegment
+"Period %1 %2 Days Up To Date","Período de %1 dias de %2 até a data",module,Magento_CustomerSegment
+"Customer Segment","Segmento de clientes",module,Magento_CustomerSegment
+"Use in Customer Segment","Uso no segmento de clientes",module,Magento_CustomerSegment
+"Please choose a condition to add.","Por favor, escolha uma condição para adicionar.",module,Magento_CustomerSegment
+"Enable Customer Segment Functionality","Habilitar funcionalidade de segmentação de cliente",module,Magento_CustomerSegment
+"Refresh Data","Atualizar dados",module,Magento_CustomerSegment
+"Manage Segments","Manage Segments",module,Magento_CustomerSegment
+"All Websites","Todos os sites",module,Magento_CustomerSegment
+CSV,CSV,module,Magento_CustomerSegment
+"Excel XML","Excel, XML",module,Magento_CustomerSegment
+Name,Nome,module,Magento_CustomerSegment
+Email,E-mail,module,Magento_CustomerSegment
+Group,Grupo,module,Magento_CustomerSegment
+Phone,Telefone,module,Magento_CustomerSegment
+ZIP,CEP,module,Magento_CustomerSegment
+Country,País,module,Magento_CustomerSegment
+State/Province,Estado/Província,module,Magento_CustomerSegment
+"Customer Since","Cliente desde",module,Magento_CustomerSegment
+"View Combined Report","View Combined Report",module,Magento_CustomerSegment
+Set,Definir,module,Magento_CustomerSegment

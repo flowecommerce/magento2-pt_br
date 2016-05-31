@@ -1,0 +1,10 @@
+"We were unable to perform the search because of a search engine misconfiguration.","We were unable to perform the search because of a search engine misconfiguration.",module,Magento_Elasticsearch
+"Could not ping search engine: %1","Could not ping search engine: %1",module,Magento_Elasticsearch
+"Elasticsearch Server Hostname","Elasticsearch Server Hostname",module,Magento_Elasticsearch
+"Elasticsearch Server Port","Elasticsearch Server Port",module,Magento_Elasticsearch
+"Elasticsearch Index Prefix","Elasticsearch Index Prefix",module,Magento_Elasticsearch
+"Enable Elasticsearch HTTP Auth","Enable Elasticsearch HTTP Auth",module,Magento_Elasticsearch
+"Elasticsearch HTTP Username","Elasticsearch HTTP Username",module,Magento_Elasticsearch
+"Elasticsearch HTTP Password","Elasticsearch HTTP Password",module,Magento_Elasticsearch
+"Elasticsearch Server Timeout","Elasticsearch Server Timeout",module,Magento_Elasticsearch
+"Test Connection","Test Connection",module,Magento_Elasticsearch

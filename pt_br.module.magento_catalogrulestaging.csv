@@ -1,0 +1,38 @@
+"Smth went to exception","Smth went to exception",module,Magento_CatalogRuleStaging
+"You removed this %1 from the update and saved it in a new one.","You removed this %1 from the update and saved it in a new one.",module,Magento_CatalogRuleStaging
+"You removed this %1 from the update and saved it in the other one.","You removed this %1 from the update and saved it in the other one.",module,Magento_CatalogRuleStaging
+"You removed this %1 from the update.","You removed this %1 from the update.",module,Magento_CatalogRuleStaging
+"Required parameters are missing.","Required parameters are missing.",module,Magento_CatalogRuleStaging
+"You saved this %1 update.","You saved this %1 update.",module,Magento_CatalogRuleStaging
+ID,ID,module,Magento_CatalogRuleStaging
+Rule,Regra,module,Magento_CatalogRuleStaging
+Priority,Prioridade,module,Magento_CatalogRuleStaging
+"Web Site",Website,module,Magento_CatalogRuleStaging
+Action,Ação,module,Magento_CatalogRuleStaging
+Edit,Editar,module,Magento_CatalogRuleStaging
+"Scheduled Changes","Scheduled Changes",module,Magento_CatalogRuleStaging
+"Start Date","Start Date",module,Magento_CatalogRuleStaging
+"Start Time","Start Time",module,Magento_CatalogRuleStaging
+Name,Name,module,Magento_CatalogRuleStaging
+Description,Description,module,Magento_CatalogRuleStaging
+"End Date","End Date",module,Magento_CatalogRuleStaging
+"End Time","End Time",module,Magento_CatalogRuleStaging
+"Update Information","Update Information",module,Magento_CatalogRuleStaging
+"Remove Catalog Rule from Update","Remove Catalog Rule from Update",module,Magento_CatalogRuleStaging
+"Save as a new update","Save as a new update",module,Magento_CatalogRuleStaging
+"Update Name","Update Name",module,Magento_CatalogRuleStaging
+"Start date","Start date",module,Magento_CatalogRuleStaging
+"End date","End date",module,Magento_CatalogRuleStaging
+"Rule Information","Rule Information",module,Magento_CatalogRuleStaging
+Conditions,Conditions,module,Magento_CatalogRuleStaging
+Actions,Actions,module,Magento_CatalogRuleStaging
+"Move to another scheduled change","Move to another scheduled change",module,Magento_CatalogRuleStaging
+"Delete the scheduled change","Delete the scheduled change",module,Magento_CatalogRuleStaging
+"Deleting the change will remove the catalog rule from this update and all scheduled changes will be lost.","Deleting the change will remove the catalog rule from this update and all scheduled changes will be lost.",module,Magento_CatalogRuleStaging
+20,20,module,Magento_CatalogRuleStaging
+30,30,module,Magento_CatalogRuleStaging
+50,50,module,Magento_CatalogRuleStaging
+100,100,module,Magento_CatalogRuleStaging
+200,200,module,Magento_CatalogRuleStaging
+Websites,Websites,module,Magento_CatalogRuleStaging
+"Catalog Price Rules","Catalog Price Rules",module,Magento_CatalogRuleStaging

@@ -1,0 +1,25 @@
+"Swatch Helper: not valid parameter for product instantiation","Swatch Helper: not valid parameter for product instantiation",module,Magento_Swatches
+"Admin is a required field in the each row","Admin is a required field in the each row",module,Magento_Swatches
+"Update Product Preview Image","Update Product Preview Image",module,Magento_Swatches
+"Filtering by this attribute will update the product image on catalog page","Filtering by this attribute will update the product image on catalog page",module,Magento_Swatches
+"Use Product Image for Swatch if Possible","Use Product Image for Swatch if Possible",module,Magento_Swatches
+"Allows use fallback logic for replacing swatch image with product swatch or base image","Allows use fallback logic for replacing swatch image with product swatch or base image",module,Magento_Swatches
+"Visual Swatch","Visual Swatch",module,Magento_Swatches
+"Text Swatch","Text Swatch",module,Magento_Swatches
+"Manage Swatch (values of your attribute)","Manage Swatch (values of your attribute)",module,Magento_Swatches
+"Is Default","É o Padrão",module,Magento_Swatches
+"Add Swatch","Add Swatch",module,Magento_Swatches
+"Sort Option","Opção de Ordenação",module,Magento_Swatches
+Delete,Excluir,module,Magento_Swatches
+Swatch,Swatch,module,Magento_Swatches
+"Step 2: Attribute Values","Passo 2: Valores de atributo",module,Magento_Swatches
+"Select values from each attribute to include in this product. Each unique combination of values creates a unigue product SKU.","Selecione os valores de cada atributo para incluir neste produto. Cada combinação de valores cria um SKU de produto único.",module,Magento_Swatches
+"Sort Variations","Variações de Ordenação",module,Magento_Swatches
+Options,Opções,module,Magento_Swatches
+"Select All","Selecionar Todos",module,Magento_Swatches
+"Deselect All","Desmarcar Tudo",module,Magento_Swatches
+"Remove Attribute","Remover atributo",module,Magento_Swatches
+"Save Option","Gravar Opção",module,Magento_Swatches
+"Remove Option","Remover Opção",module,Magento_Swatches
+"Create New Value","Criar Novo Valor",module,Magento_Swatches
+"Swatches per Product","Swatches per Product",module,Magento_Swatches

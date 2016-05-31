@@ -1,0 +1,121 @@
+"Add Scheduled Export","Add Scheduled Export",module,Magento_ScheduledImportExport
+"Add Scheduled Import","Add Scheduled Import",module,Magento_ScheduledImportExport
+"Scheduled Import/Export","Scheduled Import/Export",module,Magento_ScheduledImportExport
+"Please correct the scheduled operation type.","Please correct the scheduled operation type.",module,Magento_ScheduledImportExport
+Name,Nome,module,Magento_ScheduledImportExport
+Description,Descrição,module,Magento_ScheduledImportExport
+"Entity Type","Tipo de entidade",module,Magento_ScheduledImportExport
+"Start Time","Hora de Início",module,Magento_ScheduledImportExport
+Frequency,Frequência,module,Magento_ScheduledImportExport
+Status,Status,module,Magento_ScheduledImportExport
+"Server Type","Server Type",module,Magento_ScheduledImportExport
+"File Directory","File Directory",module,Magento_ScheduledImportExport
+"For Type ""Local Server"" use relative path to Magento installation, e.g. var/export, var/import, var/export/some/dir","For Type ""Local Server"" use relative path to Magento installation, e.g. var/export, var/import, var/export/some/dir",module,Magento_ScheduledImportExport
+"FTP Host[:Port]","FTP Host[:Port]",module,Magento_ScheduledImportExport
+"User Name","Nome de Usuário",module,Magento_ScheduledImportExport
+Password,Senha,module,Magento_ScheduledImportExport
+"File Mode","File Mode",module,Magento_ScheduledImportExport
+"Passive Mode","Passive Mode",module,Magento_ScheduledImportExport
+"Failed Email Receiver","Failed Email Receiver",module,Magento_ScheduledImportExport
+"Failed Email Sender","Failed Email Sender",module,Magento_ScheduledImportExport
+"Failed Email Template","Failed Email Template",module,Magento_ScheduledImportExport
+"Send Failed Email Copy To","Send Failed Email Copy To",module,Magento_ScheduledImportExport
+"Send Failed Email Copy Method","Send Failed Email Copy Method",module,Magento_ScheduledImportExport
+"Export Settings","Exportar Configurações",module,Magento_ScheduledImportExport
+"Export File Information","Export File Information",module,Magento_ScheduledImportExport
+"Export Failed Emails","Export Failed Emails",module,Magento_ScheduledImportExport
+"File Format","File Format",module,Magento_ScheduledImportExport
+"Entity Attributes","Entity Attributes",module,Magento_ScheduledImportExport
+"Import Settings","Importar Configurações",module,Magento_ScheduledImportExport
+"Import File Information","Import File Information",module,Magento_ScheduledImportExport
+"Import Failed Emails","Import Failed Emails",module,Magento_ScheduledImportExport
+"Import Behavior","Import Behavior",module,Magento_ScheduledImportExport
+"Field separator","Field separator",module,Magento_ScheduledImportExport
+"Multiple value separator","Multiple value separator",module,Magento_ScheduledImportExport
+"On Error","On Error",module,Magento_ScheduledImportExport
+"File Name","File Name",module,Magento_ScheduledImportExport
+"Images File Directory","Diretório do arquivos de imagens",module,Magento_ScheduledImportExport
+"Clean Now","Clean Now",module,Magento_ScheduledImportExport
+"Scheduled Imports/Exports","Scheduled Imports/Exports",module,Magento_ScheduledImportExport
+"The operation ran.","The operation ran.",module,Magento_ScheduledImportExport
+"We can't run the operation right now, see error log for details.","We can't run the operation right now, see error log for details.",module,Magento_ScheduledImportExport
+"We can't delete the scheduled operation right now.","We can't delete the scheduled operation right now.",module,Magento_ScheduledImportExport
+"No valid data sent","No valid data sent",module,Magento_ScheduledImportExport
+"You deleted the history files.","You deleted the history files.",module,Magento_ScheduledImportExport
+"We can't delete the history files right now.","We can't delete the history files right now.",module,Magento_ScheduledImportExport
+"A total of %1 record(s) have been updated.","Um total de %1 registro(s) foram atualizados.",module,Magento_ScheduledImportExport
+"We cannot change status for all items.","We cannot change status for all items.",module,Magento_ScheduledImportExport
+"You deleted a total of %1 record(s).","You deleted a total of %1 record(s).",module,Magento_ScheduledImportExport
+"We can't delete all the items right now.","We can't delete all the items right now.",module,Magento_ScheduledImportExport
+"We can't save the scheduled operation right now.","We can't save the scheduled operation right now.",module,Magento_ScheduledImportExport
+"We can't create directory \"%1\"","We can't create directory \"%1\"",module,Magento_ScheduledImportExport
+"The directory ""%1"" is not writable.","The directory ""%1"" is not writable.",module,Magento_ScheduledImportExport
+"We can't delete \"%1\" because the directory is not writable.","We can't delete \"%1\" because the directory is not writable.",module,Magento_ScheduledImportExport
+"Scheduled Import","Scheduled Import",module,Magento_ScheduledImportExport
+"New Scheduled Import","New Scheduled Import",module,Magento_ScheduledImportExport
+"Scheduled Export","Scheduled Export",module,Magento_ScheduledImportExport
+"New Scheduled Export","New Scheduled Export",module,Magento_ScheduledImportExport
+"You saved the scheduled import.","You saved the scheduled import.",module,Magento_ScheduledImportExport
+"You saved the scheduled report.","You saved the scheduled report.",module,Magento_ScheduledImportExport
+"You deleted the scheduled import.","You deleted the scheduled import.",module,Magento_ScheduledImportExport
+"You deleted the scheduled export.","You deleted the scheduled export.",module,Magento_ScheduledImportExport
+"Are you sure you want to delete this scheduled import?","Are you sure you want to delete this scheduled import?",module,Magento_ScheduledImportExport
+"Are you sure you want to delete this scheduled export?","Are you sure you want to delete this scheduled export?",module,Magento_ScheduledImportExport
+"We were unable to save the cron expression.","We were unable to save the cron expression.",module,Magento_ScheduledImportExport
+"Unable to delete the cron task.","Unable to delete the cron task.",module,Magento_ScheduledImportExport
+"Please correct the cron job task","Please correct the cron job task",module,Magento_ScheduledImportExport
+"File has been not created","File has been not created",module,Magento_ScheduledImportExport
+"Something went wrong and the operation failed.","Something went wrong and the operation failed.",module,Magento_ScheduledImportExport
+"We can't read the file source because the file name is empty.","We can't read the file source because the file name is empty.",module,Magento_ScheduledImportExport
+"Connecting to server","Connecting to server",module,Magento_ScheduledImportExport
+"Reading import file","Reading import file",module,Magento_ScheduledImportExport
+"We can't read the import file.","We can't read the import file.",module,Magento_ScheduledImportExport
+"Save history file content ""%1""","Save history file content ""%1""",module,Magento_ScheduledImportExport
+"We couldn't write file \"%1\" to \"%2\" with the \"%3\" driver.","We couldn't write file \"%1\" to \"%2\" with the \"%3\" driver.",module,Magento_ScheduledImportExport
+"Save file content","Save file content",module,Magento_ScheduledImportExport
+"Please correct the server type.","Please correct the server type.",module,Magento_ScheduledImportExport
+"Import path %1 not exists","Import path %1 not exists",module,Magento_ScheduledImportExport
+"We can't read the file.","We can't read the file.",module,Magento_ScheduledImportExport
+"We can't save the file history file.","We can't save the file history file.",module,Magento_ScheduledImportExport
+"Unknown file format","Unknown file format",module,Magento_ScheduledImportExport
+Enabled,Habilitado,module,Magento_ScheduledImportExport
+Disabled,Desabilitado,module,Magento_ScheduledImportExport
+Import,Importar,module,Magento_ScheduledImportExport
+Export,Exportar,module,Magento_ScheduledImportExport
+Daily,Diário,module,Magento_ScheduledImportExport
+Weekly,Semanal,module,Magento_ScheduledImportExport
+Monthly,Mensal,module,Magento_ScheduledImportExport
+"Local Server","Local Server",module,Magento_ScheduledImportExport
+"Remote FTP","Remote FTP",module,Magento_ScheduledImportExport
+Binary,Binary,module,Magento_ScheduledImportExport
+ASCII,ASCII,module,Magento_ScheduledImportExport
+"Stop Import","Stop Import",module,Magento_ScheduledImportExport
+"Continue Processing","Continue Processing",module,Magento_ScheduledImportExport
+Failed,Failed,module,Magento_ScheduledImportExport
+Successful,Successful,module,Magento_ScheduledImportExport
+Pending,Pendente,module,Magento_ScheduledImportExport
+label,rótulo,module,Magento_ScheduledImportExport
+"Can not open file","Can not open file",module,Magento_ScheduledImportExport
+"%operation_name - Scheduled Export Failed","%operation_name - Scheduled Export Failed",module,Magento_ScheduledImportExport
+"Operation name:","Operation name:",module,Magento_ScheduledImportExport
+"Entity type:","Entity type:",module,Magento_ScheduledImportExport
+"File history path:","File history path:",module,Magento_ScheduledImportExport
+"Date & Time:","Data e hora:",module,Magento_ScheduledImportExport
+"Log trace:","Log trace:",module,Magento_ScheduledImportExport
+"Scheduled Import/Export File History Cleanup Warnings","Scheduled Import/Export File History Cleanup Warnings",module,Magento_ScheduledImportExport
+"%operation_name - Scheduled Import Failed","%operation_name - Scheduled Import Failed",module,Magento_ScheduledImportExport
+"Scheduled Import/Export File History Cleaning","Scheduled Import/Export File History Cleaning",module,Magento_ScheduledImportExport
+"Save Files, Days","Save Files, Days",module,Magento_ScheduledImportExport
+"Enable Scheduled File History Cleaning","Enable Scheduled File History Cleaning",module,Magento_ScheduledImportExport
+"Error Email Recipient","Error Email Recipient",module,Magento_ScheduledImportExport
+"Error Email Sender","Error Email Sender",module,Magento_ScheduledImportExport
+"Error Email Template","Error Email Template",module,Magento_ScheduledImportExport
+Delete,Excluir,module,Magento_ScheduledImportExport
+"Are you sure you want to delete the selected scheduled imports/exports?","Are you sure you want to delete the selected scheduled imports/exports?",module,Magento_ScheduledImportExport
+"Change Status","Mudar Status",module,Magento_ScheduledImportExport
+Operation,Operation,module,Magento_ScheduledImportExport
+"Last Run","Last Run",module,Magento_ScheduledImportExport
+"Last Outcome","Last Outcome",module,Magento_ScheduledImportExport
+Action,Ação,module,Magento_ScheduledImportExport
+Edit,Editar,module,Magento_ScheduledImportExport
+Run,Executar,module,Magento_ScheduledImportExport

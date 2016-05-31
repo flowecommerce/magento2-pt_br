@@ -1,0 +1,52 @@
+"Search Term","Termo de pesquisa",module,Magento_Search
+Results,Resultados,module,Magento_Search
+Uses,Usos,module,Magento_Search
+"Search Terms","Termos de pesquisa",module,Magento_Search
+Search,Pesquisa,module,Magento_Search
+"Add New Search Term","Adicionar Novo Termo de Pesquisa",module,Magento_Search
+"Save Search","Salvar busca",module,Magento_Search
+"Delete Search","Excluir pesquisa",module,Magento_Search
+"Edit Search '%1'","Editar pesquisa '%1'",module,Magento_Search
+"New Search","Nova pesquisa",module,Magento_Search
+"Search Information","Informações de pesquisa",module,Magento_Search
+"General Information","Informações gerais",module,Magento_Search
+No,Não,module,Magento_Search
+Yes,Sim,module,Magento_Search
+"Search Query","Search Query",module,Magento_Search
+Store,Loja,module,Magento_Search
+"Number of results","Número de resultados",module,Magento_Search
+"Number of results (For the last time placed)","Number of results (For the last time placed)",module,Magento_Search
+"For the last time placed.","For the last time placed.",module,Magento_Search
+"Number of Uses","Number of Uses",module,Magento_Search
+"Synonym For","Sinônimo para",module,Magento_Search
+"Will make search for the query above return results for this search","Will make search for the query above return results for this search",module,Magento_Search
+"Redirect URL","URL de redirecionamento",module,Magento_Search
+"ex. http://domain.com","ex. http://domain.com",module,Magento_Search
+"Display in Suggested Terms","Exibir em termos sugeridos",module,Magento_Search
+"You deleted the search.","Você excluiu a pesquisa.",module,Magento_Search
+"We can't find a search term to delete.","We can't find a search term to delete.",module,Magento_Search
+"This search no longer exists.","Esta pesquisa não existe mais.",module,Magento_Search
+"Edit Search","Editar pesquisa",module,Magento_Search
+"Please select searches.","Por favor, selecione as pesquisas.",module,Magento_Search
+"Total of %1 record(s) were deleted.","Total of %1 record(s) were deleted.",module,Magento_Search
+Reports,Relatórios,module,Magento_Search
+"Search Terms Report","Relatório de termos de pesquisa",module,Magento_Search
+"You saved the search term.","Você salvou o termo de pesquisa.",module,Magento_Search
+"Something went wrong while saving the search query.","Something went wrong while saving the search query.",module,Magento_Search
+"You already have an identical search term query.","You already have an identical search term query.",module,Magento_Search
+"Your search query can't be longer than %1, so we shortened your query.","Your search query can't be longer than %1, so we shortened your query.",module,Magento_Search
+"Search entire store here...","Pesquisa em toda loja...",module,Magento_Search
+"There are no search terms available.","Não há nenhum termo de pesquisa disponível.",module,Magento_Search
+"Search Engine","Motor de busca",module,Magento_Search
+CSV,CSV,module,Magento_Search
+"Excel XML","Excel, XML",module,Magento_Search
+ID,ID,module,Magento_Search
+Hits,Visitas,module,Magento_Search
+Delete,Excluir,module,Magento_Search
+"Are you sure?","Você tem certeza?",module,Magento_Search
+Synonym,Sinônimo,module,Magento_Search
+"Suggested Terms","Termos sugeridos",module,Magento_Search
+yes,sim,module,Magento_Search
+no,não,module,Magento_Search
+Action,Ação,module,Magento_Search
+Edit,Editar,module,Magento_Search

@@ -1,0 +1,96 @@
+"Related Products Rule","Related Products Rule",module,Magento_TargetRule
+"Add Rule","Adicionar Regra",module,Magento_TargetRule
+"Save and Continue Edit","Salvar e Continuar a Editar",module,Magento_TargetRule
+"Edit Rule '%1'","Editar Regra '%1'",module,Magento_TargetRule
+"New Rule","Nova Regra",module,Magento_TargetRule
+"Rule Information","Informações da Regra",module,Magento_TargetRule
+"Product Result Conditions (leave blank for matching all products)","Product Result Conditions (leave blank for matching all products)",module,Magento_TargetRule
+"Products to Display","Products to Display",module,Magento_TargetRule
+"Product Match Conditions (leave blank for matching all products)","Product Match Conditions (leave blank for matching all products)",module,Magento_TargetRule
+"Products to Match","Products to Match",module,Magento_TargetRule
+"General Rule Information","General Rule Information",module,Magento_TargetRule
+"Rule Name","Nome da regra",module,Magento_TargetRule
+Priority,Prioridade,module,Magento_TargetRule
+Status,Status,module,Magento_TargetRule
+Active,Ativo,module,Magento_TargetRule
+Inactive,Inativo,module,Magento_TargetRule
+"Apply To","Aplicar a",module,Magento_TargetRule
+From,De,module,Magento_TargetRule
+To,Até,module,Magento_TargetRule
+"Result Limit","Result Limit",module,Magento_TargetRule
+"Maximum number of products this rule can apply to (up to 20).","Maximum number of products this rule can apply to (up to 20).",module,Magento_TargetRule
+"Product Rule Information","Product Rule Information",module,Magento_TargetRule
+"Undefined Catalog Product List Type","Undefined Catalog Product List Type",module,Magento_TargetRule
+"You deleted the rule.","Você excluiu a regra.",module,Magento_TargetRule
+"We can't find a page to delete.","Não é possível encontrar uma página para excluir.",module,Magento_TargetRule
+"This rule no longer exists.","Esta regra não existe mais.",module,Magento_TargetRule
+"New Related Products Rule","New Related Products Rule",module,Magento_TargetRule
+"Related Products Rules","Related Products Rules",module,Magento_TargetRule
+"You saved the rule.","Você gravou a regra.",module,Magento_TargetRule
+"We can't save the product rule right now.","We can't save the product rule right now.",module,Magento_TargetRule
+"Please specify a correct rule.","Please specify a correct rule.",module,Magento_TargetRule
+"Invalid product list type","Invalid product list type",module,Magento_TargetRule
+"Invalid rotation mode type","Invalid rotation mode type",module,Magento_TargetRule
+"Conditions Combination","Combinação de Condições",module,Magento_TargetRule
+Type,Tipo,module,Magento_TargetRule
+"Product %1%2%3%4%5%6%7","Product %1%2%3%4%5%6%7",module,Magento_TargetRule
+"Constant Value","Constant Value",module,Magento_TargetRule
+"the Same as Matched Product Categories","the Same as Matched Product Categories",module,Magento_TargetRule
+"the Child of the Matched Product Categories","the Child of the Matched Product Categories",module,Magento_TargetRule
+"Matched Product %1","Matched Product %1",module,Magento_TargetRule
+"Target Product ","Target Product ",module,Magento_TargetRule
+"Price (percentage)","Price (percentage)",module,Magento_TargetRule
+"Product Special","Product Special",module,Magento_TargetRule
+"equal to","equal to",module,Magento_TargetRule
+more,more,module,Magento_TargetRule
+"equals or greater than","é igual ou maior que",module,Magento_TargetRule
+less,less,module,Magento_TargetRule
+"equals or less than","é igual ou menor que",module,Magento_TargetRule
+"Product Price is %1 %2% of Matched Product(s) Price","Product Price is %1 %2% of Matched Product(s) Price",module,Magento_TargetRule
+"Please define a product data object.","Please define a product data object.",module,Magento_TargetRule
+"We can't rebuild the index for an undefined product.","Não é possível recriar o índice para um produto indefinido.",module,Magento_TargetRule
+"Could not rebuild index for empty products array","Não poderia reconstruir o índice da matriz de produtos vazio",module,Magento_TargetRule
+"-- Please Select --","-- Selecione uma opção --",module,Magento_TargetRule
+"Related Products","Produtos Relacionados",module,Magento_TargetRule
+Up-sells,Up-sells,module,Magento_TargetRule
+Cross-sells,Cross-sells,module,Magento_TargetRule
+"Model class name for attribute is invalid","Model class name for attribute is invalid",module,Magento_TargetRule
+"This attribute code is invalid. Please use only letters (a-z), numbers (0-9) or underscores (_), and be sure the code begins with a letter.","This attribute code is invalid. Please use only letters (a-z), numbers (0-9) or underscores (_), and be sure the code begins with a letter.",module,Magento_TargetRule
+"Product Attributes","Atributos de Produto",module,Magento_TargetRule
+"Both Selected and Rule-Based","Both Selected and Rule-Based",module,Magento_TargetRule
+"Selected Only","Selected Only",module,Magento_TargetRule
+"Rule-Based Only","Rule-Based Only",module,Magento_TargetRule
+"Do not rotate","Do not rotate",module,Magento_TargetRule
+Shuffle,Shuffle,module,Magento_TargetRule
+"Validate error 1","Validate error 1",module,Magento_TargetRule
+"Validate error 2","Validate error 2",module,Magento_TargetRule
+"Attribute Set","Conjunto de Atributos",module,Magento_TargetRule
+Category,Categoria,module,Magento_TargetRule
+"Please choose a condition to add.","Por favor, escolha uma condição para adicionar.",module,Magento_TargetRule
+Close,Fechar,module,Magento_TargetRule
+"Rule-based Settings","Rule-based Settings",module,Magento_TargetRule
+"Rule-based Positions","Rule-based Positions",module,Magento_TargetRule
+"Use Config Settings","Usar Configurações padrão",module,Magento_TargetRule
+[GLOBAL],[GLOBAL],module,Magento_TargetRule
+"Position Behavior","Position Behavior",module,Magento_TargetRule
+"Rule-Based Product Relations","Rule-Based Product Relations",module,Magento_TargetRule
+"Maximum Number of Products in Related Products List","Maximum Number of Products in Related Products List",module,Magento_TargetRule
+"Show Related Products","Show Related Products",module,Magento_TargetRule
+"Rotation Mode for Products in Related Product List","Rotation Mode for Products in Related Product List",module,Magento_TargetRule
+"Maximum Number of Products in Cross-Sell Product List","Maximum Number of Products in Cross-Sell Product List",module,Magento_TargetRule
+"Show Cross-Sell Products","Show Cross-Sell Products",module,Magento_TargetRule
+"Rotation Mode for Products in Cross-Sell Product List","Rotation Mode for Products in Cross-Sell Product List",module,Magento_TargetRule
+"Maximum Number of Products in Upsell Product List","Maximum Number of Products in Upsell Product List",module,Magento_TargetRule
+"Show Upsell Products","Show Upsell Products",module,Magento_TargetRule
+"Rotation Mode for Products in Upsell Product List","Rotation Mode for Products in Upsell Product List",module,Magento_TargetRule
+"Target Rule","Target Rule",module,Magento_TargetRule
+"Target Rule Index.","Target Rule Index.",module,Magento_TargetRule
+"Product/Target Rule","Product/Target Rule",module,Magento_TargetRule
+"Indexed product/rule association","Indexed product/rule association",module,Magento_TargetRule
+"Target Rule/Product","Target Rule/Product",module,Magento_TargetRule
+"Indexed rule/product association","Indexed rule/product association",module,Magento_TargetRule
+ID,ID,module,Magento_TargetRule
+Rule,Regra,module,Magento_TargetRule
+Start,Ínicio,module,Magento_TargetRule
+End,End,module,Magento_TargetRule
+"Applies To","Aplica-se a",module,Magento_TargetRule

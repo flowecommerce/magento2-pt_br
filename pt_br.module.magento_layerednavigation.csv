@@ -1,0 +1,28 @@
+"Filterable (with results)","Filterable (with results)",module,Magento_LayeredNavigation
+"Filterable (no results)","Filterable (no results)",module,Magento_LayeredNavigation
+No,Não,module,Magento_LayeredNavigation
+"Use in Layered Navigation","Use in Layered Navigation",module,Magento_LayeredNavigation
+"Can be used only with catalog input type Dropdown, Multiple Select and Price","Can be used only with catalog input type Dropdown, Multiple Select and Price",module,Magento_LayeredNavigation
+"Use in Search Results Layered Navigation","Use in Search Results Layered Navigation",module,Magento_LayeredNavigation
+Position,Posição,module,Magento_LayeredNavigation
+"Position in Layered Navigation","Position in Layered Navigation",module,Magento_LayeredNavigation
+"Position of attribute in layered navigation block","Position of attribute in layered navigation block",module,Magento_LayeredNavigation
+item,item,module,Magento_LayeredNavigation
+items,itens,module,Magento_LayeredNavigation
+"Now Shopping by","Comprar por",module,Magento_LayeredNavigation
+Previous,Anterior,module,Magento_LayeredNavigation
+Remove,Remover,module,Magento_LayeredNavigation
+"Remove This Item","Remover este Item",module,Magento_LayeredNavigation
+"Shop By","Filtrar por",module,Magento_LayeredNavigation
+"Clear All","Limpar Tudo",module,Magento_LayeredNavigation
+"Shopping Options","Opções de Compra",module,Magento_LayeredNavigation
+"Layered Navigation","Layered Navigation",module,Magento_LayeredNavigation
+"Display Product Count","Display Product Count",module,Magento_LayeredNavigation
+"Price Navigation Step Calculation","Price Navigation Step Calculation",module,Magento_LayeredNavigation
+"Default Price Navigation Step","Default Price Navigation Step",module,Magento_LayeredNavigation
+"Maximum Number of Price Intervals","Maximum Number of Price Intervals",module,Magento_LayeredNavigation
+"Maximum number of price intervals is 100","Maximum number of price intervals is 100",module,Magento_LayeredNavigation
+"Display Price Interval as One Price","Display Price Interval as One Price",module,Magento_LayeredNavigation
+"This setting will be applied when all prices in the specific price interval are equal.","This setting will be applied when all prices in the specific price interval are equal.",module,Magento_LayeredNavigation
+"Interval Division Limit","Interval Division Limit",module,Magento_LayeredNavigation
+"Please specify the number of products, that will not be divided into subintervals.","Please specify the number of products, that will not be divided into subintervals.",module,Magento_LayeredNavigation

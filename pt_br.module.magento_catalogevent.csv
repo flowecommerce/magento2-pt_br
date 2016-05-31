@@ -1,0 +1,72 @@
+"Edit Event...","Editar Evento...",module,Magento_CatalogEvent
+"Add Event...","Adicionar Evento...",module,Magento_CatalogEvent
+Events,Eventos,module,Magento_CatalogEvent
+"Add Catalog Event","Adicionar Evento de Catálogo",module,Magento_CatalogEvent
+"Save and Continue Edit","Salvar e Continuar a Editar",module,Magento_CatalogEvent
+"Back to Category","Voltar à categoria",module,Magento_CatalogEvent
+"Edit Catalog Event","Editar Evento de Catálogo",module,Magento_CatalogEvent
+"Catalog Event Information","Informação de Evento de Catálogo",module,Magento_CatalogEvent
+Category,Categoria,module,Magento_CatalogEvent
+"Start Date","Data de Início",module,Magento_CatalogEvent
+"End Date","Data de Término",module,Magento_CatalogEvent
+Image,Imagem,module,Magento_CatalogEvent
+"Sort Order",Ordernação,module,Magento_CatalogEvent
+Upcoming,Próximos,module,Magento_CatalogEvent
+Open,Abrir,module,Magento_CatalogEvent
+Closed,Fechado,module,Magento_CatalogEvent
+"Display Countdown Ticker On","Exibir Contagem Regressiva Em",module,Magento_CatalogEvent
+"Category Page","Página de Categoria",module,Magento_CatalogEvent
+"Product Page","Página de Produto",module,Magento_CatalogEvent
+Status,Status,module,Magento_CatalogEvent
+[GLOBAL],[GLOBAL],module,Magento_CatalogEvent
+[WEBSITE],[WEBSITE],module,Magento_CatalogEvent
+"[STORE VIEW]","[VISÃO DE LOJA]",module,Magento_CatalogEvent
+"Coming Soon","Em Breve",module,Magento_CatalogEvent
+"Sale Ends In","Venda Termina Em",module,Magento_CatalogEvent
+Catalog,Catálogo,module,Magento_CatalogEvent
+"You deleted the event.","Você excluiu o evento.",module,Magento_CatalogEvent
+"New Event","Novo evento",module,Magento_CatalogEvent
+"Default Values","Valor Padrão",module,Magento_CatalogEvent
+"Something went wrong while saving this event.","Ocorreu um problema ao salvar o este evento.",module,Magento_CatalogEvent
+"We did not upload your image.","Não foi possível fazer o envio da imagem.",module,Magento_CatalogEvent
+"You saved the event.","Você salvou o evento.",module,Magento_CatalogEvent
+"%1 is required.","%s é obrigatório.",module,Magento_CatalogEvent
+"Please make sure the end date follows the start date.","Por favor, certifique-se que a data final segue a data de início.",module,Magento_CatalogEvent
+"Event for selected category","Evento para a categoria selecionada",module,Magento_CatalogEvent
+"Lister Block","lista de bloco",module,Magento_CatalogEvent
+"This product is no longer on sale.","Este produto não está mais à venda.",module,Magento_CatalogEvent
+"Some of these products can no longer be sold.","Alguns destes produtos não estão mais disponíveis.",module,Magento_CatalogEvent
+"Select Category","Selecionar categoria",module,Magento_CatalogEvent
+"Use Default Value","Usar o Valor Padrão",module,Magento_CatalogEvent
+Days,Dias,module,Magento_CatalogEvent
+Hrs,Hr,module,Magento_CatalogEvent
+Mins,Min,module,Magento_CatalogEvent
+Sec,Seg,module,Magento_CatalogEvent
+"Preview Sale","Prévia de Venda",module,Magento_CatalogEvent
+"Go To Sale","Ir para venda",module,Magento_CatalogEvent
+"View Sale","Visualizar Venda",module,Magento_CatalogEvent
+Previous,Anterior,module,Magento_CatalogEvent
+Next,Próximo,module,Magento_CatalogEvent
+"Catalog Events","Catálogo de eventos",module,Magento_CatalogEvent
+"Enable Catalog Events Functionality","Enable Catalog Events Functionality",module,Magento_CatalogEvent
+"Enable Catalog Event Widget on Storefront","Enable Catalog Event Widget on Storefront",module,Magento_CatalogEvent
+"Number of Events to be Displayed in Event Slider Widget","Number of Events to be Displayed in Event Slider Widget",module,Magento_CatalogEvent
+"You can override this default value in CMS using the limit=""x"" variable. Leave empty for no limitation.","You can override this default value in CMS using the limit=""x"" variable. Leave empty for no limitation.",module,Magento_CatalogEvent
+"Events to Scroll per Click in Event Slider Widget","Events to Scroll per Click in Event Slider Widget",module,Magento_CatalogEvent
+"You can override this default value in CMS using the limit=""x"" variable.","You can override this default value in CMS using the limit=""x"" variable.",module,Magento_CatalogEvent
+"Catalog Events Carousel","Catalog Events Carousel",module,Magento_CatalogEvent
+"List all open Catalog Events as a Paginated Carousel","List all open Catalog Events as a Paginated Carousel",module,Magento_CatalogEvent
+"Frame Size","Frame Size",module,Magento_CatalogEvent
+"Number of Items to display at once","Number of Items to display at once",module,Magento_CatalogEvent
+Scroll,Rolagem,module,Magento_CatalogEvent
+"Number of Items to scroll per click","Number of Items to scroll per click",module,Magento_CatalogEvent
+"Block Custom Width","Block Custom Width",module,Magento_CatalogEvent
+"If empty, we'll automatically set the width value in pixels.","If empty, we'll automatically set the width value in pixels.",module,Magento_CatalogEvent
+"Catalog Events Carousel Default Template","Catalog Events Carousel Default Template",module,Magento_CatalogEvent
+ID,ID,module,Magento_CatalogEvent
+"Category ID","ID da categoria",module,Magento_CatalogEvent
+Start,Ínicio,module,Magento_CatalogEvent
+End,End,module,Magento_CatalogEvent
+"Countdown Ticker","Countdown Ticker",module,Magento_CatalogEvent
+Action,Ação,module,Magento_CatalogEvent
+Edit,Editar,module,Magento_CatalogEvent

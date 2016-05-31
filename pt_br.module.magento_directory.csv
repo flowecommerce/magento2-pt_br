@@ -1,0 +1,48 @@
+State/Province,Estado/Província,module,Magento_Directory
+"--Please Select--","--Por Favor Selecione--",module,Magento_Directory
+lbs,libras,module,Magento_Directory
+kgs,kgs,module,Magento_Directory
+"Requested country is not available.","País solicitado não está disponível.",module,Magento_Directory
+"Please correct the target currency.","Por favor, corrija a moeda de destino.",module,Magento_Directory
+"Undefined rate from ""%1-%2"".","Taxa indefinida de ""%1-%2"".",module,Magento_Directory
+label,rótulo,module,Magento_Directory
+"We can't retrieve a rate from %1.","Não foi possível recuperar a taxa de %1.",module,Magento_Directory
+"FATAL ERROR:","ERRO FATAL:",module,Magento_Directory
+"We can't initialize the import model.","Nós não é possível inicializar o modelo de importação.",module,Magento_Directory
+"Please specify the correct Import Service.","Por favor, especifique o Serviço de Importação correto.",module,Magento_Directory
+WARNING:,ALERTA:,module,Magento_Directory
+"Please correct the country code: %1.","Por favor, corrija o código do país: %1.",module,Magento_Directory
+"Country and Format Type combination should be unique","A combinação de país e tipo de formato, deveria ser unica",module,Magento_Directory
+"Please correct the rates received","Por favor, corrija as taxas recebidas",module,Magento_Directory
+"Please select a region, state or province.","Por favor, selecione uma região, estado ou província.",module,Magento_Directory
+Currency,Moeda,module,Magento_Directory
+"Your current currency is: %1.","Sua moeda atual: %1.",module,Magento_Directory
+Continue,Próximo,module,Magento_Directory
+"Currency Update Warnings","Currency Update Warnings",module,Magento_Directory
+"Currency Setup","Currency Setup",module,Magento_Directory
+"Currency Options","Currency Options",module,Magento_Directory
+"Base Currency","Moeda base",module,Magento_Directory
+"
+                        Base currency is used for all online payment transactions. If you have more than one store view, the base currency scope is defined by the catalog price scope (""Catalog"" > ""Price"" > ""Catalog Price Scope"").
+                    ","
+                        Base currency is used for all online payment transactions. If you have more than one store view, the base currency scope is defined by the catalog price scope (""Catalog"" > ""Price"" > ""Catalog Price Scope"").
+                    ",module,Magento_Directory
+"Default Display Currency","Default Display Currency",module,Magento_Directory
+"Allowed Currencies","Allowed Currencies",module,Magento_Directory
+Webservicex,Webservicex,module,Magento_Directory
+"Connection Timeout in Seconds","Connection Timeout in Seconds",module,Magento_Directory
+"Scheduled Import Settings","Scheduled Import Settings",module,Magento_Directory
+Enabled,Habilitado,module,Magento_Directory
+"Error Email Recipient","Error Email Recipient",module,Magento_Directory
+"Error Email Sender","Error Email Sender",module,Magento_Directory
+"Error Email Template","Error Email Template",module,Magento_Directory
+"Email template chosen based on theme fallback when ""Default"" option is selected.","O modelo de e-mail escolhido baseado no tema ""fallback"" quando a opção ""Padrão"" é selecionada.",module,Magento_Directory
+Frequency,Frequência,module,Magento_Directory
+Service,Serviço,module,Magento_Directory
+"Start Time","Hora de Início",module,Magento_Directory
+"Installed Currencies","Installed Currencies",module,Magento_Directory
+"Zip/Postal Code is Optional for","Zip/Postal Code is Optional for",module,Magento_Directory
+"State Options","State Options",module,Magento_Directory
+"State is Required for","State is Required for",module,Magento_Directory
+"Allow to Choose State if It is Optional for Country","Allow to Choose State if It is Optional for Country",module,Magento_Directory
+"Weight Unit","Weight Unit",module,Magento_Directory

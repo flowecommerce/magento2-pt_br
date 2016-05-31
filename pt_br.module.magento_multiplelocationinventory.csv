@@ -1,0 +1,32 @@
+Back,Voltar,module,Magento_MultipleLocationInventory
+"Save Warehouse","Save Warehouse",module,Magento_MultipleLocationInventory
+"Disable Warehouse","Disable Warehouse",module,Magento_MultipleLocationInventory
+"Enable Warehouse","Enable Warehouse",module,Magento_MultipleLocationInventory
+Warehouse,Warehouse,module,Magento_MultipleLocationInventory
+"New Warehouse","New Warehouse",module,Magento_MultipleLocationInventory
+"Manage Warehouse","Manage Warehouse",module,Magento_MultipleLocationInventory
+"Please correct the data sent.","Por favor, corrija os dados enviados.",module,Magento_MultipleLocationInventory
+"Please select a user","Please select a user",module,Magento_MultipleLocationInventory
+"Requested warehouse doesn\'t exist","Requested warehouse doesn\'t exist",module,Magento_MultipleLocationInventory
+"Test error message","Test error message",module,Magento_MultipleLocationInventory
+Edit,Editar,module,Magento_MultipleLocationInventory
+"Multiple Location Inventory","Multiple Location Inventory",module,Magento_MultipleLocationInventory
+"Change status of warehouse","Change status of warehouse",module,Magento_MultipleLocationInventory
+"Edit warehouse","Edit warehouse",module,Magento_MultipleLocationInventory
+"Manage Warehouses","Manage Warehouses",module,Magento_MultipleLocationInventory
+"Warehouse Information","Warehouse Information",module,Magento_MultipleLocationInventory
+"Use default address","Use default address",module,Magento_MultipleLocationInventory
+"Street Address",Endereço,module,Magento_MultipleLocationInventory
+"Add New Warehouse","Add New Warehouse",module,Magento_MultipleLocationInventory
+ID,ID,module,Magento_MultipleLocationInventory
+Name,Nome,module,Magento_MultipleLocationInventory
+"Contact Name","Nome do contato",module,Magento_MultipleLocationInventory
+Email,E-mail,module,Magento_MultipleLocationInventory
+Country,País,module,Magento_MultipleLocationInventory
+State/Province,Estado/Província,module,Magento_MultipleLocationInventory
+City,Cidade,module,Magento_MultipleLocationInventory
+Street,Street,module,Magento_MultipleLocationInventory
+ZIP,CEP,module,Magento_MultipleLocationInventory
+Status,Status,module,Magento_MultipleLocationInventory
+Phone,Telefone,module,Magento_MultipleLocationInventory
+Fax,Fax,module,Magento_MultipleLocationInventory

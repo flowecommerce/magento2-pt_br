@@ -1,0 +1,129 @@
+Wishlist,"Lista de desejos",module,Magento_MultipleWishlist
+"Customer's Wish List Report","Relatório de lista de desejos dos clientes",module,Magento_MultipleWishlist
+"My Wish Lists","Minha lista de desejos",module,Magento_MultipleWishlist
+"1 item in wish list","1 item na lista de desejos",module,Magento_MultipleWishlist
+"%1 items in wish list","%1 itens na lista de desejos",module,Magento_MultipleWishlist
+"Wish List Search","Pesquisa na lista de desejos",module,Magento_MultipleWishlist
+"Select Search Type","Selecione o tipo de pesquisa",module,Magento_MultipleWishlist
+Reports,Relatórios,module,Magento_MultipleWishlist
+Customers,Clientes,module,Magento_MultipleWishlist
+"Customer Wish List Report","Customer Wish List Report",module,Magento_MultipleWishlist
+"Wish list ""%1"" was saved.","Wish list ""%1"" was saved.",module,Magento_MultipleWishlist
+"We can't create the wish list right now.","We can't create the wish list right now.",module,Magento_MultipleWishlist
+"Page not found.","Página não encontrada.",module,Magento_MultipleWishlist
+"""%1"" was copied to %2.","""%1"" foi copiado para %2.",module,Magento_MultipleWishlist
+"We can't find the item.","Não conseguimos encontrar o item.",module,Magento_MultipleWishlist
+"""%1"" is already present in %2.","""%1"" is already present in %2.",module,Magento_MultipleWishlist
+"We can't copy \"%1\".","We can't copy \"%1\".",module,Magento_MultipleWishlist
+"We can't copy the wish list item.","We can't copy the wish list item.",module,Magento_MultipleWishlist
+"We can't find %1 items.","We can't find %1 items.",module,Magento_MultipleWishlist
+"We can't copy %1 items.","We can't copy %1 items.",module,Magento_MultipleWishlist
+"%1 items are already present in %2: %3.","%1 items are already present in %2: %3.",module,Magento_MultipleWishlist
+"%1 items were copied to %2: %3.","%1 items were copied to %2: %3.",module,Magento_MultipleWishlist
+"You can't delete the default wish list.","You can't delete the default wish list.",module,Magento_MultipleWishlist
+"Wish List ""%1"" has been deleted.","Wish List ""%1"" has been deleted.",module,Magento_MultipleWishlist
+"We can't delete the wish list right now.","We can't delete the wish list right now.",module,Magento_MultipleWishlist
+"""%1"" was moved to %2.","""%1"" was moved to %2.",module,Magento_MultipleWishlist
+"We can't find an item with this ID.","We can't find an item with this ID.",module,Magento_MultipleWishlist
+"We cannot move ""%1"".","We cannot move ""%1"".",module,Magento_MultipleWishlist
+"We can't move the wish list item.","We can't move the wish list item.",module,Magento_MultipleWishlist
+"%1 items cannot be moved: %2.","%1 items cannot be moved: %2.",module,Magento_MultipleWishlist
+"We can't move %1 items.","We can't move %1 items.",module,Magento_MultipleWishlist
+"%1 items were moved to %2: %3.","%1 items were moved to %2: %3.",module,Magento_MultipleWishlist
+"%1 for ""%2""","%1 for ""%2""",module,Magento_MultipleWishlist
+"We can't add the item to shopping cart.","We can't add the item to shopping cart.",module,Magento_MultipleWishlist
+"We can't add the following product(s) to shopping cart: %1.","We can't add the following product(s) to shopping cart: %1.",module,Magento_MultipleWishlist
+"Product(s) %1 have required options. Each product can only be added individually.","Product(s) %1 have required options. Each product can only be added individually.",module,Magento_MultipleWishlist
+"%1 product(s) have been added to shopping cart: %2.","%1 produtos foram adicionados ao carrinho de compras: %2.",module,Magento_MultipleWishlist
+"Please reenter your search options.","Please reenter your search options.",module,Magento_MultipleWishlist
+"We could not perform the search.","We could not perform the search.",module,Magento_MultipleWishlist
+"All Forms","Todas as formas",module,Magento_MultipleWishlist
+"Owner Name","Nome do proprietário",module,Magento_MultipleWishlist
+"Owner Email","Owner Email",module,Magento_MultipleWishlist
+"%1's Wish List","Lista de Desejos de %1",module,Magento_MultipleWishlist
+"%1's Wish List (%2)","%1's Wish List (%2)",module,Magento_MultipleWishlist
+"Please enter a valid email address.","Por favor, insira um endereço de e-mail válido.",module,Magento_MultipleWishlist
+"Please enter at least 2 letters of the first name.","Por favor, insira pelo menos 2 letras no nome.",module,Magento_MultipleWishlist
+"Please enter at least 2 letters of the last name.","Por favor, insira pelo menos 2 letras no sobrenome.",module,Magento_MultipleWishlist
+"Sign in to edit wish lists.","Sign in to edit wish lists.",module,Magento_MultipleWishlist
+"The wish list is not assigned to your account and can't be edited.","The wish list is not assigned to your account and can't be edited.",module,Magento_MultipleWishlist
+"Provide the wish list name.","Provide the wish list name.",module,Magento_MultipleWishlist
+"Wish list ""%1"" already exists.","Wish list ""%1"" already exists.",module,Magento_MultipleWishlist
+"Only %1 wish list(s) can be created.","Only %1 wish list(s) can be created.",module,Magento_MultipleWishlist
+"Test Phrase","Frase de Teste",module,Magento_MultipleWishlist
+"Unknown Magento error","Unknown Magento error",module,Magento_MultipleWishlist
+InvalidArgumentException,InvalidArgumentException,module,Magento_MultipleWishlist
+Refresh,Atualizar,module,Magento_MultipleWishlist
+"All Wish Lists","Todas as listas de desejos",module,Magento_MultipleWishlist
+Item,Item,module,Magento_MultipleWishlist
+Qty,Qtd,module,Magento_MultipleWishlist
+Price,Preço,module,Magento_MultipleWishlist
+Remove,Remover,module,Magento_MultipleWishlist
+"Add To Order","Adicionar ao pedido",module,Magento_MultipleWishlist
+"Configure and Add to Order","Configurar e adicionar ao pedido",module,Magento_MultipleWishlist
+"No items","Não há itens",module,Magento_MultipleWishlist
+"Delete Wish List","Excluir a lista de desejos",module,Magento_MultipleWishlist
+Owner,Proprietário,module,Magento_MultipleWishlist
+Name,Nome,module,Magento_MultipleWishlist
+Updated,Atualizado,module,Magento_MultipleWishlist
+"Wish List Items","Itens da lista de desejos",module,Magento_MultipleWishlist
+"You must select items to add to the cart.","Você precisa selecionar os itens para adicionar no carrinho.",module,Magento_MultipleWishlist
+"Add to Cart","Adicionar ao Carrinho",module,Magento_MultipleWishlist
+Back,Voltar,module,Magento_MultipleWishlist
+"Add to:","Adicionar a:",module,Magento_MultipleWishlist
+"Create New Wish List","Criar nova lista de desejos",module,Magento_MultipleWishlist
+"Move to Wish List","Mover para Lista de Desejos",module,Magento_MultipleWishlist
+"Copy to Wish List","Copiar para lista de desejo",module,Magento_MultipleWishlist
+"Search Options","Opções de pesquisa",module,Magento_MultipleWishlist
+"Required Fields","Campos Obrigatórios",module,Magento_MultipleWishlist
+"First Name",Nome,module,Magento_MultipleWishlist
+"Last Name",Sobrenome,module,Magento_MultipleWishlist
+Search,Pesquisa,module,Magento_MultipleWishlist
+"Search Results","Resultados da busca",module,Magento_MultipleWishlist
+"Wish List Name","Nome da lista de desejos",module,Magento_MultipleWishlist
+Actions,Ações,module,Magento_MultipleWishlist
+View,Visualizar,module,Magento_MultipleWishlist
+"Your search returned no results.","A sua pesquisa não retornou resultados.",module,Magento_MultipleWishlist
+"Wish List","Lista de desejos",module,Magento_MultipleWishlist
+"Edit Wish List","Editar lista de desejos",module,Magento_MultipleWishlist
+Edit,Editar,module,Magento_MultipleWishlist
+"Public Wish List","Lista de desejo pública",module,Magento_MultipleWishlist
+"Private Wish List","Lista de desejo privada",module,Magento_MultipleWishlist
+"Select all","Selecionar tudo",module,Magento_MultipleWishlist
+"Move Selected to Wish List","Move Selected to Wish List",module,Magento_MultipleWishlist
+"Copy Selected to Wish List","Copy Selected to Wish List",module,Magento_MultipleWishlist
+"Search By","Pesquisar por",module,Magento_MultipleWishlist
+"Please enter at least two letters.","Por favor, insira pelo menos duas letras.",module,Magento_MultipleWishlist
+Close,Fechar,module,Magento_MultipleWishlist
+Save,Salvar,module,Magento_MultipleWishlist
+Cancel,Cancelar,module,Magento_MultipleWishlist
+"We can't create the Wish List right now.","Não podemos criar a Lista de Desejos agora.",module,Magento_MultipleWishlist
+"Please select items to move.","Please select items to move.",module,Magento_MultipleWishlist
+"Please select items to copy.","Please select items to copy.",module,Magento_MultipleWishlist
+"Are you sure you want to delete your wish list? This action can't be undone.","Are you sure you want to delete your wish list? This action can't be undone.",module,Magento_MultipleWishlist
+"Enable Multiple Wish Lists","Permitir várias listas de desejos",module,Magento_MultipleWishlist
+"Number of Multiple Wish Lists","Número de múltiplas listas de desejos",module,Magento_MultipleWishlist
+"The number of multiple wish lists should be equal to or more than 2.","The number of multiple wish lists should be equal to or more than 2.",module,Magento_MultipleWishlist
+"My Wish Lists Link","Link das minhas listas de desejos",module,Magento_MultipleWishlist
+"Display Wish Lists Summary","Display Wish Lists Summary",module,Magento_MultipleWishlist
+"Wish List Search Description","Wish List Search Description",module,Magento_MultipleWishlist
+"Quick Search Form Types","Quick Search Form Types",module,Magento_MultipleWishlist
+Template,Template,module,Magento_MultipleWishlist
+"Wish List Search Template","Wish List Search Template",module,Magento_MultipleWishlist
+CSV,CSV,module,Magento_MultipleWishlist
+"Excel XML","Excel, XML",module,Magento_MultipleWishlist
+Added,Adicionado,module,Magento_MultipleWishlist
+Customer,Cliente,module,Magento_MultipleWishlist
+Status,Status,module,Magento_MultipleWishlist
+Public,Público,module,Magento_MultipleWishlist
+Private,Privado,module,Magento_MultipleWishlist
+Product,Produto,module,Magento_MultipleWishlist
+SKU,SKU,module,Magento_MultipleWishlist
+Comment,Comentar,module,Magento_MultipleWishlist
+"Wish List Quantity","Quantidade de lista de desejos",module,Magento_MultipleWishlist
+"Store Quantity","Store Quantity",module,Magento_MultipleWishlist
+"Surplus / Deficit","Surplus / Deficit",module,Magento_MultipleWishlist
+"All Websites","Todos os sites",module,Magento_MultipleWishlist
+"Product Info","Informação do produto",module,Magento_MultipleWishlist
+"Unit Price","Preço unitário",module,Magento_MultipleWishlist
+"Add to Wish List","Adicionar à lista de desejos",module,Magento_MultipleWishlist

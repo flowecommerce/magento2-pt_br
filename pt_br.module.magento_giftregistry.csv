@@ -1,0 +1,297 @@
+"Are you sure you want to delete this gift registry?","Você tem certeza que deseja excluir esta lista de presente?",module,Magento_GiftRegistry
+"Delete Registry","Excluir lista",module,Magento_GiftRegistry
+"Gift Registry Entity","Entidade de lista de presente",module,Magento_GiftRegistry
+"Product ID","Identificador do Produto",module,Magento_GiftRegistry
+Product,Produto,module,Magento_GiftRegistry
+SKU,SKU,module,Magento_GiftRegistry
+Price,Preço,module,Magento_GiftRegistry
+Quantity,Quantidade,module,Magento_GiftRegistry
+Total,Total,module,Magento_GiftRegistry
+"Add to Gift Registry","Adicionar à lista de presentes",module,Magento_GiftRegistry
+"Are you sure you want to add these products?","Você tem certeza que deseja adicionar estes produtos?",module,Magento_GiftRegistry
+"Update Items and Quantities","Atualizar Itens e Quantidades",module,Magento_GiftRegistry
+ID,ID,module,Magento_GiftRegistry
+Requested,Solicitado,module,Magento_GiftRegistry
+Fulfilled,Preenchido,module,Magento_GiftRegistry
+Note,Nota,module,Magento_GiftRegistry
+Action,Ação,module,Magento_GiftRegistry
+"Update Quantity","Atualizar quantidade",module,Magento_GiftRegistry
+"Remove Item","Remover Item",module,Magento_GiftRegistry
+"Sharing Information","Compartilhar Informação",module,Magento_GiftRegistry
+Emails,E-mails,module,Magento_GiftRegistry
+"Send From","Enviado por",module,Magento_GiftRegistry
+Message,Mensagem,module,Magento_GiftRegistry
+"Share Gift Registry","Compartilhar lista de presente",module,Magento_GiftRegistry
+"Gift Registry","Lista de presente",module,Magento_GiftRegistry
+Event,Evento,module,Magento_GiftRegistry
+Registrants,Registrants,module,Magento_GiftRegistry
+"Event Date","Data do evento",module,Magento_GiftRegistry
+"Total Items","Total de itens",module,Magento_GiftRegistry
+Remaining,Restantes,module,Magento_GiftRegistry
+Public,Público,module,Magento_GiftRegistry
+No,Não,module,Magento_GiftRegistry
+Yes,Sim,module,Magento_GiftRegistry
+Website,Website,module,Magento_GiftRegistry
+"Gift Registry Types","Tipo de lista de presente",module,Magento_GiftRegistry
+"Add Gift Registry Type","Adicionar tipo de lista de presente",module,Magento_GiftRegistry
+Save,Salvar,module,Magento_GiftRegistry
+"If you delete this gift registry type, you also delete customer registries that use this type. Do you want to continue?","Se você excluir este tipo de lista de presente, você também excluir os registros dos cliente que usam esse tipo. Você quer continuar?",module,Magento_GiftRegistry
+Delete,Excluir,module,Magento_GiftRegistry
+"Save and Continue Edit","Salvar e Continuar a Editar",module,Magento_GiftRegistry
+"Edit '%1' Gift Registry Type","Editar tipo de lista de presente '%1'",module,Magento_GiftRegistry
+"New Gift Registry Type","Novo tipo de lista de presente",module,Magento_GiftRegistry
+"Add Attribute","Adicionar Atributo",module,Magento_GiftRegistry
+"Delete Attribute","Excluir Atributo",module,Magento_GiftRegistry
+"Use Default Value","Usar o Valor Padrão",module,Magento_GiftRegistry
+Short,Curto,module,Magento_GiftRegistry
+Medium,Médio,module,Magento_GiftRegistry
+Long,Longo,module,Magento_GiftRegistry
+Full,Completo,module,Magento_GiftRegistry
+"Add New Option","Adicionar Nova Opção",module,Magento_GiftRegistry
+"Delete Option","Deletar Opção",module,Magento_GiftRegistry
+"General Information","Informações gerais",module,Magento_GiftRegistry
+Code,Código,module,Magento_GiftRegistry
+Label,Título,module,Magento_GiftRegistry
+"Sort Order",Ordernação,module,Magento_GiftRegistry
+"Is Listed","Está listado",module,Magento_GiftRegistry
+Attributes,Atributos,module,Magento_GiftRegistry
+[GLOBAL],[GLOBAL],module,Magento_GiftRegistry
+[WEBSITE],[WEBSITE],module,Magento_GiftRegistry
+"[STORE VIEW]","[VISÃO DE LOJA]",module,Magento_GiftRegistry
+None,Nenhum,module,Magento_GiftRegistry
+"New Address","Novo Endereço",module,Magento_GiftRegistry
+"Edit Gift Registry","Editar a lista de presentes",module,Magento_GiftRegistry
+"Create Gift Registry","Criar lista de presentes",module,Magento_GiftRegistry
+State/Province,Estado/Província,module,Magento_GiftRegistry
+"Please select a region, state or province","Por favor, selecione uma região, estado ou província",module,Magento_GiftRegistry
+"Please Select","Por Favor Selecione",module,Magento_GiftRegistry
+"View Gift Registry %1","Ver lista de presente %1",module,Magento_GiftRegistry
+"Share '%1' Gift Registry","Compartilhar a lista de presentes de '%1'",module,Magento_GiftRegistry
+"-- Please select --","-- Selecione uma opção --",module,Magento_GiftRegistry
+From,De,module,Magento_GiftRegistry
+To,Até,module,Magento_GiftRegistry
+"Gift Registry Search","Pesquisa na lista de presente",module,Magento_GiftRegistry
+"Select Search Type","Selecione o tipo de pesquisa",module,Magento_GiftRegistry
+Registrant,Registrant,module,Magento_GiftRegistry
+"Registry owner","Proprietário do registro",module,Magento_GiftRegistry
+"Please correct the  gift registry ID.","Por favor, corrija o ID da lista de presente.",module,Magento_GiftRegistry
+"Please correct the gift registry entity.","Por favor, corrija a entidade da lista de presente.",module,Magento_GiftRegistry
+"Shopping cart items have been added to gift registry.","Os itens do carrinho de compras foram adicionados à lista de presente.",module,Magento_GiftRegistry
+"Virtual, Downloadable, and virtual Gift Card products cannot be added to gift registries.","Produtos virtuais, download e cartões de presente não podem ser adicionados à lista de presente.",module,Magento_GiftRegistry
+"We can't add shopping cart items to the gift registry right now.","Não foi possível adicionar os itens do carrinho de compras na lista de presente.",module,Magento_GiftRegistry
+"You deleted this gift registry entity.","Você excluiu esta entidade de lista de presente.",module,Magento_GiftRegistry
+"We couldn't delete this gift registry entity.","Não foi possível excluir esta entidade de lista de presente.",module,Magento_GiftRegistry
+Customers,Clientes,module,Magento_GiftRegistry
+"Edit '%1' Gift Registry","Editar lista de presente '%1'",module,Magento_GiftRegistry
+"Something went wrong while editing the gift registry.","Ocorreu um erro ao editar à lista de presente.",module,Magento_GiftRegistry
+"Please enter at least one email address.","Por favor, digite pelo menos um endereço de e-mail.",module,Magento_GiftRegistry
+"%1 email(s) were sent.","%1 email(s) foram enviados.",module,Magento_GiftRegistry
+"We couldn't send '%1 of %2 emails.","Não foi possível enviar '%1 de %2 e-mails.",module,Magento_GiftRegistry
+"You updated this gift registry.","Você atualizou esta lista de presente.",module,Magento_GiftRegistry
+"We can't update these gift registry items right now.","Não foi possível atualizar esses itens na lista de presente.",module,Magento_GiftRegistry
+"You deleted the gift registry type.","Você excluiu o tipo de lista de presente.",module,Magento_GiftRegistry
+"We couldn't delete this gift registry type.","Não foi possível excluir este tipo de lista de presente.",module,Magento_GiftRegistry
+%1,%1,module,Magento_GiftRegistry
+"Edit Type","Editar tipo",module,Magento_GiftRegistry
+"New Type","Novo tipo",module,Magento_GiftRegistry
+"You saved the gift registry type.","Você salvou o tipo de lista de presente.",module,Magento_GiftRegistry
+"We can't save this gift registry type right now.","Não foi possível salvar este tipo de lista de presente.",module,Magento_GiftRegistry
+"Page not found.","Página não encontrada.",module,Magento_GiftRegistry
+"Please correct the gift registry ID.","Por favor, corrija o ID da lista de presente.",module,Magento_GiftRegistry
+"%1 item(s) have been added to the gift registry.","%1 Item(ns) foram adicionados à lista de presente.",module,Magento_GiftRegistry
+"We have nothing to add to this gift registry.","Não ha nada para adicionar à esta lista de presentes.",module,Magento_GiftRegistry
+"You can't add virtual products, digital products or gift cards to gift registries.","Você não pode adicionar produtos virtuais, produtos digitais ou cartões-presente à lista de presentes.",module,Magento_GiftRegistry
+"You deleted this gift registry.","Você excluiu esta lista de presente.",module,Magento_GiftRegistry
+"Something went wrong while deleting the gift registry.","Ocorreu um erro ao excluir à lista de presente.",module,Magento_GiftRegistry
+"Please correct the gift registry.","Por favor, corrija a lista de presente.",module,Magento_GiftRegistry
+"Incorrect Type","Tipo incorreto",module,Magento_GiftRegistry
+"Please correct the registrant data.","Por favor, corrija os dados do titular do registo.",module,Magento_GiftRegistry
+"Address is empty.","Endereço vazio.",module,Magento_GiftRegistry
+"Please select an address.","Por favor, selecione um endereço.",module,Magento_GiftRegistry
+"Please correct the address.","Por favor, corrija o endereço.",module,Magento_GiftRegistry
+"You saved this gift registry.","Você salvou esta lista de presente.",module,Magento_GiftRegistry
+"We couldn't save this gift registry.","Não foi possível salvar está lista de presente.",module,Magento_GiftRegistry
+"Gift Registry Items","Itens da lista de presente",module,Magento_GiftRegistry
+"Something went wrong while sending email(s).","Ocorreu um erro durante o envio do email(s).",module,Magento_GiftRegistry
+"Something went wrong while sharing the gift registry.","Ocorreu um erro ao compartilhar à lista de presente.",module,Magento_GiftRegistry
+"You updated the gift registry items.","Você atualizou os itens da lista de presente.",module,Magento_GiftRegistry
+"We couldn't update the gift registry.","Não foi possível atualizar a lista de presente.",module,Magento_GiftRegistry
+"The wish list item has been added to this gift registry.","O item de lista de desejos foi adicionado a esta lista de presente.",module,Magento_GiftRegistry
+"We couldn’t add your wish list items to your gift registry.","Não foi possível adicionar seus itens da lista de desejos para sua lista de presente.",module,Magento_GiftRegistry
+"Please enter correct search options.","Por favor, digite as opções corretas de busca.",module,Magento_GiftRegistry
+"Please enter at least 2 letters of the first name.","Por favor, insira pelo menos 2 letras no nome.",module,Magento_GiftRegistry
+"Please enter at least 2 letters of the last name.","Por favor, insira pelo menos 2 letras no sobrenome.",module,Magento_GiftRegistry
+"Please enter a valid email address.","Por favor, insira um endereço de e-mail válido.",module,Magento_GiftRegistry
+"Please enter a gift registry ID.","Por favor, informe o ID da lista de presente.",module,Magento_GiftRegistry
+"Please enter the quantity of items to add to cart.","Por favor, informe a quantidade de itens para adicionar no carrinho.",module,Magento_GiftRegistry
+"We can't add this item to your shopping cart right now.","Nós não podemos adicionar este item ao seu carrinho de compras agora.",module,Magento_GiftRegistry
+"Gift Registry Info","Informação da lista de presente",module,Magento_GiftRegistry
+"Please enter the ""%1"".","Por favor, insira o ""%1"".",module,Magento_GiftRegistry
+"Please enter the correct ""%1"".","Por favor, insira o ""%1"" correto.",module,Magento_GiftRegistry
+"Custom Types","Tipos personalizados",module,Magento_GiftRegistry
+"Static Types","Tipos estáticos",module,Magento_GiftRegistry
+"Product has required options.","O produto possui opções obrigatórias.",module,Magento_GiftRegistry
+"You need to enter sender data.","Você precisa informar os dados do remetente.",module,Magento_GiftRegistry
+"Please add invitees.","Please add invitees.",module,Magento_GiftRegistry
+"You cannot send emails to more than %1 recipients at once","You cannot send emails to more than %1 recipients at once",module,Magento_GiftRegistry
+"Please enter a valid invitee email address.","Por favor insira um convite de endereço de e-mail válido.",module,Magento_GiftRegistry
+"Please enter an invitee name.","Please enter an invitee name.",module,Magento_GiftRegistry
+"You shared the gift registry for %1 emails.","Você compartilhou a lista de presente para %1 e-mail(s).",module,Magento_GiftRegistry
+"We couldn't share the registry.","Não foi possível compartilhar a lista.",module,Magento_GiftRegistry
+Private,Privado,module,Magento_GiftRegistry
+Inactive,Inativo,module,Magento_GiftRegistry
+Active,Ativo,module,Magento_GiftRegistry
+"Please enter the title.","Por Favor insira um título.",module,Magento_GiftRegistry
+"Please enter the message.","Por favor insira a mensagem.",module,Magento_GiftRegistry
+"Please enter correct the Privacy setting.","Por favor, insira as configurações corretas de privacidade.",module,Magento_GiftRegistry
+"We cannot specify the product.","Não foi possível especificar o produto.",module,Magento_GiftRegistry
+"Please correct the  gift registry item quantity.","Por favor, corrija a quantidade do item na lista de presente.",module,Magento_GiftRegistry
+"Please correct the gift registry item ID.","Por favor, corrija o ID do item na lista de presente.",module,Magento_GiftRegistry
+"The quantity of ""%1"" product added to cart exceeds the quantity desired by the Gift Registry owner. The quantity added has been adjusted to meet remaining quantity %2.","A quantidade ""%1"" do produto adicionado ao carrinho excede a quantidade pretendida pelo proprietário da lista de presente. A quantidade adicionada foi ajustada para %2 e atender quantidade restante.",module,Magento_GiftRegistry
+"Existing quantity of ""%1"" product in the cart has been replaced with quantity %2 just requested.","Existing quantity of ""%1"" product in the cart has been replaced with quantity %2 just requested.",module,Magento_GiftRegistry
+"This product(s) is out of stock.","Este produto está em falta.",module,Magento_GiftRegistry
+"Please correct the product for adding the item to the quote.","Por favor, corrija o produto para adicionar o item no orçamento.",module,Magento_GiftRegistry
+"Please correct the item option format.","Please correct the item option format.",module,Magento_GiftRegistry
+"An item option with code %1 already exists.","Uma opção de item com o código %1 já existe.",module,Magento_GiftRegistry
+New,Novo,module,Magento_GiftRegistry
+"Please enter the first name.","Por favor, informe o nome.",module,Magento_GiftRegistry
+"Please enter the last name.","Por favor, informe o sobrenome.",module,Magento_GiftRegistry
+"Please enter a valid email address(for example, daniel@x.com).","Por favor adicione um e-mail válido (por exemplo, daniel@x.com).",module,Magento_GiftRegistry
+"-- All --","-- Todos --",module,Magento_GiftRegistry
+"Unknown gift registry identifier","Identificador desconhecido de lista de presente",module,Magento_GiftRegistry
+"All Forms","Todas as formas",module,Magento_GiftRegistry
+"Registrant Name Search","Registrant Name Search",module,Magento_GiftRegistry
+"Registrant Email Search","Registrant Email Search",module,Magento_GiftRegistry
+"Gift Registry ID Search","Gift Registry ID Search",module,Magento_GiftRegistry
+"Ship to the recipient's address.","Ship to the recipient's address.",module,Magento_GiftRegistry
+Type,Tipo,module,Magento_GiftRegistry
+Owner,Proprietário,module,Magento_GiftRegistry
+"Created on","Criado na",module,Magento_GiftRegistry
+"Shipping Address","Endereço de entrega",module,Magento_GiftRegistry
+"Shopping Cart Items","Itens do Carrinho de Compras",module,Magento_GiftRegistry
+"New Attribute","Novo Atributo",module,Magento_GiftRegistry
+"Input Type","Tipo de input",module,Magento_GiftRegistry
+"Attribute Group","Grupo de atributos",module,Magento_GiftRegistry
+"Is Required","É necessário",module,Magento_GiftRegistry
+"Is Searcheable","É pesquisável",module,Magento_GiftRegistry
+"We found an attribute with this static input type already in the gift registry type. Please select a different input type.","We found an attribute with this static input type already in the gift registry type. Please select a different input type.",module,Magento_GiftRegistry
+"Show Region","Mostrar a região",module,Magento_GiftRegistry
+"Date Format","Formato de data",module,Magento_GiftRegistry
+"Is Default","É o Padrão",module,Magento_GiftRegistry
+"Select a shipping address from your address book or enter a new address.","Selecione um endereço de entrega de seu catálogo de endereços ou insira um novo endereço.",module,Magento_GiftRegistry
+Company,Empresa,module,Magento_GiftRegistry
+Address,Endereço,module,Magento_GiftRegistry
+"Street Address",Endereço,module,Magento_GiftRegistry
+"Street Address %1",Rua,module,Magento_GiftRegistry
+City,Cidade,module,Magento_GiftRegistry
+"Please select a region, state or province.","Por favor, selecione uma região, estado ou província.",module,Magento_GiftRegistry
+"Zip/Postal Code",CEP,module,Magento_GiftRegistry
+Country,País,module,Magento_GiftRegistry
+"Phone Number","Número do Telefone",module,Magento_GiftRegistry
+Fax,Fax,module,Magento_GiftRegistry
+"Add All To Gift Registry","Adicionar tudo à lista de presente",module,Magento_GiftRegistry
+"Ship to registrant's address","Ship to registrant's address",module,Magento_GiftRegistry
+"Use the gift registry shipping address","Usar o endereço de entrega da lista de presente",module,Magento_GiftRegistry
+"Added On","Adicionado em",module,Magento_GiftRegistry
+Qty,Qtd,module,Magento_GiftRegistry
+"Qty Fulfilled","Qty Fulfilled",module,Magento_GiftRegistry
+"Update Gift Registry","Atualizar lista de presente",module,Magento_GiftRegistry
+Back,Voltar,module,Magento_GiftRegistry
+"This gift registry has no items.","Esta lista de presente não tem nenhum item.",module,Magento_GiftRegistry
+"Created On","Criado em",module,Magento_GiftRegistry
+"Manage Items","Gerenciar itens",module,Magento_GiftRegistry
+Share,Compartilhar,module,Magento_GiftRegistry
+Edit,Editar,module,Magento_GiftRegistry
+"You haven't created a gift registry yet.","Você ainda não criou uma lista de presente.",module,Magento_GiftRegistry
+"Add New","Adicionar Novo",module,Magento_GiftRegistry
+Remove,Remover,module,Magento_GiftRegistry
+"First Name",Nome,module,Magento_GiftRegistry
+Name,Nome,module,Magento_GiftRegistry
+Email,E-mail,module,Magento_GiftRegistry
+"* Required Fields","* Campos Obrigatórios",module,Magento_GiftRegistry
+Sender,Remetente,module,Magento_GiftRegistry
+Invitee,Convidado,module,Magento_GiftRegistry
+"Maximum %1 email addresses.","Maximum %1 email addresses.",module,Magento_GiftRegistry
+"Add Invitee","Adicionar convidado",module,Magento_GiftRegistry
+"Gift Registry Type","Tipo de lista de presente",module,Magento_GiftRegistry
+"Please select a gift registry type.","Por favor, selecione um tipo de lista de presente.",module,Magento_GiftRegistry
+Next,Próximo,module,Magento_GiftRegistry
+"Last Name",Sobrenome,module,Magento_GiftRegistry
+"Registrant Information","Registrant Information",module,Magento_GiftRegistry
+"Maximum %1 registrants.","Maximum %1 registrants.",module,Magento_GiftRegistry
+"Add Registrant","Add Registrant",module,Magento_GiftRegistry
+Type:,Tipo:,module,Magento_GiftRegistry
+"Privacy Settings","Configurações de privacidade",module,Magento_GiftRegistry
+Status,Status,module,Magento_GiftRegistry
+label,rótulo,module,Magento_GiftRegistry
+"Gift Registry Items Updated","Os itens da lista de presente foram atualizados",module,Magento_GiftRegistry
+"Product Name","Nome do produto",module,Magento_GiftRegistry
+"Requested Quantity","Quantidade solicitada",module,Magento_GiftRegistry
+"Fulfilled Quantity","Fulfilled Quantity",module,Magento_GiftRegistry
+"Total Fulfilled Quantity","Total Fulfilled Quantity",module,Magento_GiftRegistry
+"Remaining Quantity","Quantidade restante",module,Magento_GiftRegistry
+Quantity:,Quantidade:,module,Magento_GiftRegistry
+"Customize and Add to Gift Registry","Personalizar e adicionar a lista de presente",module,Magento_GiftRegistry
+"This won't take long . . .","Não vai demorar.",module,Magento_GiftRegistry
+"Required Fields","Campos Obrigatórios",module,Magento_GiftRegistry
+"Search Options","Opções de pesquisa",module,Magento_GiftRegistry
+"For better search results, first choose a gift registry type. By default, we search all registry types.","For better search results, first choose a gift registry type. By default, we search all registry types.",module,Magento_GiftRegistry
+"Type Specific Options","Opções específicas do tipo",module,Magento_GiftRegistry
+Search,Pesquisa,module,Magento_GiftRegistry
+"Registrant Email","Registrant Email",module,Magento_GiftRegistry
+"Gift Registry ID","Gift Registry ID",module,Magento_GiftRegistry
+"Search Results","Resultados da busca",module,Magento_GiftRegistry
+Location,Localização,module,Magento_GiftRegistry
+Actions,Ações,module,Magento_GiftRegistry
+View,Visualizar,module,Magento_GiftRegistry
+"Your search returned no results.","A sua pesquisa não retornou resultados.",module,Magento_GiftRegistry
+"Please enter at least two letters of the name.","Por favor, insira pelo menos duas letras no nome.",module,Magento_GiftRegistry
+"Search By","Pesquisar por",module,Magento_GiftRegistry
+"Please enter at least two letters.","Por favor, insira pelo menos duas letras.",module,Magento_GiftRegistry
+"Unit Price","Preço unitário",module,Magento_GiftRegistry
+"Add to Cart","Adicionar ao Carrinho",module,Magento_GiftRegistry
+"%name,","%name,",module,Magento_GiftRegistry
+"You have successfully created the new gift registry ""%registry_name"".","You have successfully created the new gift registry ""%registry_name"".",module,Magento_GiftRegistry
+"Your Gift Registry Message","Sua mensagem da lista de presente",module,Magento_GiftRegistry
+"Now you can add products to your gift registry.","Now you can add products to your gift registry.",module,Magento_GiftRegistry
+"Simply browse to <a href=""%store_url"">%store_name</a> and add the products you want to your shopping cart or wish list.","Simply browse to <a href=""%store_url"">%store_name</a> and add the products you want to your shopping cart or wish list.",module,Magento_GiftRegistry
+"You can then add the products to your registry from your shopping cart or wish list page.","You can then add the products to your registry from your shopping cart or wish list page.",module,Magento_GiftRegistry
+"You can also share it with your friends and family by logging into your account and visiting the Gift Registry tab.","You can also share it with your friends and family by logging into your account and visiting the Gift Registry tab.",module,Magento_GiftRegistry
+"Or you can email the following link and gift registry ID to them:","Or you can email the following link and gift registry ID to them:",module,Magento_GiftRegistry
+"Registry Location:","Local da lista:",module,Magento_GiftRegistry
+"Registry ID:","Registry ID:",module,Magento_GiftRegistry
+"You can view and purchase items from this gift registry at <a href=""%account_url"">%store_name</a>.","You can view and purchase items from this gift registry at <a href=""%account_url"">%store_name</a>.",module,Magento_GiftRegistry
+"Gift Registry:","Lista de presente:",module,Magento_GiftRegistry
+"Created For:","Criado por:",module,Magento_GiftRegistry
+"You can create your own gift registry on <a href=""%account_url"">%store_name</a> and share it with friends and family.","Você pode criar a sua própria lista de presentes em <a href=""%account_url"">%store_name</a> e compartilhar com amigos e família.",module,Magento_GiftRegistry
+"The following items have been purchased from your gift registry ""%registry_name"":","The following items have been purchased from your gift registry ""%registry_name"":",module,Magento_GiftRegistry
+"You can sign in to your account to view more details about this gift registry.","You can sign in to your account to view more details about this gift registry.",module,Magento_GiftRegistry
+"Use gift registry shipping address","Use gift registry shipping address",module,Magento_GiftRegistry
+"The only place to change the number of gift registry items is on the Gift Registry Info page or directly in your cart.","The only place to change the number of gift registry items is on the Gift Registry Info page or directly in your cart.",module,Magento_GiftRegistry
+Text,Texto,module,Magento_GiftRegistry
+"Gift Registry Details","Gift Registry Details",module,Magento_GiftRegistry
+Role,Função,module,Magento_GiftRegistry
+"Event Data","Data do evento",module,Magento_GiftRegistry
+"Event Information","Informações do evento",module,Magento_GiftRegistry
+"Event Country","País do evento",module,Magento_GiftRegistry
+"My event special","My event special",module,Magento_GiftRegistry
+"My special attribute","My special attribute",module,Magento_GiftRegistry
+"General Options","Opções gerais",module,Magento_GiftRegistry
+"Enable Gift Registry","Habilitar lista de presente",module,Magento_GiftRegistry
+"Maximum Registrants","Maximum Registrants",module,Magento_GiftRegistry
+"Owner Notification","Notificação do proprietário",module,Magento_GiftRegistry
+"Email Template","Template de E-mail",module,Magento_GiftRegistry
+"Email Sender","Remetente do e-mail",module,Magento_GiftRegistry
+"Gift Registry Sharing","Compartilhamento de lista de presente",module,Magento_GiftRegistry
+"Maximum Sent Emails Threshold","Maximum Sent Emails Threshold",module,Magento_GiftRegistry
+"Gift Registry Update","Gift Registry Update",module,Magento_GiftRegistry
+Select,Selecione,module,Magento_GiftRegistry
+Date,Data,module,Magento_GiftRegistry
+"Event Region Id","Event Region Id",module,Magento_GiftRegistry
+"Event Region Text","Event Region Text",module,Magento_GiftRegistry
+"Event Location","Local do evento",module,Magento_GiftRegistry
+"Gift Registry Quick Search Form","Gift Registry Quick Search Form",module,Magento_GiftRegistry
+"Quick Search Form Types","Quick Search Form Types",module,Magento_GiftRegistry
+Template,Template,module,Magento_GiftRegistry
+"Default Template","Modelo padrão",module,Magento_GiftRegistry
+Listed,Listado,module,Magento_GiftRegistry

@@ -1,0 +1,14 @@
+"503 Service Unavailable","503 Service Unavailable",module,Magento_WebsiteRestriction
+"200 OK","200 OK",module,Magento_WebsiteRestriction
+"Website Closed","Website Closed",module,Magento_WebsiteRestriction
+"Private Sales: Login Only","Private Sales: Login Only",module,Magento_WebsiteRestriction
+"Private Sales: Login and Register","Private Sales: Login and Register",module,Magento_WebsiteRestriction
+"To login form (302 Found)","To login form (302 Found)",module,Magento_WebsiteRestriction
+"To landing page (302 Found)","To landing page (302 Found)",module,Magento_WebsiteRestriction
+"Access Restriction","Restrição de acesso",module,Magento_WebsiteRestriction
+"Restriction Mode","Restriction Mode",module,Magento_WebsiteRestriction
+"Startup Page","Startup Page",module,Magento_WebsiteRestriction
+"Applicable only if restriction mode is set to ""Private Sales"".","Applicable only if restriction mode is set to ""Private Sales"".",module,Magento_WebsiteRestriction
+"Landing Page","Landing Page",module,Magento_WebsiteRestriction
+"HTTP Response","Resposta HTTP",module,Magento_WebsiteRestriction
+"Applicable only if restriction mode is set to ""Website Closed"". The landing page is rendered as raw HTML.","Applicable only if restriction mode is set to ""Website Closed"". The landing page is rendered as raw HTML.",module,Magento_WebsiteRestriction

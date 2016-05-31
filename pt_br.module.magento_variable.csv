@@ -1,0 +1,21 @@
+"Custom Variables","Variáveis personalizadas",module,Magento_Variable
+"Add New Variable","Adicionar nova variável",module,Magento_Variable
+"Save and Continue Edit","Salvar e Continuar a Editar",module,Magento_Variable
+"Custom Variable ""%1""","Variável personalizada ""%1""",module,Magento_Variable
+"New Custom Variable","Nova variável personalizada",module,Magento_Variable
+Variable,Variável,module,Magento_Variable
+"Variable Code","Código da variável",module,Magento_Variable
+"Variable Name","Nome da variável",module,Magento_Variable
+"Use Default Variable Values","Usar valores padrões da variável",module,Magento_Variable
+No,Não,module,Magento_Variable
+Yes,Sim,module,Magento_Variable
+"Variable HTML Value","Valor da variável HTML",module,Magento_Variable
+"Variable Plain Value","Valor de variável em texto simples",module,Magento_Variable
+"You deleted the custom variable.","Você excluiu a variável personalizada.",module,Magento_Variable
+"You saved the custom variable.","Você salvou a variável personalizada.",module,Magento_Variable
+"Variable Code must be unique.","O código da variável deve ser único.",module,Magento_Variable
+"Validation has failed.","Ocorreu uma falha na validação.",module,Magento_Variable
+%1,%1,module,Magento_Variable
+"Insert Variable...","Inserir variável...",module,Magento_Variable
+"Variable ID","Variável ID",module,Magento_Variable
+Name,Nome,module,Magento_Variable

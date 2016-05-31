@@ -1,0 +1,116 @@
+Export,Exportar,module,Magento_ImportExport
+"Export Settings","Exportar Configurações",module,Magento_ImportExport
+"Entity Type","Tipo de entidade",module,Magento_ImportExport
+"Export File Format","Formato do arquivo de exportação",module,Magento_ImportExport
+From,De,module,Magento_ImportExport
+To,Até,module,Magento_ImportExport
+"We can't filter an attribute with no attribute options.","We can't filter an attribute with no attribute options.",module,Magento_ImportExport
+Exclude,Excluir,module,Magento_ImportExport
+"Attribute Label","Rótulo do atributo",module,Magento_ImportExport
+"Attribute Code","Código do Atributo",module,Magento_ImportExport
+Filter,Filtro,module,Magento_ImportExport
+"Unknown attribute filter type","Unknown attribute filter type",module,Magento_ImportExport
+Download,"Fazer Download",module,Magento_ImportExport
+"Check Data","Verificar dados",module,Magento_ImportExport
+Import,Importar,module,Magento_ImportExport
+"Import Settings","Importar Configurações",module,Magento_ImportExport
+"Import Behavior","Import Behavior",module,Magento_ImportExport
+" "," ",module,Magento_ImportExport
+"Allowed Errors Count","Allowed Errors Count",module,Magento_ImportExport
+"Please specify number of errors to halt import process","Please specify number of errors to halt import process",module,Magento_ImportExport
+"Field separator","Field separator",module,Magento_ImportExport
+"Multiple value separator","Multiple value separator",module,Magento_ImportExport
+"File to Import","Arquivo para importação",module,Magento_ImportExport
+"Select File to Import","Selecione o arquivo de importação",module,Magento_ImportExport
+"Images File Directory","Diretório do arquivos de imagens",module,Magento_ImportExport
+"For Type ""Local Server"" use relative path to Magento installation,
+                                e.g. var/export, var/import, var/export/some/dir","For Type ""Local Server"" use relative path to Magento installation,
+                                e.g. var/export, var/import, var/export/some/dir",module,Magento_ImportExport
+"Download Sample File","Baixar arquivo de amostra",module,Magento_ImportExport
+"Please correct the data sent value.","Please correct the data sent value.",module,Magento_ImportExport
+Import/Export,Importar/Exportar,module,Magento_ImportExport
+History,Histórico,module,Magento_ImportExport
+"Import History","Importar Histórico",module,Magento_ImportExport
+"Import history","Importar histórico",module,Magento_ImportExport
+"There is no sample file for this entity.","There is no sample file for this entity.",module,Magento_ImportExport
+Status,Status,module,Magento_ImportExport
+"Maximum error count has been reached or system error is occurred!","Maximum error count has been reached or system error is occurred!",module,Magento_ImportExport
+"Import successfully done","Importação com sucesso",module,Magento_ImportExport
+"This file is empty. Please try another one.","This file is empty. Please try another one.",module,Magento_ImportExport
+"Data validation is failed. Please fix errors and re-upload the file..","Data validation is failed. Please fix errors and re-upload the file..",module,Magento_ImportExport
+"File is valid! To start import process press ""Import"" button","File is valid! To start import process press ""Import"" button",module,Magento_ImportExport
+"The file is valid, but we can't import it for some reason.","The file is valid, but we can't import it for some reason.",module,Magento_ImportExport
+"Checked rows: %1, checked entities: %2, invalid rows: %3, total errors: %4","Checked rows: %1, checked entities: %2, invalid rows: %3, total errors: %4",module,Magento_ImportExport
+"The file was not uploaded.","The file was not uploaded.",module,Magento_ImportExport
+"Sorry, but the data is invalid or the file is not uploaded.","Sorry, but the data is invalid or the file is not uploaded.",module,Magento_ImportExport
+"Show more","Mostrar mais",module,Magento_ImportExport
+"Additional data","Additional data",module,Magento_ImportExport
+"Following Error(s) has been occurred during importing process:","Following Error(s) has been occurred during importing process:",module,Magento_ImportExport
+"Only first 100 errors are displayed here. ","Only first 100 errors are displayed here. ",module,Magento_ImportExport
+"Download full report","Download full report",module,Magento_ImportExport
+"in rows:","nas linhas:",module,Magento_ImportExport
+"Make sure your file isn't more than %1M.","Make sure your file isn't more than %1M.",module,Magento_ImportExport
+"We can't provide the upload settings right now.","We can't provide the upload settings right now.",module,Magento_ImportExport
+"Created: %1, Updated: %2, Deleted: %3","Created: %1, Updated: %2, Deleted: %3",module,Magento_ImportExport
+"Please enter a correct entity model.","Please enter a correct entity model.",module,Magento_ImportExport
+"The entity adapter object must be an instance of %1 or %2.","The entity adapter object must be an instance of %1 or %2.",module,Magento_ImportExport
+"The input entity code is not equal to entity adapter code.","The input entity code is not equal to entity adapter code.",module,Magento_ImportExport
+"Please enter a correct entity.","Please enter a correct entity.",module,Magento_ImportExport
+"The adapter object must be an instance of %1.","The adapter object must be an instance of %1.",module,Magento_ImportExport
+"Please correct the file format.","Please correct the file format.",module,Magento_ImportExport
+"Begin export of %1","Begin export of %1",module,Magento_ImportExport
+"There is no data for the export.","There is no data for the export.",module,Magento_ImportExport
+"Exported %1 rows.","Exported %1 rows.",module,Magento_ImportExport
+"The export is finished.","The export is finished.",module,Magento_ImportExport
+"Please provide filter data.","Please provide filter data.",module,Magento_ImportExport
+"We can't determine the attribute filter type.","We can't determine the attribute filter type.",module,Magento_ImportExport
+"Entity is unknown","A entidade é desconhecida",module,Magento_ImportExport
+"We can't identify this file format.","Não conseguimos identificar este formato de arquivo.",module,Magento_ImportExport
+"Please correct the value for ""%1"" column.","Por favor, corrija o valor para a coluna ""%1"".",module,Magento_ImportExport
+"Please specify the writer.","Please specify the writer.",module,Magento_ImportExport
+"The destination file path must be a string.","The destination file path must be a string.",module,Magento_ImportExport
+"The destination directory is not writable.","O diretório de destino não é gravável.",module,Magento_ImportExport
+"Destination file is not writable","O arquivo de destino não é gravável",module,Magento_ImportExport
+"The header column names are already set.","The header column names are already set.",module,Magento_ImportExport
+"Data validation is failed. Please fix errors and re-upload the file.","Data validation is failed. Please fix errors and re-upload the file.",module,Magento_ImportExport
+"in rows","nas linhas",module,Magento_ImportExport
+"The validation is complete.","The validation is complete.",module,Magento_ImportExport
+"This file does not contain any data.","This file does not contain any data.",module,Magento_ImportExport
+"Begin import of ""%1"" with ""%2"" behavior","Begin import of ""%1"" with ""%2"" behavior",module,Magento_ImportExport
+"The import was successful.","A importação foi bem sucedida.",module,Magento_ImportExport
+"The file you uploaded has no extension.","The file you uploaded has no extension.",module,Magento_ImportExport
+"The source file moving process failed.","The source file moving process failed.",module,Magento_ImportExport
+"Begin data validation","Begin data validation",module,Magento_ImportExport
+"Import data validation is complete.","Import data validation is complete.",module,Magento_ImportExport
+"The behavior token for %1 is invalid.","The behavior token for %1 is invalid.",module,Magento_ImportExport
+"Please enter a correct entity model","Please enter a correct entity model",module,Magento_ImportExport
+"Source file coping failed","Source file coping failed",module,Magento_ImportExport
+"The source is not set.","The source is not set.",module,Magento_ImportExport
+"The adapter type must be a non-empty string.","The adapter type must be a non-empty string.",module,Magento_ImportExport
+"'%1' file extension is not supported","'%1' file extension is not supported",module,Magento_ImportExport
+"Adapter must be an instance of \Magento\ImportExport\Model\Import\AbstractSource","Adapter must be an instance of \Magento\ImportExport\Model\Import\AbstractSource",module,Magento_ImportExport
+"Please specify a source.","Please specify a source.",module,Magento_ImportExport
+"ImportExport: Import Data validation - Validation strategy not found","ImportExport: Import Data validation - Validation strategy not found",module,Magento_ImportExport
+"Cannot get autoincrement value","Cannot get autoincrement value",module,Magento_ImportExport
+"Error in data structure: %1 values are mixed","Error in data structure: %1 values are mixed",module,Magento_ImportExport
+"-- Please Select --","-- Selecione uma opção --",module,Magento_ImportExport
+label,rótulo,module,Magento_ImportExport
+Add/Update,Adicionar/atualizar,module,Magento_ImportExport
+Replace,Substituir,module,Magento_ImportExport
+Delete,Excluir,module,Magento_ImportExport
+"Note: Product IDs will be regenerated.","Note: Product IDs will be regenerated.",module,Magento_ImportExport
+"Add/Update Complex Data","Add/Update Complex Data",module,Magento_ImportExport
+"Delete Entities","Delete Entities",module,Magento_ImportExport
+"Custom Action","Ação personalizada",module,Magento_ImportExport
+"Error message","Mensagem de erro",module,Magento_ImportExport
+"URL key for specified store already exists.","A chave de URL para loja especificada já existe.",module,Magento_ImportExport
+"Entity Attributes","Entity Attributes",module,Magento_ImportExport
+Continue,Próximo,module,Magento_ImportExport
+"Validation Results","Validation Results",module,Magento_ImportExport
+ID,ID,module,Magento_ImportExport
+"Start Date&Time","Start Date&Time",module,Magento_ImportExport
+User,Usuário,module,Magento_ImportExport
+"Imported File","Imported File",module,Magento_ImportExport
+"Error File","Arquivo de erro",module,Magento_ImportExport
+"Execution Time","Tempo de execução",module,Magento_ImportExport
+Summary,Resumo,module,Magento_ImportExport

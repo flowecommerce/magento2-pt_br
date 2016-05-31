@@ -1,0 +1,35 @@
+"You saved the alert subscription.","You saved the alert subscription.",module,Magento_ProductAlert
+"There are not enough parameters.","There are not enough parameters.",module,Magento_ProductAlert
+"We can't update the alert subscription right now.","We can't update the alert subscription right now.",module,Magento_ProductAlert
+"Alert subscription has been saved.","Alert subscription has been saved.",module,Magento_ProductAlert
+"You deleted the alert subscription.","You deleted the alert subscription.",module,Magento_ProductAlert
+"We can't find the product.","Produto não encontrado.",module,Magento_ProductAlert
+"You will no longer receive price alerts for this product.","You will no longer receive price alerts for this product.",module,Magento_ProductAlert
+"Unable to update the alert subscription.","Unable to update the alert subscription.",module,Magento_ProductAlert
+"You will no longer receive stock alerts for this product.","You will no longer receive stock alerts for this product.",module,Magento_ProductAlert
+"The product was not found.","The product was not found.",module,Magento_ProductAlert
+"You will no longer receive stock alerts.","You will no longer receive stock alerts.",module,Magento_ProductAlert
+"Invalid block type: %1","Invalid block type: %1",module,Magento_ProductAlert
+"Price change alert! We wanted you to know that prices have changed for these products:","Price change alert! We wanted you to know that prices have changed for these products:",module,Magento_ProductAlert
+Price:,Preço:,module,Magento_ProductAlert
+"Click here to stop alerts for this product.","Clique aqui para parar os alertas para este produto.",module,Magento_ProductAlert
+"Unsubscribe from all price alerts","Unsubscribe from all price alerts",module,Magento_ProductAlert
+"In stock alert! We wanted you to know that these products are now available:","In stock alert! We wanted you to know that these products are now available:",module,Magento_ProductAlert
+"Unsubscribe from all stock alerts","Unsubscribe from all stock alerts",module,Magento_ProductAlert
+"Product alerts cron warnings","Product alerts cron warnings",module,Magento_ProductAlert
+"%name,","%name,",module,Magento_ProductAlert
+"Product Alerts","Alertas de Produto",module,Magento_ProductAlert
+"Allow Alert When Product Price Changes","Allow Alert When Product Price Changes",module,Magento_ProductAlert
+"Allow Alert When Product Comes Back in Stock","Allow Alert When Product Comes Back in Stock",module,Magento_ProductAlert
+"Price Alert Email Template","Price Alert Email Template",module,Magento_ProductAlert
+"Email template chosen based on theme fallback when ""Default"" option is selected.","O modelo de e-mail escolhido baseado no tema ""fallback"" quando a opção ""Padrão"" é selecionada.",module,Magento_ProductAlert
+"Stock Alert Email Template","Stock Alert Email Template",module,Magento_ProductAlert
+"Alert Email Sender","Alert Email Sender",module,Magento_ProductAlert
+"Product Alerts Run Settings","Product Alerts Run Settings",module,Magento_ProductAlert
+Frequency,Frequência,module,Magento_ProductAlert
+"Start Time","Hora de Início",module,Magento_ProductAlert
+"Error Email Recipient","Error Email Recipient",module,Magento_ProductAlert
+"Error Email Sender","Error Email Sender",module,Magento_ProductAlert
+"Error Email Template","Error Email Template",module,Magento_ProductAlert
+"Sign up for price alert","Sign up for price alert",module,Magento_ProductAlert
+"Sign up to be notified when this product is back in stock.","Sign up to be notified when this product is back in stock.",module,Magento_ProductAlert

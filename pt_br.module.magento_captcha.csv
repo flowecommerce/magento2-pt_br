@@ -1,0 +1,28 @@
+Always,Sempre,module,Magento_Captcha
+"After number of attempts to login","Após o número de tentativas de login",module,Magento_Captcha
+"Provided form does not exist","Formulário fornecido não existe",module,Magento_Captcha
+"Incorrect CAPTCHA","CAPTCHA incorreto",module,Magento_Captcha
+"Incorrect CAPTCHA.","CAPTCHA incorreto.",module,Magento_Captcha
+"Please enter the letters from the image","Por favor insira as letras da imagem",module,Magento_Captcha
+"<strong>Attention</strong>: Captcha is case sensitive.","<strong>Atenção</strong>: Captcha diferencia maiúsculas de minúsculas.",module,Magento_Captcha
+"Reload captcha","Recarregar captcha",module,Magento_Captcha
+"Please type the letters below","Por favor, digite as letras abaixo",module,Magento_Captcha
+CAPTCHA,CAPTCHA,module,Magento_Captcha
+"Enable CAPTCHA in Admin","Enable CAPTCHA in Admin",module,Magento_Captcha
+Font,Font,module,Magento_Captcha
+Forms,Forms,module,Magento_Captcha
+"Displaying Mode","Displaying Mode",module,Magento_Captcha
+"Number of Unsuccessful Attempts to Login","Number of Unsuccessful Attempts to Login",module,Magento_Captcha
+"If 0 is specified, CAPTCHA on the Login form will be always available.","If 0 is specified, CAPTCHA on the Login form will be always available.",module,Magento_Captcha
+"CAPTCHA Timeout (minutes)","CAPTCHA Timeout (minutes)",module,Magento_Captcha
+"Number of Symbols","Number of Symbols",module,Magento_Captcha
+"Please specify 8 symbols at the most. Range allowed (e.g. 3-5)","Please specify 8 symbols at the most. Range allowed (e.g. 3-5)",module,Magento_Captcha
+"Symbols Used in CAPTCHA","Symbols Used in CAPTCHA",module,Magento_Captcha
+"
+                        Please use only letters (a-z or A-Z) or numbers (0-9) in this field. No spaces or other characters are allowed.<br />Similar looking characters (e.g. ""i"", ""l"", ""1"") decrease chance of correct recognition by customer.
+                    ","
+                        Please use only letters (a-z or A-Z) or numbers (0-9) in this field. No spaces or other characters are allowed.<br />Similar looking characters (e.g. ""i"", ""l"", ""1"") decrease chance of correct recognition by customer.
+                    ",module,Magento_Captcha
+"Case Sensitive","Case Sensitive",module,Magento_Captcha
+"Enable CAPTCHA on Storefront","Enable CAPTCHA on Storefront",module,Magento_Captcha
+"CAPTCHA for ""Create user"" and ""Forgot password"" forms is always enabled if chosen.","CAPTCHA for ""Create user"" and ""Forgot password"" forms is always enabled if chosen.",module,Magento_Captcha

@@ -1,0 +1,72 @@
+"Widget Insertion","Widget Insertion",module,Magento_Widget
+"Insert Widget","Insert Widget",module,Magento_Widget
+label,rótulo,module,Magento_Widget
+Choose...,Choose...,module,Magento_Widget
+Close,Fechar,module,Magento_Widget
+"Not Selected","Não selecionado",module,Magento_Widget
+Widget,Widget,module,Magento_Widget
+"Widget Type","Widget Type",module,Magento_Widget
+"-- Please Select --","-- Selecione uma opção --",module,Magento_Widget
+"Manage Widget Instances","Manage Widget Instances",module,Magento_Widget
+"Add Widget","Add Widget",module,Magento_Widget
+"Save and Continue Edit","Salvar e Continuar a Editar",module,Magento_Widget
+"Widget ""%1""","Widget ""%1""",module,Magento_Widget
+"New Widget Instance","New Widget Instance",module,Magento_Widget
+"Custom Layouts","Custom Layouts",module,Magento_Widget
+"Page Layouts","Page Layouts",module,Magento_Widget
+"Please Select Container First","Please Select Container First",module,Magento_Widget
+"Storefront Properties","Propriedades da Loja",module,Magento_Widget
+Type,Tipo,module,Magento_Widget
+"Design Package/Theme","Design Package/Theme",module,Magento_Widget
+"Widget Title","Widget Title",module,Magento_Widget
+"Assign to Store Views","Assign to Store Views",module,Magento_Widget
+"Sort Order",Ordernação,module,Magento_Widget
+"Sort Order of widget instances in the same container","Sort Order of widget instances in the same container",module,Magento_Widget
+"Layout Updates","Layout Updates",module,Magento_Widget
+Categories,Categorias,module,Magento_Widget
+"Anchor Categories","Anchor Categories",module,Magento_Widget
+"Non-Anchor Categories","Non-Anchor Categories",module,Magento_Widget
+"All Product Types","All Product Types",module,Magento_Widget
+Products,Produtos,module,Magento_Widget
+"Generic Pages","Generic Pages",module,Magento_Widget
+"All Pages","All Pages",module,Magento_Widget
+"Specified Page","Specified Page",module,Magento_Widget
+"Add Layout Update","Add Layout Update",module,Magento_Widget
+"Remove Layout Update","Remove Layout Update",module,Magento_Widget
+"Widget Options","Widget Options",module,Magento_Widget
+Settings,Configurações,module,Magento_Widget
+"Design Theme","Design do Tema",module,Magento_Widget
+Continue,Próximo,module,Magento_Widget
+"Please specify a Widget Type.","Please specify a Widget Type.",module,Magento_Widget
+CMS,CMS,module,Magento_Widget
+"Please specify a correct widget.","Please specify a correct widget.",module,Magento_Widget
+"The widget instance has been deleted.","The widget instance has been deleted.",module,Magento_Widget
+"New Widget","New Widget",module,Magento_Widget
+Widgets,Widgets,module,Magento_Widget
+"The widget instance has been saved.","The widget instance has been saved.",module,Magento_Widget
+name,nome,module,Magento_Widget
+description,description,module,Magento_Widget
+"We cannot create the widget instance because it is missing required information.","We cannot create the widget instance because it is missing required information.",module,Magento_Widget
+None,Nenhum,module,Magento_Widget
+%1,%1,module,Magento_Widget
+Container,Container,module,Magento_Widget
+Template,Template,module,Magento_Widget
+All,Todos,module,Magento_Widget
+"Specific %1","Specific %1",module,Magento_Widget
+"Open Chooser","Abrir Seletor",module,Magento_Widget
+Apply,Aplicar,module,Magento_Widget
+Page,Página,module,Magento_Widget
+"Orders and Returns","Pedidos e Devoluções",module,Magento_Widget
+"Orders and Returns Search Form","Orders and Returns Search Form",module,Magento_Widget
+"Anchor Custom Title","Anchor Custom Title",module,Magento_Widget
+"CMS Page Link Block Template","CMS Page Link Block Template",module,Magento_Widget
+"CMS Page Link Inline Template","CMS Page Link Inline Template",module,Magento_Widget
+"Display a Link to Loading a Spreadsheet","Display a Link to Loading a Spreadsheet",module,Magento_Widget
+"Defines whether a link to My Account","Defines whether a link to My Account",module,Magento_Widget
+"Link Text","Link Text",module,Magento_Widget
+"The text of the link to the My Account &gt; Order by SKU page","The text of the link to the My Account &gt; Order by SKU page",module,Magento_Widget
+"Load a list of SKUs","Load a list of SKUs",module,Magento_Widget
+Product,Produto,module,Magento_Widget
+"Select Product...","Select Product...",module,Magento_Widget
+Conditions,Condições,module,Magento_Widget
+"Widget ID","Widget ID",module,Magento_Widget

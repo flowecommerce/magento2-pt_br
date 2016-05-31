@@ -1,0 +1,22 @@
+"No New Relic Application ID configured, cannot continue with Cron Event reporting","No New Relic Application ID configured, cannot continue with Cron Event reporting",module,Magento_NewRelicReporting
+"The New Relic integration requires the newrelic-php5 agent, which is not installed. More 
+                        information on installing the agent is available <a target=""_blank"" href=""%1"">here</a>.","The New Relic integration requires the newrelic-php5 agent, which is not installed. More 
+                        information on installing the agent is available <a target=""_blank"" href=""%1"">here</a>.",module,Magento_NewRelicReporting
+"New Relic Reporting","New Relic Reporting",module,Magento_NewRelicReporting
+General,Geral,module,Magento_NewRelicReporting
+"Enable New Relic Integration","Enable New Relic Integration",module,Magento_NewRelicReporting
+"New Relic API URL","New Relic API URL",module,Magento_NewRelicReporting
+"Insights API URL","Insights API URL",module,Magento_NewRelicReporting
+"Use %s to replace the account ID in the URL","Use %s to replace the account ID in the URL",module,Magento_NewRelicReporting
+"New Relic Account ID","New Relic Account ID",module,Magento_NewRelicReporting
+"\"Need a New Relic account? <a href=\"http://www.newrelic.com/magento\" target=\"_blank\">Click here to get one","\"Need a New Relic account? <a href=\"http://www.newrelic.com/magento\" target=\"_blank\">Click here to get one",module,Magento_NewRelicReporting
+"New Relic Application ID","New Relic Application ID",module,Magento_NewRelicReporting
+"This can commonly be found at the end of the URL when viewing the APM after ""/applications/""","This can commonly be found at the end of the URL when viewing the APM after ""/applications/""",module,Magento_NewRelicReporting
+"New Relic API Key","New Relic API Key",module,Magento_NewRelicReporting
+"This is located by navigating to Events -> Deployments from the New Relic APM website","This is located by navigating to Events -> Deployments from the New Relic APM website",module,Magento_NewRelicReporting
+"Insights API Key","Insights API Key",module,Magento_NewRelicReporting
+"Generated under Insights in Manage data -> API Keys -> Insert Keys","Generated under Insights in Manage data -> API Keys -> Insert Keys",module,Magento_NewRelicReporting
+"New Relic Application Name","New Relic Application Name",module,Magento_NewRelicReporting
+"This is located by navigating to Settings from the New Relic APM website","This is located by navigating to Settings from the New Relic APM website",module,Magento_NewRelicReporting
+Cron,Cron,module,Magento_NewRelicReporting
+"Enable Cron","Enable Cron",module,Magento_NewRelicReporting

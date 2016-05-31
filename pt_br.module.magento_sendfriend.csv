@@ -1,0 +1,46 @@
+"Page not found.","Página não encontrada.",module,Magento_SendFriend
+"You can't send messages more than %1 times an hour.","You can't send messages more than %1 times an hour.",module,Magento_SendFriend
+"The link to a friend was sent.","The link to a friend was sent.",module,Magento_SendFriend
+"We found some problems with the data.","We found some problems with the data.",module,Magento_SendFriend
+"Some emails were not sent.","Some emails were not sent.",module,Magento_SendFriend
+"You've met your limit of %1 sends in an hour.","You've met your limit of %1 sends in an hour.",module,Magento_SendFriend
+"Please enter a sender name.","Please enter a sender name.",module,Magento_SendFriend
+"Invalid Sender Email","Invalid Sender Email",module,Magento_SendFriend
+"Please enter a message.","Please enter a message.",module,Magento_SendFriend
+"Please specify at least one recipient.","Please specify at least one recipient.",module,Magento_SendFriend
+"Please enter a correct recipient email address.","Please enter a correct recipient email address.",module,Magento_SendFriend
+"No more than %1 emails can be sent at a time.","No more than %1 emails can be sent at a time.",module,Magento_SendFriend
+"Please define a correct product instance.","Please define a correct product instance.",module,Magento_SendFriend
+"Invalid Sender Information","Invalid Sender Information",module,Magento_SendFriend
+"Please define the correct sender information.","Please define the correct sender information.",module,Magento_SendFriend
+"IP Address","IP Address",module,Magento_SendFriend
+"Cookie (unsafe)","Cookie (unsafe)",module,Magento_SendFriend
+"No Product Exception.","No Product Exception.",module,Magento_SendFriend
+"No Category Exception.","No Category Exception.",module,Magento_SendFriend
+"Some error","Algum erro",module,Magento_SendFriend
+"Localized Exception.","Exceção local (Localized Exception).",module,Magento_SendFriend
+Exception.,Exception.,module,Magento_SendFriend
+"Remove Recipent","Remove Recipent",module,Magento_SendFriend
+Remove,Remover,module,Magento_SendFriend
+Name,Nome,module,Magento_SendFriend
+Email,E-mail,module,Magento_SendFriend
+"* Required Fields","* Campos Obrigatórios",module,Magento_SendFriend
+Sender,Remetente,module,Magento_SendFriend
+Message,Mensagem,module,Magento_SendFriend
+Invitee,Convidado,module,Magento_SendFriend
+"Maximum %1 email addresses allowed.","Maximum %1 email addresses allowed.",module,Magento_SendFriend
+"Add Invitee","Adicionar convidado",module,Magento_SendFriend
+"Send Email","Enviar e-mail",module,Magento_SendFriend
+Back,Voltar,module,Magento_SendFriend
+"%name,","%name,",module,Magento_SendFriend
+"%sender_name wants to share this product with you:","%sender_name wants to share this product with you:",module,Magento_SendFriend
+"Message from %sender_name:","Message from %sender_name:",module,Magento_SendFriend
+"Email to a Friend","Email to a Friend",module,Magento_SendFriend
+"Email Templates","Modelos de e-mail",module,Magento_SendFriend
+Enabled,Habilitado,module,Magento_SendFriend
+"Select Email Template","Select Email Template",module,Magento_SendFriend
+"Email template chosen based on theme fallback when ""Default"" option is selected.","O modelo de e-mail escolhido baseado no tema ""fallback"" quando a opção ""Padrão"" é selecionada.",module,Magento_SendFriend
+"Allow for Guests","Allow for Guests",module,Magento_SendFriend
+"Max Recipients","Max Recipients",module,Magento_SendFriend
+"Max Products Sent in 1 Hour","Max Products Sent in 1 Hour",module,Magento_SendFriend
+"Limit Sending By","Limit Sending By",module,Magento_SendFriend

@@ -1,0 +1,68 @@
+"Gift Wrapping","Embrulho para presente",module,Magento_GiftWrapping
+"Add Gift Wrapping","Adicionar embalagem de presente",module,Magento_GiftWrapping
+"Save and Continue Edit","Salvar e Continuar a Editar",module,Magento_GiftWrapping
+"Are you sure you want to delete this gift wrapping?","Are you sure you want to delete this gift wrapping?",module,Magento_GiftWrapping
+"Edit Gift Wrapping ""%1""","Edit Gift Wrapping ""%1""",module,Magento_GiftWrapping
+"New Gift Wrapping","New Gift Wrapping",module,Magento_GiftWrapping
+"Gift Wrapping Information","Informações de embalagem de presente",module,Magento_GiftWrapping
+"Gift Wrapping Design","Design da embalagem de presente",module,Magento_GiftWrapping
+Websites,Websites,module,Magento_GiftWrapping
+Status,Status,module,Magento_GiftWrapping
+Enabled,Habilitado,module,Magento_GiftWrapping
+Disabled,Desabilitado,module,Magento_GiftWrapping
+Price,Preço,module,Magento_GiftWrapping
+Image,Imagem,module,Magento_GiftWrapping
+[GLOBAL],[GLOBAL],module,Magento_GiftWrapping
+[WEBSITE],[WEBSITE],module,Magento_GiftWrapping
+"[STORE VIEW]","[VISÃO DE LOJA]",module,Magento_GiftWrapping
+"Please request the correct gift wrapping.","Por favor, solicite a embalagem de presente correta.",module,Magento_GiftWrapping
+"You updated a total of %1 records.","Você atualizou um total de %1 registros.",module,Magento_GiftWrapping
+"Something went wrong while updating the wrapping(s) status.","Ocorreu um erro ao atualizar o status da(s) embalagem(s).",module,Magento_GiftWrapping
+"You deleted the gift wrapping.","Você excluiu a embalagem de presente.",module,Magento_GiftWrapping
+%1,%1,module,Magento_GiftWrapping
+"Please select items.","Por favor, selecione itens.",module,Magento_GiftWrapping
+"You deleted a total of %1 records.","Você excluiu um total de %1 registros.",module,Magento_GiftWrapping
+"You have not uploaded the image.","Você não enviou a imagem.",module,Magento_GiftWrapping
+"You saved the gift wrapping.","Você salvou a embalagem de presente.",module,Magento_GiftWrapping
+"We can't save the gift wrapping right now.","Não foi possível salvar a embalagem de presente.",module,Magento_GiftWrapping
+"We can't update the image right now.","No momento, não foi possível atualizar a imagem.",module,Magento_GiftWrapping
+"Please select","Selecione por favor",module,Magento_GiftWrapping
+"Excluding Tax","Excluindo impostos",module,Magento_GiftWrapping
+"Including Tax","Incluindo o imposto",module,Magento_GiftWrapping
+"Including and Excluding Tax","Incluindo e excluindo impostos",module,Magento_GiftWrapping
+None,Nenhum,module,Magento_GiftWrapping
+"The image content must be valid data.","O conteúdo da imagem deve conter dados válidos.",module,Magento_GiftWrapping
+"The image extension ""%1"" not allowed.","A extensão de imagem ""%1"" não é permitida.",module,Magento_GiftWrapping
+"Provided image name contains forbidden characters.","O nome de arquivo fornecido contém caracteres proibidos.",module,Magento_GiftWrapping
+"The image MIME type is not valid or not supported.","A tipo MIME da imagem não é válido ou não é suportado.",module,Magento_GiftWrapping
+"Gift Wrapping with specified ID ""%1"" not found.","Gift Wrapping with specified ID ""%1"" not found.",module,Magento_GiftWrapping
+"Please enter valid currency code: %1","Por favor, digite um código de moeda válida: %1",module,Magento_GiftWrapping
+"Unable to remove gift wrapping %1","Não foi possível remover a embalagem de presente %1",module,Magento_GiftWrapping
+"Printed Card","Cartão impresso",module,Magento_GiftWrapping
+"Use Default Value","Usar o Valor Padrão",module,Magento_GiftWrapping
+"Leave a box blank if you don't want to add gift wrapping for whole order.","Deixe essa caixa em branco, se você não quer adicionar uma embalagem de presente para todo pedido.",module,Magento_GiftWrapping
+"Price Excl. Tax","Preço excl. imposto",module,Magento_GiftWrapping
+"Price Incl. Tax","Preço incl. imposto",module,Magento_GiftWrapping
+"Send Gift Receipt","Enviar recibo de presente",module,Magento_GiftWrapping
+"Add Printed Card","Adicionar cartão impresso",module,Magento_GiftWrapping
+"Gift Wrapping for the Entire Order","Embalagem de presente para o pedido inteiro",module,Magento_GiftWrapping
+"Other Gift Options","Outras opções de presente",module,Magento_GiftWrapping
+"Excl. Tax","Excl. Impostos",module,Magento_GiftWrapping
+"Incl. Tax","Imposto Incl.",module,Magento_GiftWrapping
+"Custom Price","Preço personalizado ",module,Magento_GiftWrapping
+Preview,Pré-visualização,module,Magento_GiftWrapping
+"Allow Gift Wrapping on Order Level","Allow Gift Wrapping on Order Level",module,Magento_GiftWrapping
+"Allow Gift Wrapping for Order Items","Allow Gift Wrapping for Order Items",module,Magento_GiftWrapping
+"Allow Gift Receipt","Allow Gift Receipt",module,Magento_GiftWrapping
+"Allow Printed Card","Allow Printed Card",module,Magento_GiftWrapping
+"Default Price for Printed Card","Default Price for Printed Card",module,Magento_GiftWrapping
+"Tax Class for Gift Options","Tax Class for Gift Options",module,Magento_GiftWrapping
+"Display Gift Wrapping Prices","Display Gift Wrapping Prices",module,Magento_GiftWrapping
+"Display Printed Card Prices","Display Printed Card Prices",module,Magento_GiftWrapping
+Delete,Excluir,module,Magento_GiftWrapping
+"Are you sure you want to delete the selected gift wrappings?","Are you sure you want to delete the selected gift wrappings?",module,Magento_GiftWrapping
+"Change Status","Mudar Status",module,Magento_GiftWrapping
+ID,ID,module,Magento_GiftWrapping
+"Gift Wrap Design","Gift Wrap Design",module,Magento_GiftWrapping
+Action,Ação,module,Magento_GiftWrapping
+Edit,Editar,module,Magento_GiftWrapping

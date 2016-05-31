@@ -1,0 +1,19 @@
+Code,Código,module,Magento_TaxImportExport
+Country,País,module,Magento_TaxImportExport
+State,State,module,Magento_TaxImportExport
+"Zip/Post Code","Zip/Post Code",module,Magento_TaxImportExport
+Rate,Rate,module,Magento_TaxImportExport
+"Zip/Post is Range","Zip/Post is Range",module,Magento_TaxImportExport
+"Range From","Range From",module,Magento_TaxImportExport
+"Range To","Range To",module,Magento_TaxImportExport
+"Tax Zones and Rates","Tax Zones and Rates",module,Magento_TaxImportExport
+"Import and Export Tax Rates","Import and Export Tax Rates",module,Magento_TaxImportExport
+"The tax rate has been imported.","The tax rate has been imported.",module,Magento_TaxImportExport
+"Invalid file upload attempt","Invalid file upload attempt",module,Magento_TaxImportExport
+"Invalid file upload attempt.","Invalid file upload attempt.",module,Magento_TaxImportExport
+"Invalid file format.","Invalid file format.",module,Magento_TaxImportExport
+"One of the countries has invalid code.","One of the countries has invalid code.",module,Magento_TaxImportExport
+"Import Tax Rates","Import Tax Rates",module,Magento_TaxImportExport
+"Export Tax Rates","Export Tax Rates",module,Magento_TaxImportExport
+CSV,CSV,module,Magento_TaxImportExport
+"Excel XML","Excel, XML",module,Magento_TaxImportExport

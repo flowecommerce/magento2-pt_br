@@ -1,0 +1,103 @@
+Country,País,module,Magento_BraintreeTwo
+"Allowed Credit Card Types","Permitido tipos de Cartão de Crédito",module,Magento_BraintreeTwo
+"Add Rule","Adicionar Regra",module,Magento_BraintreeTwo
+"Braintree Settlement Report","Braintree Settlement Report",module,Magento_BraintreeTwo
+"Sorry, but something went wrong","Sorry, but something went wrong",module,Magento_BraintreeTwo
+"We can\'t initialize checkout.","We can\'t initialize checkout.",module,Magento_BraintreeTwo
+"No authorization transaction to proceed capture.","No authorization transaction to proceed capture.",module,Magento_BraintreeTwo
+"Braintree error response.","Braintree error response.",module,Magento_BraintreeTwo
+"Payment method nonce can\'t be retrieved.","Payment method nonce can\'t be retrieved.",module,Magento_BraintreeTwo
+"Wrong transaction status","Wrong transaction status",module,Magento_BraintreeTwo
+Authorize,Autorizar,module,Magento_BraintreeTwo
+"Authorize and Capture","Autorizar e Capturar",module,Magento_BraintreeTwo
+"--Please Select--","--Por Favor Selecione--",module,Magento_BraintreeTwo
+"Please agree to all the terms and conditions before placing the order.","Please agree to all the terms and conditions before placing the order.",module,Magento_BraintreeTwo
+"Paypal account","Paypal account",module,Magento_BraintreeTwo
+"Coinbase account","Coinbase account",module,Magento_BraintreeTwo
+"Europe bank account","Europe bank account",module,Magento_BraintreeTwo
+"Credit card","Credit card",module,Magento_BraintreeTwo
+"Apple pay card","Apple pay card",module,Magento_BraintreeTwo
+"Android pay card","Android pay card",module,Magento_BraintreeTwo
+"Authorization expired","Authorization expired",module,Magento_BraintreeTwo
+Authorizing,Authorizing,module,Magento_BraintreeTwo
+Authorized,Authorized,module,Magento_BraintreeTwo
+"Gateway rejected","Gateway rejected",module,Magento_BraintreeTwo
+Failed,Failed,module,Magento_BraintreeTwo
+"Processor declined","Processor declined",module,Magento_BraintreeTwo
+Settled,Settled,module,Magento_BraintreeTwo
+Settling,Settling,module,Magento_BraintreeTwo
+"Submitted for settlement","Submitted for settlement",module,Magento_BraintreeTwo
+Voided,Voided,module,Magento_BraintreeTwo
+Unrecognized,Unrecognized,module,Magento_BraintreeTwo
+"Settlement declined","Settlement declined",module,Magento_BraintreeTwo
+"Settlement pending","Settlement pending",module,Magento_BraintreeTwo
+"Settlement confirmed","Settlement confirmed",module,Magento_BraintreeTwo
+Sale,Sale,module,Magento_BraintreeTwo
+Credit,Credit,module,Magento_BraintreeTwo
+"Credit Card Type","Tipo do Cartão de Crédito",module,Magento_BraintreeTwo
+"Credit Card Number","Número do Cartão de Crédito",module,Magento_BraintreeTwo
+"Please, enter valid Credit Card Number","Please, enter valid Credit Card Number",module,Magento_BraintreeTwo
+"Expiration Date","Data de Validade",module,Magento_BraintreeTwo
+"Please, enter valid Expiration Date","Please, enter valid Expiration Date",module,Magento_BraintreeTwo
+"Card Verification Number","Código de Verificação do Cartão",module,Magento_BraintreeTwo
+"Please, enter valid Card Verification Number","Please, enter valid Card Verification Number",module,Magento_BraintreeTwo
+ending,ending,module,Magento_BraintreeTwo
+expires,expires,module,Magento_BraintreeTwo
+"Credit Card Information","Informações do cartão de crédito",module,Magento_BraintreeTwo
+"What is this?","O que é isto?",module,Magento_BraintreeTwo
+"Save for later use.","Save for later use.",module,Magento_BraintreeTwo
+"Place Order","Finalizar Pedido",module,Magento_BraintreeTwo
+"This payment is not available","This payment is not available",module,Magento_BraintreeTwo
+MM,MM,module,Magento_BraintreeTwo
+YY,YY,module,Magento_BraintreeTwo
+"Please try again with another form of payment.","Please try again with another form of payment.",module,Magento_BraintreeTwo
+"Sorry, but something went wrong.","Sorry, but something went wrong.",module,Magento_BraintreeTwo
+BraintreeTwo,BraintreeTwo,module,Magento_BraintreeTwo
+&nbsp;,&nbsp;,module,Magento_BraintreeTwo
+"Enable this Solution","Enable this Solution",module,Magento_BraintreeTwo
+"Enable PayPal through Braintree","Enable PayPal through Braintree",module,Magento_BraintreeTwo
+"Basic BraintreeTwo Settings","Basic BraintreeTwo Settings",module,Magento_BraintreeTwo
+Title,Título,module,Magento_BraintreeTwo
+Environment,Environment,module,Magento_BraintreeTwo
+"Payment Action","Payment Action",module,Magento_BraintreeTwo
+"Merchant ID","Merchant ID",module,Magento_BraintreeTwo
+"Public Key","Public Key",module,Magento_BraintreeTwo
+"Private Key","Private Key",module,Magento_BraintreeTwo
+"Advanced Braintree Settings","Advanced Braintree Settings",module,Magento_BraintreeTwo
+"Merchant Account ID","Merchant Account ID",module,Magento_BraintreeTwo
+"Advanced Fraud Protection","Advanced Fraud Protection",module,Magento_BraintreeTwo
+"Kount Merchant ID","Kount Merchant ID",module,Magento_BraintreeTwo
+Debug,Depurar/Debug,module,Magento_BraintreeTwo
+"CVV Verification","Verificação de CVV",module,Magento_BraintreeTwo
+"Credit Card Types","Credit Card Types",module,Magento_BraintreeTwo
+"Sort Order",Ordernação,module,Magento_BraintreeTwo
+"Country Specific Settings","Country Specific Settings",module,Magento_BraintreeTwo
+"Payment from Applicable Countries","Payment from Applicable Countries",module,Magento_BraintreeTwo
+"Payment from Specific Countries","Payment from Specific Countries",module,Magento_BraintreeTwo
+"Country Specific Credit Card Types","Country Specific Credit Card Types",module,Magento_BraintreeTwo
+"PayPal through Braintree","PayPal through Braintree",module,Magento_BraintreeTwo
+"Override Merchant Name","Override Merchant Name",module,Magento_BraintreeTwo
+"Require Customer's Billing Address","Require Customer's Billing Address",module,Magento_BraintreeTwo
+"Allow to Edit Shipping Address Entered During Checkout on PayPal Side","Allow to Edit Shipping Address Entered During Checkout on PayPal Side",module,Magento_BraintreeTwo
+"Display on Shopping Cart","Display on Shopping Cart",module,Magento_BraintreeTwo
+"3D Secure Verification Settings","3D Secure Verification Settings",module,Magento_BraintreeTwo
+"3D Secure Verification","3D Secure Verification",module,Magento_BraintreeTwo
+"Threshold Amount","Threshold Amount",module,Magento_BraintreeTwo
+"Verify for Applicable Countries","Verify for Applicable Countries",module,Magento_BraintreeTwo
+"Verify for Specific Countries","Verify for Specific Countries",module,Magento_BraintreeTwo
+"Apply filters in order to get results. Only first 100 records will be displayed in the grid, you will be able to download full version of the report in .csv format.","Apply filters in order to get results. Only first 100 records will be displayed in the grid, you will be able to download full version of the report in .csv format.",module,Magento_BraintreeTwo
+Select...,Select...,module,Magento_BraintreeTwo
+Status,Status,module,Magento_BraintreeTwo
+"Transaction Type","Transaction Type",module,Magento_BraintreeTwo
+"PayPal Payment ID","PayPal Payment ID",module,Magento_BraintreeTwo
+"Transaction ID","Transaction ID",module,Magento_BraintreeTwo
+"Order ID","Order ID",module,Magento_BraintreeTwo
+"Payment Type","Payment Type",module,Magento_BraintreeTwo
+Type,Type,module,Magento_BraintreeTwo
+"Created At","Created At",module,Magento_BraintreeTwo
+Amount,Amount,module,Magento_BraintreeTwo
+"Settlement Code","Settlement Code",module,Magento_BraintreeTwo
+"Settlement Response Text","Settlement Response Text",module,Magento_BraintreeTwo
+"Refund Ids","Refund Ids",module,Magento_BraintreeTwo
+"Settlement Batch ID","Settlement Batch ID",module,Magento_BraintreeTwo
+Currency,Currency,module,Magento_BraintreeTwo

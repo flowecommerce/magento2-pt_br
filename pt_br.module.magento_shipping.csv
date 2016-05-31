@@ -1,0 +1,177 @@
+"New Shipment for Order #%1","New Shipment for Order #%1",module,Magento_Shipping
+"Submit Shipment","Submit Shipment",module,Magento_Shipping
+"You are trying to add a quantity for some products that doesn't match the quantity that was shipped.","You are trying to add a quantity for some products that doesn't match the quantity that was shipped.",module,Magento_Shipping
+"Products should be added to package(s)","Products should be added to package(s)",module,Magento_Shipping
+"The value that you entered is not valid.","The value that you entered is not valid.",module,Magento_Shipping
+"Add Tracking Number","Add Tracking Number",module,Magento_Shipping
+"Custom Value","Valor personalizado",module,Magento_Shipping
+Add,Adicionar,module,Magento_Shipping
+"Send Tracking Information","Send Tracking Information",module,Magento_Shipping
+"Are you sure you want to send a Shipment email to customer?","Are you sure you want to send a Shipment email to customer?",module,Magento_Shipping
+Print,Imprimir,module,Magento_Shipping
+"the shipment email was sent","the shipment email was sent",module,Magento_Shipping
+"the shipment email is not sent","the shipment email is not sent",module,Magento_Shipping
+"Shipment #%1 | %3 (%2)","Shipment #%1 | %3 (%2)",module,Magento_Shipping
+"Create Shipping Label...","Create Shipping Label...",module,Magento_Shipping
+"Print Shipping Label","Imprimir etiqueta de envio",module,Magento_Shipping
+"Show Packages","Exibir pacotes",module,Magento_Shipping
+"About Your Shipment","About Your Shipment",module,Magento_Shipping
+"Order # %1","Pedido #%1",module,Magento_Shipping
+"Back to My Orders","Voltar para Meus Pedidos",module,Magento_Shipping
+"View Another Order","Ver outro pedido",module,Magento_Shipping
+"Please enter a comment.","Por favor, digite um comentário.",module,Magento_Shipping
+"Cannot add new comment.","Não é possível adicionar novos comentários.",module,Magento_Shipping
+"Please specify a carrier.","Please specify a carrier.",module,Magento_Shipping
+"Please enter a tracking number.","Por favor, digite um número de rastreamento.",module,Magento_Shipping
+Shipments,Postagens,module,Magento_Shipping
+"We can't initialize shipment for adding tracking number.","We can't initialize shipment for adding tracking number.",module,Magento_Shipping
+"Cannot add tracking number.","Cannot add tracking number.",module,Magento_Shipping
+"You created the shipping label.","You created the shipping label.",module,Magento_Shipping
+"An error occurred while creating shipping label.","An error occurred while creating shipping label.",module,Magento_Shipping
+"You sent the shipment.","You sent the shipment.",module,Magento_Shipping
+"Cannot send shipment information.","Cannot send shipment information.",module,Magento_Shipping
+"There are no shipping labels related to selected orders.","There are no shipping labels related to selected orders.",module,Magento_Shipping
+"New Shipment","New Shipment",module,Magento_Shipping
+"We don't recognize or support the file extension in this shipment: %1.","We don't recognize or support the file extension in this shipment: %1.",module,Magento_Shipping
+"We can't initialize shipment for delete tracking number.","We can't initialize shipment for delete tracking number.",module,Magento_Shipping
+"We can't delete tracking number.","We can't delete tracking number.",module,Magento_Shipping
+"We can't load track with retrieving identifier right now.","We can't load track with retrieving identifier right now.",module,Magento_Shipping
+"We can't save the shipment right now.","We can't save the shipment right now.",module,Magento_Shipping
+"The shipment has been created.","The shipment has been created.",module,Magento_Shipping
+"Cannot save shipment.","Cannot save shipment.",module,Magento_Shipping
+"The order no longer exists.","O pedido não existe mais.",module,Magento_Shipping
+"Cannot do shipment for the order separately from invoice.","Cannot do shipment for the order separately from invoice.",module,Magento_Shipping
+"Cannot do shipment for the order.","Cannot do shipment for the order.",module,Magento_Shipping
+"There are no shipping labels related to selected shipments.","There are no shipping labels related to selected shipments.",module,Magento_Shipping
+"Page not found.","Página não encontrada.",module,Magento_Shipping
+"Tracking Information","Tracking Information",module,Magento_Shipping
+"Sorry, but we can't deliver to the destination country with this shipping module.","Sorry, but we can't deliver to the destination country with this shipping module.",module,Magento_Shipping
+"The shipping module is not available.","The shipping module is not available.",module,Magento_Shipping
+"This shipping method is not available. Please specify the zip code.","This shipping method is not available. Please specify the zip code.",module,Magento_Shipping
+"No packages for request","Não há pacotes para solicitação",module,Magento_Shipping
+"Security validation of XML document has been failed.","Security validation of XML document has been failed.",module,Magento_Shipping
+"All Allowed Countries","Todos os países permitido",module,Magento_Shipping
+"Specific Countries","Países específicos",module,Magento_Shipping
+Development,Development,module,Magento_Shipping
+Live,Live,module,Magento_Shipping
+"Divide to equal weight (one request)","Divide to equal weight (one request)",module,Magento_Shipping
+"Use origin weight (few requests)","Use origin weight (few requests)",module,Magento_Shipping
+Packages,Packages,module,Magento_Shipping
+Package,Pacote,module,Magento_Shipping
+Type,Tipo,module,Magento_Shipping
+Length,Length,module,Magento_Shipping
+"Signature Confirmation","Signature Confirmation",module,Magento_Shipping
+"Customs Value","Valor personalizado",module,Magento_Shipping
+Width,Largura,module,Magento_Shipping
+Contents,Contents,module,Magento_Shipping
+"Total Weight","Peso total",module,Magento_Shipping
+Height,Altura,module,Magento_Shipping
+Size,Tamanho,module,Magento_Shipping
+Girth,Circunferência,module,Magento_Shipping
+"Items in the Package","Items in the Package",module,Magento_Shipping
+Product,Produto,module,Magento_Shipping
+Weight,Peso,module,Magento_Shipping
+"Qty Ordered","Qtde comprada",module,Magento_Shipping
+Qty,Qtd,module,Magento_Shipping
+"No detail for number ""%1""","No detail for number ""%1""",module,Magento_Shipping
+"Shipping labels is not available.","Shipping labels is not available.",module,Magento_Shipping
+"Response info is not exist.","Response info is not exist.",module,Magento_Shipping
+"Invalid carrier: %1","Invalid carrier: %1",module,Magento_Shipping
+"We don't have enough information to create shipping labels. Please make sure your store information and settings are complete.","We don't have enough information to create shipping labels. Please make sure your store information and settings are complete.",module,Magento_Shipping
+"Per Order","Por pedido",module,Magento_Shipping
+"Per Package","Per Package",module,Magento_Shipping
+Fixed,Fixo,module,Magento_Shipping
+Percent,"Por cento",module,Magento_Shipping
+"Tracking information is unavailable.","Tracking information is unavailable.",module,Magento_Shipping
+message,mensagem,module,Magento_Shipping
+"Email has not been sent","Email não foi enviado",module,Magento_Shipping
+"Payment &amp; Shipping Method","Pagamento &amp; método de envio",module,Magento_Shipping
+"Payment Information","Informação de Pagamento",module,Magento_Shipping
+"The order was placed using %1.","O pedido foi realizado usando %1.",module,Magento_Shipping
+"Shipping Information","Dados de Entrega",module,Magento_Shipping
+"Total Shipping Charges","Total Shipping Charges",module,Magento_Shipping
+"Incl. Tax","Imposto Incl.",module,Magento_Shipping
+"Items to Ship","Items to Ship",module,Magento_Shipping
+"Qty to Ship","Qty to Ship",module,Magento_Shipping
+Ship,Enviar,module,Magento_Shipping
+"Shipment Total","Shipment Total",module,Magento_Shipping
+"Shipment Comments","Shipment Comments",module,Magento_Shipping
+"Comment Text","Texto do comentário",module,Magento_Shipping
+"Shipment Options","Shipment Options",module,Magento_Shipping
+"Create Shipping Label","Criar etiquetas de envio",module,Magento_Shipping
+"Append Comments","Acrescentar comentários",module,Magento_Shipping
+"Email Copy of Shipment","Email Copy of Shipment",module,Magento_Shipping
+"Invalid value(s) for Qty to Ship","Invalid value(s) for Qty to Ship",module,Magento_Shipping
+"Select All","Selecionar Todos",module,Magento_Shipping
+"Product Name","Nome do produto",module,Magento_Shipping
+Delete,Excluir,module,Magento_Shipping
+"Create Packages","Criar pacotes",module,Magento_Shipping
+Cancel,Cancelar,module,Magento_Shipping
+Save,Salvar,module,Magento_Shipping
+"Add Package","Adicionar pacote",module,Magento_Shipping
+"Add Selected Product(s) to Package","Add Selected Product(s) to Package",module,Magento_Shipping
+"Add Products to Package","Add Products to Package",module,Magento_Shipping
+"USPS domestic shipments don't use package types.","USPS domestic shipments don't use package types.",module,Magento_Shipping
+in,in,module,Magento_Shipping
+cm,cm,module,Magento_Shipping
+lb,lb,module,Magento_Shipping
+kg,kg,module,Magento_Shipping
+"Delete Package","Delete Package",module,Magento_Shipping
+Explanation,Explanation,module,Magento_Shipping
+Carrier,Carrier,module,Magento_Shipping
+Title,Título,module,Magento_Shipping
+Number,Número,module,Magento_Shipping
+Action,Ação,module,Magento_Shipping
+"Are you sure?","Você tem certeza?",module,Magento_Shipping
+"Shipping &amp; Handling Information","Shipping &amp; Handling Information",module,Magento_Shipping
+"Track Order","Track Order",module,Magento_Shipping
+"No shipping information available","No shipping information available",module,Magento_Shipping
+"Shipping and Tracking Information","Shipping and Tracking Information",module,Magento_Shipping
+"Track this shipment","Track this shipment",module,Magento_Shipping
+"Items Shipped","Items Shipped",module,Magento_Shipping
+"Order Total","Total do Pedido",module,Magento_Shipping
+"Shipment History","Shipment History",module,Magento_Shipping
+"Qty Shipped","Quantidade enviada",module,Magento_Shipping
+"Print All Shipments","Print All Shipments",module,Magento_Shipping
+"Shipment #","Shipment #",module,Magento_Shipping
+"Print Shipment","Print Shipment",module,Magento_Shipping
+"Tracking Number(s):","Tracking Number(s):",module,Magento_Shipping
+SKU,SKU,module,Magento_Shipping
+"Order tracking","Order tracking",module,Magento_Shipping
+"Tracking Number:","Tracking Number:",module,Magento_Shipping
+Carrier:,Carrier:,module,Magento_Shipping
+Error:,Error:,module,Magento_Shipping
+"Tracking information is currently not available. Please ","Tracking information is currently not available. Please ",module,Magento_Shipping
+"contact us","contact us",module,Magento_Shipping
+" for more information or "," for more information or ",module,Magento_Shipping
+"email us at ","email us at ",module,Magento_Shipping
+Info:,Info:,module,Magento_Shipping
+Track:,Track:,module,Magento_Shipping
+Status:,Status:,module,Magento_Shipping
+"Delivered on:","Delivered on:",module,Magento_Shipping
+"Signed by:","Signed by:",module,Magento_Shipping
+"Delivered to:","Delivered to:",module,Magento_Shipping
+"Shipped or billed on:","Shipped or billed on:",module,Magento_Shipping
+"Service Type:","Service Type:",module,Magento_Shipping
+Weight:,Weight:,module,Magento_Shipping
+N/A,"Não Disponível",module,Magento_Shipping
+"Track history","Track history",module,Magento_Shipping
+Location,Localização,module,Magento_Shipping
+Date,Data,module,Magento_Shipping
+"Local Time","Local Time",module,Magento_Shipping
+Description,Descrição,module,Magento_Shipping
+"There is no tracking available for this shipment.","There is no tracking available for this shipment.",module,Magento_Shipping
+"There is no tracking available.","There is no tracking available.",module,Magento_Shipping
+"Close Window","Fechar Janela",module,Magento_Shipping
+"Shipping Settings","Shipping Settings",module,Magento_Shipping
+Origin,Origem,module,Magento_Shipping
+Country,País,module,Magento_Shipping
+Region/State,Região/estado,module,Magento_Shipping
+"ZIP/Postal Code","CEP/Código Postal",module,Magento_Shipping
+City,Cidade,module,Magento_Shipping
+"Street Address",Endereço,module,Magento_Shipping
+"Street Address Line 2","Street Address Line 2",module,Magento_Shipping
+"Shipping Policy Parameters","Shipping Policy Parameters",module,Magento_Shipping
+"Apply custom Shipping Policy","Apply custom Shipping Policy",module,Magento_Shipping
+"Shipping Policy","Política de envio",module,Magento_Shipping
+"Shipping Methods","Métodos de envio",module,Magento_Shipping

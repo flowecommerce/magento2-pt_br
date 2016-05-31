@@ -1,0 +1,129 @@
+"Admin Actions Log Archive","Admin Actions Log Archive",module,Magento_Logging
+Back,Voltar,module,Magento_Logging
+"Log Entry #%1","Log Entry #%1",module,Magento_Logging
+"Log Entry Details","Log Entry Details",module,Magento_Logging
+"Source Data","Source Data",module,Magento_Logging
+"Value Before Change","Value Before Change",module,Magento_Logging
+"Value After Change","Value After Change",module,Magento_Logging
+"No changes","Sem alterações",module,Magento_Logging
+"The item was deleted","O item foi excluído",module,Magento_Logging
+N/A,"Não Disponível",module,Magento_Logging
+"All Users","Todos os usuários",module,Magento_Logging
+"Admin Actions Log","Admin Actions Log",module,Magento_Logging
+"Admin Actions Archive","Admin Actions Archive",module,Magento_Logging
+Report,Relatório,module,Magento_Logging
+label,rótulo,module,Magento_Logging
+"actions' 'label","actions' 'label",module,Magento_Logging
+"%1 & applied","%1 & applied",module,Magento_Logging
+"Tax Rates Import","Importação de taxas de imposto",module,Magento_Logging
+"Attributes Updated","Attributes Updated",module,Magento_Logging
+"Currency Rates Saved","Currency Rates Saved",module,Magento_Logging
+"Cache types: %1 ","Cache types: %1 ",module,Magento_Logging
+"Tax Rates Export","Tax Rates Export",module,Magento_Logging
+"Unknown callback function: %1::%2","Unknown callback function: %1::%2",module,Magento_Logging
+"You need more permissions to access this.","Você precisa mais permissões para acessar isso.",module,Magento_Logging
+Success,Sucesso,module,Magento_Logging
+Failure,Falha,module,Magento_Logging
+Daily,Diário,module,Magento_Logging
+Weekly,Semanal,module,Magento_Logging
+Monthly,Mensal,module,Magento_Logging
+"This user is locked","This user is locked",module,Magento_Logging
+"Admin User Data","Dados do usuário admin",module,Magento_Logging
+"Aggregated Information","Aggregated Information",module,Magento_Logging
+"Admin User ID","Admin User ID",module,Magento_Logging
+"Admin User Name","Admin User Name",module,Magento_Logging
+IP-Address,"Endereço IP",module,Magento_Logging
+"X-Forwarded For","X-Forwarded For",module,Magento_Logging
+"Error Message","Mensagem de erro",module,Magento_Logging
+"Related Changes","Alterações relacionadas",module,Magento_Logging
+"Admin Actions Log Archiving","Admin Actions Log Archiving",module,Magento_Logging
+"Log Entry Lifetime, Days","Log Entry Lifetime, Days",module,Magento_Logging
+"Log Archiving Frequency","Log Archiving Frequency",module,Magento_Logging
+"Admin Actions Logging","Admin Actions Logging",module,Magento_Logging
+"Enabled Actions","Enabled Actions",module,Magento_Logging
+1,1,module,Magento_Logging
+View,Visualizar,module,Magento_Logging
+Save,Salvar,module,Magento_Logging
+Delete,Excluir,module,Magento_Logging
+"Mass Delete","Exclusão em massa",module,Magento_Logging
+Export,Exportar,module,Magento_Logging
+Import,Importar,module,Magento_Logging
+Edit,Editar,module,Magento_Logging
+"Mass Update","Atualização em massa",module,Magento_Logging
+Move,Mover,module,Magento_Logging
+New,Novo,module,Magento_Logging
+"Forgot Password","Esqueci a senha",module,Magento_Logging
+"Global Search","Global Search",module,Magento_Logging
+Apply,Aplicar,module,Magento_Logging
+Reorder,"Refazer pedido",module,Magento_Logging
+Print,Imprimir,module,Magento_Logging
+Email,E-mail,module,Magento_Logging
+Run,Executar,module,Magento_Logging
+Rollback,Reversão,module,Magento_Logging
+"Reindex Process","Reindex Process",module,Magento_Logging
+Clean,Limpar,module,Magento_Logging
+Flush,Flush,module,Magento_Logging
+Fetch,Busca,module,Magento_Logging
+"Update Payment","Update Payment",module,Magento_Logging
+"Update State","Update State",module,Magento_Logging
+Login,Entrar,module,Magento_Logging
+Send,Enviar,module,Magento_Logging
+Create,Create,module,Magento_Logging
+"Catalog Products","Catálogo de produtos",module,Magento_Logging
+"Catalog Categories","Categorias do catálogo",module,Magento_Logging
+"URL Rewrites","URL Rewrites",module,Magento_Logging
+"Catalog Search","Catalog Search",module,Magento_Logging
+"Catalog Ratings","Catalog Ratings",module,Magento_Logging
+"Catalog Reviews","Catalog Reviews",module,Magento_Logging
+"Catalog Attributes","Catalog Attributes",module,Magento_Logging
+"Catalog Product Templates","Catalog Product Templates",module,Magento_Logging
+"Admin Sign In","Admin Sign In",module,Magento_Logging
+"CMS Pages","Páginas CMS",module,Magento_Logging
+"CMS Blocks","CMS Blocks",module,Magento_Logging
+Customers,Clientes,module,Magento_Logging
+"Customer Groups","Grupos de Cliente",module,Magento_Logging
+Reports,Relatórios,module,Magento_Logging
+"System Configuration","System Configuration",module,Magento_Logging
+"Catalog Price Rules","Catalog Price Rules",module,Magento_Logging
+"Cart Price Rules","Cart Price Rules",module,Magento_Logging
+"Admin My Account","Admin My Account",module,Magento_Logging
+"Newsletter Queue","Newsletter Queue",module,Magento_Logging
+"Newsletter Templates","Modelos de newsletter",module,Magento_Logging
+"Newsletter Subscribers","Newsletter Subscribers",module,Magento_Logging
+"Sales Orders","Sales Orders",module,Magento_Logging
+"Sales Order Status","Sales Order Status",module,Magento_Logging
+"Sales Invoices","Sales Invoices",module,Magento_Logging
+"Sales Shipments","Sales Shipments",module,Magento_Logging
+"Sales Credit Memos","Sales Credit Memos",module,Magento_Logging
+"Checkout Terms and Conditions","Termos e Condições da Compra",module,Magento_Logging
+"Admin Permission Roles","Admin Permission Roles",module,Magento_Logging
+"Admin Permission Users","Admin Permission Users",module,Magento_Logging
+"Manage Websites","Gerenciar sites",module,Magento_Logging
+"Manage Stores","Gerenciar Lojas",module,Magento_Logging
+"Manage Store Views","Manage Store Views",module,Magento_Logging
+"Manage Design","Gerenciar Design",module,Magento_Logging
+"Manage Currency Rates","Gerenciar taxas de moeda",module,Magento_Logging
+"Transactional Emails","E-mails transacionais",module,Magento_Logging
+"Custom Variables","Variáveis personalizadas",module,Magento_Logging
+"System Backups","Backups do sistema",module,Magento_Logging
+"Customer Tax Classes","Customer Tax Classes",module,Magento_Logging
+"Catalog Product Tax Classes","Catalog Product Tax Classes",module,Magento_Logging
+"Tax Rules","Tax Rules",module,Magento_Logging
+"Tax Rates","Taxas de imposto",module,Magento_Logging
+"XML Sitemap","XML Sitemap",module,Magento_Logging
+Widget,Widget,module,Magento_Logging
+"Cache Management","Gerenciamento de Cache",module,Magento_Logging
+"PayPal Settlement Reports","PayPal Settlement Reports",module,Magento_Logging
+"Archive File","Archive File",module,Magento_Logging
+Date,Data,module,Magento_Logging
+CSV,CSV,module,Magento_Logging
+"Excel XML","Excel, XML",module,Magento_Logging
+Time,Tempo,module,Magento_Logging
+"Action Group","Action Group",module,Magento_Logging
+Action,Ação,module,Magento_Logging
+"IP Address","IP Address",module,Magento_Logging
+Username,"Nome de Usuário",module,Magento_Logging
+Result,Resultado,module,Magento_Logging
+"Full Action Name","Full Action Name",module,Magento_Logging
+Details,Detalhes,module,Magento_Logging
+"Full Details","Full Details",module,Magento_Logging

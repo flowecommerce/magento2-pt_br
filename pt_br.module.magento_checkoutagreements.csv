@@ -1,0 +1,39 @@
+"Terms and Conditions","Termos e Condições",module,Magento_CheckoutAgreements
+"Add New Condition","Adicionar Nova Condição",module,Magento_CheckoutAgreements
+"Save Condition","Salvar Condição",module,Magento_CheckoutAgreements
+"Delete Condition","Excluir Condição",module,Magento_CheckoutAgreements
+"Edit Terms and Conditions","Edite Termos e Condições",module,Magento_CheckoutAgreements
+"New Terms and Conditions","Novos Termos e Condições",module,Magento_CheckoutAgreements
+"Terms and Conditions Information","Informações sobre Termos e Condições",module,Magento_CheckoutAgreements
+"Condition Name","Nome da Condição",module,Magento_CheckoutAgreements
+Status,Status,module,Magento_CheckoutAgreements
+Enabled,Habilitado,module,Magento_CheckoutAgreements
+Disabled,Desabilitado,module,Magento_CheckoutAgreements
+"Show Content as","Mostrar o Conteúdo como",module,Magento_CheckoutAgreements
+Text,Texto,module,Magento_CheckoutAgreements
+HTML,HTML,module,Magento_CheckoutAgreements
+Applied,Aplicado,module,Magento_CheckoutAgreements
+"Store View","Visão de Loja",module,Magento_CheckoutAgreements
+"Checkbox Text","Caixa de Seleção de Texto",module,Magento_CheckoutAgreements
+Content,Conteúdo,module,Magento_CheckoutAgreements
+"Content Height (css)","Altura do Conteúdo (css)",module,Magento_CheckoutAgreements
+"Content Height","Altura do Conteúdo",module,Magento_CheckoutAgreements
+ID,ID,module,Magento_CheckoutAgreements
+Condition,Condição,module,Magento_CheckoutAgreements
+Sales,Vendas,module,Magento_CheckoutAgreements
+"Checkout Conditions","Condições de Compra",module,Magento_CheckoutAgreements
+"Checkout Terms and Conditions","Termos e Condições da Compra",module,Magento_CheckoutAgreements
+"This condition no longer exists.","Essa condição não está mais disponível.",module,Magento_CheckoutAgreements
+"You deleted the condition.","Você excluiu a condição.",module,Magento_CheckoutAgreements
+"Something went wrong  while deleting this condition.","Problema ao excluir esta condição.",module,Magento_CheckoutAgreements
+"Edit Condition","Editar Condição",module,Magento_CheckoutAgreements
+"New Condition","Nova Condição",module,Magento_CheckoutAgreements
+"You saved the condition.","Você gravou a condição.",module,Magento_CheckoutAgreements
+"Something went wrong while saving this condition.","Problema ao gravar esta condição.",module,Magento_CheckoutAgreements
+Automatically,Automaticamente,module,Magento_CheckoutAgreements
+Manually,Manualmente,module,Magento_CheckoutAgreements
+"Please agree to all the terms and conditions before placing the order.","Por favor concorde com todos os termos e condições antes de fazer o pedido.",module,Magento_CheckoutAgreements
+"Unable to save checkout agreement %1","Não é possível gravar os termos de aceite da compra %1",module,Magento_CheckoutAgreements
+"Unable to remove checkout agreement %1","Não é possível remover os termos de aceite da compra %1",module,Magento_CheckoutAgreements
+"Checkout agreement with specified ID ""%1"" not found.","Termo de compra com o ID especificado ""%1"" não encontrado.",module,Magento_CheckoutAgreements
+"Enable Terms and Conditions","Habilitar os termos e condições",module,Magento_CheckoutAgreements

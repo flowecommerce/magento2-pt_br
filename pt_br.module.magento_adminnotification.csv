@@ -1,0 +1,49 @@
+"Read Details","Ler Detalhes",module,Magento_AdminNotification
+"Mark as Read","Marcar como Lido",module,Magento_AdminNotification
+"Are you sure?","Você tem certeza?",module,Magento_AdminNotification
+Remove,Remover,module,Magento_AdminNotification
+"Messages Inbox","Caixa de Entrada de Mensagens",module,Magento_AdminNotification
+"You have %1 new system messages","Você têm novas mensagens do sistema %1",module,Magento_AdminNotification
+"You have %1 new system message","Você tem %1 nova(s) mensagem(ns) de sistema",module,Magento_AdminNotification
+"Incoming Message","Nova mensagem",module,Magento_AdminNotification
+close,fechar,module,Magento_AdminNotification
+Notifications,Notificações,module,Magento_AdminNotification
+"The message has been marked as Read.","A mensagem foi marcada como Lida.",module,Magento_AdminNotification
+"We couldn't mark the notification as Read because of an error.","Não foi possível marcar a notificação como Lida porque ocorreu um erro.",module,Magento_AdminNotification
+"Please select messages.","Por favor, selecione as mensagens.",module,Magento_AdminNotification
+"A total of %1 record(s) have been marked as Read.","Um total de %1 registro(s) foi marcado como Lido.",module,Magento_AdminNotification
+"Total of %1 record(s) have been removed.","Um total de %1 registro(s) foi removido.",module,Magento_AdminNotification
+"We couldn't remove the messages because of an error.","Não foi possível remover as mensagens porque ocorreu um erro.",module,Magento_AdminNotification
+"The message has been removed.","A mensagem foi removida.",module,Magento_AdminNotification
+"1 Hour","1 Hora",module,Magento_AdminNotification
+"2 Hours","2 Horas",module,Magento_AdminNotification
+"6 Hours","6 Horas",module,Magento_AdminNotification
+"12 Hours","12 Horas",module,Magento_AdminNotification
+"24 Hours","24 Horas",module,Magento_AdminNotification
+critical,crítico,module,Magento_AdminNotification
+major,importante,module,Magento_AdminNotification
+minor,secundário,module,Magento_AdminNotification
+notice,aviso,module,Magento_AdminNotification
+"Wrong message type","Tipo de mensagem incorreto",module,Magento_AdminNotification
+"Wrong notification ID specified.","Wrong notification ID specified.",module,Magento_AdminNotification
+"{{base_url}} is not recommended to use in a production environment to declare the Base Unsecure URL / Base Secure URL. We highly recommend changing this value in your Magento <a href=""%1"">configuration</a>.","{{base_url}} is not recommended to use in a production environment to declare the Base Unsecure URL / Base Secure URL. We highly recommend changing this value in your Magento <a href=""%1"">configuration</a>.",module,Magento_AdminNotification
+"One or more of the Cache Types are invalidated: %1. ","Um ou mais dos tipos de cache estão invalidados: %1. ",module,Magento_AdminNotification
+"Please go to <a href=""%1"">Cache Management</a> and refresh cache types.","Por favor, acesse o <a href=""%1"">Gerenciamento de Cache</a> e atualize tipos de cache.",module,Magento_AdminNotification
+"We were unable to synchronize one or more media files. Please refer to the log file for details.","We were unable to synchronize one or more media files. Please refer to the log file for details.",module,Magento_AdminNotification
+"Synchronization of media storages has been completed.","Sincronização dos armazenamentos de mídia foi concluída.",module,Magento_AdminNotification
+"Your web server is set up incorrectly and allows unauthorized access to sensitive files. Please contact your hosting provider.","Your web server is set up incorrectly and allows unauthorized access to sensitive files. Please contact your hosting provider.",module,Magento_AdminNotification
+"Close popup","Fechar pop-up",module,Magento_AdminNotification
+Close,Fechar,module,Magento_AdminNotification
+"System Messages:","System Messages:",module,Magento_AdminNotification
+"Critical System Messages","Mensagens do sistema crítica",module,Magento_AdminNotification
+"Major System Messages","Principais mensagens do sistema",module,Magento_AdminNotification
+"System messages","Mensagem do sistema",module,Magento_AdminNotification
+"See All (","Ver Todos (",module,Magento_AdminNotification
+" unread)"," não lido(s))",module,Magento_AdminNotification
+"Use HTTPS to Get Feed","Use HTTPS para Obter o Feed",module,Magento_AdminNotification
+"Update Frequency","Frequência de atualização",module,Magento_AdminNotification
+"Last Update","Última atualização",module,Magento_AdminNotification
+Severity,Gravidade,module,Magento_AdminNotification
+"Date Added","Data de inclusão",module,Magento_AdminNotification
+Message,Mensagem,module,Magento_AdminNotification
+Actions,Ações,module,Magento_AdminNotification

@@ -1,0 +1,6 @@
+"Create Permanent Redirect for old URL","Criar redirecionamento permanente para a URL antiga",module,Magento_CatalogUrlRewrite
+"Category URL Suffix","Category URL Suffix",module,Magento_CatalogUrlRewrite
+"You need to refresh the cache.","You need to refresh the cache.",module,Magento_CatalogUrlRewrite
+"Product URL Suffix","Product URL Suffix",module,Magento_CatalogUrlRewrite
+"Use Categories Path for Product URLs","Use Categories Path for Product URLs",module,Magento_CatalogUrlRewrite
+"Create Permanent Redirect for URLs if URL Key Changed","Create Permanent Redirect for URLs if URL Key Changed",module,Magento_CatalogUrlRewrite

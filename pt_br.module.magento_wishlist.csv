@@ -1,0 +1,115 @@
+"Wish List","Lista de Desejos",module,Magento_Wishlist
+"Wish List Sharing","Compartilhamento de Lista de Desejos",module,Magento_Wishlist
+"My Wish List","Minha Lista de Desejos",module,Magento_Wishlist
+"%1's Wish List","Lista de Desejos de %1",module,Magento_Wishlist
+"Page not found.","Página não encontrada.",module,Magento_Wishlist
+"We can't specify a product.","Não podemos especificar um produto.",module,Magento_Wishlist
+"We can't add the item to Wish List right now: %1.","Não podemos adicionar o item à Lista de Desejos agora: %1.",module,Magento_Wishlist
+"We can't add the item to Wish List right now.","Não podemos adicionar o item à Lista de Desejos agora.",module,Magento_Wishlist
+"You added %1 to your shopping cart.","Você adicionou %1 ao carrinho de compras.",module,Magento_Wishlist
+"This product(s) is out of stock.","Este produto está em falta.",module,Magento_Wishlist
+"We can't add the item to the cart right now.","Não podemos adicionar o item ao carrinho agora.",module,Magento_Wishlist
+"We can't load the Wish List item right now.","Não podemos carregar o item da Lista de Desejos agora.",module,Magento_Wishlist
+"We can't configure the product right now.","Não podemos configurar o produto agora.",module,Magento_Wishlist
+"The requested cart item doesn't exist.","O item solicitado do carrinho não existe.",module,Magento_Wishlist
+"%1 has been moved to your wish list.","%1 foi movido para sua lista de desejos.",module,Magento_Wishlist
+"We can't move the item to the wish list.","Não podemos mover o item para lista de desejos.",module,Magento_Wishlist
+"We can't delete the item from Wish List right now because of an error: %1.","Não podemos excluir o item da Lista de Desejos agora devido a um erro: %1.",module,Magento_Wishlist
+"We can't delete the item from the Wish List right now.","Não é possível excluir o item da lista de desejos agora.",module,Magento_Wishlist
+"Message length must not exceed %1 symbols","Tamanho da mensagem não deve exceder %1 caracteres",module,Magento_Wishlist
+"Please enter an email address.","Por favor, preencha um endereço de e-mail.",module,Magento_Wishlist
+"This wish list can be shared %1 more times.","Esta lista de desejos pode ser compartilhada mais %1 vezes.",module,Magento_Wishlist
+"Please enter a valid email address.","Por favor, insira um endereço de e-mail válido.",module,Magento_Wishlist
+"Your wish list has been shared.","Sua lista de desejos foi compartilhada.",module,Magento_Wishlist
+"We can't delete item from Wish List right now.","Não podemos excluir o item da Lista de Desejos agora.",module,Magento_Wishlist
+"Can't save description %1","Não é possível salvar descrição %1",module,Magento_Wishlist
+"Can't update wish list","Não é possível atualizar a lista de desejos",module,Magento_Wishlist
+"%1 has been updated in your Wish List.","%1 foi atualizado em sua lista de desejos.",module,Magento_Wishlist
+"We can't update your Wish List right now.","Não podemos atualizar sua lista de desejos agora.",module,Magento_Wishlist
+"The requested Wish List doesn't exist.","A Lista de Desejos solicitada não existe.",module,Magento_Wishlist
+"We can't create the Wish List right now.","Não podemos criar a Lista de Desejos agora.",module,Magento_Wishlist
+"%1 items","%1 itens",module,Magento_Wishlist
+"1 item","1 item",module,Magento_Wishlist
+Comment,Comentar,module,Magento_Wishlist
+"Display number of items in wish list","Mostrar o número de itens na lista de desejos",module,Magento_Wishlist
+"Display item quantities","Exibir quantidades do item",module,Magento_Wishlist
+"An item option with code %1 already exists.","Uma opção de item com o código %1 já existe.",module,Magento_Wishlist
+"We can't specify a wish list.","Não podemos especificar uma lista de desejos.",module,Magento_Wishlist
+"Cannot specify product.","Não é possível especificar o produto.",module,Magento_Wishlist
+"Product is not salable.","Produto não é vendável.",module,Magento_Wishlist
+"Invalid item option format.","Opção de formato de item inválida.",module,Magento_Wishlist
+"%1 for ""%2"".","%1 para ""%2"".",module,Magento_Wishlist
+"We can't add this item to your shopping cart right now.","Nós não podemos adicionar este item ao seu carrinho de compras agora.",module,Magento_Wishlist
+"We couldn't add the following product(s) to the shopping cart: %1.","Não podemos adicionar o(s) produto(s) a seguir no carrinho de compras: %1. ",module,Magento_Wishlist
+"We can't update the Wish List right now.","Não podemos a atualizar a Lista de Desejos agora.",module,Magento_Wishlist
+"%1 product(s) have been added to shopping cart: %2.","%1 produtos foram adicionados ao carrinho de compras: %2.",module,Magento_Wishlist
+Comment:,Comentar:,module,Magento_Wishlist
+"We cannot retrieve the Wish List.","Não podemos recuperar a Lista de Desejos.",module,Magento_Wishlist
+"%1's Wishlist","Lista de Desejos de %1",module,Magento_Wishlist
+"We can't specify a wish list item.","Não podemos especificar um item da lista de desejos.",module,Magento_Wishlist
+"The product does not exist.","Produto não existe.",module,Magento_Wishlist
+"Test Phrase","Frase de Teste",module,Magento_Wishlist
+message,mensagem,module,Magento_Wishlist
+Message,Mensagem,module,Magento_Wishlist
+error-message,mensagem-de-erro,module,Magento_Wishlist
+LocalizedException,ExceçãoLocalizada,module,Magento_Wishlist
+"Product Exception.","Exceção de produto (Product Exception).",module,Magento_Wishlist
+"Localized Exception.","Exceção local (Localized Exception).",module,Magento_Wishlist
+"Are you sure you want to remove this item?","Tem certeza que deseja remover este item?",module,Magento_Wishlist
+"Share Wish List","Compartilhar Lista de Desejos",module,Magento_Wishlist
+"Add All to Cart","Adicionar Tudo ao Carrinho",module,Magento_Wishlist
+"Update Wish List","Atualizar Lista de Desejos",module,Magento_Wishlist
+"Move to Wishlist","Mover para Lista de Desejos",module,Magento_Wishlist
+"View Product","Visualizar Produto",module,Magento_Wishlist
+Qty,Qtd,module,Magento_Wishlist
+"Add to Cart","Adicionar ao Carrinho",module,Magento_Wishlist
+Availability,Disponibilidade,module,Magento_Wishlist
+"In stock","Em estoque",module,Magento_Wishlist
+"Out of stock","Fora de estoque",module,Magento_Wishlist
+Edit,Editar,module,Magento_Wishlist
+"Remove Item","Remover Item",module,Magento_Wishlist
+"Remove item","Remover item",module,Magento_Wishlist
+"Add to Compare","Adicionar para Comparar",module,Magento_Wishlist
+"This Wish List has no Items","Lista de Desejos não possui itens",module,Magento_Wishlist
+"See Details","Visualizar Detalhes",module,Magento_Wishlist
+"Options Details","Detalhes das Opções",module,Magento_Wishlist
+"RSS link to %1's wishlist","Link RSS para Lista de Desejos de %1",module,Magento_Wishlist
+"RSS Feed","Feed RSS",module,Magento_Wishlist
+Product,Produto,module,Magento_Wishlist
+"Add to Wish List","Adicionar à lista de desejos",module,Magento_Wishlist
+Back,Voltar,module,Magento_Wishlist
+"Wish List is empty now.","Lista de Desejos está vazia agora.",module,Magento_Wishlist
+"* Required Fields","* Campos Obrigatórios",module,Magento_Wishlist
+"Sharing Information","Compartilhar Informação",module,Magento_Wishlist
+"Email addresses, separated by commas","Endereços de e-mail, separados por vírgulas",module,Magento_Wishlist
+"Check here to link an RSS feed to your Wish List.","Selecione aqui para vincular um Feed RSS para sua Lista de Desejos.",module,Magento_Wishlist
+"Last Added Items","Últimos Itens Adicionados",module,Magento_Wishlist
+"Remove This Item","Remover este Item",module,Magento_Wishlist
+"Go to Wish List","Ir para Lista de Desejos",module,Magento_Wishlist
+"You have no items in your wish list.","Você não tem nenhum item em sua lista de desejos.",module,Magento_Wishlist
+"Are you sure you want to remove this product from your Wish List?","Tem certeza que deseja remover este produto de sua Lista de Desejos?",module,Magento_Wishlist
+"%customer_name wants to share this Wish List from %store_name with you:","%customer_name quer compartilhar esta Lista de Desejos de %store_name com você:",module,Magento_Wishlist
+"Message from %customer_name:","Mensagem de %customer_name:",module,Magento_Wishlist
+"View all Wish List items","Veja todos os itens da Lista de Desejos",module,Magento_Wishlist
+"Share Options","Opções de compartilhamento",module,Magento_Wishlist
+"Email Sender","Remetente do e-mail",module,Magento_Wishlist
+"Email Template","Template de E-mail",module,Magento_Wishlist
+"Email template chosen based on theme fallback when ""Default"" option is selected.","O modelo de e-mail escolhido baseado no tema ""fallback"" quando a opção ""Padrão"" é selecionada.",module,Magento_Wishlist
+"Max Emails Allowed to be Sent","Máximo de e-mails permitidos para ser enviados",module,Magento_Wishlist
+"Email Text Length Limit","Limite de Tamanho de Texto de E-mail",module,Magento_Wishlist
+"General Options","Opções gerais",module,Magento_Wishlist
+Enabled,Habilitado,module,Magento_Wishlist
+"My Wish List Link","Link da minha lista de desejo",module,Magento_Wishlist
+"Display Wish List Summary","Mostrar Resumo de Lista de Desejos",module,Magento_Wishlist
+"Enable RSS","Habilitar o RSS",module,Magento_Wishlist
+"No Items Found","Nenhum item encontrado",module,Magento_Wishlist
+"Product Name","Nome do produto",module,Magento_Wishlist
+"User Description","Descrição do usuário",module,Magento_Wishlist
+Quantity,Quantidade,module,Magento_Wishlist
+"Add Locale","Adicionar Local",module,Magento_Wishlist
+"Add Date","Adicionar Data",module,Magento_Wishlist
+"Days in Wish List","Dias na Lista de Desejos",module,Magento_Wishlist
+Action,Ação,module,Magento_Wishlist
+Configure,Configurar,module,Magento_Wishlist
+Delete,Excluir,module,Magento_Wishlist
+"Product Details and Comment","Detalhes de Produto e Comentários",module,Magento_Wishlist

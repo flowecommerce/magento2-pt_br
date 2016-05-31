@@ -1,0 +1,17 @@
+"Save Currency Rates","Salvar os impostos",module,Magento_CurrencySymbol
+Reset,Reiniciar,module,Magento_CurrencySymbol
+Import,Importar,module,Magento_CurrencySymbol
+"Manage Currency Rates","Gerenciar taxas de moeda",module,Magento_CurrencySymbol
+"Import Service","Serviço de importação",module,Magento_CurrencySymbol
+"Save Currency Symbols","Salvar símbolos de moeda",module,Magento_CurrencySymbol
+"Currency Symbols","Símbolos de moeda",module,Magento_CurrencySymbol
+"Use Standard","Usar Padrão",module,Magento_CurrencySymbol
+"Please specify a correct Import Service.","Por favor, especifique um serviço de importação correto.",module,Magento_CurrencySymbol
+"We can't initialize the import model.","Nós não é possível inicializar o modelo de importação.",module,Magento_CurrencySymbol
+"Click ""Save"" to apply the rates we found.","Clique em ""Gravar"" para aplicar as taxas disponíveis.",module,Magento_CurrencySymbol
+"Currency Rates","Taxas de Câmbio",module,Magento_CurrencySymbol
+"Please correct the input data for %1 => %2 rate","Por favor, corrija os dados do campo %1 => taxa de %2",module,Magento_CurrencySymbol
+"All valid rates have been saved.","Todos os preços válidos foram salvos.",module,Magento_CurrencySymbol
+System,Sistema,module,Magento_CurrencySymbol
+"You applied the custom currency symbols.","Você aplicou os símbolos de moedas personalizadas.",module,Magento_CurrencySymbol
+"Old rate:","Taxa antiga:",module,Magento_CurrencySymbol

@@ -1,0 +1,136 @@
+"Customer Address Attributes","Atributos de endereço do cliente",module,Magento_CustomerCustomAttributes
+"Add New Attribute","Adicionar Novo Atributo",module,Magento_CustomerCustomAttributes
+"Save and Continue Edit","Salvar e Continuar a Editar",module,Magento_CustomerCustomAttributes
+"Save Attribute","Salvar Atributo",module,Magento_CustomerCustomAttributes
+"Delete Attribute","Excluir Atributo",module,Magento_CustomerCustomAttributes
+"Edit Customer Address Attribute ""%1""","Editar cliente endereço atributo ""%1""",module,Magento_CustomerCustomAttributes
+"New Customer Address Attribute","Novo atributo de endereço do cliente",module,Magento_CustomerCustomAttributes
+"Input Type","Tipo de input",module,Magento_CustomerCustomAttributes
+"Lines Count","Contagem de linhas",module,Magento_CustomerCustomAttributes
+"Valid range 2-20","Intervalo válido 2-20",module,Magento_CustomerCustomAttributes
+"Input Validation","Validação de entrada",module,Magento_CustomerCustomAttributes
+None,Nenhum,module,Magento_CustomerCustomAttributes
+"Minimum Text Length","Comprimento mínimo de texto",module,Magento_CustomerCustomAttributes
+"Maximum Text Length","Comprimento máximo de texto",module,Magento_CustomerCustomAttributes
+"Maximum File Size (bytes)","Tamanho máximo do arquivo (bytes)",module,Magento_CustomerCustomAttributes
+"File Extensions","Extensões de arquivo",module,Magento_CustomerCustomAttributes
+"Comma separated","Separados por vírgula",module,Magento_CustomerCustomAttributes
+"Maximum Image Width (px)","Largura máxima da imagem (px)",module,Magento_CustomerCustomAttributes
+"Maximum Image Height (px)","Altura máxima da imagem (px)",module,Magento_CustomerCustomAttributes
+"Input/Output Filter","Filtro de entrada/saída",module,Magento_CustomerCustomAttributes
+"Minimal value","Valor mínimo",module,Magento_CustomerCustomAttributes
+"Maximum value","Valor máximo",module,Magento_CustomerCustomAttributes
+"Add to Column Options","Adicionar a coluna de opções",module,Magento_CustomerCustomAttributes
+"Select ""Yes"" to add this attribute to the list of column options in the customer grid.","Selecione ""Sim"" para adicionar esse atributo na lista de opções de coluna na grade de produto.",module,Magento_CustomerCustomAttributes
+"Use in Filter Options","Uso em opções de filtro",module,Magento_CustomerCustomAttributes
+"Select ""Yes"" to add this attribute to the list of filter options in the customer grid.","Selecione ""Sim"" para adicionar esse atributo na lista de opções de coluna na grade de produto.",module,Magento_CustomerCustomAttributes
+"Use in Search Options","Usar em opções de pesquisa",module,Magento_CustomerCustomAttributes
+"Use in Search Option","Usar em opções de pesquisa",module,Magento_CustomerCustomAttributes
+"Select ""Yes"" to add this attribute to the list of search options in the customer grid.","Selecione ""Sim"" para adicionar esse atributo na lista de opções de coluna na grade de produto.",module,Magento_CustomerCustomAttributes
+"Storefront Properties","Propriedades da Loja",module,Magento_CustomerCustomAttributes
+"Show on Storefront","Mostrar na frente de loja",module,Magento_CustomerCustomAttributes
+"Sort Order",Ordernação,module,Magento_CustomerCustomAttributes
+"Forms to Use In","Formulários para uso em",module,Magento_CustomerCustomAttributes
+Properties,Propriedades,module,Magento_CustomerCustomAttributes
+"Manage Label / Options","Gerenciar etiqueta / opções",module,Magento_CustomerCustomAttributes
+"Attribute Information","Informações de atributo",module,Magento_CustomerCustomAttributes
+"Visible to Customer","Visível para o cliente",module,Magento_CustomerCustomAttributes
+No,Não,module,Magento_CustomerCustomAttributes
+Yes,Sim,module,Magento_CustomerCustomAttributes
+"Customer Attributes","Atributos do Cliente",module,Magento_CustomerCustomAttributes
+"Edit Customer Attribute ""%1""","Editar o atributo cliente ""%1""",module,Magento_CustomerCustomAttributes
+"New Customer Attribute","Novo atributo de cliente",module,Magento_CustomerCustomAttributes
+"This is used internally. Make sure you don't use spaces or more than %1 symbols.","Isso é usado internamente. Certifique-se de que você não use espaços ou mais de %1 símbolo(s).",module,Magento_CustomerCustomAttributes
+"Manage Form Types","Gerenciar tipos de formulários",module,Magento_CustomerCustomAttributes
+"New Form Type","Novo Tipo de formulário",module,Magento_CustomerCustomAttributes
+"Edit Form Type ""%1""","Editar tipo do formulário ""%1""",module,Magento_CustomerCustomAttributes
+"General Information","Informações gerais",module,Magento_CustomerCustomAttributes
+"-- Please Select --","-- Selecione uma opção --",module,Magento_CustomerCustomAttributes
+"Based On","Com Base Na",module,Magento_CustomerCustomAttributes
+"Form Label","Rótulo do formulário",module,Magento_CustomerCustomAttributes
+"All Themes","Todos os temas",module,Magento_CustomerCustomAttributes
+"For Theme","Para o tema",module,Magento_CustomerCustomAttributes
+"Store View","Visão de Loja",module,Magento_CustomerCustomAttributes
+"Form Code","Código do formulário",module,Magento_CustomerCustomAttributes
+"Form Title","Título do formulário",module,Magento_CustomerCustomAttributes
+General,Geral,module,Magento_CustomerCustomAttributes
+"New Fieldset","Novo conjunto de campos",module,Magento_CustomerCustomAttributes
+Save,Salvar,module,Magento_CustomerCustomAttributes
+Remove,Remover,module,Magento_CustomerCustomAttributes
+Cancel,Cancelar,module,Magento_CustomerCustomAttributes
+Attributes,Atributos,module,Magento_CustomerCustomAttributes
+"Form Type Information","Tipo de informação do formulário",module,Magento_CustomerCustomAttributes
+"Type Code","Tipo de Código",module,Magento_CustomerCustomAttributes
+Label,Título,module,Magento_CustomerCustomAttributes
+Theme,Tema,module,Magento_CustomerCustomAttributes
+System,Sistema,module,Magento_CustomerCustomAttributes
+Customer,Cliente,module,Magento_CustomerCustomAttributes
+"Manage Customer Address Attributes","Gerenciar atributos de endereçamento do cliente",module,Magento_CustomerCustomAttributes
+"You cannot delete this attribute.","Você não pode deletar este atributo.",module,Magento_CustomerCustomAttributes
+"You deleted the customer address attribute.","Você apagou o atributo de endereçamento do cliente.",module,Magento_CustomerCustomAttributes
+"We can't delete the customer address attribute right now.","Não é possível apagar o atributo de endereçamento do cliente no momento.",module,Magento_CustomerCustomAttributes
+"This attribute no longer exists.","Este atributo não existe mais.",module,Magento_CustomerCustomAttributes
+"You cannot edit this attribute.","Você não pode editar esse atributo.",module,Magento_CustomerCustomAttributes
+"Edit Customer Address Attribute","Editar atributo de endereço do cliente",module,Magento_CustomerCustomAttributes
+"You saved the customer address attribute.","Atributo de endereçamento do cliente salvo.",module,Magento_CustomerCustomAttributes
+"We can't save the customer address attribute right now.","Não é possível salvar o atributo de endereçamento do cliente no momento.",module,Magento_CustomerCustomAttributes
+"An attribute with this code already exists.","Um atributo com esse código já existe.",module,Magento_CustomerCustomAttributes
+"Manage Customer Attributes","Gerenciar atributos de cliente",module,Magento_CustomerCustomAttributes
+"You deleted the customer attribute.","Você excluiu o atributo de cliente.",module,Magento_CustomerCustomAttributes
+"The attribute no longer exists.","Este atributo não existe mais.",module,Magento_CustomerCustomAttributes
+"Edit Customer Attribute","Editar o atributo de cliente",module,Magento_CustomerCustomAttributes
+"You saved the customer attribute.","Você salvou o atributo de cliente.",module,Magento_CustomerCustomAttributes
+"We can't save the form type right now.","Não conseguimos salvar o tipo de documento agora.",module,Magento_CustomerCustomAttributes
+"This system form type cannot be deleted.","Este tipo de sistema de formulário não pode ser excluído.",module,Magento_CustomerCustomAttributes
+"The form type has been deleted.","O tipo de formulário foi excluído.",module,Magento_CustomerCustomAttributes
+"We can't delete the form type right now.","Não é possível excluir o tipo formulário agora.",module,Magento_CustomerCustomAttributes
+"Customer Address Registration","Registro de endereço do cliente",module,Magento_CustomerCustomAttributes
+"Customer Account Address","Endereço da conta do cliente",module,Magento_CustomerCustomAttributes
+"Customer Registration","Registro do cliente",module,Magento_CustomerCustomAttributes
+"Customer Account Edit","Editar conta de cliente",module,Magento_CustomerCustomAttributes
+"Admin Checkout","Admin check-out",module,Magento_CustomerCustomAttributes
+"Use helper with defined EAV entity.","Use ajudante com entidade EAV definida.",module,Magento_CustomerCustomAttributes
+"An attribute code must not be more than %1 characters.","An attribute code must not be more than %1 characters.",module,Magento_CustomerCustomAttributes
+"Use Default Value","Usar o Valor Padrão",module,Magento_CustomerCustomAttributes
+"Fieldset Properties","Propriedades de fieldset",module,Magento_CustomerCustomAttributes
+"Fieldset Title","Título de fieldset",module,Magento_CustomerCustomAttributes
+"Fieldset Code","Código do fieldset",module,Magento_CustomerCustomAttributes
+"A fieldset with the same code alredy exists.","Um conjunto de campos com o mesmo código já existe.",module,Magento_CustomerCustomAttributes
+"This fieldset is not empty!","Este conjunto de campos não está vazio!",module,Magento_CustomerCustomAttributes
+"Choose Website:","Escolha o site:",module,Magento_CustomerCustomAttributes
+"Please confirm site switching. All data that hasn't been saved will be lost.","Por favor, confirme a mudança de escopo. Todos os dados que ainda não foram salvos serão perdidos.",module,Magento_CustomerCustomAttributes
+"* Required Fields","* Campos Obrigatórios",module,Magento_CustomerCustomAttributes
+"Contact Information","Informações de Contato",module,Magento_CustomerCustomAttributes
+Company,Empresa,module,Magento_CustomerCustomAttributes
+"Phone Number","Número do Telefone",module,Magento_CustomerCustomAttributes
+Fax,Fax,module,Magento_CustomerCustomAttributes
+Address,Endereço,module,Magento_CustomerCustomAttributes
+"Street Address",Endereço,module,Magento_CustomerCustomAttributes
+"Street Address %1",Rua,module,Magento_CustomerCustomAttributes
+"VAT Number","Número VAT",module,Magento_CustomerCustomAttributes
+City,Cidade,module,Magento_CustomerCustomAttributes
+State/Province,Estado/Província,module,Magento_CustomerCustomAttributes
+"Please select a region, state or province.","Por favor, selecione uma região, estado ou província.",module,Magento_CustomerCustomAttributes
+"Zip/Postal Code",CEP,module,Magento_CustomerCustomAttributes
+Country,País,module,Magento_CustomerCustomAttributes
+"Default Billing Address","Endereço de cobrança padrão",module,Magento_CustomerCustomAttributes
+"Use as my default billing address","Usar como meu endereço padrão de cobrança",module,Magento_CustomerCustomAttributes
+"Default Shipping Address","Endereço de entrega padrão",module,Magento_CustomerCustomAttributes
+"Use as my default shipping address","Usar como meu endereço padrão de entrega",module,Magento_CustomerCustomAttributes
+"Save Address","Salvar endereço",module,Magento_CustomerCustomAttributes
+"Go back",Retornar,module,Magento_CustomerCustomAttributes
+"Account Information","Informações da Conta",module,Magento_CustomerCustomAttributes
+Email,E-mail,module,Magento_CustomerCustomAttributes
+"Change Password","Alterar senha",module,Magento_CustomerCustomAttributes
+"Current Password","Senha atual",module,Magento_CustomerCustomAttributes
+"New Password","Nova Senha",module,Magento_CustomerCustomAttributes
+"Confirm New Password","Confirmar nova senha",module,Magento_CustomerCustomAttributes
+"Personal Information","Informações Pessoais",module,Magento_CustomerCustomAttributes
+"Sign Up for Newsletter","Assinar Newsletter",module,Magento_CustomerCustomAttributes
+"Address Information","Informações de Endereço",module,Magento_CustomerCustomAttributes
+"Sign-in Information","Informações de acesso",module,Magento_CustomerCustomAttributes
+Password,Senha,module,Magento_CustomerCustomAttributes
+"Confirm Password","Confirmar Senha",module,Magento_CustomerCustomAttributes
+"Create an Account","Criar conta",module,Magento_CustomerCustomAttributes
+Back,Voltar,module,Magento_CustomerCustomAttributes
+"Default Values","Valor Padrão",module,Magento_CustomerCustomAttributes

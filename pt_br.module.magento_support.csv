@@ -1,0 +1,240 @@
+Back,Voltar,module,Magento_Support
+"Backup Log Details","Backup Log Details",module,Magento_Support
+Create,Create,module,Magento_Support
+"Requested system report has no data to output.","Requested system report has no data to output.",module,Magento_Support
+"&copy; Magento Commerce Inc., %1","&copy; Magento Commerce Inc., %1",module,Magento_Support
+"Are you sure you want to delete the system report?","Are you sure you want to delete the system report?",module,Magento_Support
+Download,"Fazer Download",module,Magento_Support
+"Go to Top","Go to Top",module,Magento_Support
+Report,Relatório,module,Magento_Support
+"System Report Information","System Report Information",module,Magento_Support
+"Requested system report has no data to display.","Requested system report has no data to display.",module,Magento_Support
+"Output path %1 doesn't exist","Output path %1 doesn't exist",module,Magento_Support
+"Unknown DB param: %1","Unknown DB param: %1",module,Magento_Support
+"Paths file already exists","Paths file already exists",module,Magento_Support
+"Paths file cannot be created","Paths file cannot be created",module,Magento_Support
+"Please select item(s).","Please select item(s).",module,Magento_Support
+"A total of %1 record(s) have been deleted.","Um total de %1 registro(s) foram excluídos.",module,Magento_Support
+Support,Support,module,Magento_Support
+"Data Collector","Data Collector",module,Magento_Support
+"The backup has been saved.","The backup has been saved.",module,Magento_Support
+"Failed to save backup with error: %1","Failed to save backup with error: %1",module,Magento_Support
+"An error occurred while saving backup","An error occurred while saving backup",module,Magento_Support
+"All processes should be complete","All processes should be complete",module,Magento_Support
+"Wrong param id","Wrong param id",module,Magento_Support
+"The backup has been deleted.","The backup has been deleted.",module,Magento_Support
+"Cannot delete backup","Cannot delete backup",module,Magento_Support
+"File does not exist","File does not exist",module,Magento_Support
+"Log Details","Log Details",module,Magento_Support
+"An error occurred during mass deletion of data collector backups. Please review log and try again.","An error occurred during mass deletion of data collector backups. Please review log and try again.",module,Magento_Support
+"After you make your selections, click the ""Create"" button. Then stand by while the System Report is generated. This may take a few minutes. You will receive a notification once this step is completed.","After you make your selections, click the ""Create"" button. Then stand by while the System Report is generated. This may take a few minutes. You will receive a notification once this step is completed.",module,Magento_Support
+"Create System Report","Create System Report",module,Magento_Support
+"Unable to find a system report to delete.","Unable to find a system report to delete.",module,Magento_Support
+"The system report has been deleted.","The system report has been deleted.",module,Magento_Support
+"An error occurred while deleting the system report. Please review log and try again.","An error occurred while deleting the system report. Please review log and try again.",module,Magento_Support
+"Requested system report no longer exists.","Requested system report no longer exists.",module,Magento_Support
+"Unable to read system report data to display.","Unable to read system report data to display.",module,Magento_Support
+"No groups were specified to generate system report.","No groups were specified to generate system report.",module,Magento_Support
+"The system report has been generated.","The system report has been generated.",module,Magento_Support
+"An error occurred while the system report was being created. Please review the log and try again.","An error occurred while the system report was being created. Please review the log and try again.",module,Magento_Support
+"System Reports","System Reports",module,Magento_Support
+"An error occurred during mass deletion of system reports. Please review log and try again.","An error occurred during mass deletion of system reports. Please review log and try again.",module,Magento_Support
+"Utility %1 not found","Utility %1 not found",module,Magento_Support
+"Unknown utility: %1","Unknown utility: %1",module,Magento_Support
+"Support Module doesn't support %s operation system","Support Module doesn't support %s operation system",module,Magento_Support
+"Unable to create backup due to php exec function is disabled","Unable to create backup due to php exec function is disabled",module,Magento_Support
+Incomplete,Incomplete,module,Magento_Support
+Complete,Finalizado,module,Magento_Support
+Failed,Failed,module,Magento_Support
+"Directory %s should have writable & readable permissions","Directory %s should have writable & readable permissions",module,Magento_Support
+Windows,Windows,module,Magento_Support
+"OS X","OS X",module,Magento_Support
+"Unknown Status","Status desconhecido",module,Magento_Support
+"Processing ...","Processing ...",module,Magento_Support
+(now),(now),module,Magento_Support
+"[%1 minutes ago]","[%1 minutes ago]",module,Magento_Support
+"[%1 hours ago]","[%1 hours ago]",module,Magento_Support
+"[%1 days ago]","[%1 days ago]",module,Magento_Support
+"[%1 weeks ago]","[%1 weeks ago]",module,Magento_Support
+"[%1 months ago]","[%1 months ago]",module,Magento_Support
+"[%1 years ago]","[%1 years ago]",module,Magento_Support
+"And more...","And more...",module,Magento_Support
+"Column %1","Column %1",module,Magento_Support
+"Preparing system report data: Detected Single Row Mode but data may be incomplete.","Preparing system report data: Detected Single Row Mode but data may be incomplete.",module,Magento_Support
+Yes,Sim,module,Magento_Support
+No,Não,module,Magento_Support
+"All Eav Attributes","All Eav Attributes",module,Magento_Support
+"Category Eav Attributes","Category Eav Attributes",module,Magento_Support
+"Customer Address Eav Attributes","Customer Address Eav Attributes",module,Magento_Support
+"Customer Eav Attributes","Customer Eav Attributes",module,Magento_Support
+"Entity Types","Entity Types",module,Magento_Support
+ID,ID,module,Magento_Support
+Code,Código,module,Magento_Support
+Model,Model,module,Magento_Support
+"Attribute Model","Attribute Model",module,Magento_Support
+"Increment Model","Increment Model",module,Magento_Support
+"Main Table","Main Table",module,Magento_Support
+"Additional Attribute Table","Additional Attribute Table",module,Magento_Support
+"New Eav Attributes","New Eav Attributes",module,Magento_Support
+"Product Eav Attributes","Product Eav Attributes",module,Magento_Support
+"Rma Item Eav Attributes","Rma Item Eav Attributes",module,Magento_Support
+"User Defined Eav Attributes","User Defined Eav Attributes",module,Magento_Support
+Name,Nome,module,Magento_Support
+Enabled,Habilitado,module,Magento_Support
+Value,Valor,module,Magento_Support
+Scope,Escopo,module,Magento_Support
+Configuration,Configuração,module,Magento_Support
+Path,Caminho,module,Magento_Support
+"Data from app/etc/env.php","Data from app/etc/env.php",module,Magento_Support
+Title,Título,module,Magento_Support
+Group,Grupo,module,Magento_Support
+"Is Gateway","Is Gateway",module,Magento_Support
+Void,Anular,module,Magento_Support
+"For Checkout","For Checkout",module,Magento_Support
+"For Multishipping","For Multishipping",module,Magento_Support
+"Capture Online","Capturar on-line",module,Magento_Support
+"Partial Capture Online","Partial Capture Online",module,Magento_Support
+"Refund Online","Reembolsado on-line",module,Magento_Support
+"Partial Refund Online","Reembolso parcial on-line",module,Magento_Support
+"Capture Offline","Capturar off-line",module,Magento_Support
+"Partial Capture Offline","Partial Capture Offline",module,Magento_Support
+"Refund Offline","Restituido off-line",module,Magento_Support
+"Partial Refund Offline","Reembolso parcial off-line",module,Magento_Support
+"Payments Functionality Matrix","Payments Functionality Matrix",module,Magento_Support
+"Payment Methods","Forma de pagamento",module,Magento_Support
+"Shipping Methods","Métodos de envio",module,Magento_Support
+"Job Code","Job Code",module,Magento_Support
+"Cron Expression","Cron Expression",module,Magento_Support
+"Run Class","Run Class",module,Magento_Support
+"Run Method","Run Method",module,Magento_Support
+"Group Code","Group Code",module,Magento_Support
+"All Configurable Cron Jobs","All Configurable Cron Jobs",module,Magento_Support
+"All Global Cron Jobs","All Global Cron Jobs",module,Magento_Support
+"Cron Schedules List","Cron Schedules List",module,Magento_Support
+"Schedule Id","Schedule Id",module,Magento_Support
+Status,Status,module,Magento_Support
+"Created At","Criado em",module,Magento_Support
+"Scheduled At","Scheduled At",module,Magento_Support
+"Executed At","Executed At",module,Magento_Support
+"Finished At","Finished At",module,Magento_Support
+"Core Configurable Cron Jobs","Core Configurable Cron Jobs",module,Magento_Support
+"Core Global Cron Jobs","Core Global Cron Jobs",module,Magento_Support
+"Cron Schedules by job code","Cron Schedules by job code",module,Magento_Support
+Count,Count,module,Magento_Support
+"Cron Schedules by status code","Cron Schedules by status code",module,Magento_Support
+"Status Code","Código de status",module,Magento_Support
+"Custom Configurable Cron Jobs","Custom Configurable Cron Jobs",module,Magento_Support
+"Custom Global Cron Jobs","Custom Global Cron Jobs",module,Magento_Support
+"Errors in Cron Schedules Queue","Errors in Cron Schedules Queue",module,Magento_Support
+Error,Erro,module,Magento_Support
+"Corrupted Categories Data","Corrupted Categories Data",module,Magento_Support
+Id,Id,module,Magento_Support
+"Expected Children Count","Expected Children Count",module,Magento_Support
+"Actual Children Count","Actual Children Count",module,Magento_Support
+"Expected Level","Expected Level",module,Magento_Support
+"Actual Level","Actual Level",module,Magento_Support
+"Duplicate Categories By URL Key","Duplicate Categories By URL Key",module,Magento_Support
+"URL key","URL key",module,Magento_Support
+Store,Loja,module,Magento_Support
+"Duplicate Orders By Increment Id","Duplicate Orders By Increment Id",module,Magento_Support
+"Increment Id","Increment Id",module,Magento_Support
+"Customer Id","Customer Id",module,Magento_Support
+"Duplicate Products By SKU","Duplicate Products By SKU",module,Magento_Support
+SKU,SKU,module,Magento_Support
+"Duplicate Products By URL Key","Duplicate Products By URL Key",module,Magento_Support
+"URL Key","Chave URL",module,Magento_Support
+Website,Website,module,Magento_Support
+"Duplicate Users By Email","Duplicate Users By Email",module,Magento_Support
+Email,E-mail,module,Magento_Support
+Type,Tipo,module,Magento_Support
+Parent,Parent,module,Magento_Support
+"Adminhtml Themes List","Adminhtml Themes List",module,Magento_Support
+"Frontend Themes List","Frontend Themes List",module,Magento_Support
+"Event Name","Event Name",module,Magento_Support
+"Observer Class","Observer Class",module,Magento_Support
+Method,Method,module,Magento_Support
+"All Admin Events","All Admin Events",module,Magento_Support
+"All Crontab Events","All Crontab Events",module,Magento_Support
+"All Doc Events","All Doc Events",module,Magento_Support
+"All Frontend Events","All Frontend Events",module,Magento_Support
+"All Global events","All Global events",module,Magento_Support
+"All REST Events","All REST Events",module,Magento_Support
+"All SOAP Events","All SOAP Events",module,Magento_Support
+"Core Admin Events","Core Admin Events",module,Magento_Support
+"Core Crontab Events","Core Crontab Events",module,Magento_Support
+"Core Doc Events","Core Doc Events",module,Magento_Support
+"Core Frontend Events","Core Frontend Events",module,Magento_Support
+"Core Global Events","Core Global Events",module,Magento_Support
+"Core REST Events","Core REST Events",module,Magento_Support
+"Core SOAP Events","Core SOAP Events",module,Magento_Support
+"Custom Admin Events","Custom Admin Events",module,Magento_Support
+"Custom Crontab Events","Custom Crontab Events",module,Magento_Support
+"Custom Doc Events","Custom Doc Events",module,Magento_Support
+"Custom Frontend Events","Custom Frontend Events",module,Magento_Support
+"Custom Global Events","Custom Global Events",module,Magento_Support
+"Custom REST Events","Custom REST Events",module,Magento_Support
+"Custom SOAP Events","Custom SOAP Events",module,Magento_Support
+"Log Files","Log Files",module,Magento_Support
+File,Arquivo,module,Magento_Support
+Size,Tamanho,module,Magento_Support
+"Log Entries","Log Entries",module,Magento_Support
+"Last Update","Última atualização",module,Magento_Support
+"Today's Top Debug Messages","Today's Top Debug Messages",module,Magento_Support
+Message,Mensagem,module,Magento_Support
+"Last Occurrence","Last Occurrence",module,Magento_Support
+"Today's Top Exception Messages","Today's Top Exception Messages",module,Magento_Support
+"Stack Trace","Stack Trace",module,Magento_Support
+"Today's Top System Messages","Today's Top System Messages",module,Magento_Support
+"Top Debug Messages","Top Debug Messages",module,Magento_Support
+"Top Exception Messages","Top Exception Messages",module,Magento_Support
+"Top System Messages","Top System Messages",module,Magento_Support
+"Store Views List","Store Views List",module,Magento_Support
+"Stores List","Lista de lojas",module,Magento_Support
+"Root Category","Categoria Principal",module,Magento_Support
+"Default Store View","Visão de Loja Padrão",module,Magento_Support
+"Websites List","Websites List",module,Magento_Support
+"Is Default","É o Padrão",module,Magento_Support
+"Default Store","Loja Padrão",module,Magento_Support
+"Websites Tree","Websites Tree",module,Magento_Support
+"There was an error while loading system report data.","There was an error while loading system report data.",module,Magento_Support
+General,Geral,module,Magento_Support
+Environment,Environment,module,Magento_Support
+"Cannot save backup. The reason is: Utility lsof not found","Cannot save backup. The reason is: Utility lsof not found",module,Magento_Support
+"Test error","Test error",module,Magento_Support
+"Error message!","Mensagem de erro!",module,Magento_Support
+"User Defined","Definidos pelo usuário",module,Magento_Support
+"Entity Type Code","Entity Type Code",module,Magento_Support
+"Source Model","Source Model",module,Magento_Support
+"Backend Model","Backend Model",module,Magento_Support
+"Frontend Model","Frontend Model",module,Magento_Support
+"Show Log","Show Log",module,Magento_Support
+Delete,Excluir,module,Magento_Support
+"Delete ""%1""","Delete ""%1""",module,Magento_Support
+"Are you sure you want to delete a ""%1"" record?","Are you sure you want to delete a ""%1"" record?",module,Magento_Support
+View,Visualizar,module,Magento_Support
+"Are you sure you wan't to delete a \"%1\" record?","Are you sure you wan't to delete a \"%1\" record?",module,Magento_Support
+"Empty log","Empty log",module,Magento_Support
+"Backup ID: ","Backup ID: ",module,Magento_Support
+Collapse,Collapse,module,Magento_Support
+Expand,Expand,module,Magento_Support
+" (no data)"," (no data)",module,Magento_Support
+Top,Top,module,Magento_Support
+"No data","No data",module,Magento_Support
+Data,Data,module,Magento_Support
+Modules,Módulos,module,Magento_Support
+Logs,Logs,module,Magento_Support
+Attributes,Atributos,module,Magento_Support
+Events,Eventos,module,Magento_Support
+Cron,Cron,module,Magento_Support
+Design,Design,module,Magento_Support
+Stores,Lojas,module,Magento_Support
+"Refresh Status","Atualizar Status",module,Magento_Support
+"New Backup","Novo Backup",module,Magento_Support
+"Delete items","Excluir itens",module,Magento_Support
+"Are you sure you want to delete selected item(s)?","Are you sure you want to delete selected item(s)?",module,Magento_Support
+"Code Dump","Code Dump",module,Magento_Support
+"DB Dump","DB Dump",module,Magento_Support
+"Choose Report Groups","Choose Report Groups",module,Magento_Support
+"New Report","New Report",module,Magento_Support
+"Date Generated","Date Generated",module,Magento_Support
+"Report Groups","Relatório de grupos",module,Magento_Support

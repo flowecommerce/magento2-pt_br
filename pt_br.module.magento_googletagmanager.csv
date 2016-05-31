@@ -1,0 +1,16 @@
+"Google Analytics Enhanced Ecommerce Settings","Google Analytics Enhanced Ecommerce Settings",module,Magento_GoogleTagManager
+"Send to Google","Enviar para Google",module,Magento_GoogleTagManager
+Yes,Sim,module,Magento_GoogleTagManager
+No,Não,module,Magento_GoogleTagManager
+Creative,Creative,module,Magento_GoogleTagManager
+"Universal Analytics","Universal Analytics",module,Magento_GoogleTagManager
+"Google Tag Manager","Google Tag Manager",module,Magento_GoogleTagManager
+"Google Analytics","Google Analytics",module,Magento_GoogleTagManager
+"Account type","Tipo de conta",module,Magento_GoogleTagManager
+"Container Id","Id de contêiner",module,Magento_GoogleTagManager
+"List property for the catalog page","List property for the catalog page",module,Magento_GoogleTagManager
+"List property for the cross-sell block","List property for the cross-sell block",module,Magento_GoogleTagManager
+"List property for the up-sell block","List property for the up-sell block",module,Magento_GoogleTagManager
+"List property for the related products block","List property for the related products block",module,Magento_GoogleTagManager
+"List property for the search results page","List property for the search results page",module,Magento_GoogleTagManager
+"’Internal Promotions’ for promotions field “Label”.","’Internal Promotions’ for promotions field “Label”.",module,Magento_GoogleTagManager

@@ -1,0 +1,51 @@
+"Credit card type","Tipo de cartão de crédito",module,Magento_Worldpay
+"CVV result","Resultado CVV",module,Magento_Worldpay
+"Postcode AVS check","Postcode AVS check",module,Magento_Worldpay
+"Address AVS check","Address AVS check",module,Magento_Worldpay
+"Country comparison check","Country comparison check",module,Magento_Worldpay
+"Risk Score","Índice de Risco",module,Magento_Worldpay
+"Not supported","Not supported",module,Magento_Worldpay
+"Not checked","Not checked",module,Magento_Worldpay
+Matched,Matched,module,Magento_Worldpay
+"Not matched","Not matched",module,Magento_Worldpay
+"Partially matched","Partially matched",module,Magento_Worldpay
+"No such order id.","No such order id.",module,Magento_Worldpay
+"Gateway response is not valid.","Gateway response is not valid.",module,Magento_Worldpay
+"Wrong response type","Tipo de resposta errada",module,Magento_Worldpay
+"Currency doesn't match.","Currency doesn't match.",module,Magento_Worldpay
+"Amount doesn't match.","Amount doesn't match.",module,Magento_Worldpay
+"Not supported response.","Not supported response.",module,Magento_Worldpay
+"Gateway processing error.","Gateway processing error.",module,Magento_Worldpay
+"Transaction was not placed.","A transação não foi efetuada.",module,Magento_Worldpay
+None,Nenhum,module,Magento_Worldpay
+Authorize,Autorizar,module,Magento_Worldpay
+"Authorize and Capture","Autorizar e Capturar",module,Magento_Worldpay
+Refused,Recusado,module,Magento_Worldpay
+Authorised,Autorizado,module,Magento_Worldpay
+Error,Erro,module,Magento_Worldpay
+Captured,Capturado,module,Magento_Worldpay
+"Payment was canceled","O pagamento foi cancelado",module,Magento_Worldpay
+"Please ","Por favor ",module,Magento_Worldpay
+"continue shopping","continue shopping",module,Magento_Worldpay
+"Your payment has been successfully processed by our shop system.","O seu pagamento foi processado com sucesso pelo nosso sistema da loja.",module,Magento_Worldpay
+"Please click ","Por favor clique ",module,Magento_Worldpay
+here,aqui,module,Magento_Worldpay
+" if you are not redirected automatically."," if you are not redirected automatically.",module,Magento_Worldpay
+Worldpay,Worldpay,module,Magento_Worldpay
+Enabled,Habilitado,module,Magento_Worldpay
+Title,Título,module,Magento_Worldpay
+"Payment Response Password","Payment Response Password",module,Magento_Worldpay
+"Remote Admin Installation ID","Remote Admin Installation ID",module,Magento_Worldpay
+"Remote Admin Authorisation Password","Remote Admin Authorisation Password",module,Magento_Worldpay
+"MD5 Secret for Transactions","MD5 Secret for Transactions",module,Magento_Worldpay
+"Allow To Edit Contact Information","Allow To Edit Contact Information",module,Magento_Worldpay
+"Hide Contact Information","Hide Contact Information",module,Magento_Worldpay
+Debug,Depurar/Debug,module,Magento_Worldpay
+"Test Mode","Test Mode",module,Magento_Worldpay
+"Payment Action for Test","Payment Action for Test",module,Magento_Worldpay
+"Payment Action","Payment Action",module,Magento_Worldpay
+"Payment From Applicable Countries","Payment From Applicable Countries",module,Magento_Worldpay
+"Payment From Specific Countries","Payment From Specific Countries",module,Magento_Worldpay
+"Set Order Status to Suspected Fraud for CVV","Set Order Status to Suspected Fraud for CVV",module,Magento_Worldpay
+"Set Order Status to Suspected Fraud for Postcode AVS","Set Order Status to Suspected Fraud for Postcode AVS",module,Magento_Worldpay
+"Sort Order",Ordernação,module,Magento_Worldpay

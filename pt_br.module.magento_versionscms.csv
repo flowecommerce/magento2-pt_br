@@ -1,0 +1,198 @@
+"Delete Current Hierarchy","Delete Current Hierarchy",module,Magento_VersionsCms
+Copy,Copiar,module,Magento_VersionsCms
+"Pages Hierarchy","Hierarquia de páginas",module,Magento_VersionsCms
+"Page Properties","Propriedades da página",module,Magento_VersionsCms
+Title,Título,module,Magento_VersionsCms
+"URL Key","Chave URL",module,Magento_VersionsCms
+Preview,Pré-visualização,module,Magento_VersionsCms
+"Preview is not available.","A pré-visualização não está disponível.",module,Magento_VersionsCms
+"Render Metadata in HTML Head.","Render Metadata in HTML Head.",module,Magento_VersionsCms
+First,First,module,Magento_VersionsCms
+Next/Previous,Seguinte/Anterior,module,Magento_VersionsCms
+"Enable Chapter/Section","Habilitar capítulo/seção",module,Magento_VersionsCms
+"Enables Chapter/Section functionality for this node, its sub-nodes and pages","Enables Chapter/Section functionality for this node, its sub-nodes and pages",module,Magento_VersionsCms
+Chapter/Section,Capítulo/Seção,module,Magento_VersionsCms
+"Defines this node as Chapter/Section","Define este nó como capítulo/seção",module,Magento_VersionsCms
+"Pagination Options for Nested Pages","Pagination Options for Nested Pages",module,Magento_VersionsCms
+"Enable Pagination","Habilitar paginação",module,Magento_VersionsCms
+Frame,Quadro,module,Magento_VersionsCms
+"Set the number of links to display at one time.","Defina o número de links para mostrar por vez.",module,Magento_VersionsCms
+"Frame Skip","Frame Skip",module,Magento_VersionsCms
+"If the Current Frame Position does not cover Utmost Pages, will render Link to Current Position plus/minus this Value","If the Current Frame Position does not cover Utmost Pages, will render Link to Current Position plus/minus this Value",module,Magento_VersionsCms
+"Page Navigation Menu Options","Page Navigation Menu Options",module,Magento_VersionsCms
+"Exclude from Navigation Menu","Excluir do menu de navegação",module,Magento_VersionsCms
+"Show in navigation menu.","Mostrar no menu de navegação.",module,Magento_VersionsCms
+"Menu Layout","Layout do menu",module,Magento_VersionsCms
+"Only Children","Apenas filhos",module,Magento_VersionsCms
+"Neighbours and Children","Neighbours and Children",module,Magento_VersionsCms
+"Menu Detalization","Menu Detalization",module,Magento_VersionsCms
+"Maximal Depth","Profundidade máxima",module,Magento_VersionsCms
+"Node Levels to Include","Node Levels to Include",module,Magento_VersionsCms
+"List Type","List Type",module,Magento_VersionsCms
+"List Style","List Style",module,Magento_VersionsCms
+"Main Navigation Menu Options","Main Navigation Menu Options",module,Magento_VersionsCms
+"Add selected page(s) to the tree.","Add selected page(s) to the tree.",module,Magento_VersionsCms
+"Remove from tree.","Remove from tree.",module,Magento_VersionsCms
+Cancel,Cancelar,module,Magento_VersionsCms
+Save,Salvar,module,Magento_VersionsCms
+"Add Node...","Adicionar nó...",module,Magento_VersionsCms
+"Add to tree.","Adicione à árvore.",module,Magento_VersionsCms
+Update,Atualizar,module,Magento_VersionsCms
+"Node Properties","Propriedades do nó",module,Magento_VersionsCms
+"Page ID","ID da página",module,Magento_VersionsCms
+"Manage Hierarchies","Gerenciar hierarquias",module,Magento_VersionsCms
+"Version Control","Controle de versão",module,Magento_VersionsCms
+No,Não,module,Magento_VersionsCms
+Yes,Sim,module,Magento_VersionsCms
+Hierarchy,Hierarquia,module,Magento_VersionsCms
+"Version Label","Etiqueta de versão",module,Magento_VersionsCms
+Owner,Proprietário,module,Magento_VersionsCms
+"Access Level","Nível de acesso",module,Magento_VersionsCms
+Quantity,Quantidade,module,Magento_VersionsCms
+Created,Criado,module,Magento_VersionsCms
+Versions,Versões,module,Magento_VersionsCms
+Delete,Excluir,module,Magento_VersionsCms
+"Are you sure?","Você tem certeza?",module,Magento_VersionsCms
+N/A,"Não Disponível",module,Magento_VersionsCms
+"Are you sure you want to delete this revision?","Você tem certeza de que deseja excluir esta revisão?",module,Magento_VersionsCms
+Publish,Publicar,module,Magento_VersionsCms
+"Save and publish.","Salvar e publicar.",module,Magento_VersionsCms
+"Save in a new version.","Salve em uma nova versão.",module,Magento_VersionsCms
+"You must specify a new version name.","Você deve especificar um novo nome de versão.",module,Magento_VersionsCms
+"Please specify a valid name.","Por favor, especifique um nome válido.",module,Magento_VersionsCms
+"Edit Page '%1' Revision #%2","Edit Page '%1' Revision #%2",module,Magento_VersionsCms
+"Edit Page '%1' New Revision","Edit Page '%1' New Revision",module,Magento_VersionsCms
+"Revision Information","Revision Information",module,Magento_VersionsCms
+"Save as new version.","Save as new version.",module,Magento_VersionsCms
+"New Revision...","New Revision...",module,Magento_VersionsCms
+"Save and continue edit.","Save and continue edit.",module,Magento_VersionsCms
+"Edit Page '%1' Version '%2'","Edit Page '%1' Version '%2'",module,Magento_VersionsCms
+"Version Information","Version Information",module,Magento_VersionsCms
+Revision,Revision,module,Magento_VersionsCms
+Author,Autor,module,Magento_VersionsCms
+Home,Home,module,Magento_VersionsCms
+"Go to Home Page","Ir para a página inicial",module,Magento_VersionsCms
+"You copied the pages hierarchy to the selected scopes.","You copied the pages hierarchy to the selected scopes.",module,Magento_VersionsCms
+"Something went wrong while copying the hierarchy.","Something went wrong while copying the hierarchy.",module,Magento_VersionsCms
+"Please correct the scope.","Por favor, corrija o escopo.",module,Magento_VersionsCms
+"You deleted the pages hierarchy from the selected scopes.","You deleted the pages hierarchy from the selected scopes.",module,Magento_VersionsCms
+"Something went wrong while deleting the hierarchy.","Something went wrong while deleting the hierarchy.",module,Magento_VersionsCms
+CMS,CMS,module,Magento_VersionsCms
+"CMS Page Trees","CMS Page Trees",module,Magento_VersionsCms
+"You have saved the hierarchy.","You have saved the hierarchy.",module,Magento_VersionsCms
+"Something went wrong while saving the hierarchy.","Something went wrong while saving the hierarchy.",module,Magento_VersionsCms
+"Manage Pages","Gerenciar páginas",module,Magento_VersionsCms
+"Edit Page","Editar Página",module,Magento_VersionsCms
+"New Page","Nova Página",module,Magento_VersionsCms
+Pages,Pages,module,Magento_VersionsCms
+"Please select version(s).","Please select version(s).",module,Magento_VersionsCms
+"A total of %1 record(s) have been deleted.","Um total de %1 registro(s) foram excluídos.",module,Magento_VersionsCms
+"Something went wrong while deleting these versions.","Something went wrong while deleting these versions.",module,Magento_VersionsCms
+"You have deleted the revision.","You have deleted the revision.",module,Magento_VersionsCms
+"Something went wrong while deleting the revision.","Something went wrong while deleting the revision.",module,Magento_VersionsCms
+"We can't find a revision to delete.","We can't find a revision to delete.",module,Magento_VersionsCms
+"We could not load the specified revision.","We could not load the specified revision.",module,Magento_VersionsCms
+"Edit Revision","Editar revisão",module,Magento_VersionsCms
+"You have published the revision.","Você publicou a revisão.",module,Magento_VersionsCms
+"You have saved the revision.","Você salvou a revisão.",module,Magento_VersionsCms
+"You have deleted the version.","Você excluiu a versão.",module,Magento_VersionsCms
+"Something went wrong while deleting this version.","Something went wrong while deleting this version.",module,Magento_VersionsCms
+"We can't find a version to delete.","We can't find a version to delete.",module,Magento_VersionsCms
+"Edit Version","Editar versão",module,Magento_VersionsCms
+"Please select revision(s).","Por favor, selecione a revisões.",module,Magento_VersionsCms
+"Something went wrong while deleting the revisions.","Something went wrong while deleting the revisions.",module,Magento_VersionsCms
+"You have created the new version.","Você criou uma nova versão.",module,Magento_VersionsCms
+"You have saved the version.","Você salvou a versão.",module,Magento_VersionsCms
+Private,Privado,module,Magento_VersionsCms
+Protected,Protegido,module,Magento_VersionsCms
+Public,Público,module,Magento_VersionsCms
+"Delete Multiple Hierarchies","Delete Multiple Hierarchies",module,Magento_VersionsCms
+"Please correct the node data.","Please correct the node data.",module,Magento_VersionsCms
+"CMS Node with id ""%1"" does not exist.","CMS Node with id ""%1"" does not exist.",module,Magento_VersionsCms
+"Tree Viewed","Tree Viewed",module,Magento_VersionsCms
+"Revision #%1 could not be removed because it is published.","Revision #%1 could not be removed because it is published.",module,Magento_VersionsCms
+"CMS Revision with id ""%1"" does not exist.","CMS Revision with id ""%1"" does not exist.",module,Magento_VersionsCms
+"Please enter a version label.","Por favor, insira um rótulo de versão.",module,Magento_VersionsCms
+"Cannot change version access level because it is the last public version for its page.","Cannot change version access level because it is the last public version for its page.",module,Magento_VersionsCms
+"Version ""%1"" cannot be removed because it is the last public page version.","Version ""%1"" cannot be removed because it is the last public page version.",module,Magento_VersionsCms
+"Version ""%1"" cannot be removed because its revision is published.","Version ""%1"" cannot be removed because its revision is published.",module,Magento_VersionsCms
+"CMS Version with id ""%1"" does not exist.","CMS Version with id ""%1"" does not exist.",module,Magento_VersionsCms
+Published,Publicado,module,Magento_VersionsCms
+"[No Owner]","[No Owner]",module,Magento_VersionsCms
+Chapter,Capítulo,module,Magento_VersionsCms
+Section,Seção,module,Magento_VersionsCms
+Both,Ambos,module,Magento_VersionsCms
+"Use default","Usar padrão",module,Magento_VersionsCms
+Default,Padrão,module,Magento_VersionsCms
+"Numbers (1, 2, 3, ...)","Números (1, 2, 3,...)",module,Magento_VersionsCms
+"Lower Alpha (a, b, c, ...)","Lower Alpha (a, b, c, ...)",module,Magento_VersionsCms
+"Upper Alpha (A, B, C, ...)","Upper Alpha (A, B, C, ...)",module,Magento_VersionsCms
+"Lower Roman (i, ii, iii, ...)","Lower Roman (i, ii, iii, ...)",module,Magento_VersionsCms
+"Upper Roman (I, II, III, ...)","Upper Roman (I, II, III, ...)",module,Magento_VersionsCms
+Circle,Círculo,module,Magento_VersionsCms
+Disc,Disco,module,Magento_VersionsCms
+Square,Quadrado,module,Magento_VersionsCms
+Unordered,"Não ordenado",module,Magento_VersionsCms
+Ordered,Ordenado,module,Magento_VersionsCms
+"Use Parent","Usar pai",module,Magento_VersionsCms
+"Enabled by Default","Habilitado por padrão",module,Magento_VersionsCms
+"Disabled by Default","Desativado por padrão",module,Magento_VersionsCms
+"Under Version Control","Sob controle de versão",module,Magento_VersionsCms
+"%1; rev #%2","%1; rev #%2",module,Magento_VersionsCms
+"Currently Published Revision","Currently Published Revision",module,Magento_VersionsCms
+"The published revision is unavailable.","A revisão publicada não está disponível.",module,Magento_VersionsCms
+"Some error","Algum erro",module,Magento_VersionsCms
+"Use the parent node hierarchy.","Use a hierarquia do nó pai.",module,Magento_VersionsCms
+"Are you sure you want to delete current hierarchy?","Are you sure you want to delete current hierarchy?",module,Magento_VersionsCms
+"This page cannot be added, because a node or page with the same URL Key already exists in this tree part.","This page cannot be added, because a node or page with the same URL Key already exists in this tree part.",module,Magento_VersionsCms
+"There are unsaved node data. Are you sure you want to continue?","There are unsaved node data. Are you sure you want to continue?",module,Magento_VersionsCms
+"This URL key is already in use.","Esta chave de URL já está sendo usada.",module,Magento_VersionsCms
+"CMS Pages","Páginas CMS",module,Magento_VersionsCms
+"Please select a website or store view.","Please select a website or store view.",module,Magento_VersionsCms
+"Are you sure you want to copy the current hierarchy to the selected destinations?","Are you sure you want to copy the current hierarchy to the selected destinations?",module,Magento_VersionsCms
+"Are you sure you want to delete the selected hierarchies?","Are you sure you want to delete the selected hierarchies?",module,Magento_VersionsCms
+"Please select one or more hierarchies to delete.","Please select one or more hierarchies to delete.",module,Magento_VersionsCms
+"Please assign the current hierarchy to one or more destinations.","Please assign the current hierarchy to one or more destinations.",module,Magento_VersionsCms
+Root,Raiz,module,Magento_VersionsCms
+"No nodes are available","No nodes are available",module,Magento_VersionsCms
+"Single Hierarchy for All Store Views","Single Hierarchy for All Store Views",module,Magento_VersionsCms
+"Specific Hierarchy for Each Store View","Specific Hierarchy for Each Store View",module,Magento_VersionsCms
+"CMS Hierarchy for","CMS Hierarchy for",module,Magento_VersionsCms
+"Anchor Custom Text","Anchor Custom Text",module,Magento_VersionsCms
+"If this value is empty, the node or page name will be used.","If this value is empty, the node or page name will be used.",module,Magento_VersionsCms
+"Anchor Custom Title","Anchor Custom Title",module,Magento_VersionsCms
+Node,Nó,module,Magento_VersionsCms
+"Not Selected","Não selecionado",module,Magento_VersionsCms
+"Select a page or node.","Selecione uma página ou um nó.",module,Magento_VersionsCms
+Loading...,Carregando...,module,Magento_VersionsCms
+"Please wait...","Por favor, aguarde...",module,Magento_VersionsCms
+"Choose Revision","Choose Revision",module,Magento_VersionsCms
+"Current Modification","Current Modification",module,Magento_VersionsCms
+"Revision #%1","Revision #%1",module,Magento_VersionsCms
+"Choose Store View:","Choose Store View:",module,Magento_VersionsCms
+"Revision #","Revision #",module,Magento_VersionsCms
+"New Revision","Nova revisão",module,Magento_VersionsCms
+Author:,Autor:,module,Magento_VersionsCms
+Created:,Criado:,module,Magento_VersionsCms
+Version:,Versão:,module,Magento_VersionsCms
+"This Page Belongs To","This Page Belongs To",module,Magento_VersionsCms
+"Website Root","Website Root",module,Magento_VersionsCms
+"Version Revisions","Version Revisions",module,Magento_VersionsCms
+Page:,Página:,module,Magento_VersionsCms
+Page,Página,module,Magento_VersionsCms
+Previous,Anterior,module,Magento_VersionsCms
+"You're currently reading page","You're currently reading page",module,Magento_VersionsCms
+Next,Próximo,module,Magento_VersionsCms
+"CMS Page Hierarchy","CMS Page Hierarchy",module,Magento_VersionsCms
+"Enable Hierarchy Functionality","Enable Hierarchy Functionality",module,Magento_VersionsCms
+"Enable Hierarchy Metadata","Enable Hierarchy Metadata",module,Magento_VersionsCms
+"Default Layout for Hierarchy Menu","Default Layout for Hierarchy Menu",module,Magento_VersionsCms
+"CMS Versioning","CMS Versioning",module,Magento_VersionsCms
+"CMS Page Default Versioning","CMS Page Default Versioning",module,Magento_VersionsCms
+"CMS Hierarchy","Hierarquia CMS",module,Magento_VersionsCms
+"CMS Hierarchy Node Link","CMS Hierarchy Node Link",module,Magento_VersionsCms
+"Link to Specified CMS Hierarchy Node","Link to Specified CMS Hierarchy Node",module,Magento_VersionsCms
+Template,Template,module,Magento_VersionsCms
+"CMS Page Link Block Template","CMS Page Link Block Template",module,Magento_VersionsCms
+"CMS Page Link Inline Template","CMS Page Link Inline Template",module,Magento_VersionsCms
+"All Store Views","Todas as Visões de Loja",module,Magento_VersionsCms

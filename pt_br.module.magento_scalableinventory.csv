@@ -1,0 +1,18 @@
+"Advanced Inventory","Estoque Avançado",module,Magento_ScalableInventory
+"Manage Stock","Gerenciar Estoque",module,Magento_ScalableInventory
+Yes,Sim,module,Magento_ScalableInventory
+No,Não,module,Magento_ScalableInventory
+"Use Config Settings","Usar Configurações padrão",module,Magento_ScalableInventory
+[GLOBAL],[GLOBAL],module,Magento_ScalableInventory
+Qty,Qtd,module,Magento_ScalableInventory
+"Out-of-Stock Threshold","Indisponível no estoque",module,Magento_ScalableInventory
+"Minimum Qty Allowed in Shopping Cart","Quantidade Mínima Permitida no Carrinho",module,Magento_ScalableInventory
+"Maximum Qty Allowed in Shopping Cart","Quantidade Máxima Permitida no Carrinho",module,Magento_ScalableInventory
+"Qty Uses Decimals","Qtd Usa Casas Decimais",module,Magento_ScalableInventory
+"Allow Multiple Boxes for Shipping.","Permitir vários pacotes para envio.",module,Magento_ScalableInventory
+Backorders,"Pedidos pendentes",module,Magento_ScalableInventory
+"Use deferred Stock update","Use deferred Stock update",module,Magento_ScalableInventory
+"Notify for Quantity Below","Notificar para Quantidade Abaixo",module,Magento_ScalableInventory
+"Enable Qty Increments","Habilitar os Incrementos de Qtd",module,Magento_ScalableInventory
+"Qty Increments","Incrementos de Qtd",module,Magento_ScalableInventory
+"Stock Availability","Disponibilidade de Estoque",module,Magento_ScalableInventory

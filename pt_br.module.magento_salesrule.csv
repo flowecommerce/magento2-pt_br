@@ -1,0 +1,149 @@
+"Cart Price Rules","Cart Price Rules",module,Magento_SalesRule
+"Add New Rule","Adicionar Nova Regra",module,Magento_SalesRule
+"Save and Continue Edit","Salvar e Continuar a Editar",module,Magento_SalesRule
+"Edit Rule '%1'","Editar Regra '%1'",module,Magento_SalesRule
+"New Rule","Nova Regra",module,Magento_SalesRule
+"Rule Information","Informações da Regra",module,Magento_SalesRule
+Actions,Ações,module,Magento_SalesRule
+"Pricing Structure Rules","Regras para estrutura de preço",module,Magento_SalesRule
+Apply,Aplicar,module,Magento_SalesRule
+"Percent of product price discount","Percent of product price discount",module,Magento_SalesRule
+"Fixed amount discount","Fixed amount discount",module,Magento_SalesRule
+"Fixed amount discount for whole cart","Fixed amount discount for whole cart",module,Magento_SalesRule
+"Buy X get Y free (discount amount is Y)","Buy X get Y free (discount amount is Y)",module,Magento_SalesRule
+"Discount Amount","Quantidade do Desconto",module,Magento_SalesRule
+"Maximum Qty Discount is Applied To","Maximum Qty Discount is Applied To",module,Magento_SalesRule
+"Discount Qty Step (Buy X)","Discount Qty Step (Buy X)",module,Magento_SalesRule
+"Apply to Shipping Amount","Apply to Shipping Amount",module,Magento_SalesRule
+"Discard subsequent rules","Descartar as regras subseqüentes",module,Magento_SalesRule
+Yes,Sim,module,Magento_SalesRule
+No,Não,module,Magento_SalesRule
+"Apply the rule only to cart items matching the following conditions (leave blank for all items).","Apply the rule only to cart items matching the following conditions (leave blank for all items).",module,Magento_SalesRule
+"Apply To","Aplicar a",module,Magento_SalesRule
+Conditions,Condições,module,Magento_SalesRule
+"Apply the rule only if the following conditions are met (leave blank for all products).","Apply the rule only if the following conditions are met (leave blank for all products).",module,Magento_SalesRule
+"Manage Coupon Codes","Manage Coupon Codes",module,Magento_SalesRule
+"Coupons Information","Coupons Information",module,Magento_SalesRule
+"Coupon Qty","Coupon Qty",module,Magento_SalesRule
+"Code Length","Tamanho do código",module,Magento_SalesRule
+"Excluding prefix, suffix and separators.","Excluindo o prefixo, sufixo e separadores.",module,Magento_SalesRule
+"Code Format","Formato do código",module,Magento_SalesRule
+"Code Prefix","Prefixo do código",module,Magento_SalesRule
+"Code Suffix","Sufixo do código",module,Magento_SalesRule
+"Dash Every X Characters","Dash Every X Characters",module,Magento_SalesRule
+"If empty no separation.","If empty no separation.",module,Magento_SalesRule
+Generate,Gerar,module,Magento_SalesRule
+"Coupon Code","Código do cupom",module,Magento_SalesRule
+Created,Criado,module,Magento_SalesRule
+Uses,Usos,module,Magento_SalesRule
+"Times Used","Número de usos",module,Magento_SalesRule
+CSV,CSV,module,Magento_SalesRule
+"Excel XML","Excel, XML",module,Magento_SalesRule
+Delete,Excluir,module,Magento_SalesRule
+"Are you sure you want to delete the selected coupon(s)?","Você tem certeza que deseja excluir o(s) cupões selecionado(s)?",module,Magento_SalesRule
+Labels,Labels,module,Magento_SalesRule
+"Default Label","Default Label",module,Magento_SalesRule
+"Default Rule Label for All Store Views","Default Rule Label for All Store Views",module,Magento_SalesRule
+"Store View Specific Labels","Store View Specific Labels",module,Magento_SalesRule
+"General Information","Informações gerais",module,Magento_SalesRule
+"Rule Name","Nome da regra",module,Magento_SalesRule
+Description,Descrição,module,Magento_SalesRule
+Status,Status,module,Magento_SalesRule
+Active,Ativo,module,Magento_SalesRule
+Inactive,Inativo,module,Magento_SalesRule
+Websites,Websites,module,Magento_SalesRule
+"Customer Groups","Grupos de Cliente",module,Magento_SalesRule
+Coupon,Cupom,module,Magento_SalesRule
+"Use Auto Generation","Use Auto Generation",module,Magento_SalesRule
+"If you select and save the rule you will be able to generate multiple coupon codes.","If you select and save the rule you will be able to generate multiple coupon codes.",module,Magento_SalesRule
+"Uses per Coupon","Uses per Coupon",module,Magento_SalesRule
+"Uses per Customer","Usos por cliente",module,Magento_SalesRule
+"Usage limit enforced for logged in customers only.","Usage limit enforced for logged in customers only.",module,Magento_SalesRule
+From,De,module,Magento_SalesRule
+To,Até,module,Magento_SalesRule
+Priority,Prioridade,module,Magento_SalesRule
+"Public In RSS Feed","Public In RSS Feed",module,Magento_SalesRule
+"Cart Price Rule","Regra de preço no carrinho",module,Magento_SalesRule
+ID,ID,module,Magento_SalesRule
+Rule,Regra,module,Magento_SalesRule
+Start,Ínicio,module,Magento_SalesRule
+End,End,module,Magento_SalesRule
+"%1 - Discounts and Coupons","%1 - Discounts and Coupons",module,Magento_SalesRule
+Coupons/Discounts,Coupons/Discounts,module,Magento_SalesRule
+Promotions,Promoções,module,Magento_SalesRule
+"You deleted the rule.","Você excluiu a regra.",module,Magento_SalesRule
+"We can't delete the rule right now. Please review the log and try again.","We can't delete the rule right now. Please review the log and try again.",module,Magento_SalesRule
+"We can't find a rule to delete.","Não é possível encontrar uma regra para excluir.",module,Magento_SalesRule
+"This rule no longer exists.","Esta regra não existe mais.",module,Magento_SalesRule
+"Edit Rule","Editar Regra",module,Magento_SalesRule
+"New Cart Price Rule","New Cart Price Rule",module,Magento_SalesRule
+"Rule is not defined","Rule is not defined",module,Magento_SalesRule
+"Invalid data provided","Invalid data provided",module,Magento_SalesRule
+"%1 coupon(s) have been generated.","%1 coupon(s) have been generated.",module,Magento_SalesRule
+"Something went wrong while generating coupons. Please review the log and try again.","Something went wrong while generating coupons. Please review the log and try again.",module,Magento_SalesRule
+Catalog,Catálogo,module,Magento_SalesRule
+"The wrong rule is specified.","The wrong rule is specified.",module,Magento_SalesRule
+"You saved the rule.","Você gravou a regra.",module,Magento_SalesRule
+"Something went wrong while saving the rule data. Please review the error log.","Problema ao tentar salvar os dados da regra. Por favor, revise o log de erros.",module,Magento_SalesRule
+Alphanumeric,Alfanumérico,module,Magento_SalesRule
+Alphabetical,Alfabética,module,Magento_SalesRule
+Numeric,Numérico,module,Magento_SalesRule
+"We cannot create the requested Coupon Qty. Please check your settings and try again.","We cannot create the requested Coupon Qty. Please check your settings and try again.",module,Magento_SalesRule
+"Specified rule does not allow coupons","Specified rule does not allow coupons",module,Magento_SalesRule
+"Specified rule only allows auto generated coupons","Specified rule only allows auto generated coupons",module,Magento_SalesRule
+"Specified rule does not allow auto generated coupons","Specified rule does not allow auto generated coupons",module,Magento_SalesRule
+"Error occurred when saving coupon: %1","Error occurred when saving coupon: %1",module,Magento_SalesRule
+"Discount (%1)","Desconto (%1)",module,Magento_SalesRule
+Discount,Desconto,module,Magento_SalesRule
+"Coupon with the same code","Coupon with the same code",module,Magento_SalesRule
+"No Coupon","Sem cupom",module,Magento_SalesRule
+"Specific Coupon","Cupom específico",module,Magento_SalesRule
+Auto,Automático,module,Magento_SalesRule
+"Can't acquire coupon.","Can't acquire coupon.",module,Magento_SalesRule
+"Update the Product","Atualizar produto",module,Magento_SalesRule
+"Special Price","Preço Especial",module,Magento_SalesRule
+"To Fixed Value","Para Valor Fixo",module,Magento_SalesRule
+"To Percentage","Para Percentagem",module,Magento_SalesRule
+"By Fixed value","Por Valor Fixo",module,Magento_SalesRule
+"By Percentage","Por Percentagem",module,Magento_SalesRule
+"Update product's %1 %2: %3","Atualizar produto(s) %1 %2: %3",module,Magento_SalesRule
+Subtotal,Subtotal,module,Magento_SalesRule
+"Total Items Quantity","Total Items Quantity",module,Magento_SalesRule
+"Total Weight","Peso total",module,Magento_SalesRule
+"Payment Method","Forma de pagamento",module,Magento_SalesRule
+"Shipping Method","Método de Entrega",module,Magento_SalesRule
+"Shipping Postcode","Shipping Postcode",module,Magento_SalesRule
+"Shipping Region","Shipping Region",module,Magento_SalesRule
+"Shipping State/Province","Shipping State/Province",module,Magento_SalesRule
+"Shipping Country","Shipping Country",module,Magento_SalesRule
+"Product attribute combination","Product attribute combination",module,Magento_SalesRule
+"Products subselection","Products subselection",module,Magento_SalesRule
+"Conditions combination","Conditions combination",module,Magento_SalesRule
+"Cart Attribute","Cart Attribute",module,Magento_SalesRule
+"Quantity in cart","Quantity in cart",module,Magento_SalesRule
+"Price in cart","Price in cart",module,Magento_SalesRule
+"Row total in cart","Row total in cart",module,Magento_SalesRule
+"Conditions Combination","Combinação de Condições",module,Magento_SalesRule
+"Cart Item Attribute","Cart Item Attribute",module,Magento_SalesRule
+"Product Attribute","Atributo do Produto",module,Magento_SalesRule
+FOUND,FOUND,module,Magento_SalesRule
+"NOT FOUND","NOT FOUND",module,Magento_SalesRule
+"If an item is %1 in the cart with %2 of these conditions true:","If an item is %1 in the cart with %2 of these conditions true:",module,Magento_SalesRule
+"total quantity","total quantity",module,Magento_SalesRule
+"total amount","total amount",module,Magento_SalesRule
+is,é,module,Magento_SalesRule
+"is not","não é",module,Magento_SalesRule
+"equals or greater than","é igual ou maior que",module,Magento_SalesRule
+"equals or less than","é igual ou menor que",module,Magento_SalesRule
+"greater than","maior do que",module,Magento_SalesRule
+"less than","menos que",module,Magento_SalesRule
+"is one of","é um dos",module,Magento_SalesRule
+"is not one of","não é um dos",module,Magento_SalesRule
+"If %1 %2 %3 for a subselection of items in cart matching %4 of these conditions:","If %1 %2 %3 for a subselection of items in cart matching %4 of these conditions:",module,Magento_SalesRule
+"Specified rule does not allow automatic coupon generation","Specified rule does not allow automatic coupon generation",module,Magento_SalesRule
+"Error occurred when generating coupons: %1","Error occurred when generating coupons: %1",module,Magento_SalesRule
+"Some coupons are invalid.","Some coupons are invalid.",module,Magento_SalesRule
+"Item totals are not set for the rule.","Item totals are not set for the rule.",module,Magento_SalesRule
+"%1 Cart Price Rules based on ""%2"" attribute have been disabled.","%1 Cart Price Rules based on ""%2"" attribute have been disabled.",module,Magento_SalesRule
+"Auto Generated Specific Coupon Codes","Auto Generated Specific Coupon Codes",module,Magento_SalesRule
+"Web Site",Website,module,Magento_SalesRule

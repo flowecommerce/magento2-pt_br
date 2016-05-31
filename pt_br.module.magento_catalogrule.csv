@@ -1,0 +1,76 @@
+"Catalog Price Rule","Regra de Preço do Catálogo",module,Magento_CatalogRule
+"Add New Rule","Adicionar Nova Regra",module,Magento_CatalogRule
+"Apply Rules","Aplicar Regras",module,Magento_CatalogRule
+"Save and Apply","Salvar e Aplicar",module,Magento_CatalogRule
+"Save and Continue Edit","Salvar e Continuar a Editar",module,Magento_CatalogRule
+"Edit Rule '%1'","Editar Regra '%1'",module,Magento_CatalogRule
+"New Rule","Nova Regra",module,Magento_CatalogRule
+"Rule Information","Informações da Regra",module,Magento_CatalogRule
+Actions,Ações,module,Magento_CatalogRule
+"Pricing Structure Rules","Regras para estrutura de preço",module,Magento_CatalogRule
+Apply,Aplicar,module,Magento_CatalogRule
+"Apply as percentage of original","Aplicado como porcentagem do original",module,Magento_CatalogRule
+"Apply as fixed amount","Aplicado como montante fixo",module,Magento_CatalogRule
+"Adjust final price to this percentage","Ajustar o preço final para esta percentagem",module,Magento_CatalogRule
+"Adjust final price to discount value","Ajustar o preço final para o valor de desconto",module,Magento_CatalogRule
+"Discount Amount","Quantidade do Desconto",module,Magento_CatalogRule
+"Subproduct discounts","Descontos de subproduto",module,Magento_CatalogRule
+No,Não,module,Magento_CatalogRule
+Yes,Sim,module,Magento_CatalogRule
+"Discard subsequent rules","Descartar as regras subseqüentes",module,Magento_CatalogRule
+Conditions,Condições,module,Magento_CatalogRule
+"Conditions (don't add conditions if rule is applied to all products)","Condições (não adicionar condições se a regra é aplicada a todos os produtos)",module,Magento_CatalogRule
+"General Information","Informações gerais",module,Magento_CatalogRule
+"Rule Name","Nome da regra",module,Magento_CatalogRule
+Description,Descrição,module,Magento_CatalogRule
+Status,Status,module,Magento_CatalogRule
+Active,Ativo,module,Magento_CatalogRule
+Inactive,Inativo,module,Magento_CatalogRule
+Websites,Websites,module,Magento_CatalogRule
+"Customer Groups","Grupos de Cliente",module,Magento_CatalogRule
+From,De,module,Magento_CatalogRule
+To,Até,module,Magento_CatalogRule
+Priority,Prioridade,module,Magento_CatalogRule
+ID,ID,module,Magento_CatalogRule
+Type,Tipo,module,Magento_CatalogRule
+"Attribute Set","Conjunto de Atributos",module,Magento_CatalogRule
+SKU,SKU,module,Magento_CatalogRule
+Product,Produto,module,Magento_CatalogRule
+Promotions,Promoções,module,Magento_CatalogRule
+"We found updated rules that are not applied. Please click ""Apply Rules"" to update your catalog.","Regras de atualização não são aplicadas. Por favor, clique em ""Aplicar Regras"" para atualizar o seu catálogo.",module,Magento_CatalogRule
+"We can't apply the rules.","Não é possível aplicar as regras.",module,Magento_CatalogRule
+"You deleted the rule.","Você excluiu a regra.",module,Magento_CatalogRule
+"We can't delete this rule right now. Please review the log and try again.","Não é possível excluir a regra agora. Por favor, revise o log e tente novamente.",module,Magento_CatalogRule
+"We can't find a rule to delete.","Não é possível encontrar uma regra para excluir.",module,Magento_CatalogRule
+"This rule no longer exists.","Esta regra não existe mais.",module,Magento_CatalogRule
+"New Catalog Price Rule","Nova Regra de Preço de Catálogo",module,Magento_CatalogRule
+"Edit Rule","Editar Regra",module,Magento_CatalogRule
+Catalog,Catálogo,module,Magento_CatalogRule
+"Wrong rule specified.","Regra especificada incorreta.",module,Magento_CatalogRule
+"You saved the rule.","Você gravou a regra.",module,Magento_CatalogRule
+"Something went wrong while saving the rule data. Please review the error log.","Problema ao tentar salvar os dados da regra. Por favor, revise o log de erros.",module,Magento_CatalogRule
+Promo,Promoção,module,Magento_CatalogRule
+"Could not rebuild index for empty products array","Não poderia reconstruir o índice da matriz de produtos vazio",module,Magento_CatalogRule
+"We can't rebuild the index for an undefined product.","Não é possível recriar o índice para um produto indefinido.",module,Magento_CatalogRule
+"Percentage discount should be between 0 and 100.","Percentual de desconto deve ser entre 0 e 100.",module,Magento_CatalogRule
+"Discount value should be 0 or greater.","Valor de desconto deve ser maior do que 0.",module,Magento_CatalogRule
+"Unknown action.","Ação desconhecida.",module,Magento_CatalogRule
+"Update the Product","Atualizar produto",module,Magento_CatalogRule
+"Rule price","Regra de Preço",module,Magento_CatalogRule
+"To Fixed Value","Para Valor Fixo",module,Magento_CatalogRule
+"To Percentage","Para Percentagem",module,Magento_CatalogRule
+"By Fixed value","Por Valor Fixo",module,Magento_CatalogRule
+"By Percentage","Por Percentagem",module,Magento_CatalogRule
+"Update product's %1 %2: %3","Atualizar produto(s) %1 %2: %3",module,Magento_CatalogRule
+"Conditions Combination","Combinação de Condições",module,Magento_CatalogRule
+"Product Attribute","Atributo do Produto",module,Magento_CatalogRule
+"Updated rules applied.","Regras atualizadas aplicadas.",module,Magento_CatalogRule
+"You disabled %1 Catalog Price Rules based on ""%2"" attribute.","Você desabilitou %1 Regras de Preço do Catálogo com base no atributo ""%2"".",module,Magento_CatalogRule
+"Catalog Rule Product","Catalog Rule Product",module,Magento_CatalogRule
+"Indexed rule/product association","Indexed rule/product association",module,Magento_CatalogRule
+"Catalog Product Rule","Catalog Product Rule",module,Magento_CatalogRule
+"Indexed product/rule association","Indexed product/rule association",module,Magento_CatalogRule
+Rule,Regra,module,Magento_CatalogRule
+Start,Ínicio,module,Magento_CatalogRule
+End,End,module,Magento_CatalogRule
+"Web Site",Website,module,Magento_CatalogRule

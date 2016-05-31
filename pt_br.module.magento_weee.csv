@@ -1,0 +1,29 @@
+"Add Tax","Add Tax",module,Magento_Weee
+"Delete Tax","Delete Tax",module,Magento_Weee
+"All Websites","Todos os sites",module,Magento_Weee
+FPT,FPT,module,Magento_Weee
+"We found a duplicate of website, country and state fields for a fixed product tax","We found a duplicate of website, country and state fields for a fixed product tax",module,Magento_Weee
+"Including FPT only","Including FPT only",module,Magento_Weee
+"Including FPT and FPT description","Including FPT and FPT description",module,Magento_Weee
+"Excluding FPT. Including FPT description and final price","Excluding FPT. Including FPT description and final price",module,Magento_Weee
+"Excluding FPT","Excluding FPT",module,Magento_Weee
+label_value,label_value,module,Magento_Weee
+frontend_label,rótulo_frontend,module,Magento_Weee
+"Fixed Product Tax","Fixed Product Tax",module,Magento_Weee
+"Excl. Tax","Excl. Impostos",module,Magento_Weee
+Total,Total,module,Magento_Weee
+"Incl. Tax","Imposto Incl.",module,Magento_Weee
+"Total Incl. Tax","Total Incl. Tax",module,Magento_Weee
+Website,Website,module,Magento_Weee
+Country/State,Country/State,module,Magento_Weee
+Tax,Taxa,module,Magento_Weee
+Action,Ação,module,Magento_Weee
+"Final Price","Final Price",module,Magento_Weee
+"Fixed Product Taxes","Fixed Product Taxes",module,Magento_Weee
+"Enable FPT","Enable FPT",module,Magento_Weee
+"Display Prices In Product Lists","Display Prices In Product Lists",module,Magento_Weee
+"Display Prices On Product View Page","Display Prices On Product View Page",module,Magento_Weee
+"Display Prices In Sales Modules","Display Prices In Sales Modules",module,Magento_Weee
+"Display Prices In Emails","Display Prices In Emails",module,Magento_Weee
+"Apply Tax To FPT","Apply Tax To FPT",module,Magento_Weee
+"Include FPT In Subtotal","Include FPT In Subtotal",module,Magento_Weee

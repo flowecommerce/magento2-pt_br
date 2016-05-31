@@ -1,0 +1,93 @@
+"Percent Discount","Porcentagem de Desconto",module,Magento_Bundle
+"-- Select --","-- Selecionar --",module,Magento_Bundle
+Dynamic,Dinâmico,module,Magento_Bundle
+Fixed,Fixo,module,Magento_Bundle
+"Create New Option","Criar Nova Opção",module,Magento_Bundle
+"Bundle Items","Itens do Pacote",module,Magento_Bundle
+"Add Products to Option","Adicionar Produtos a Opções",module,Magento_Bundle
+Close,Fechar,module,Magento_Bundle
+"Delete Option","Deletar Opção",module,Magento_Bundle
+"What are you looking for?","O que você está procurando?",module,Magento_Bundle
+ID,ID,module,Magento_Bundle
+Product,Produto,module,Magento_Bundle
+SKU,SKU,module,Magento_Bundle
+Price,Preço,module,Magento_Bundle
+Delete,Excluir,module,Magento_Bundle
+"Use Default Value","Usar o Valor Padrão",module,Magento_Bundle
+"There is no defined renderer for ""%1"" option type.","Não há nenhum renderizador definido para o tipo de opção ""%1"".",module,Magento_Bundle
+"Only implemented for bundle product","Apenas implementado para pacote de produtos",module,Magento_Bundle
+"Product with specified sku: ""%1"" is not a bundle product","Produto com sku especificado: ""%1"" não é um pacote de produtos",module,Magento_Bundle
+"Bundle product could not contain another composite product","Pacote produto não pode conter outro produto composto",module,Magento_Bundle
+"Id field of product link is required","Campo Id do produto é obrigatório",module,Magento_Bundle
+"Can not find product link with id ""%1""","Não é possível encontrar o link do produto id ""%1""",module,Magento_Bundle
+"Could not save child: ""%1""","Não foi possível salvar o filho: ""%1""",module,Magento_Bundle
+"Product with specified sku: ""%1"" does not contain option: ""%2""","Produto com o sku: ""%1"" não contém a opção: ""%2""",module,Magento_Bundle
+"Child with specified sku: ""%1"" already assigned to product: ""%2""","Filho com sku especificado: ""%1"" já atribuído ao produto: ""%2""",module,Magento_Bundle
+"Product with specified sku: %1 is not a bundle product","Produto com sku especificado: %1 não é um produto do pacote",module,Magento_Bundle
+"Requested bundle option product doesn't exist","Opção do pacote solicitada de produtos não exite",module,Magento_Bundle
+"Requested option doesn't exist","A opção solicitada não existe",module,Magento_Bundle
+"Cannot delete option with id %1","Não é possível excluir a opção com id %1",module,Magento_Bundle
+"Could not save option","Não foi possível salvar a opção",module,Magento_Bundle
+"As Low as","Menor que",module,Magento_Bundle
+"Price Range","Faixa de preço",module,Magento_Bundle
+"Please specify product option(s).","Por favor, especifique as opções do produto.",module,Magento_Bundle
+"The options you selected are not available.","As opções selecionadas não estão disponíveis.",module,Magento_Bundle
+"The required options you selected are not available.","As opções que você selecionou não estão disponíveis.",module,Magento_Bundle
+"Please select all required options.","Por favor, selecione todas as opções solicitadas.",module,Magento_Bundle
+"We can't add this item to your shopping cart right now.","Nós não podemos adicionar este item ao seu carrinho de compras agora.",module,Magento_Bundle
+N/A,"Não Disponível",module,Magento_Bundle
+Percent,"Por cento",module,Magento_Bundle
+None,Nenhum,module,Magento_Bundle
+Quantity:,Quantidade:,module,Magento_Bundle
+"Choose a selection...","Escolha uma seleção...",module,Magento_Bundle
+"Ship Bundle Items","Envio dos ítens do pacote de produtos",module,Magento_Bundle
+Separately,Separadamente,module,Magento_Bundle
+Together,Juntos,module,Magento_Bundle
+"Option Title","Opção de título",module,Magento_Bundle
+"Store View Title","Título da visão da loja",module,Magento_Bundle
+"Input Type","Tipo de input",module,Magento_Bundle
+Required,Obrigatório,module,Magento_Bundle
+Position,Posição,module,Magento_Bundle
+"There are no products in this option.","Não há nenhum produto nesta opção.",module,Magento_Bundle
+"New Option","Nova Opção",module,Magento_Bundle
+Default,Padrão,module,Magento_Bundle
+Name,Nome,module,Magento_Bundle
+"Price Type","Tipo de preço",module,Magento_Bundle
+"Default Quantity","Quantidade padrão",module,Magento_Bundle
+"User Defined","Definidos pelo usuário",module,Magento_Bundle
+Ordered,Ordenado,module,Magento_Bundle
+Invoiced,Faturado,module,Magento_Bundle
+Shipped,Enviado,module,Magento_Bundle
+Refunded,Reembolsado,module,Magento_Bundle
+Canceled,Cancelado,module,Magento_Bundle
+"As low as","Tão baixo quanto",module,Magento_Bundle
+"Regular Price","Preço normal",module,Magento_Bundle
+From,De,module,Magento_Bundle
+To,Até,module,Magento_Bundle
+"Buy %1 with %2 discount each","Comprar %1 com %2 de desconto",module,Magento_Bundle
+"Go back to product details","Voltar para detalhes do produto",module,Magento_Bundle
+"Customize and Add to Cart","Personalizar e adicionar ao carrinho",module,Magento_Bundle
+"* Required Fields","* Campos Obrigatórios",module,Magento_Bundle
+"Your Customization","Sua personalização",module,Magento_Bundle
+Availability,Disponibilidade,module,Magento_Bundle
+"In stock","Em estoque",module,Magento_Bundle
+"Out of stock","Fora de estoque",module,Magento_Bundle
+Summary,Resumo,module,Magento_Bundle
+"%1 x %2","%1 x %2",module,Magento_Bundle
+Availability:,Disponibilidade:,module,Magento_Bundle
+Quantity,Quantidade,module,Magento_Bundle
+"Customize %1","Personalizar %1",module,Magento_Bundle
+"No options of this product are available.","Não há opções deste produto estão disponíveis.",module,Magento_Bundle
+"Gift Message","Mensagem do presente",module,Magento_Bundle
+From:,De:,module,Magento_Bundle
+To:,Para:,module,Magento_Bundle
+Message:,Mensagem:,module,Magento_Bundle
+"Product Name","Nome do produto",module,Magento_Bundle
+Subtotal,Subtotal,module,Magento_Bundle
+"Discount Amount","Quantidade do Desconto",module,Magento_Bundle
+"Row Total","Linha Total",module,Magento_Bundle
+"Qty Invoiced","Quantidade faturada",module,Magento_Bundle
+"Qty Shipped","Quantidade enviada",module,Magento_Bundle
+"Add Products to New Option","Add Products to New Option",module,Magento_Bundle
+"Add Products to Option ""%1""","Add Products to Option ""%1""",module,Magento_Bundle
+"Add Selected Products","Add Selected Products",module,Magento_Bundle

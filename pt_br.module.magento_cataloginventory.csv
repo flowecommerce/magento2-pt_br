@@ -1,0 +1,61 @@
+"ALL GROUPS","TODOS OS GRUPOS",module,Magento_CatalogInventory
+"Customer Group","Grupo de clientes",module,Magento_CatalogInventory
+"Minimum Qty","Qtd Mínima",module,Magento_CatalogInventory
+"Add Minimum Qty","Adicionar Qtd Mínima",module,Magento_CatalogInventory
+"We can't rebuild the index for an undefined product.","Não é possível recriar o índice para um produto indefinido.",module,Magento_CatalogInventory
+"Could not rebuild index for empty products array","Não poderia reconstruir o índice da matriz de produtos vazio",module,Magento_CatalogInventory
+"The stock item for Product is not valid.","O item de estoque para o produto não é válido.",module,Magento_CatalogInventory
+"This product is out of stock.","Este produto está em falta.",module,Magento_CatalogInventory
+"Some of the products are out of stock.","Alguns dos produtos estão fora de estoque.",module,Magento_CatalogInventory
+"The stock item for Product in option is not valid.","O item de estoque para o Produto na opção é inválido.",module,Magento_CatalogInventory
+"Undefined product type","Tipo de produto indefinido",module,Magento_CatalogInventory
+"%1 is not a correct comparison method.","%1 não é um método de comparação correto.",module,Magento_CatalogInventory
+"No Backorders","Sem Pedidos Pendentes",module,Magento_CatalogInventory
+"Allow Qty Below 0","Permitir Quantidade Abaixo de 0",module,Magento_CatalogInventory
+"Allow Qty Below 0 and Notify Customer","Permitir o Quantidade abaixo de 0 e notificar o cliente",module,Magento_CatalogInventory
+"In Stock","Em Estoque",module,Magento_CatalogInventory
+"Out of Stock","Fora de Estoque",module,Magento_CatalogInventory
+"Stock Item with id ""%1"" does not exist.","Item de estoque com id ""%1"" não existe.",module,Magento_CatalogInventory
+"Stock with id ""%1"" does not exist.","Estoque com id ""%1"" não existe.",module,Magento_CatalogInventory
+"Not all of your products are available in the requested quantity.","Nem todos os seus produtos estão disponíveis na quantidade solicitada.",module,Magento_CatalogInventory
+"Product with SKU ""%1"" does not exist","Não existe produto com SKU ""%1""",module,Magento_CatalogInventory
+"The fewest you may purchase is %1.","O mínimo que você pode comprar é %1.",module,Magento_CatalogInventory
+"Please correct the quantity for some products.","Por favor, corrija a quantidade para alguns produtos.",module,Magento_CatalogInventory
+"The most you may purchase is %1.","O máximo que você pode comprar é %1.",module,Magento_CatalogInventory
+"We don't have as many \"%1\" as you requested.","We don't have as many \"%1\" as you requested.",module,Magento_CatalogInventory
+"We don't have as many ""%1"" as you requested, but we'll back order the remaining %2.","Não temos o total de ""%1"" que você solicitou, mas ainda restam disponíveis %2.",module,Magento_CatalogInventory
+"We don't have ""%1"" in the requested quantity, so we'll back order the remaining %2.","Não temos ""%1"" na quantidade solicitada, então vamos disponibilizar os %2 restantes.",module,Magento_CatalogInventory
+"You can buy %1 only in quantities of %2 at a time.","Você pode comprar %1 somente em quantidades de %2 de cada vez.",module,Magento_CatalogInventory
+"You can buy this product only in quantities of %1 at a time.","Você pode comprar este produto apenas em quantidades de %1 de cada vez.",module,Magento_CatalogInventory
+"Decimal qty increments is not allowed.","Incrementos de quantidades decimais não são permitidos.",module,Magento_CatalogInventory
+"%1 is available to buy in increments of %2","%1 está disponível para compra em incrementos de %2",module,Magento_CatalogInventory
+"Only %1 left","Só resta %1",module,Magento_CatalogInventory
+"Product availability","Disponibilidade do produto",module,Magento_CatalogInventory
+"Product Name","Nome do Produto",module,Magento_CatalogInventory
+Qty,Qtd,module,Magento_CatalogInventory
+Inventory,Inventário,module,Magento_CatalogInventory
+"Stock Options","Stock Options",module,Magento_CatalogInventory
+"Decrease Stock When Order is Placed","Decrease Stock When Order is Placed",module,Magento_CatalogInventory
+"Set Items' Status to be In Stock When Order is Cancelled","Set Items' Status to be In Stock When Order is Cancelled",module,Magento_CatalogInventory
+"Display Out of Stock Products","Display Out of Stock Products",module,Magento_CatalogInventory
+"Products will still be shown by direct product URLs.","Products will still be shown by direct product URLs.",module,Magento_CatalogInventory
+"Only X left Threshold","Only X left Threshold",module,Magento_CatalogInventory
+"Display products availability in stock on Storefront.","Display products availability in stock on Storefront.",module,Magento_CatalogInventory
+"Product Stock Options","Product Stock Options",module,Magento_CatalogInventory
+"
+                    Please note that these settings apply to individual items in the cart, not to the entire cart.
+                ","
+                    Please note that these settings apply to individual items in the cart, not to the entire cart.
+                ",module,Magento_CatalogInventory
+"Manage Stock","Gerenciar Estoque",module,Magento_CatalogInventory
+Backorders,"Pedidos pendentes",module,Magento_CatalogInventory
+"Maximum Qty Allowed in Shopping Cart","Quantidade Máxima Permitida no Carrinho",module,Magento_CatalogInventory
+"Out-of-Stock Threshold","Indisponível no estoque",module,Magento_CatalogInventory
+"Minimum Qty Allowed in Shopping Cart","Quantidade Mínima Permitida no Carrinho",module,Magento_CatalogInventory
+"Notify for Quantity Below","Notificar para Quantidade Abaixo",module,Magento_CatalogInventory
+"Automatically Return Credit Memo Item to Stock","Automatically Return Credit Memo Item to Stock",module,Magento_CatalogInventory
+"Enable Qty Increments","Habilitar os Incrementos de Qtd",module,Magento_CatalogInventory
+"Qty Increments","Incrementos de Qtd",module,Magento_CatalogInventory
+Stock,Estoque,module,Magento_CatalogInventory
+"Index stock","Index stock",module,Magento_CatalogInventory
+Quantity,Quantidade,module,Magento_CatalogInventory

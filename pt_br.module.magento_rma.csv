@@ -1,0 +1,345 @@
+Return,Devolução,module,Magento_Rma
+Returns,Devoluções,module,Magento_Rma
+"Create Returns","Criar devolução",module,Magento_Rma
+"Select Items","Selecionar Itens",module,Magento_Rma
+"New Return Request","New Return Request",module,Magento_Rma
+"Create New RMA for %1 in %2","Create New RMA for %1 in %2",module,Magento_Rma
+"Create New RMA for %1","Create New RMA for %1",module,Magento_Rma
+"Create New RMA","Create New RMA",module,Magento_Rma
+"Please Select Order","Please Select Order",module,Magento_Rma
+Order,Pedido,module,Magento_Rma
+"Purchase Point","Ponto de compra",module,Magento_Rma
+Purchased,Comprado,module,Magento_Rma
+"Customer First Name","Nome do cliente",module,Magento_Rma
+"Customer Last Name","Sobrenome do cliente",module,Magento_Rma
+"Grand Total (Base)","Total geral (Base)",module,Magento_Rma
+"Grand Total (Purchased)","Total geral (comprado)",module,Magento_Rma
+Status,Status,module,Magento_Rma
+"Save and Continue Edit","Salvar e Continuar a Editar",module,Magento_Rma
+Close,Fechar,module,Magento_Rma
+"Are you sure you want to close this returns request?","Você tem certeza que deseja fechar este pedido de devolução?",module,Magento_Rma
+Print,Imprimir,module,Magento_Rma
+"Return #%1 - %2","Devolução #%1 - %2",module,Magento_Rma
+"RMA Item Details","Detalhes do Item RMA",module,Magento_Rma
+OK,OK,module,Magento_Rma
+Cancel,Cancelar,module,Magento_Rma
+"Delete Image","Excluir imagem",module,Magento_Rma
+"View Full Size","Ver Tamanho Completo",module,Magento_Rma
+"General Information","Informações gerais",module,Magento_Rma
+"Submit Comment","Enviar comentário",module,Magento_Rma
+Add,Adicionar,module,Magento_Rma
+"Custom Value","Valor personalizado",module,Magento_Rma
+"Print Shipping Label","Imprimir etiqueta de envio",module,Magento_Rma
+"Show Packages","Exibir pacotes",module,Magento_Rma
+Items,Itens,module,Magento_Rma
+"Return Items","Itens devolvidos",module,Magento_Rma
+Product,Produto,module,Magento_Rma
+SKU,SKU,module,Magento_Rma
+Remaining,Restantes,module,Magento_Rma
+Requested,Solicitado,module,Magento_Rma
+Authorized,Autorizado,module,Magento_Rma
+Returned,Devolvido,module,Magento_Rma
+Approved,Aprovado,module,Magento_Rma
+"Return Reason","Motivo da devolução",module,Magento_Rma
+"Item Condition","Condição do item",module,Magento_Rma
+Resolution,Resolução,module,Magento_Rma
+Details,Detalhes,module,Magento_Rma
+Split,Dividir,module,Magento_Rma
+Action,Ação,module,Magento_Rma
+"Return Information","Informações da devolução",module,Magento_Rma
+RMA,RMA,module,Magento_Rma
+Ordered,Ordenado,module,Magento_Rma
+Customer,Cliente,module,Magento_Rma
+View,Visualizar,module,Magento_Rma
+"You have chosen to change status(es) of the selected RMA requests to Close. Are you sure you want to continue?","You have chosen to change status(es) of the selected RMA requests to Close. Are you sure you want to continue?",module,Magento_Rma
+"Return Item Attribute","Return Item Attribute",module,Magento_Rma
+"Add New Attribute","Adicionar Novo Atributo",module,Magento_Rma
+"Save Attribute","Salvar Atributo",module,Magento_Rma
+"Delete Attribute","Excluir Atributo",module,Magento_Rma
+"Edit Return Item Attribute ""%1""","Edit Return Item Attribute ""%1""",module,Magento_Rma
+"New Return Item Attribute","New Return Item Attribute",module,Magento_Rma
+"Input Type","Tipo de input",module,Magento_Rma
+"This is used internally. Make sure you don't use spaces or more than %1 symbols.","Isso é usado internamente. Certifique-se de que você não use espaços ou mais de %1 símbolo(s).",module,Magento_Rma
+"Lines Count","Contagem de linhas",module,Magento_Rma
+"Valid range 2-20","Intervalo válido 2-20",module,Magento_Rma
+"Input Validation","Validação de entrada",module,Magento_Rma
+None,Nenhum,module,Magento_Rma
+"Minimum Text Length","Comprimento mínimo de texto",module,Magento_Rma
+"Maximum Text Length","Comprimento máximo de texto",module,Magento_Rma
+"Maximum File Size (bytes)","Tamanho máximo do arquivo (bytes)",module,Magento_Rma
+"File Extensions","Extensões de arquivo",module,Magento_Rma
+"Comma separated","Separados por vírgula",module,Magento_Rma
+"Maximum Image Width (px)","Largura máxima da imagem (px)",module,Magento_Rma
+"Maximum Image Height (px)","Altura máxima da imagem (px)",module,Magento_Rma
+"Input/Output Filter","Filtro de entrada/saída",module,Magento_Rma
+"Storefront Properties","Propriedades da Loja",module,Magento_Rma
+"Show on Storefront","Mostrar na frente de loja",module,Magento_Rma
+"Sort Order",Ordernação,module,Magento_Rma
+"Forms to Use In","Formulários para uso em",module,Magento_Rma
+Properties,Propriedades,module,Magento_Rma
+"Manage Label / Options","Gerenciar etiqueta / opções",module,Magento_Rma
+"Attribute Information","Informações de atributo",module,Magento_Rma
+"Visible to Customer","Visível para o cliente",module,Magento_Rma
+No,Não,module,Magento_Rma
+Yes,Sim,module,Magento_Rma
+"Submit Returns","Submit Returns",module,Magento_Rma
+"Add Products","Adicionar Produtos",module,Magento_Rma
+"Add Selected Product(s) to returns","Add Selected Product(s) to returns",module,Magento_Rma
+"Product Name","Nome do produto",module,Magento_Rma
+"Remaining Qty","Remaining Qty",module,Magento_Rma
+"Requested Qty","Requested Qty",module,Magento_Rma
+"Reason to Return","Reason to Return",module,Magento_Rma
+Delete,Excluir,module,Magento_Rma
+"Add Details","Adicionar detalhes",module,Magento_Rma
+Select,Selecione,module,Magento_Rma
+Price,Preço,module,Magento_Rma
+"The wrong RMA was requested.","The wrong RMA was requested.",module,Magento_Rma
+"This is the wrong RMA order ID.","This is the wrong RMA order ID.",module,Magento_Rma
+"Invalid RMA","RMA inválido",module,Magento_Rma
+"Please enter a valid message.","Por favor, insira uma mensagem válida.",module,Magento_Rma
+"We cannot add the RMA history.","Não foi possível adicionar o histórico RMA.",module,Magento_Rma
+"Invalid order","Pedido inválido",module,Magento_Rma
+"We can't retrieve the product list right now.","We can't retrieve the product list right now.",module,Magento_Rma
+"Please specify a carrier.","Please specify a carrier.",module,Magento_Rma
+"Please enter a tracking number.","Por favor, digite um número de rastreamento.",module,Magento_Rma
+"We cannot initialize an RMA to add a tracking number.","We cannot initialize an RMA to add a tracking number.",module,Magento_Rma
+"We can't add a message right now.","We can't add a message right now.",module,Magento_Rma
+"New Return","Nova devolução",module,Magento_Rma
+"%1 RMA(s) cannot be closed","%1 RMA(s) não pode ser fechado",module,Magento_Rma
+"We cannot close the RMA request(s).","Não foi possível fechar a RMA(s) solicitada(s) .",module,Magento_Rma
+"%1 RMA (s) have been closed.","%1 RMA (s) foram fechadas.",module,Magento_Rma
+"You created a shipping label.","Você criou uma etiqueta de envio.",module,Magento_Rma
+"We can't create a shipping label right now.","Não foi possível criar a etiqueta de envio.",module,Magento_Rma
+"Manage RMA Item Attributes","Gerenciar atributos do item RMA",module,Magento_Rma
+"You cannot delete this attribute.","Você não pode deletar este atributo.",module,Magento_Rma
+"You deleted the RMA attribute.","Você excluiu o atributo RMA.",module,Magento_Rma
+"We can't delete the RMA item attribute right now.","Não foi possível excluir o atributo do item RMA.",module,Magento_Rma
+"This attribute no longer exists.","Este atributo não existe mais.",module,Magento_Rma
+"You cannot edit this attribute.","Você não pode editar esse atributo.",module,Magento_Rma
+"Edit Return Item Attribute","Editar atributo do item da devolução",module,Magento_Rma
+"Returns Attributes","Returns Attributes",module,Magento_Rma
+"New Return Attribute","New Return Attribute",module,Magento_Rma
+"You saved the RMA item attribute.","You saved the RMA item attribute.",module,Magento_Rma
+"Something went wrong while saving the RMA item attribute.","Something went wrong while saving the RMA item attribute.",module,Magento_Rma
+"An attribute with the same code already exists.","An attribute with the same code already exists.",module,Magento_Rma
+"The wrong RMA item was requested.","The wrong RMA item was requested.",module,Magento_Rma
+"We cannot display the item attributes.","We cannot display the item attributes.",module,Magento_Rma
+"There are no applicable items for return in this order.","There are no applicable items for return in this order.",module,Magento_Rma
+"We don't recognize or support the file extension in shipment %1.","We don't recognize or support the file extension in shipment %1.",module,Magento_Rma
+"Something went wrong creating a shipping label.","Something went wrong creating a shipping label.",module,Magento_Rma
+"A quantity you're trying to add exceeds the number of products we shipped.","A quantity you're trying to add exceeds the number of products we shipped.",module,Magento_Rma
+"Products should be added to package(s)","Products should be added to package(s)",module,Magento_Rma
+"Please enter a valid value.","Por favor, insira um valor válido.",module,Magento_Rma
+"This is the wrong RMA ID.","O RMA ID esta incorreto.",module,Magento_Rma
+"We cannot display the available shipping methods.","Não foi possível exibir os métodos de envio disponíveis.",module,Magento_Rma
+"We cannot initialize an RMA to delete a tracking number.","We cannot initialize an RMA to delete a tracking number.",module,Magento_Rma
+"We can't delete the tracking number right now.","We can't delete the tracking number right now.",module,Magento_Rma
+"We can't save this RMA.","We can't save this RMA.",module,Magento_Rma
+"You saved the RMA request.","You saved the RMA request.",module,Magento_Rma
+"You did not email your customer. Please check your email settings.","Você não enviou o e-mail para seu cliente. Por favor, verifique suas configurações de e-mail.",module,Magento_Rma
+"You submitted the RMA request.","You submitted the RMA request.",module,Magento_Rma
+"No items for bundle product","No items for bundle product",module,Magento_Rma
+"The wrong order ID or item ID was requested.","The wrong order ID or item ID was requested.",module,Magento_Rma
+"Page not found.","Página não encontrada.",module,Magento_Rma
+"Shipping Labels are not allowed.","Shipping Labels are not allowed.",module,Magento_Rma
+"Please select a valid carrier.","Please select a valid carrier.",module,Magento_Rma
+"Please enter a valid tracking number.","Please enter a valid tracking number.",module,Magento_Rma
+"We can't add a label right now.","We can't add a label right now.",module,Magento_Rma
+"You selected the wrong RMA.","You selected the wrong RMA.",module,Magento_Rma
+"We can't create a return transaction for order #%1.","We can't create a return transaction for order #%1.",module,Magento_Rma
+"You submitted Return #%1.","You submitted Return #%1.",module,Magento_Rma
+"We can't create a return right now. Please try again later.","We can't create a return right now. Please try again later.",module,Magento_Rma
+"Create New Return","Create New Return",module,Magento_Rma
+"We can't delete the label right now.","We can't delete the label right now.",module,Magento_Rma
+"Return #%1","Return #%1",module,Magento_Rma
+"Cannot add message.","Cannot add message.",module,Magento_Rma
+"My Returns","My Returns",module,Magento_Rma
+"Tracking Information","Tracking Information",module,Magento_Rma
+"Page not found","Page not found",module,Magento_Rma
+"Please check this order for errors.","Please check this order for errors.",module,Magento_Rma
+"Contact Email Address","Contact Email Address",module,Magento_Rma
+"Text Field","Campo de Texto",module,Magento_Rma
+"Text Area","Área de Texto",module,Magento_Rma
+Dropdown,"Menu suspenso",module,Magento_Rma
+"Image File","Arquivo de imagem",module,Magento_Rma
+"Only one RMA is available for printing","Only one RMA is available for printing",module,Magento_Rma
+"Return # ","Devolução # ",module,Magento_Rma
+"Return Date: ","Data da devolução: ",module,Magento_Rma
+"Order # ","Pedido # ",module,Magento_Rma
+"Ordered: ","Comprado: ",module,Magento_Rma
+"Shipping Address:","Endereço de entrega:",module,Magento_Rma
+"Return Address:","Endereço de devolução:",module,Magento_Rma
+Condition,Condição,module,Magento_Rma
+Qty,Qtd,module,Magento_Rma
+"Use config","Usar o config",module,Magento_Rma
+"There is an error in quantities for item %1.","There is an error in quantities for item %1.",module,Magento_Rma
+"Authorized Qty","Qtde autorizada",module,Magento_Rma
+"Returned Qty","Qtde devolvida",module,Magento_Rma
+"Approved Qty","Qtde aprovada",module,Magento_Rma
+"%1 for item %2 cannot be empty.","%1 for item %2 cannot be empty.",module,Magento_Rma
+"You cannot return %1.","You cannot return %1.",module,Magento_Rma
+"A quantity of %1 is greater than you can return.","A quantity of %1 is greater than you can return.",module,Magento_Rma
+"You entered an invalid type: ""%1"".","You entered an invalid type: ""%1"".",module,Magento_Rma
+"You entered an invalid email address: ""%1"".","You entered an invalid email address: ""%1"".",module,Magento_Rma
+"You entered an invalid hostname: ""%1""","You entered an invalid hostname: ""%1""",module,Magento_Rma
+"""%1"" is longer than allowed.","""%1"" is longer than allowed.",module,Magento_Rma
+"Unknown service","Unknown service",module,Magento_Rma
+"We can't save this RMA. No items were specified.","We can't save this RMA. No items were specified.",module,Magento_Rma
+Pending,Pendente,module,Magento_Rma
+"Partially Authorized","Partially Authorized",module,Magento_Rma
+"Return Received","Return Received",module,Magento_Rma
+"Return Partially Received","Devolução recebida parcialmente",module,Magento_Rma
+"Partially Approved","Parcialmente aprovada",module,Magento_Rma
+Rejected,Rejeitado,module,Magento_Rma
+"Partially Rejected","Parcialmente rejeitado",module,Magento_Rma
+Denied,Negado,module,Magento_Rma
+Closed,Fechado,module,Magento_Rma
+"Processed and Closed","Processada e fechada",module,Magento_Rma
+"This is the wrong RMA item status.","This is the wrong RMA item status.",module,Magento_Rma
+"We received your Return request.","Nós recebemos o seu pedido de devolução.",module,Magento_Rma
+"We authorized your Return request.","Nós autorizamos seu pedido de devolução.",module,Magento_Rma
+"We partially authorized your Return request.","We partially authorized your Return request.",module,Magento_Rma
+"We partially received your Return request.","We partially received your Return request.",module,Magento_Rma
+"We partially approved your Return request.","We partially approved your Return request.",module,Magento_Rma
+"We partially rejected your Return request.","We partially rejected your Return request.",module,Magento_Rma
+"We closed your Return request.","We closed your Return request.",module,Magento_Rma
+"We processed and closed your Return request.","We processed and closed your Return request.",module,Magento_Rma
+"ID cannot be an empty","ID cannot be an empty",module,Magento_Rma
+"Requested entity doesn't exist","A entidade solicitada não existe",module,Magento_Rma
+"Please enter a valid comment.","Please enter a valid comment.",module,Magento_Rma
+"Invalid carrier: %1","Invalid carrier: %1",module,Magento_Rma
+"We need more information to create your shipping label(s). Please verify your store information and shipping settings.","We need more information to create your shipping label(s). Please verify your store information and shipping settings.",module,Magento_Rma
+"No detail for number ""%1""","No detail for number ""%1""",module,Magento_Rma
+"Shipment does not exists.","Shipment does not exists.",module,Magento_Rma
+"We can't load track with retrieving identifier right now.","We can't load track with retrieving identifier right now.",module,Magento_Rma
+Message,Mensagem,module,Magento_Rma
+"No detail for number ""' . . '""","No detail for number ""' . . '""",module,Magento_Rma
+"All Items","Todos os itens",module,Magento_Rma
+"Individual Items","Itens individuais",module,Magento_Rma
+"Account &amp; Shipping Information","Conta &amp; informações de envio",module,Magento_Rma
+"Address Information","Informações de Endereço",module,Magento_Rma
+"RMA Totals","RMA Totals",module,Magento_Rma
+"Request Details","Detalhes da solicitação",module,Magento_Rma
+ID,ID,module,Magento_Rma
+#,#,module,Magento_Rma
+"Order ID","ID do Pedido",module,Magento_Rma
+"Customer Name","Nome do cliente",module,Magento_Rma
+"Email Address","Endereço de e-mail",module,Magento_Rma
+"RMA History","Histórico RMA",module,Magento_Rma
+"Comment Text","Texto do comentário",module,Magento_Rma
+"Notify Customer by Email","Notificar o cliente por e-mail",module,Magento_Rma
+"Visible on Storefront","Visible on Storefront",module,Magento_Rma
+"Customer Service","Atendimento ao cliente",module,Magento_Rma
+Notified,Notificado,module,Magento_Rma
+"Not Notified","Não notificado",module,Magento_Rma
+"Return Address","Endereço de devolução",module,Magento_Rma
+"Order Shipping Address","Order Shipping Address",module,Magento_Rma
+"Delete Line","Excluir linha",module,Magento_Rma
+"Select All","Selecionar Todos",module,Magento_Rma
+Weight,Peso,module,Magento_Rma
+"Customs Value","Valor personalizado",module,Magento_Rma
+"Qty Ordered","Qtde comprada",module,Magento_Rma
+"Shipping Information","Dados de Entrega",module,Magento_Rma
+"Change shipping method.","Change shipping method.",module,Magento_Rma
+"No authorized items or allowed shipping methods","No authorized items or allowed shipping methods",module,Magento_Rma
+Carrier,Carrier,module,Magento_Rma
+Title,Título,module,Magento_Rma
+Number,Número,module,Magento_Rma
+"Are you sure?","Você tem certeza?",module,Magento_Rma
+"Shipping Method","Método de Entrega",module,Magento_Rma
+"Create Shipping Label","Criar etiquetas de envio",module,Magento_Rma
+"Enabled when authorized items require a new shipment.","Enabled when authorized items require a new shipment.",module,Magento_Rma
+"Order &amp; Account Information","Order &amp; Account Information",module,Magento_Rma
+"Return Totals","Return Totals",module,Magento_Rma
+"Return Confirmation","Return Confirmation",module,Magento_Rma
+"Email Returns Confirmation","Email Returns Confirmation",module,Magento_Rma
+"RMA Items Requested for","RMA Items Requested for",module,Magento_Rma
+"Please Select Products to Add","Please Select Products to Add",module,Magento_Rma
+Remove,Remover,module,Magento_Rma
+Item,Item,module,Magento_Rma
+"Return items","Return items",module,Magento_Rma
+Sub-items,Sub-items,module,Magento_Rma
+"Quantity To Return","Quantity To Return",module,Magento_Rma
+"Remaining Quantity:","Remaining Quantity:",module,Magento_Rma
+"New Return for Order %1","New Return for Order %1",module,Magento_Rma
+Email,E-mail,module,Magento_Rma
+"Return Items Information","Return Items Information",module,Magento_Rma
+"Add Item To Return","Add Item To Return",module,Magento_Rma
+Comments,Comments,module,Magento_Rma
+Save,Salvar,module,Magento_Rma
+Submit,Enviar,module,Magento_Rma
+Back,Voltar,module,Magento_Rma
+"Return #","Devolução #",module,Magento_Rma
+Date,Data,module,Magento_Rma
+"Ship From","Ship From",module,Magento_Rma
+"Return Status","Return Status",module,Magento_Rma
+Actions,Ações,module,Magento_Rma
+"View Return","Ver devolução",module,Magento_Rma
+"You have placed no returns.","You have placed no returns.",module,Magento_Rma
+Packages,Packages,module,Magento_Rma
+"Close Window","Fechar Janela",module,Magento_Rma
+Package,Pacote,module,Magento_Rma
+Type,Tipo,module,Magento_Rma
+Length,Length,module,Magento_Rma
+"Total Weight","Peso total",module,Magento_Rma
+Width,Largura,module,Magento_Rma
+Height,Altura,module,Magento_Rma
+"Items in the Package","Items in the Package",module,Magento_Rma
+"Are you sure you want to delete this tracking information?","Are you sure you want to delete this tracking information?",module,Magento_Rma
+"Request Information","Request Information",module,Magento_Rma
+"Date Requested","Date Requested",module,Magento_Rma
+"Shipping Address","Endereço de entrega",module,Magento_Rma
+"This won't take long . . .","Não vai demorar.",module,Magento_Rma
+"Shipping and Tracking Information","Shipping and Tracking Information",module,Magento_Rma
+"Track this shipment","Track this shipment",module,Magento_Rma
+"Items Return Requested For","Items Return Requested For",module,Magento_Rma
+"Request Qty","Request Qty",module,Magento_Rma
+"Hide Details","Hide Details",module,Magento_Rma
+"Show Details","Mostrar detalhes",module,Magento_Rma
+"Questions and Answers","Perguntas e respostas",module,Magento_Rma
+Questions,Questões,module,Magento_Rma
+Answers,Respostas,module,Magento_Rma
+"Leave Comment","Deixar comentário",module,Magento_Rma
+"New Comment for RMA #%increment_id","New Comment for RMA #%increment_id",module,Magento_Rma
+"Customer %name has left a new comment:","Customer %name has left a new comment:",module,Magento_Rma
+"%name,","%name,",module,Magento_Rma
+"Your return request has been updated. Please see below.","Your return request has been updated. Please see below.",module,Magento_Rma
+"You can check the status of your return by <a href=""%account_url"">logging into your account</a> or <a href=""%form_url"">using your order number</a>.","You can check the status of your return by <a href=""%account_url"">logging into your account</a> or <a href=""%form_url"">using your order number</a>.",module,Magento_Rma
+"If you have any questions, please feel free to contact us at <a href=""mailto:%support_email"">%support_email</a> or by phone at %store_phone","If you have any questions, please feel free to contact us at <a href=""mailto:%support_email"">%support_email</a> or by phone at %store_phone",module,Magento_Rma
+"Your Return #%increment_id - %status_label","Your Return #%increment_id - %status_label",module,Magento_Rma
+"You can check the status of your return <a href=""%form_url"">using your order number</a>.","You can check the status of your return <a href=""%form_url"">using your order number</a>.",module,Magento_Rma
+"If you have any questions about your return, please contact us at <a href=""mailto:%support_email"">%support_email</a>.","If you have any questions about your return, please contact us at <a href=""mailto:%support_email"">%support_email</a>.",module,Magento_Rma
+"We received your return request. You will be notified when your request is reviewed.","We received your return request. You will be notified when your request is reviewed.",module,Magento_Rma
+"Placed on %created_at","Placed on %created_at",module,Magento_Rma
+"Click Details for more required fields.","Click Details for more required fields.",module,Magento_Rma
+"RMA Settings","Configurações de RMA",module,Magento_Rma
+"Enable RMA on Storefront","Enable RMA on Storefront",module,Magento_Rma
+"Enable RMA on Product Level","Enable RMA on Product Level",module,Magento_Rma
+"Use Store Address","Use Store Address",module,Magento_Rma
+"Contact Name","Nome do contato",module,Magento_Rma
+"Street Address",Endereço,module,Magento_Rma
+City,Cidade,module,Magento_Rma
+State/Province,Estado/Província,module,Magento_Rma
+"ZIP/Postal Code","CEP/Código Postal",module,Magento_Rma
+Country,País,module,Magento_Rma
+Enabled,Habilitado,module,Magento_Rma
+"RMA Email Sender","RMA Email Sender",module,Magento_Rma
+"RMA Email Template","RMA Email Template",module,Magento_Rma
+"RMA Email Template for Guest","RMA Email Template for Guest",module,Magento_Rma
+"Send RMA Email Copy To","Send RMA Email Copy To",module,Magento_Rma
+Comma-separated,Comma-separated,module,Magento_Rma
+"Send RMA Email Copy Method","Send RMA Email Copy Method",module,Magento_Rma
+"RMA Authorization","RMA Authorization",module,Magento_Rma
+"RMA Authorization Email Sender","RMA Authorization Email Sender",module,Magento_Rma
+"RMA Authorization Email Template","RMA Authorization Email Template",module,Magento_Rma
+"RMA Authorization Email Template for Guest","RMA Authorization Email Template for Guest",module,Magento_Rma
+"Send RMA Authorization Email Copy To","Send RMA Authorization Email Copy To",module,Magento_Rma
+"Send RMA Authorization Email Copy Method","Send RMA Authorization Email Copy Method",module,Magento_Rma
+"RMA Admin Comments","RMA Admin Comments",module,Magento_Rma
+"RMA Comment Email Sender","RMA Comment Email Sender",module,Magento_Rma
+"RMA Comment Email Template","RMA Comment Email Template",module,Magento_Rma
+"RMA Comment Email Template for Guest","RMA Comment Email Template for Guest",module,Magento_Rma
+"Send RMA Comment Email Copy To","Send RMA Comment Email Copy To",module,Magento_Rma
+"RMA Customer Comments","RMA Customer Comments",module,Magento_Rma
+"RMA Comment Email Recipient","RMA Comment Email Recipient",module,Magento_Rma
+"Enabled for RMA","Enabled for RMA",module,Magento_Rma

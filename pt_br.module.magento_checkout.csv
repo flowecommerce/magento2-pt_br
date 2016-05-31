@@ -1,0 +1,135 @@
+"Shopping Cart","Carrinho de Compras",module,Magento_Checkout
+"Invalid method: %1","Método inválido: %1",module,Magento_Checkout
+City,Cidade,module,Magento_Checkout
+Country,País,module,Magento_Checkout
+State/Province,Estado/Província,module,Magento_Checkout
+"Zip/Postal Code",CEP,module,Magento_Checkout
+"My Cart (1 item)","Meu Carrinho (1 item)",module,Magento_Checkout
+"My Cart (%1 items)","Meu Carrinho (%1 itens)",module,Magento_Checkout
+"My Cart","Meu Carrinho",module,Magento_Checkout
+"Minimum order amount is %1","O valor mínimo do pedido é %1",module,Magento_Checkout
+"Customer is already registered","O cliente já está cadastrado",module,Magento_Checkout
+"Your session has expired","Sua sessão expirou",module,Magento_Checkout
+"You added %1 to your shopping cart.","Você adicionou %1 ao carrinho de compras.",module,Magento_Checkout
+"We can't add this item to your shopping cart right now.","Nós não podemos adicionar este item ao seu carrinho de compras agora.",module,Magento_Checkout
+"Out of stock","Fora de estoque",module,Magento_Checkout
+"We can't find the quote item.","Não foi possível encontrar o item da cotação.",module,Magento_Checkout
+"We cannot configure the product.","Não foi possível configurar o produto.",module,Magento_Checkout
+"You used coupon code ""%1"".","Você usou o código de cupom ""%1"".",module,Magento_Checkout
+"The coupon code ""%1"" is not valid.","O cupom de desconto ""%1"" é inválido.",module,Magento_Checkout
+"You canceled the coupon code.","Você cancelou o código de cupom.",module,Magento_Checkout
+"We cannot apply the coupon code.","Não foi possível aplicar o código de cupom.",module,Magento_Checkout
+"We can't remove the item.","Não foi possível remover o item.",module,Magento_Checkout
+"%1 was updated in your shopping cart.","%1 foi atualizado no seu carrinho de compras.",module,Magento_Checkout
+"We can't update the item right now.","No momento não foi possível atualizar o item.",module,Magento_Checkout
+"We can't update the shopping cart.","Não foi possível atualizar o carrinho.",module,Magento_Checkout
+"One-page checkout is turned off.","A Finalização de Compra em uma página está desativado.",module,Magento_Checkout
+"Guest checkout is disabled.","Compra como visitante está desabilitado.",module,Magento_Checkout
+Checkout,"Finalizar Compra",module,Magento_Checkout
+"Page not found.","Página não encontrada.",module,Magento_Checkout
+"Please agree to all the terms and conditions before placing the order.","Por favor concorde com todos os termos e condições antes de fazer o pedido.",module,Magento_Checkout
+"Something went wrong while processing your order. Please try again later.","Problema ao processar o pedido. Por favor, tente novamente mais tarde.",module,Magento_Checkout
+"%1 doesn't extend \Magento\Checkout\CustomerData\ItemInterface","%1 não se estende \Magento\Checkout\CustomerData\ItemInterface",module,Magento_Checkout
+"We can't find the product.","Produto não encontrado.",module,Magento_Checkout
+"The product does not exist.","Produto não existe.",module,Magento_Checkout
+"We don't have some of the products you want.","Não temos alguns dos produtos que você deseja.",module,Magento_Checkout
+"We don't have as many of some products as you want.","Não temos a quantidade de produtos que você deseja.",module,Magento_Checkout
+"Quantity was recalculated from %1 to %2","Quantidade foi recalculada de %1 para %2",module,Magento_Checkout
+"We adjusted product quantities to fit the required increments.","Ajustamos a quantidade de produtos para adequar aos incrementos necessários.",module,Magento_Checkout
+"This quote item does not exist.","Este item da cotação não existe.",module,Magento_Checkout
+"Display number of items in cart","Exibir o número de itens no carrinho",module,Magento_Checkout
+"Display item quantities","Exibir quantidades do item",module,Magento_Checkout
+"Shipping address is not set","Endereço de envio não está definido",module,Magento_Checkout
+"Unable to save address. Please, check input data.","Não é possível salvar o endereço. Por favor, verifique os dados de entrada.",module,Magento_Checkout
+"Carrier with such method not found: %1, %2","Transportador com esse método não encontrado: %1, %2",module,Magento_Checkout
+"Unable to save shipping information. Please, check input data.","Não foi possível salvar as informações de envio. Por favor, verifique os dados informados.",module,Magento_Checkout
+"Cart contains virtual product(s) only. Shipping address is not applicable.","O carrinho contem somente produtos virtuais. Endereço de entrega não se aplica.",module,Magento_Checkout
+"Shipping method is not applicable for empty cart","Método de envio não aplicável para Carrinho de Compras vazio",module,Magento_Checkout
+" item"," item",module,Magento_Checkout
+" items"," itens",module,Magento_Checkout
+"Totals calculation is not applicable to empty cart","Não é possível calcular total com o carrinho vazio",module,Magento_Checkout
+"Invalid data","Dados inválidos",module,Magento_Checkout
+"The customer address is not valid.","O endereço do cliente não é válido.",module,Magento_Checkout
+"Invalid shipping method","Método de envio inválido",module,Magento_Checkout
+"There are more than one shipping addresses.","Existe mais de um endereço de entrega.",module,Magento_Checkout
+"Sorry, guest checkout is not available.","Sinto muito, a compra por convidados não está disponível.",module,Magento_Checkout
+"You must confirm your account. Please check your email for the confirmation link or <a href=""%1"">click here</a> for a new link.","Você deve confirmar sua conta. Por favor, verifique seu e-mail para o link de confirmação ou <a href=""%1""> clique aqui</a> para um novo link.",module,Magento_Checkout
+"Load customer quote error","Erro ao carregar cotação do cliente",module,Magento_Checkout
+"Error message!","Mensagem de erro!",module,Magento_Checkout
+Error!,Erro!,module,Magento_Checkout
+"Wrong minimum amount.","Valor mínimo incorreto.",module,Magento_Checkout
+Message,Mensagem,module,Magento_Checkout
+"<a href=""%1"" onclick=""this.target='_blank'"" class=""print"">Print receipt</a>","<a href=""%1"" onclick=""this.target='_blank'"" class=""print"">Imprimir recibo</a>",module,Magento_Checkout
+"Apply Discount Code","Aplicar Cupom de Desconto",module,Magento_Checkout
+"Enter discount code","Inserir cupom de desconto",module,Magento_Checkout
+"Apply Discount","Aplicar Desconto",module,Magento_Checkout
+"Cancel Coupon","Cancelar Cupom",module,Magento_Checkout
+"Shopping Cart Items","Itens do Carrinho de Compras",module,Magento_Checkout
+Item,Item,module,Magento_Checkout
+Price,Preço,module,Magento_Checkout
+Qty,Qtd,module,Magento_Checkout
+Subtotal,Subtotal,module,Magento_Checkout
+"Continue Shopping","Continuar Comprando",module,Magento_Checkout
+"Clear Shopping Cart","Limpar Carrinho de Compras",module,Magento_Checkout
+"Update Shopping Cart","Atualizar Carrinho de Compras",module,Magento_Checkout
+"Update Cart","Atualizar Carrinho",module,Magento_Checkout
+"See price before order confirmation.","Ver preço antes de confirmar pedido.",module,Magento_Checkout
+"What's this?","O que é isto?",module,Magento_Checkout
+"Edit item parameters","Editar parâmetros do item",module,Magento_Checkout
+Edit,Editar,module,Magento_Checkout
+"Remove item","Remover item",module,Magento_Checkout
+"You have no items in your shopping cart.","Nenhum item está em seu carrinho de compras.",module,Magento_Checkout
+"Click <a href=""%1"">here</a> to continue shopping.","Clique <a href=""%1"">aqui</a> para continuar comprando.",module,Magento_Checkout
+"Estimate Tax","Consultar Valor do Imposto",module,Magento_Checkout
+"Estimate Shipping and Tax","Consultar Valor do Frete e Imposto",module,Magento_Checkout
+"Excl. Tax","Excl. Impostos",module,Magento_Checkout
+Loading...,Carregando...,module,Magento_Checkout
+"Order #","Pedido #",module,Magento_Checkout
+"Proceed to Checkout","Avançar para Checkout",module,Magento_Checkout
+"Product Name","Nome do produto",module,Magento_Checkout
+"Incl. Tax","Imposto Incl.",module,Magento_Checkout
+"Your order number is: %1.","O número do seu pedido é: %1.",module,Magento_Checkout
+"Your order # is: <span>%1</span>.","Sua pedido # é: <span>%1</span>.",module,Magento_Checkout
+"We'll email you an order confirmation with details and tracking info.","Enviaremos para você um e-mail de confirmação do seu pedido com detalhes e informações de rastreamento.",module,Magento_Checkout
+"Payment Transaction Failed","Transação de Pagamento Falhou",module,Magento_Checkout
+Reason,Razão,module,Magento_Checkout
+"Checkout Type","Tipo de Finalização de Compra",module,Magento_Checkout
+Customer:,Cliente:,module,Magento_Checkout
+Items,Itens,module,Magento_Checkout
+Total:,Total:,module,Magento_Checkout
+"Billing Address:","Endereço de cobrança:",module,Magento_Checkout
+"Shipping Address:","Endereço de entrega:",module,Magento_Checkout
+"Shipping Method:","Método de envio:",module,Magento_Checkout
+"Payment Method:","Forma de pagamento:",module,Magento_Checkout
+"Date & Time:","Data e hora:",module,Magento_Checkout
+"Checkout Options","Opcões de Compra",module,Magento_Checkout
+"Enable Onepage Checkout","Ativar Pagamento em Uma Página",module,Magento_Checkout
+"Allow Guest Checkout","Permitir Compras por Visitantes",module,Magento_Checkout
+"Require Customer To Be Logged In To Checkout","Require Customer To Be Logged In To Checkout",module,Magento_Checkout
+"Quote Lifetime (days)","Tempo de Vida de Cotação (dias)",module,Magento_Checkout
+"After Adding a Product Redirect to Shopping Cart","Depois de Adicionar um Produto, Reenvie para o Carrinho de Compras",module,Magento_Checkout
+"My Cart Link","Link para Meu Carrinho",module,Magento_Checkout
+"Display Cart Summary","Mostrar Resumo do Carrinho",module,Magento_Checkout
+"Shopping Cart Sidebar","Barra Lateral do Carrinho de Compras",module,Magento_Checkout
+"Display Shopping Cart Sidebar","Mostrar Barra Lateral do Carrinho de Compras",module,Magento_Checkout
+"Maximum Display Recently Added Item(s)","Máximo de Itens Mostrados nos Itens Recém Adicionados",module,Magento_Checkout
+"Payment Failed Emails","E-mails de Falha de Pagamento",module,Magento_Checkout
+"Payment Failed Email Sender","Remetente de E-mails de Falha de Pagamento",module,Magento_Checkout
+"Payment Failed Email Receiver","Destinatário de E-mail de Falha de Pagamento",module,Magento_Checkout
+"Payment Failed Template","Template de Falha de Pagamento",module,Magento_Checkout
+"Email template chosen based on theme fallback when ""Default"" option is selected.","O modelo de e-mail escolhido baseado no tema ""fallback"" quando a opção ""Padrão"" é selecionada.",module,Magento_Checkout
+"Send Payment Failed Email Copy To","Envie E-mail de Falha de Pagamento Para",module,Magento_Checkout
+"Separate by "","".","Separados por "","".",module,Magento_Checkout
+"Send Payment Failed Email Copy Method","Envio de Falha de Pagamento por E-mail",module,Magento_Checkout
+Shipping,Frete,module,Magento_Checkout
+"Order Total","Total do Pedido",module,Magento_Checkout
+"Shipping Address","Endereço de entrega",module,Magento_Checkout
+"Save Address","Salvar endereço",module,Magento_Checkout
+Cancel,Cancelar,module,Magento_Checkout
+"We'll send your order confirmation here.","Enviaremos a confirmação do seu pedido aqui.",module,Magento_Checkout
+"For delivery questions.","Para questões de entrega.",module,Magento_Checkout
+Payment,Pagamento,module,Magento_Checkout
+"Cart Subtotal","Subtotal do Carrinho",module,Magento_Checkout
+"Not yet calculated","Ainda não calculado",module,Magento_Checkout
+"We received your order!","Recebemos o seu pedido!",module,Magento_Checkout
+"Thank you for your purchase!","Obrigado por sua compra!",module,Magento_Checkout

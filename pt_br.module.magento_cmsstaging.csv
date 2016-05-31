@@ -1,0 +1,60 @@
+"This block no longer exists.","Este bloco não existe mais.",module,Magento_CmsStaging
+"You removed this %1 from the update and saved it in a new one.","Removeu este %1 da atualização e gravou-o em uma nova.",module,Magento_CmsStaging
+"You removed this %1 from the update and saved it in the other one.","You removed this %1 from the update and saved it in the other one.",module,Magento_CmsStaging
+"You removed this %1 from the update.","You removed this %1 from the update.",module,Magento_CmsStaging
+"Required parameters are missing.","Required parameters are missing.",module,Magento_CmsStaging
+"You saved this %1 update.","You saved this %1 update.",module,Magento_CmsStaging
+"Something went wrong while saving the %1.","Something went wrong while saving the %1.",module,Magento_CmsStaging
+"Something went wrong","Something went wrong",module,Magento_CmsStaging
+"Scheduled Changes","Scheduled Changes",module,Magento_CmsStaging
+"Start Date","Data de Início",module,Magento_CmsStaging
+"Start Time","Hora de Início",module,Magento_CmsStaging
+Name,Nome,module,Magento_CmsStaging
+Description,Descrição,module,Magento_CmsStaging
+Action,Ação,module,Magento_CmsStaging
+"End Date","Data de Término",module,Magento_CmsStaging
+"End Time","Hora de Fim",module,Magento_CmsStaging
+"Update Information","Atualizar informações",module,Magento_CmsStaging
+"Remove CMS block from Update","Remover o bloco CMS da atualização",module,Magento_CmsStaging
+"Save as a new update","Salvar como uma nova atualização",module,Magento_CmsStaging
+"Update Name","Atualizar Nome",module,Magento_CmsStaging
+"Start date","Data de início",module,Magento_CmsStaging
+"End date","Data de término",module,Magento_CmsStaging
+"General Information","Informações gerais",module,Magento_CmsStaging
+"Enable Block","Ativar Bloco",module,Magento_CmsStaging
+"Block Title","Título do Bloco",module,Magento_CmsStaging
+Identifier,Identificador,module,Magento_CmsStaging
+"Store View","Visão de Loja",module,Magento_CmsStaging
+"Move to another scheduled change","Move to another scheduled change",module,Magento_CmsStaging
+"Delete the scheduled change","Delete the scheduled change",module,Magento_CmsStaging
+"Deleting the change will remove the block from this update and all scheduled changes will be lost.","Deleting the change will remove the block from this update and all scheduled changes will be lost.",module,Magento_CmsStaging
+20,20,module,Magento_CmsStaging
+30,30,module,Magento_CmsStaging
+50,50,module,Magento_CmsStaging
+100,100,module,Magento_CmsStaging
+200,200,module,Magento_CmsStaging
+"Remove CMS page from Update","Remover página CMS da Atualização",module,Magento_CmsStaging
+"Enable Page","Ativar Página",module,Magento_CmsStaging
+"Page Title","Título da Página",module,Magento_CmsStaging
+Content,Conteúdo,module,Magento_CmsStaging
+"Content Heading","Cabeçalho do Conteúdo",module,Magento_CmsStaging
+"Search Engine Optimisation","Search Engine Optimisation",module,Magento_CmsStaging
+"URL Key","Chave URL",module,Magento_CmsStaging
+"Meta Keywords","Meta Palavras-chave",module,Magento_CmsStaging
+"Meta Description","Meta Descrição",module,Magento_CmsStaging
+"Page in Websites","Page in Websites",module,Magento_CmsStaging
+Design,Design,module,Magento_CmsStaging
+Layout,Layout,module,Magento_CmsStaging
+"Layout Update XML","Atualização do Layout XML",module,Magento_CmsStaging
+"Custom Design Update","Atualização de Design personalizado",module,Magento_CmsStaging
+From,De,module,Magento_CmsStaging
+To,To,module,Magento_CmsStaging
+"New Theme","New Theme",module,Magento_CmsStaging
+"-- Please Select --","-- Please Select --",module,Magento_CmsStaging
+"New Layout","New Layout",module,Magento_CmsStaging
+"Deleting the change will remove the page from this update and all scheduled changes will be lost.","Deleting the change will remove the page from this update and all scheduled changes will be lost.",module,Magento_CmsStaging
+"CMS Pages","CMS Pages",module,Magento_CmsStaging
+"CMS Blocks","CMS Blocks",module,Magento_CmsStaging
+ID,ID,module,Magento_CmsStaging
+Title,Title,module,Magento_CmsStaging
+Status,Status,module,Magento_CmsStaging

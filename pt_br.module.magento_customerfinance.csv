@@ -1,0 +1,6 @@
+"Please specify a finance information website.","Por favor, especifique um site de informação de finanças.",module,Magento_CustomerFinance
+"Please specify a valid finance information website.","Por favor, especifique uma informação financeira válida para o website.",module,Magento_CustomerFinance
+"A row with this email, website, and finance website combination already exists.","Já existe uma entrada com este e-mail, website e informação financeira.",module,Magento_CustomerFinance
+"Data was imported by %1","Dados foram importados por %1",module,Magento_CustomerFinance
+"Store Credit","Loja de Crédito",module,Magento_CustomerFinance
+"Reward Points","Pontos de recompensa",module,Magento_CustomerFinance

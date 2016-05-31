@@ -1,0 +1,23 @@
+"Page not found.","Página não encontrada.",module,Magento_Contact
+"Thanks for contacting us with your comments and questions. We'll respond to you very soon.","Obrigado por nos contatar com seus comentários e perguntas. Em breve responderemos.",module,Magento_Contact
+"We can't process your request right now. Sorry, that's all we know.","Nós não podemos processar sua solicitação no momento. Desculpe, isso é tudo o que sabemos.",module,Magento_Contact
+"* Required Fields","* Campos Obrigatórios",module,Magento_Contact
+"Write Us",Escreva-nos,module,Magento_Contact
+"Jot us a note and we’ll get back to you as quickly as possible.","Deixe-nos uma mensagem e nós iremos retornar para você o mais rápido possível.",module,Magento_Contact
+Name,Nome,module,Magento_Contact
+Email,E-mail,module,Magento_Contact
+"Phone Number","Número do Telefone",module,Magento_Contact
+"What’s on your mind?","Em que você está pensando?",module,Magento_Contact
+Submit,Enviar,module,Magento_Contact
+"Name: %name","Nome: %name",module,Magento_Contact
+"Email: %email","E-mail: %email",module,Magento_Contact
+"Phone Number: %telephone","Número de telefone: %telephone",module,Magento_Contact
+"Comment: %comment","Comentário: %comment",module,Magento_Contact
+Contacts,Contatos,module,Magento_Contact
+"Contact Us","Fale conosco",module,Magento_Contact
+"Enable Contact Us","Habilitar 'Fale conosco'",module,Magento_Contact
+"Email Options","Opções de e-mail",module,Magento_Contact
+"Send Emails To","Enviar E-mails para",module,Magento_Contact
+"Email Sender","Remetente do e-mail",module,Magento_Contact
+"Email Template","Template de E-mail",module,Magento_Contact
+"Email template chosen based on theme fallback when ""Default"" option is selected.","O modelo de e-mail escolhido baseado no tema ""fallback"" quando a opção ""Padrão"" é selecionada.",module,Magento_Contact

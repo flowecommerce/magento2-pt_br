@@ -1,0 +1,77 @@
+"Gift Card Information","Informações do cartão presente",module,Magento_GiftCard
+Virtual,Virtual,module,Magento_GiftCard
+Physical,Física,module,Magento_GiftCard
+Combined,Combinado,module,Magento_GiftCard
+"Add Amount","Adicione a quantidade",module,Magento_GiftCard
+"All Websites","Todos os sites",module,Magento_GiftCard
+"Gift Card Type","Tipo de cartão de presente",module,Magento_GiftCard
+"Gift Card Sender","Remetente do cartão de presente",module,Magento_GiftCard
+"Gift Card Recipient","Destinatário do cartão de presente",module,Magento_GiftCard
+"Gift Card Message","Mensagem do cartão de presente",module,Magento_GiftCard
+"Gift Card Lifetime","Vida do cartão de presente",module,Magento_GiftCard
+Yes,Sim,module,Magento_GiftCard
+No,Não,module,Magento_GiftCard
+"Gift Card Is Redeemable","Cartão presente é resgatável",module,Magento_GiftCard
+"We cannot create this gift card.","Não podemos criar este cartão de presente.",module,Magento_GiftCard
+N/A,"Não Disponível",module,Magento_GiftCard
+"Gift Card Accounts","Contas de cartão de presente",module,Magento_GiftCard
+"Duplicate amount found.","Encontrada quantidade duplicada.",module,Magento_GiftCard
+"Something went wrong while preparing the gift card.","Algo deu errado, enquanto preparávamos o cartão presente.",module,Magento_GiftCard
+"Please specify a gift card amount.","Por favor, especifique uma quantidade de cartão presente.",module,Magento_GiftCard
+"Please specify all the required information.","Por favor especifique todas as informações necessárias.",module,Magento_GiftCard
+"Gift Card max amount is %1","Quantidade máxima do cartão presente é %1",module,Magento_GiftCard
+"Gift Card min amount is %1","Quantidade minima do cartão presente é %1",module,Magento_GiftCard
+"Please specify a recipient name.","Por favor, especifique um nome de destinatário.",module,Magento_GiftCard
+"Please specify a sender name.","Por favor, especifique um nome de remetente.",module,Magento_GiftCard
+"Please specify a recipient email.","Por favor, especifique um email de destinatário.",module,Magento_GiftCard
+"Please specify a sender email.","Por favor, especifique um e-mail do remetente.",module,Magento_GiftCard
+Ordered,Ordenado,module,Magento_GiftCard
+Invoiced,Faturado,module,Magento_GiftCard
+"Some gift card accounts were not created properly. You can create gift card accounts manually <a href=""%1"">here</a>.","Algumas contas de cartão de presente não foram criadas corretamente. Você pode criar a conta manualmente <a href=""%1""> aqui</a>.",module,Magento_GiftCard
+Availability:,Disponibilidade:,module,Magento_GiftCard
+"Out of stock","Fora de estoque",module,Magento_GiftCard
+Amount,Quantidade,module,Magento_GiftCard
+"Choose an Amount...","Escolha um montante...",module,Magento_GiftCard
+"Other Amount...","Outra quantidade...",module,Magento_GiftCard
+"Amount in %1","Valor em %1",module,Magento_GiftCard
+Minimum,Mínimo,module,Magento_GiftCard
+Maximum,Máximo,module,Magento_GiftCard
+"Sender Name","Nome do remetente",module,Magento_GiftCard
+"Sender Email","E-mail do remetente",module,Magento_GiftCard
+"Recipient Name","Nome do destinatário",module,Magento_GiftCard
+"Recipient Email","E-mail de destinatário",module,Magento_GiftCard
+Message,Mensagem,module,Magento_GiftCard
+"Maximum length of the message is %1 characters.","O comprimento máximo da mensagem é de %1 caracteres.",module,Magento_GiftCard
+Quantity,Quantidade,module,Magento_GiftCard
+"Messaging and Lifetime","Messaging and Lifetime",module,Magento_GiftCard
+"Treat Balance as Store Credit","Treat Balance as Store Credit",module,Magento_GiftCard
+"Use Config Settings","Usar Configurações padrão",module,Magento_GiftCard
+"Lifetime (days)","Período (dias)",module,Magento_GiftCard
+"Allow Message","Permitir mensagem",module,Magento_GiftCard
+"Email Template","Template de E-mail",module,Magento_GiftCard
+Website,Website,module,Magento_GiftCard
+Action,Ação,module,Magento_GiftCard
+"Delete Amount","Excluir quantidade",module,Magento_GiftCard
+Delete,Excluir,module,Magento_GiftCard
+From,De,module,Magento_GiftCard
+"Minimum: %1","Mínimo: %1",module,Magento_GiftCard
+"Maximum: %1","Máxima: %1",module,Magento_GiftCard
+Availability,Disponibilidade,module,Magento_GiftCard
+"In stock","Em estoque",module,Magento_GiftCard
+"%name,","%name,",module,Magento_GiftCard
+"%sender has sent you a gift card for use at <a href=""%store_url"">%store_name</a> and it is now ready to be used for purchases.","%sender has sent you a gift card for use at <a href=""%store_url"">%store_name</a> and it is now ready to be used for purchases.",module,Magento_GiftCard
+"Gift Card Codes:","Gift Card Codes:",module,Magento_GiftCard
+"Gift Card Code:","Gift Card Code:",module,Magento_GiftCard
+"Each card has a balance of %balance that can be used at <a href=""%store_url"">%store_name</a>.","Each card has a balance of %balance that can be used at <a href=""%store_url"">%store_name</a>.",module,Magento_GiftCard
+"The card has a balance of %balance that can be used at <a href=""%store_url"">%store_name</a>.","The card has a balance of %balance that can be used at <a href=""%store_url"">%store_name</a>.",module,Magento_GiftCard
+"Click on the code(s) above to redeem them into Store Credit.","Click on the code(s) above to redeem them into Store Credit.",module,Magento_GiftCard
+"Message from %sender_name:","Message from %sender_name:",module,Magento_GiftCard
+"Gift Card Email Settings","Gift Card Email Settings",module,Magento_GiftCard
+"Gift Card Notification Email Sender","Gift Card Notification Email Sender",module,Magento_GiftCard
+"Gift Card Notification Email Template","Gift Card Notification Email Template",module,Magento_GiftCard
+"Gift Card General Settings","Gift Card General Settings",module,Magento_GiftCard
+Redeemable,Resgatáveis,module,Magento_GiftCard
+"If empty no expiration.","If empty no expiration.",module,Magento_GiftCard
+"Allow Gift Message","Allow Gift Message",module,Magento_GiftCard
+"Gift Message Maximum Length","Gift Message Maximum Length",module,Magento_GiftCard
+"Generate Gift Card Account when Order Item is","Generate Gift Card Account when Order Item is",module,Magento_GiftCard

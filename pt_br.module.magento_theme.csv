@@ -1,0 +1,146 @@
+Themes,Temas,module,Magento_Theme
+"Save and Continue Edit","Salvar e Continuar a Editar",module,Magento_Theme
+"Are you sure you want to delete this theme?","Você tem certeza que deseja excluir este tema?",module,Magento_Theme
+"Theme: %1","Tema: %1",module,Magento_Theme
+"New Theme","Novo tema",module,Magento_Theme
+"Theme CSS","Theme CSS",module,Magento_Theme
+"Theme CSS Assets","Theme CSS Assets",module,Magento_Theme
+"Custom CSS","CSS personalizado",module,Magento_Theme
+"Select CSS File to Upload","Select CSS File to Upload",module,Magento_Theme
+"Upload CSS File","Upload CSS File",module,Magento_Theme
+"Download CSS File","Download CSS File",module,Magento_Theme
+Manage,Gerenciar,module,Magento_Theme
+"Upload Images","Carregar Imagens",module,Magento_Theme
+"Images Assets","Images Assets",module,Magento_Theme
+"Upload Fonts","Carregar fontes",module,Magento_Theme
+"Fonts Assets","Fonts Assets",module,Magento_Theme
+"Edit custom.css","Editar custom.css",module,Magento_Theme
+"Allowed file types *.css.","Permitido os tipos de arquivo *.css.",module,Magento_Theme
+"This file will replace the current custom.css file and can't be more than 2 MB.","This file will replace the current custom.css file and can't be more than 2 MB.",module,Magento_Theme
+"Max file size to upload %1M","Max file size to upload %1M",module,Magento_Theme
+"Something is wrong with the file upload settings.","Something is wrong with the file upload settings.",module,Magento_Theme
+"CSS Editor","Editor de CSS",module,Magento_Theme
+"Theme Settings","Configurações de tema",module,Magento_Theme
+"Parent Theme","Parent Theme",module,Magento_Theme
+"Theme Path","Caminho do tema",module,Magento_Theme
+"Theme Title","Título do tema",module,Magento_Theme
+"Theme Preview Image","Theme Preview Image",module,Magento_Theme
+General,Geral,module,Magento_Theme
+"Copy of %1","Cópia de %1",module,Magento_Theme
+"Max image size %1M","Max image size %1M",module,Magento_Theme
+"Theme JavaScript","Theme JavaScript",module,Magento_Theme
+"Select JS Files to Upload","Select JS Files to Upload",module,Magento_Theme
+"Upload JS Files","Upload JS Files",module,Magento_Theme
+"JS Editor","JS Editor",module,Magento_Theme
+"Allowed file types *.js.","Allowed file types *.js.",module,Magento_Theme
+Theme,Tema,module,Magento_Theme
+"Media Storage","Armazenamento de Mídia",module,Magento_Theme
+"Create Folder","Create Folder",module,Magento_Theme
+"Delete Folder","Apagar Pasta",module,Magento_Theme
+"Delete File","Excluir Arquivo",module,Magento_Theme
+"Insert File","Inserir Arquivo",module,Magento_Theme
+"New Folder Name:","Nome da Nova Pasta:",module,Magento_Theme
+"Are you sure you want to delete this folder?","Tem certeza que deseja excluir esta pasta?",module,Magento_Theme
+"Are you sure you want to delete this file?","Tem certeza que deseja excluir este arquivo?",module,Magento_Theme
+"Storage Root","Matriz de Armazenamento",module,Magento_Theme
+"You deleted the theme.","You deleted the theme.",module,Magento_Theme
+"We cannot delete the theme.","We cannot delete the theme.",module,Magento_Theme
+"File not found: ""%1"".","File not found: ""%1"".",module,Magento_Theme
+"We can't find file.","We can't find file.",module,Magento_Theme
+"We cannot find theme ""%1"".","We cannot find theme ""%1"".",module,Magento_Theme
+"We cannot find the theme.","We cannot find the theme.",module,Magento_Theme
+"This theme is not editable.","This theme is not editable.",module,Magento_Theme
+"You saved the theme.","You saved the theme.",module,Magento_Theme
+"We can't upload the CSS file right now.","We can't upload the CSS file right now.",module,Magento_Theme
+"We cannot find a theme with id ""%1"".","We cannot find a theme with id ""%1"".",module,Magento_Theme
+"We can't upload the JS file right now.","We can't upload the JS file right now.",module,Magento_Theme
+"Sorry, something went wrong. That's all we know.","Sorry, something went wrong. That's all we know.",module,Magento_Theme
+"Invalid type","Invalid type",module,Magento_Theme
+"Exception does not contain field '%1'","Exception does not contain field '%1'",module,Magento_Theme
+"Invalid regular expression: ""%1"".","Invalid regular expression: ""%1"".",module,Magento_Theme
+label,rótulo,module,Magento_Theme
+"-- Please Select --","-- Selecione uma opção --",module,Magento_Theme
+"The start date can't follow the end date.","The start date can't follow the end date.",module,Magento_Theme
+"The date range for this design change overlaps another design change for the specified store.","The date range for this design change overlaps another design change for the specified store.",module,Magento_Theme
+Copy,Copiar,module,Magento_Theme
+"Theme id should be set","Theme id should be set",module,Magento_Theme
+"Circular-reference in theme inheritance detected for ""%1""","Circular-reference in theme inheritance detected for ""%1""",module,Magento_Theme
+"The CSS file must be less than %1M.","The CSS file must be less than %1M.",module,Magento_Theme
+"The JS file must be less than %1M.","The JS file must be less than %1M.",module,Magento_Theme
+"We can't upload the file right now.","Não é possível enviar o arquivo neste momento.",module,Magento_Theme
+"Use only standard alphanumeric, dashes and underscores.","Use only standard alphanumeric, dashes and underscores.",module,Magento_Theme
+"We found a directory with the same name.","We found a directory with the same name.",module,Magento_Theme
+"We cannot find a directory with this name.","We cannot find a directory with this name.",module,Magento_Theme
+"We can't delete root directory %1 right now.","Não é possível excluir o diretório raiz %1 neste momento.",module,Magento_Theme
+"Theme isn't deletable.","Theme isn't deletable.",module,Magento_Theme
+"localized exception","localized exception",module,Magento_Theme
+Message,Mensagem,module,Magento_Theme
+"Test Label","Test Label",module,Magento_Theme
+Phrase,Phrase,module,Magento_Theme
+testMessage,testMessage,module,Magento_Theme
+exception,exceção,module,Magento_Theme
+"We found no files.","We found no files.",module,Magento_Theme
+"Browse Files","Procurar arquivos",module,Magento_Theme
+Remove,Remover,module,Magento_Theme
+"Help Us Keep Magento Healthy","Nos ajude a manter saudável a Magento",module,Magento_Theme
+"Report All Bugs","Reportar todos os Bugs",module,Magento_Theme
+"Toggle Nav","Toggle Nav",module,Magento_Theme
+"JavaScript seems to be disabled in your browser.","JavaScript seems to be disabled in your browser.",module,Magento_Theme
+"For the best experience on our site, be sure to turn on Javascript in your browser.","For the best experience on our site, be sure to turn on Javascript in your browser.",module,Magento_Theme
+"Local Storage seems to be disabled in your browser.","Local Storage seems to be disabled in your browser.",module,Magento_Theme
+"For the best experience on our site, be sure to turn on Local Storage in your browser.","For the best experience on our site, be sure to turn on Local Storage in your browser.",module,Magento_Theme
+"This is demo store. No orders will be fulfilled.","This is demo store. No orders will be fulfilled.",module,Magento_Theme
+"Items %1 to %2 of %3 total","Items %1 to %2 of %3 total",module,Magento_Theme
+"%1 Item","%1 Item",module,Magento_Theme
+"%1 Item(s)","%1 Item(s)",module,Magento_Theme
+Page,Página,module,Magento_Theme
+Previous,Anterior,module,Magento_Theme
+"You're currently reading page","You're currently reading page",module,Magento_Theme
+Next,Próximo,module,Magento_Theme
+Show,Mostrar,module,Magento_Theme
+"per page","por página",module,Magento_Theme
+"About the calendar","Sobre o calendário",module,Magento_Theme
+Close,Fechar,module,Magento_Theme
+"Go Today",Hoje,module,Magento_Theme
+WK,WK,module,Magento_Theme
+Time,Tempo,module,Magento_Theme
+Hour,Hora,module,Magento_Theme
+Minute,Minuto,module,Magento_Theme
+"We could not detect a size.","Não foi possível detectar o tamanho.",module,Magento_Theme
+"We don't recognize this file extension.","Nós não reconhecemos essa extensão de arquivo.",module,Magento_Theme
+Empty,Vazio,module,Magento_Theme
+"1 column","1 coluna",module,Magento_Theme
+"HTML Head","Cabeçalho HTML",module,Magento_Theme
+"Favicon Icon","Ícone Favicon",module,Magento_Theme
+"Allowed file types: ICO, PNG, GIF, JPG, JPEG, APNG, SVG. Not all browsers support all these formats!","Allowed file types: ICO, PNG, GIF, JPG, JPEG, APNG, SVG. Not all browsers support all these formats!",module,Magento_Theme
+"Default Title","Título padrão",module,Magento_Theme
+"Title Prefix","Prefixo do título",module,Magento_Theme
+"Title Suffix","Sufixo do título",module,Magento_Theme
+"Default Description","Descrição padrão",module,Magento_Theme
+"Default Keywords","Palavras-chave padrão",module,Magento_Theme
+"Miscellaneous Scripts","Scripts diversos",module,Magento_Theme
+"This will be included before head closing tag in page HTML.","This will be included before head closing tag in page HTML.",module,Magento_Theme
+"Display Demo Store Notice","Aviso de loja demo",module,Magento_Theme
+"Search Engine Robots","Robôs de motor de busca",module,Magento_Theme
+"Default Robots","Robôs padrão",module,Magento_Theme
+"Edit custom instruction of robots.txt File","Editar instruções personalizadas do arquivo robots.txt",module,Magento_Theme
+"Reset to Defaults","Restaurar padrões",module,Magento_Theme
+"This action will delete your custom instructions and reset robots.txt file to system's default settings.","This action will delete your custom instructions and reset robots.txt file to system's default settings.",module,Magento_Theme
+Header,Cabeçalho,module,Magento_Theme
+"Logo Image","Imagem do logotipo",module,Magento_Theme
+"Logo Image Width","Largura da imagem do logotipo",module,Magento_Theme
+"Logo Image Height","Altura da imagem do logotipo",module,Magento_Theme
+"Logo Image Alt","Alt da imagem do logotipo",module,Magento_Theme
+"Welcome Text","Texto de boas vindas",module,Magento_Theme
+Footer,Rodapé,module,Magento_Theme
+Copyright,"Direitos autorais",module,Magento_Theme
+"Miscellaneous HTML","HTML Diversos",module,Magento_Theme
+"This will be displayed just before body closing tag.","This will be displayed just before body closing tag.",module,Magento_Theme
+"Default welcome msg!","Mensagem padrão de boas-vindas!",module,Magento_Theme
+"Copyright © 2015 Magento. All rights reserved.","Copyright © Magento 2015. Todos os direitos reservados.",module,Magento_Theme
+"Admin empty","Admin vazio",module,Magento_Theme
+"Admin 1column","Admin 1column",module,Magento_Theme
+"Skip to Content","Pular para o conteúdo",module,Magento_Theme
+"2 columns with left bar","2 colunas com barra à esquerda",module,Magento_Theme
+"2 columns with right bar","2 colunas com barra à direita",module,Magento_Theme
+"3 columns","3 colunas",module,Magento_Theme

@@ -1,0 +1,56 @@
+Cancel,Cancel,module,Magento_Staging
+Preview,Pré-visualização,module,Magento_Staging
+Done,Done,module,Magento_Staging
+"Remove from Update","Remove from Update",module,Magento_Staging
+Save,Salvar,module,Magento_Staging
+"Schedule New Update","Schedule New Update",module,Magento_Staging
+"View Specific Date","View Specific Date",module,Magento_Staging
+"Date & Time","Date & Time",module,Magento_Staging
+"Something went wrong while removing the %1.","Something went wrong while removing the %1.",module,Magento_Staging
+"The 'mode' value is unexpected.","The 'mode' value is unexpected.",module,Magento_Staging
+"Required parameters are missing.","Required parameters are missing.",module,Magento_Staging
+"You removed this %1 from the update and saved it in a new one.","You removed this %1 from the update and saved it in a new one.",module,Magento_Staging
+"You removed this %1 from the update and saved it in the other one.","You removed this %1 from the update and saved it in the other one.",module,Magento_Staging
+"You removed this %1 from the update.","You removed this %1 from the update.",module,Magento_Staging
+"Something went wrong while saving the %1.","Something went wrong while saving the %1.",module,Magento_Staging
+"You saved this %1 update.","You saved this %1 update.",module,Magento_Staging
+"New Campaign","New Campaign",module,Magento_Staging
+"Staging Dashboard","Staging Dashboard",module,Magento_Staging
+"Edit existing update","Edit existing update",module,Magento_Staging
+"Assign to another scheduled update","Assign to another scheduled update",module,Magento_Staging
+"Save as a new update","Save as a new update",module,Magento_Staging
+"Select from existing Scheduled Update","Select from existing Scheduled Update",module,Magento_Staging
+"Future Update in this time range already exists. Select a different range to add a new Future Update.","Future Update in this time range already exists. Select a different range to add a new Future Update.",module,Magento_Staging
+entity_type,entity_type,module,Magento_Staging
+Active,Active,module,Magento_Staging
+Upcoming,Upcoming,module,Magento_Staging
+"Please select Name for Future Update.","Please select Name for Future Update.",module,Magento_Staging
+"Please select Start Time for Future Update.","Please select Start Time for Future Update.",module,Magento_Staging
+"Future Update Start Time cannot be earlier than current time.","Future Update Start Time cannot be earlier than current time.",module,Magento_Staging
+"Future Update End Time cannot be equal or earlier than Start Time.","Future Update End Time cannot be equal or earlier than Start Time.",module,Magento_Staging
+"Update with id ""%1"" does not exist.","Update with id ""%1"" does not exist.",module,Magento_Staging
+"Unable to save Future Update.","Unable to save Future Update.",module,Magento_Staging
+View/Edit,View/Edit,module,Magento_Staging
+"Scheduled Changes","Scheduled Changes",module,Magento_Staging
+Start,Start,module,Magento_Staging
+End,End,module,Magento_Staging
+"Load More","Load More",module,Magento_Staging
+"Belongs to ","Belongs to ",module,Magento_Staging
+"Please confirm scope switching. All data that hasn\'t been saved will be lost.","Please confirm scope switching. All data that hasn\'t been saved will be lost.",module,Magento_Staging
+Staging,Staging,module,Magento_Staging
+"Create New Campaign","Create New Campaign",module,Magento_Staging
+Back,Voltar,module,Magento_Staging
+General,Geral,module,Magento_Staging
+Status,Status,module,Magento_Staging
+"Campaign/Promo Name","Campaign/Promo Name",module,Magento_Staging
+Includes,Includes,module,Magento_Staging
+"Start Time","Hora de Início",module,Magento_Staging
+"End Time","End Time",module,Magento_Staging
+Description,Descrição,module,Magento_Staging
+Action,Ação,module,Magento_Staging
+20,20,module,Magento_Staging
+30,30,module,Magento_Staging
+50,50,module,Magento_Staging
+100,100,module,Magento_Staging
+200,200,module,Magento_Staging
+Name,Nome,module,Magento_Staging

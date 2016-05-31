@@ -1,0 +1,34 @@
+"Gift Messages is not applicable for empty cart","Gift Messages is not applicable for empty cart",module,Magento_GiftMessage
+"Gift Messages is not applicable for virtual products","Gift Messages is not applicable for virtual products",module,Magento_GiftMessage
+"Gift Message is not available","Gift Message is not available",module,Magento_GiftMessage
+"Could not add gift message to shopping cart","Could not add gift message to shopping cart",module,Magento_GiftMessage
+"There is no item with provided id in the cart","There is no item with provided id in the cart",module,Magento_GiftMessage
+"There is no product with provided  itemId: %1 in the cart","There is no product with provided  itemId: %1 in the cart",module,Magento_GiftMessage
+"There is no item with provided id in the order","There is no item with provided id in the order",module,Magento_GiftMessage
+"There is no item with provided id in the order or gift message isn't allowed","There is no item with provided id in the order or gift message isn't allowed",module,Magento_GiftMessage
+"Could not add gift message to order: ""%1""","Could not add gift message to order: ""%1""",module,Magento_GiftMessage
+"There is no order with provided id or gift message isn't allowed","There is no order with provided id or gift message isn't allowed",module,Magento_GiftMessage
+"There is no order with provided id","There is no order with provided id",module,Magento_GiftMessage
+"Gift Messages is not applicable for empty order","Gift Messages is not applicable for empty order",module,Magento_GiftMessage
+"Could not add gift message to order's item: \"%1\"","Could not add gift message to order's item: \"%1\"",module,Magento_GiftMessage
+"Unknown entity type","Tipo de entidade desconhecido",module,Magento_GiftMessage
+From,De,module,Magento_GiftMessage
+To,Até,module,Magento_GiftMessage
+Message,Mensagem,module,Magento_GiftMessage
+Cancel,Cancelar,module,Magento_GiftMessage
+OK,OK,module,Magento_GiftMessage
+"Gift Options","Opções de presente",module,Magento_GiftMessage
+"Gift Message","Mensagem do presente",module,Magento_GiftMessage
+"Do you have any gift items in your order?","Você tem algum item de presente em seu pedido?",module,Magento_GiftMessage
+"Add gift options","Adicionar opções de presente",module,Magento_GiftMessage
+"Gift Options for the Entire Order","Opções de presente para o pedido inteiro",module,Magento_GiftMessage
+"Leave this box blank if you don't want to leave a gift message for the entire order.","Deixe essa caixa em branco se você não quer deixar uma mensagem de presente para todo o pedido.",module,Magento_GiftMessage
+"Gift Options for Individual Items","Opções de presente para itens individuais",module,Magento_GiftMessage
+"<span>Item %1</span> of %2","<span>Item %1</span> de %2",module,Magento_GiftMessage
+"Leave a box blank if you don't want to add a gift message for that item.","Deixe a caixa vazia se você não quer adicionar uma mensagem de presente naquele item.",module,Magento_GiftMessage
+"Add Gift Options for the Entire Order","Adicionar opções de presente para o pedido inteiro",module,Magento_GiftMessage
+"You can leave this box blank if you don't want to add a gift message for this address.","Você pode deixar esta caixa vazia se você não quer adicionar uma mensagem de presente para este endereço.",module,Magento_GiftMessage
+"Add gift options for Individual Items","Adicionar opções de presente para itens individuais",module,Magento_GiftMessage
+"You can leave this box blank if you don't want to add a gift message for the item.","Você pode deixar esta caixa vazia se você não quer adicionar uma mensagem de presente para o item.",module,Magento_GiftMessage
+"Allow Gift Messages on Order Level","Allow Gift Messages on Order Level",module,Magento_GiftMessage
+"Allow Gift Messages for Order Items","Allow Gift Messages for Order Items",module,Magento_GiftMessage

@@ -1,0 +1,64 @@
+"Save & Generate","Salvar e gerar",module,Magento_Sitemap
+"Edit Sitemap","Editar mapa do site",module,Magento_Sitemap
+"New Sitemap","Novo mapa do site",module,Magento_Sitemap
+"Sitemap Information","Informações de mapa do site",module,Magento_Sitemap
+Sitemap,"Mapa do site",module,Magento_Sitemap
+Filename,"Nome do arquivo",module,Magento_Sitemap
+"example: sitemap.xml","exemplo: sitemap. xml",module,Magento_Sitemap
+Path,Caminho,module,Magento_Sitemap
+"example: ""/sitemap/"" or ""/"" for base path (path must be writeable)","example: ""/sitemap/"" or ""/"" for base path (path must be writeable)",module,Magento_Sitemap
+"Store View","Visão de Loja",module,Magento_Sitemap
+Generate,Gerar,module,Magento_Sitemap
+"XML Sitemap","XML Sitemap",module,Magento_Sitemap
+"Add Sitemap","Add Sitemap",module,Magento_Sitemap
+Catalog,Catálogo,module,Magento_Sitemap
+"You deleted the sitemap.","You deleted the sitemap.",module,Magento_Sitemap
+"We can't find a sitemap to delete.","We can't find a sitemap to delete.",module,Magento_Sitemap
+"This sitemap no longer exists.","This sitemap no longer exists.",module,Magento_Sitemap
+"Site Map","Site Map",module,Magento_Sitemap
+"New Site Map","New Site Map",module,Magento_Sitemap
+"The sitemap ""%1"" has been generated.","The sitemap ""%1"" has been generated.",module,Magento_Sitemap
+"We can't generate the sitemap right now.","We can't generate the sitemap right now.",module,Magento_Sitemap
+"We can't find a sitemap to generate.","We can't find a sitemap to generate.",module,Magento_Sitemap
+"You saved the sitemap.","You saved the sitemap.",module,Magento_Sitemap
+"The priority must be between 0 and 1.","The priority must be between 0 and 1.",module,Magento_Sitemap
+Always,Sempre,module,Magento_Sitemap
+Hourly,Hourly,module,Magento_Sitemap
+Daily,Diário,module,Magento_Sitemap
+Weekly,Semanal,module,Magento_Sitemap
+Monthly,Mensal,module,Magento_Sitemap
+Yearly,Yearly,module,Magento_Sitemap
+Never,Nunca,module,Magento_Sitemap
+"File handler unreachable","File handler unreachable",module,Magento_Sitemap
+"Please define a correct path.","Please define a correct path.",module,Magento_Sitemap
+"Please create the specified folder ""%1"" before saving the sitemap.","Please create the specified folder ""%1"" before saving the sitemap.",module,Magento_Sitemap
+"Please make sure that ""%1"" is writable by the web-server.","Please make sure that ""%1"" is writable by the web-server.",module,Magento_Sitemap
+"Please use only letters (a-z or A-Z), numbers (0-9) or underscores (_) in the filename. No spaces or other characters are allowed.","Please use only letters (a-z or A-Z), numbers (0-9) or underscores (_) in the filename. No spaces or other characters are allowed.",module,Magento_Sitemap
+None,Nenhum,module,Magento_Sitemap
+"Base Only","Base Only",module,Magento_Sitemap
+All,Todos,module,Magento_Sitemap
+"Sitemap Generation Warnings","Sitemap Generation Warnings",module,Magento_Sitemap
+"Categories Options","Categories Options",module,Magento_Sitemap
+Frequency,Frequência,module,Magento_Sitemap
+Priority,Prioridade,module,Magento_Sitemap
+"Valid values range from 0.0 to 1.0.","Valid values range from 0.0 to 1.0.",module,Magento_Sitemap
+"Products Options","Opções de produtos",module,Magento_Sitemap
+"Add Images into Sitemap","Add Images into Sitemap",module,Magento_Sitemap
+"CMS Pages Options","CMS Pages Options",module,Magento_Sitemap
+"Generation Settings","Configurações de geração",module,Magento_Sitemap
+Enabled,Habilitado,module,Magento_Sitemap
+"Error Email Recipient","Error Email Recipient",module,Magento_Sitemap
+"Error Email Sender","Error Email Sender",module,Magento_Sitemap
+"Error Email Template","Error Email Template",module,Magento_Sitemap
+"Email template chosen based on theme fallback when ""Default"" option is selected.","O modelo de e-mail escolhido baseado no tema ""fallback"" quando a opção ""Padrão"" é selecionada.",module,Magento_Sitemap
+"Start Time","Hora de Início",module,Magento_Sitemap
+"Sitemap File Limits","Sitemap File Limits",module,Magento_Sitemap
+"Maximum No of URLs Per File","Maximum No of URLs Per File",module,Magento_Sitemap
+"Maximum File Size","Tamanho máximo do arquivo",module,Magento_Sitemap
+"File size in bytes.","Tamanho do arquivo em bytes.",module,Magento_Sitemap
+"Search Engine Submission Settings","Search Engine Submission Settings",module,Magento_Sitemap
+"Enable Submission to Robots.txt","Enable Submission to Robots.txt",module,Magento_Sitemap
+ID,ID,module,Magento_Sitemap
+"Link for Google","Link para o Google",module,Magento_Sitemap
+"Last Generated","Last Generated",module,Magento_Sitemap
+Action,Ação,module,Magento_Sitemap

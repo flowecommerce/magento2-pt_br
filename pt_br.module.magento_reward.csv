@@ -1,0 +1,160 @@
+"Reward Points","Pontos de recompensa",module,Magento_Reward
+"Reward Points History","Reward Points History",module,Magento_Reward
+"Expired reward","Recompensa expirada",module,Magento_Reward
+Unlimited,Ilimitado,module,Magento_Reward
+"No Data","No Data",module,Magento_Reward
+Website,Website,module,Magento_Reward
+Balance,Saldo,module,Magento_Reward
+"Currency Amount","Currency Amount",module,Magento_Reward
+"Reward Points Threshold","Reward Points Threshold",module,Magento_Reward
+"Reward Points Cap","Reward Points Cap",module,Magento_Reward
+"Delete Orphan Points","Delete Orphan Points",module,Magento_Reward
+"Update Reward Points Balance","Update Reward Points Balance",module,Magento_Reward
+Store,Loja,module,Magento_Reward
+"Update Points","Update Points",module,Magento_Reward
+"Enter a negative number to subtract from the balance.","Enter a negative number to subtract from the balance.",module,Magento_Reward
+Comment,Comentar,module,Magento_Reward
+"Reward Points Notifications","Reward Points Notifications",module,Magento_Reward
+"Subscribe for Balance Updates","Subscribe for Balance Updates",module,Magento_Reward
+"Subscribe for Points Expiration Notifications","Subscribe for Points Expiration Notifications",module,Magento_Reward
+"Reward Exchange Rates","Reward Exchange Rates",module,Magento_Reward
+"Add New Rate","Adicionar nova taxa",module,Magento_Reward
+"Edit Reward Exchange Rate","Edit Reward Exchange Rate",module,Magento_Reward
+"New Reward Exchange Rate","New Reward Exchange Rate",module,Magento_Reward
+"Reward Exchange Rate Information","Reward Exchange Rate Information",module,Magento_Reward
+"Customer Group","Grupo de clientes",module,Magento_Reward
+Direction,Direction,module,Magento_Reward
+Rate,Rate,module,Magento_Reward
+"Use your reward points; %1 are available.","Use your reward points; %1 are available.",module,Magento_Reward
+"Learn more","Learn more",module,Magento_Reward
+"This applies only to registered users and may vary when a user is logged in.","This applies only to registered users and may vary when a user is logged in.",module,Magento_Reward
+"You removed the orphan points.","You removed the orphan points.",module,Magento_Reward
+Customers,Clientes,module,Magento_Reward
+"Manage Reward Exchange Rates","Manage Reward Exchange Rates",module,Magento_Reward
+"You deleted the rate.","You deleted the rate.",module,Magento_Reward
+"You saved the rate.","You saved the rate.",module,Magento_Reward
+"We can't save this rate right now.","We can't save this rate right now.",module,Magento_Reward
+"Please enter all rate information.","Please enter all rate information.",module,Magento_Reward
+"Please enter a positive integer number in the left rate field.","Please enter a positive integer number in the left rate field.",module,Magento_Reward
+"Please enter a positive number in the right-side rate field.","Please enter a positive number in the right-side rate field.",module,Magento_Reward
+"Please enter a positive integer number in the right-side rate field.","Please enter a positive integer number in the right-side rate field.",module,Magento_Reward
+"Please enter a positive number in the left-side rate field.","Please enter a positive number in the left-side rate field.",module,Magento_Reward
+"Sorry, but a rate for the same website, customer group and direction or covering rate already exists.","Sorry, but a rate for the same website, customer group and direction or covering rate already exists.",module,Magento_Reward
+"You removed the reward points from this order.","You removed the reward points from this order.",module,Magento_Reward
+"Reward points will not be used in this order.","Reward points will not be used in this order.",module,Magento_Reward
+"Page not found.","Página não encontrada.",module,Magento_Reward
+"You saved the settings.","You saved the settings.",module,Magento_Reward
+"You unsubscribed.","You unsubscribed.",module,Magento_Reward
+"You can't unsubscribed right now.","You can't unsubscribed right now.",module,Magento_Reward
+"%1 Reward points (%2)","%1 Reward points (%2)",module,Magento_Reward
+"%1 Reward points","%1 Reward points",module,Magento_Reward
+"Updated by moderator","Updated by moderator",module,Magento_Reward
+"Refunded from order #%1","Reembolso para o pedido #%1",module,Magento_Reward
+"Points voided at order #%1 refund.","Pontos anulados no reembolso do pedido #%1.",module,Magento_Reward
+"The invitation to %1 converted into a customer.","The invitation to %1 converted into a customer.",module,Magento_Reward
+"The invitation to %1 converted into an order.","The invitation to %1 converted into an order.",module,Magento_Reward
+"Signed up for newsletter with email %1","Signed up for newsletter with email %1",module,Magento_Reward
+"Redeemed for order #%1","Redeemed for order #%1",module,Magento_Reward
+"Earned points for order #%1","Earned points for order #%1",module,Magento_Reward
+"Reverted from incomplete order #%1","Reverted from incomplete order #%1",module,Magento_Reward
+"Registered as customer","Registrado como cliente",module,Magento_Reward
+"For submitting a product review","For submitting a product review",module,Magento_Reward
+"Earned promotion extra points from order #%1","Earned promotion extra points from order #%1",module,Magento_Reward
+"%1 store reward points available (%2)","%1 store reward points available (%2)",module,Magento_Reward
+"%1 store reward points available","%1 store reward points available",module,Magento_Reward
+"%1 was deducted because of refund.","%1 foi deduzido por causa do reembolso.",module,Magento_Reward
+"The action ID you enter must be a number.","The action ID you enter must be a number.",module,Magento_Reward
+"You don't have enough reward points to pay for this purchase.","You don't have enough reward points to pay for this purchase.",module,Magento_Reward
+"Points to Currency","Points to Currency",module,Magento_Reward
+"Currency to Points","Currency to Points",module,Magento_Reward
+"All Customer Groups","Todos Grupos de Clientes",module,Magento_Reward
+Static,Estático,module,Magento_Reward
+Dynamic,Dinâmico,module,Magento_Reward
+Each,Each,module,Magento_Reward
+First,First,module,Magento_Reward
+"All Websites","Todos os sites",module,Magento_Reward
+"""Minimum Reward Points Balance"" should be either a positive number or left empty.","""Minimum Reward Points Balance"" should be either a positive number or left empty.",module,Magento_Reward
+"""Cap Reward Points Balance"" should be either a positive number or left empty.","""Cap Reward Points Balance"" should be either a positive number or left empty.",module,Magento_Reward
+"""Minimum Reward Points Balance"" should be less or equal to ""Cap Reward Points Balance"".","""Minimum Reward Points Balance"" should be less or equal to ""Cap Reward Points Balance"".",module,Magento_Reward
+"Customer earned promotion extra %1.","Customer earned promotion extra %1.",module,Magento_Reward
+"The customer earned %1 for this order.","The customer earned %1 for this order.",module,Magento_Reward
+"Add Reward Points","Add Reward Points",module,Magento_Reward
+"Reward Points Balance","Reward Points Balance",module,Magento_Reward
+"upper boundary","upper boundary",module,Magento_Reward
+"Refund Reward Points","Pontos de recompensa do reembolso",module,Magento_Reward
+"Reward Points refunded to customer","Pontos de recompensa reembolsado para o cliente",module,Magento_Reward
+Remove,Remover,module,Magento_Reward
+Back,Voltar,module,Magento_Reward
+"Balance History","Histórico de saldo",module,Magento_Reward
+Amount,Quantidade,module,Magento_Reward
+Points,Points,module,Magento_Reward
+Reason,Razão,module,Magento_Reward
+Date,Data,module,Magento_Reward
+"Expires on %1","Expira em %1",module,Magento_Reward
+"There is no balance history.","There is no balance history.",module,Magento_Reward
+"Reward points balance Information","Reward points balance Information",module,Magento_Reward
+"Your balance is %1.","Seu saldo é %1.",module,Magento_Reward
+"Current exchange rates:","Current exchange rates:",module,Magento_Reward
+"%1 = %2","%1 = %2",module,Magento_Reward
+"%1 spent = %2 earned","%1 spent = %2 earned",module,Magento_Reward
+None,Nenhum,module,Magento_Reward
+"Balance limit is %1.","O saldo limite é %1.",module,Magento_Reward
+"Maximum balance is reached","O saldo máximo foi atingido",module,Magento_Reward
+"Minimum Balance in order to redeem: %1.","Minimum Balance in order to redeem: %1.",module,Magento_Reward
+"You need a higher balance to use your rewards points.","You need a higher balance to use your rewards points.",module,Magento_Reward
+"Each earned reward points award expires in %1 days.","Each earned reward points award expires in %1 days.",module,Magento_Reward
+"Refer to reward points history to see when a specific record expires.","Refer to reward points history to see when a specific record expires.",module,Magento_Reward
+"Email Notification Settings","Email Notification Settings",module,Magento_Reward
+"Save Subscription Settings","Save Subscription Settings",module,Magento_Reward
+"%name,","%name,",module,Magento_Reward
+"You have %points_balance points that may be used in our store:","You have %points_balance points that may be used in our store:",module,Magento_Reward
+"<a href=""%unsubscription_url"">Unsubscribe</a> from these notifications.","<a href=""%unsubscription_url"">Unsubscribe</a> from these notifications.",module,Magento_Reward
+"There are %remaining_days day(s) remaining to use %points_expiring of your reward points.","There are %remaining_days day(s) remaining to use %points_expiring of your reward points.",module,Magento_Reward
+"After %remaining_days day(s) these points will expire.","After %remaining_days day(s) these points will expire.",module,Magento_Reward
+"You have a total of %points_balance points that may be used in our store:","You have a total of %points_balance points that may be used in our store:",module,Magento_Reward
+"Enable Reward Points Functionality","Enable Reward Points Functionality",module,Magento_Reward
+"Enable Reward Points Functionality on Storefront","Enable Reward Points Functionality on Storefront",module,Magento_Reward
+"Customers May See Reward Points History","Customers May See Reward Points History",module,Magento_Reward
+"Rewards Points Balance Redemption Threshold","Rewards Points Balance Redemption Threshold",module,Magento_Reward
+"An empty value disables this limitation.","An empty value disables this limitation.",module,Magento_Reward
+"Cap Reward Points Balance At","Cap Reward Points Balance At",module,Magento_Reward
+"Reward Points Expire in (days)","Reward Points Expire in (days)",module,Magento_Reward
+"Reward Points Expiry Calculation","Reward Points Expiry Calculation",module,Magento_Reward
+"""Static"" defines the expiration date as precisely when the balance increases. ""Dynamic"" does not have an expiration date, but calculates one when the balance is checked for expiry.","""Static"" defines the expiration date as precisely when the balance increases. ""Dynamic"" does not have an expiration date, but calculates one when the balance is checked for expiry.",module,Magento_Reward
+"Refund Reward Points Automatically","Reembolsar pontos de recompensa automaticamente",module,Magento_Reward
+"Deduct Reward Points from Refund Amount Automatically","Deduzir pontos de recompensa do reembolso automaticamente",module,Magento_Reward
+"Landing Page","Landing Page",module,Magento_Reward
+"Actions for Acquiring Reward Points by Customers","Actions for Acquiring Reward Points by Customers",module,Magento_Reward
+Purchase,Purchase,module,Magento_Reward
+"Added for spent money according to reward exchange rates.","Added for spent money according to reward exchange rates.",module,Magento_Reward
+Registration,Registro,module,Magento_Reward
+"Newsletter Signup","Newsletter Signup",module,Magento_Reward
+"Only for customers who subscribe for the first time.","Only for customers who subscribe for the first time.",module,Magento_Reward
+"Converting Invitation to Customer","Converting Invitation to Customer",module,Magento_Reward
+"Invitation to Customer Conversions Quantity Limit","Invitation to Customer Conversions Quantity Limit",module,Magento_Reward
+"Converting Invitation to Order","Converting Invitation to Order",module,Magento_Reward
+"Invitation to Order Conversions Quantity Limit","Invitation to Order Conversions Quantity Limit",module,Magento_Reward
+"Invitation Conversion to Order Reward","Invitation Conversion to Order Reward",module,Magento_Reward
+"Review Submission","Review Submission",module,Magento_Reward
+"After approval by administrator.","After approval by administrator.",module,Magento_Reward
+"Rewarded Reviews Submission Quantity Limit","Rewarded Reviews Submission Quantity Limit",module,Magento_Reward
+"Email Sender","Remetente do e-mail",module,Magento_Reward
+"Subscribe Customers by Default","Subscribe Customers by Default",module,Magento_Reward
+"Balance Update Email","Balance Update Email",module,Magento_Reward
+"Reward Points Expiry Warning Email","Reward Points Expiry Warning Email",module,Magento_Reward
+"Expiry Warning Before (days)","Expiry Warning Before (days)",module,Magento_Reward
+"Entering no value or a value greater than the expiration lifetime disables the warning notification.","Entering no value or a value greater than the expiration lifetime disables the warning notification.",module,Magento_Reward
+"Reward Points Rates","Reward Points Rates",module,Magento_Reward
+"Amount Balance","Amount Balance",module,Magento_Reward
+Created,Criado,module,Magento_Reward
+Expires,Expira,module,Magento_Reward
+ID,ID,module,Magento_Reward
+"Check out now and earn %1 for this order.","Check out now and earn %1 for this order.",module,Magento_Reward
+"Create an account on our site now and earn %1.","Criar uma conta em nosso site agora e ganhe %1.",module,Magento_Reward
+"Subscribe to our newsletter now and earn %1.","Subscribe to our newsletter now and earn %1.",module,Magento_Reward
+"Send this invitation now and earn %s when your invitee signs up on our site.","Send this invitation now and earn %s when your invitee signs up on our site.",module,Magento_Reward
+"You can reward up to %s invitee registration(s).","You can reward up to %s invitee registration(s).",module,Magento_Reward
+"Earn %s for purchases your invitees make.","Earn %s for purchases your invitees make.",module,Magento_Reward
+"You can reward up to %s invitee purchase(s).","You can reward up to %s invitee purchase(s).",module,Magento_Reward
+"Submit a review now and earn %1 after the review is approved.","Submit a review now and earn %1 after the review is approved.",module,Magento_Reward
+"You can reward up to %1 new reviews(s).","You can reward up to %1 new reviews(s).",module,Magento_Reward

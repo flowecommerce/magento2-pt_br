@@ -1,0 +1,138 @@
+"Gift Card Accounts","Contas de cartão de presente",module,Magento_GiftCardAccount
+"Add Gift Card Account","Adicionar conta de cartão de presente",module,Magento_GiftCardAccount
+Save,Salvar,module,Magento_GiftCardAccount
+Delete,Excluir,module,Magento_GiftCardAccount
+"Save & Send Email","Salvar e enviar E-mail",module,Magento_GiftCardAccount
+"Edit Gift Card Account: %1","Editar conta de cartão de presente: %1",module,Magento_GiftCardAccount
+"New Gift Card Account","Nova conta de cartão de presente",module,Magento_GiftCardAccount
+ID,ID,module,Magento_GiftCardAccount
+Date,Data,module,Magento_GiftCardAccount
+Action,Ação,module,Magento_GiftCardAccount
+"Balance Change","Alteração de Saldo",module,Magento_GiftCardAccount
+Balance,Saldo,module,Magento_GiftCardAccount
+"More Information","Mais informações",module,Magento_GiftCardAccount
+Information,Informação,module,Magento_GiftCardAccount
+"Gift Card Code","Código do cartão presente",module,Magento_GiftCardAccount
+Status,Status,module,Magento_GiftCardAccount
+Active,Ativo,module,Magento_GiftCardAccount
+Yes,Sim,module,Magento_GiftCardAccount
+No,Não,module,Magento_GiftCardAccount
+Redeemable,Resgatáveis,module,Magento_GiftCardAccount
+Website,Website,module,Magento_GiftCardAccount
+"Expiration Date","Data de Validade",module,Magento_GiftCardAccount
+"Send Gift Card","Enviar cartão presente",module,Magento_GiftCardAccount
+"Recipient Email","E-mail de destinatário",module,Magento_GiftCardAccount
+"Recipient Name","Nome do destinatário",module,Magento_GiftCardAccount
+"Send Email from the Following Store View","Enviar e-mail da seguinte visão de loja",module,Magento_GiftCardAccount
+"-- First Please Select a Website --","-- Selecione um Website --",module,Magento_GiftCardAccount
+"Gift Card Account","Conta de cartão de presente",module,Magento_GiftCardAccount
+History,Histórico,module,Magento_GiftCardAccount
+"This gift card account has been deleted.","Esta conta de cartão de presente foi excluída.",module,Magento_GiftCardAccount
+"We couldn't find a gift card account to delete.","Não foi encontrada uma conta de cartão de presente para excluir.",module,Magento_GiftCardAccount
+"Edit Gift Card Account","Editar conta do cartão presente",module,Magento_GiftCardAccount
+"New Account","Nova Conta",module,Magento_GiftCardAccount
+"New code pool was generated.","New code pool was generated.",module,Magento_GiftCardAccount
+"We were unable to generate a new code pool.","We were unable to generate a new code pool.",module,Magento_GiftCardAccount
+"Code Pool used: <b>%1%</b> (free <b>%2</b> of <b>%3</b> total). Generate new code pool <a href=""%4"">here</a>.","Code Pool used: <b>%1%</b> (free <b>%2</b> of <b>%3</b> total). Generate new code pool <a href=""%4"">here</a>.",module,Magento_GiftCardAccount
+"Please select a gift card account(s)","Por favor, selecione a(s) conta(s) de cartão de presente",module,Magento_GiftCardAccount
+"You deleted a total of %1 records.","Você excluiu um total de %1 registros.",module,Magento_GiftCardAccount
+"You saved the gift card account.","Você salvou a conta do cartão presente.",module,Magento_GiftCardAccount
+"You saved the gift card account, but an email was not sent.","Você salvou a conta do cartão de presente, mas o e-mail não foi enviado.",module,Magento_GiftCardAccount
+"An email was not sent because the gift card account is not active.","O e-mail não foi enviado porque a conta do cartão de presente não está ativa.",module,Magento_GiftCardAccount
+"We will refund the gift card amount to your customer’s store credit","Reembolsaremos o valor do cartão de presente como crédito na loja para seu cliente",module,Magento_GiftCardAccount
+"Please enable Store Credit to refund the gift card amount to your customer","Ative o crédito na loja para reembolsar o valor do cartão de presente para seu cliente",module,Magento_GiftCardAccount
+"Please correct the gift card code.","Favor corrigir o código do cartão de presente.",module,Magento_GiftCardAccount
+"Gift Card ""%1"" was added.","O cartão de presente ""%1"" foi adicionado.",module,Magento_GiftCardAccount
+"We cannot apply this gift card.","Não podemos aplicar este cartão presente.",module,Magento_GiftCardAccount
+"Gift Card ""%1"" was removed.","O cartão de presente ""%1"" foi removido.",module,Magento_GiftCardAccount
+"You can't remove this gift card.","Você não pode remover esse cartão presente.",module,Magento_GiftCardAccount
+"You can't redeem a gift card now.","No momento, não é possível resgatar o cartão de presente.",module,Magento_GiftCardAccount
+"Gift Card ""%1"" was redeemed.","O cartão de presente ""%1"" foi resgatado.",module,Magento_GiftCardAccount
+"We cannot redeem this gift card.","Não foi possível resgatar este cartão de presente.",module,Magento_GiftCardAccount
+"Gift Card","Cartão de presente",module,Magento_GiftCardAccount
+"By admin: %1.","Por admin: %1.",module,Magento_GiftCardAccount
+"The expiration date must be set in the future.","A data de validade deve ser definida em uma data futura.",module,Magento_GiftCardAccount
+"The balance cannot be less than zero.","O saldo não pode ser menor que zero.",module,Magento_GiftCardAccount
+"This gift card account is already in the quote.","Esta conta de cartão de presente já esta sendo utilizada na cotação.",module,Magento_GiftCardAccount
+"Please correct the gift card account code: ""%1"".","Por favor, corrija o código da conta do cartão de presente: ""%1"".",module,Magento_GiftCardAccount
+"This gift card account wasn't found in the quote.","Esta conta de cartão de presente não foi encontrada no orçamento.",module,Magento_GiftCardAccount
+"Please correct the gift card account ID. Requested code: ""%1""","Por favor, corrija o ID da conta de cartão de presente. Código solicitado: ""%1""",module,Magento_GiftCardAccount
+"Please correct the gift card account website: %1.","Please correct the gift card account website: %1.",module,Magento_GiftCardAccount
+"Gift card account %1 is not enabled.","A conta de cartão de presente %1 não esta habilitada.",module,Magento_GiftCardAccount
+"Gift card account %1 is expired.","A conta de cartão de presente %1 está expirada.",module,Magento_GiftCardAccount
+"Gift card account %1 has a zero balance.","A conta de cartão de presente %1 tem zero de saldo.",module,Magento_GiftCardAccount
+"Gift card account %1 balance is lower than the charged amount.","O saldo de %1 da conta de cartão de presente é inferior ao valor cobrado.",module,Magento_GiftCardAccount
+Available,Disponível,module,Magento_GiftCardAccount
+Used,Usado,module,Magento_GiftCardAccount
+Redeemed,Resgatado,module,Magento_GiftCardAccount
+Expired,Expirado,module,Magento_GiftCardAccount
+"Please enter a valid customer ID.","Por favor, digite um ID de cliente válido.",module,Magento_GiftCardAccount
+"Gift Card Redeemed: %1. For customer #%2.","Resgatado o cartão de presente: %1. Para cliente #%2.",module,Magento_GiftCardAccount
+Created,Criado,module,Magento_GiftCardAccount
+Updated,Atualizado,module,Magento_GiftCardAccount
+Sent,Enviado,module,Magento_GiftCardAccount
+"Order #%1.","Pedido #%1.",module,Magento_GiftCardAccount
+"Recipient: %1.","Destinatário: %1.",module,Magento_GiftCardAccount
+"Customer #%1.","Cliente %1.",module,Magento_GiftCardAccount
+"Please assign a gift card account.","Por favor, atribua uma conta de cartão de presente.",module,Magento_GiftCardAccount
+"Unknown history action.","Ação de histórico desconhecida.",module,Magento_GiftCardAccount
+"We were unable to create full code pool size. Please check settings and try again.","We were unable to create full code pool size. Please check settings and try again.",module,Magento_GiftCardAccount
+"No codes left in the pool.","No codes left in the pool.",module,Magento_GiftCardAccount
+"Cart %1 doesn't contain products","O carrinho %1 não contém produtos",module,Magento_GiftCardAccount
+"Could not delete gift card from quote","Não foi possível excluir o cartão presente da citação",module,Magento_GiftCardAccount
+"Could not add gift card code","Não foi possível adicionar o código do cartão presente",module,Magento_GiftCardAccount
+"Please correct the wrong or expired Gift Card Code.","Por favor, corrigi o código do cartão presente que está incorreto ou expirado.",module,Magento_GiftCardAccount
+Alphanumeric,Alfanumérico,module,Magento_GiftCardAccount
+Alphabetical,Alfabética,module,Magento_GiftCardAccount
+Numeric,Numérico,module,Magento_GiftCardAccount
+"The maximum generated code length is 255. Please correct your settings.","O tamanho máximo de código gerado é 255. Por favor, corrija suas configurações.",module,Magento_GiftCardAccount
+"Gift Cards","Cartões presente",module,Magento_GiftCardAccount
+Generate,Gerar,module,Magento_GiftCardAccount
+"Code Pool used: ","Code Pool used: ",module,Magento_GiftCardAccount
+" (free "," (free ",module,Magento_GiftCardAccount
+" of "," of ",module,Magento_GiftCardAccount
+" total)."," total).",module,Magento_GiftCardAccount
+"Are you sure you want to continue without saving your changes?","Você tem certeza que deseja continuar sem salvar suas alterações?",module,Magento_GiftCardAccount
+"Refund Gift Cards to Store Credit","Reembolsar o cartão de presente como crédito na loja",module,Magento_GiftCardAccount
+"Add Gift Card","Adicionar cartão presente",module,Magento_GiftCardAccount
+Remove,Remover,module,Magento_GiftCardAccount
+"Gift Card (%1)","Cartão presente (%1)",module,Magento_GiftCardAccount
+"This won't take long . . .","Não vai demorar.",module,Magento_GiftCardAccount
+"Enter gift card code","Digite o código do cartão presente",module,Magento_GiftCardAccount
+"Redeem Gift Card","Resgatar o cartão presente",module,Magento_GiftCardAccount
+"Check status and balance","Verifique o status e o equilíbrio",module,Magento_GiftCardAccount
+"Have a gift card? ","Have a gift card? ",module,Magento_GiftCardAccount
+"Click here","Click here",module,Magento_GiftCardAccount
+" to redeem it."," to redeem it.",module,Magento_GiftCardAccount
+"Enter the gift card code","Digite o código do cartão presente",module,Magento_GiftCardAccount
+"Check Gift Card status and balance","Verificar status do cartão de presente e saldo",module,Magento_GiftCardAccount
+"Gift Card: ","Gift Card: ",module,Magento_GiftCardAccount
+"Current Balance: ","Current Balance: ",module,Magento_GiftCardAccount
+"Expires: ","Expires: ",module,Magento_GiftCardAccount
+"Please enter a valid gift card code.","Por favor insira um código do cartão presente válido.",module,Magento_GiftCardAccount
+"Add or remove gift cards","Add or remove gift cards",module,Magento_GiftCardAccount
+"Gift Card amount applied to order:","Gift Card amount applied to order:",module,Magento_GiftCardAccount
+"%name,","%name,",module,Magento_GiftCardAccount
+"You've been sent a gift card for use at %store_name and it is now ready to be used for purchases.","Você recebe um cartão de presente para usar em %store_name e ele já pode ser usado em suas compras.",module,Magento_GiftCardAccount
+"Gift Card Code: %code","Código do cartão de presente: %code",module,Magento_GiftCardAccount
+"The card has a balance of %balance and can be used at ","The card has a balance of %balance and can be used at ",module,Magento_GiftCardAccount
+%store_name,%store_name,module,Magento_GiftCardAccount
+"Email Sent from Gift Card Account Management","E-mail enviado a partir do gerenciamento de contas de cartão de presente",module,Magento_GiftCardAccount
+"Gift Card Email Sender","Remetente do e-mail de cartão presente",module,Magento_GiftCardAccount
+"Gift Card Template","Modelo de cartão de presente",module,Magento_GiftCardAccount
+"Gift Card Account General Settings","Configurações gerais de conta de cartão de presente",module,Magento_GiftCardAccount
+"Code Length","Tamanho do código",module,Magento_GiftCardAccount
+"Excluding prefix, suffix and separators.","Excluindo o prefixo, sufixo e separadores.",module,Magento_GiftCardAccount
+"Code Format","Formato do código",module,Magento_GiftCardAccount
+"Code Prefix","Prefixo do código",module,Magento_GiftCardAccount
+"Code Suffix","Sufixo do código",module,Magento_GiftCardAccount
+"Dash Every X Characters","Dash Every X Characters",module,Magento_GiftCardAccount
+"if empty no separation","if empty no separation",module,Magento_GiftCardAccount
+"New Pool Size","New Pool Size",module,Magento_GiftCardAccount
+"Low Code Pool Threshold","Low Code Pool Threshold",module,Magento_GiftCardAccount
+"IMPORTANT: Be sure to save your configuration before running generation process.","IMPORTANTE: Certifique-se de salvar sua configuração antes de executar o processo de geração.",module,Magento_GiftCardAccount
+CSV,CSV,module,Magento_GiftCardAccount
+"Excel XML","Excel, XML",module,Magento_GiftCardAccount
+"Are you sure you want to delete these gift card accounts?","Você tem certeza que deseja excluir essas contas de cartão de presente?",module,Magento_GiftCardAccount
+Code,Código,module,Magento_GiftCardAccount
+End,End,module,Magento_GiftCardAccount

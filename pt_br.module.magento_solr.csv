@@ -1,0 +1,21 @@
+button_label,button_label,module,Magento_Solr
+"This search no longer exists.","Esta pesquisa não existe mais.",module,Magento_Solr
+"Please fill in Hostname, Port, Path","Please fill in Hostname, Port, Path",module,Magento_Solr
+"We were unable to perform the search because of a search engine misconfiguration.","We were unable to perform the search because of a search engine misconfiguration.",module,Magento_Solr
+"Could not ping search engine: %1","Could not ping search engine: %1",module,Magento_Solr
+"Final commit","Final commit",module,Magento_Solr
+"Partial commit","Partial commit",module,Magento_Solr
+"Engine autocommit","Engine autocommit",module,Magento_Solr
+"Something went wrong","Something went wrong",module,Magento_Solr
+"Successful! Test again?","Successful! Test again?",module,Magento_Solr
+"Connection failed! Test again?","Connection failed! Test again?",module,Magento_Solr
+"Solr Server Hostname","Solr Server Hostname",module,Magento_Solr
+"Solr Server Port","Solr Server Port",module,Magento_Solr
+"Solr Server Username","Solr Server Username",module,Magento_Solr
+"Solr Server Password","Solr Server Password",module,Magento_Solr
+"Solr Server Timeout","Solr Server Timeout",module,Magento_Solr
+"Solr Server Path","Solr Server Path",module,Magento_Solr
+"Without starting and trailing slashes.","Without starting and trailing slashes.",module,Magento_Solr
+"Indexation Mode","Modo de indexação",module,Magento_Solr
+"Partial commit mode affects time of indexation, but allows indexed products to be visible on Storefront before indexation is completed.","Partial commit mode affects time of indexation, but allows indexed products to be visible on Storefront before indexation is completed.",module,Magento_Solr
+"Test Connection","Test Connection",module,Magento_Solr

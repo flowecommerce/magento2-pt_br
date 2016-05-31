@@ -1,0 +1,19 @@
+"Export VCL for Varnish ","Export VCL for Varnish ",module,Magento_PageCache
+"Ttl value ""%1"" is not valid. Please use only numbers equal or greater than zero.","Ttl value ""%1"" is not valid. Please use only numbers equal or greater than zero.",module,Magento_PageCache
+"Built-in Application (Not Recommended for Production Use)","Built-in Application (Not Recommended for Production Use)",module,Magento_PageCache
+"Varnish Caching","Varnish Caching",module,Magento_PageCache
+"Full Page Cache","Cache de página inteira",module,Magento_PageCache
+"Caching Application","Caching Application",module,Magento_PageCache
+"Varnish Configuration","Varnish Configuration",module,Magento_PageCache
+"Access list","Lista de acesso",module,Magento_PageCache
+"IPs access list separated with ',' that can purge Varnish configuration for config file generation.
+                            If field is empty default value localhost will be saved.","IPs access list separated with ',' that can purge Varnish configuration for config file generation.
+                            If field is empty default value localhost will be saved.",module,Magento_PageCache
+"Backend host","Backend host",module,Magento_PageCache
+"Specify backend host for config file generation. If field is empty default value localhost will be saved.","Specify backend host for config file generation. If field is empty default value localhost will be saved.",module,Magento_PageCache
+"Backend port","Backend port",module,Magento_PageCache
+"Specify backend port for config file generation. If field is empty default value 8080 will be saved.","Specify backend port for config file generation. If field is empty default value 8080 will be saved.",module,Magento_PageCache
+"TTL for public content","TTL for public content",module,Magento_PageCache
+"Public content cache lifetime in seconds. If field is empty default value 86400 will be saved. ","Public content cache lifetime in seconds. If field is empty default value 86400 will be saved. ",module,Magento_PageCache
+"Page Cache","Cache de página",module,Magento_PageCache
+"Full page caching.","Full page caching.",module,Magento_PageCache

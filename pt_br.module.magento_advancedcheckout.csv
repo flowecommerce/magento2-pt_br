@@ -1,0 +1,133 @@
+"Manage Shopping Cart","Gerenciar Carrinho de Compras",module,Magento_AdvancedCheckout
+"Create Order","Criar Pedido",module,Magento_AdvancedCheckout
+Back,Voltar,module,Magento_AdvancedCheckout
+"Add Products","Adicionar Produtos",module,Magento_AdvancedCheckout
+"Update Items and Quantities","Atualizar Itens e Quantidades",module,Magento_AdvancedCheckout
+"Are you sure you want to clear your cart?","Tem certeza de que deseja limpar seu carrinho?",module,Magento_AdvancedCheckout
+"Clear my shopping cart","Limpar meu carrinho de compras",module,Magento_AdvancedCheckout
+"Add selections to my cart","Adicionar produtos selecionados ao carrinho",module,Magento_AdvancedCheckout
+Cancel,Cancelar,module,Magento_AdvancedCheckout
+"Shopping Cart for %1 in %2","Carrinho de compras para %1 em %2",module,Magento_AdvancedCheckout
+"Select products you want to buy","Selecione os produtos que você pretende comprar",module,Magento_AdvancedCheckout
+Product,Produto,module,Magento_AdvancedCheckout
+Price,Preço,module,Magento_AdvancedCheckout
+Quantity,Quantidade,module,Magento_AdvancedCheckout
+"Products in the Comparison List (%1)","Produtos na Lista de Comparação (%1)",module,Magento_AdvancedCheckout
+"Last ordered items (%1)","Últimos itens adquiridos (%1)",module,Magento_AdvancedCheckout
+Products,Produtos,module,Magento_AdvancedCheckout
+ID,ID,module,Magento_AdvancedCheckout
+SKU,SKU,module,Magento_AdvancedCheckout
+"Recently Compared Products (%1)","Produtos Comparados Recentemente (%1)",module,Magento_AdvancedCheckout
+"Recently Viewed Products (%1)","Produtos Visualizados Recentemente (%1)",module,Magento_AdvancedCheckout
+"Add to Shopping Cart by SKU","Adicionar no Carrinho de Compras por SKU",module,Magento_AdvancedCheckout
+"Add to Shopping Cart","Adicionar ao Carrinho de Compras",module,Magento_AdvancedCheckout
+"Wish List (%1)","Lista de Desejos (%1)",module,Magento_AdvancedCheckout
+Apply,Aplicar,module,Magento_AdvancedCheckout
+Configure,Configurar,module,Magento_AdvancedCheckout
+"Add to Order by SKU","Adicionar no Pedido por SKU",module,Magento_AdvancedCheckout
+"Add to Order","Adicionar no Pedido",module,Magento_AdvancedCheckout
+"Add Products to Order","Adicionar Produtos no Pedido",module,Magento_AdvancedCheckout
+"<span><span id=""sku-attention-num"">%1</span> product(s) require attention.</span>","<span><span id=""sku-attention-num"">%1</span> produto(s) requer(em) atenção.</span>",module,Magento_AdvancedCheckout
+"Remove All","Remover Todos",module,Magento_AdvancedCheckout
+"Only %1%2%3 left in stock","Somente %1%2%3 restam no estoque",module,Magento_AdvancedCheckout
+"You can buy up to %1 of these per purchase.","Você pode adquirir até %1 unidades por compra.",module,Magento_AdvancedCheckout
+"You must buy at least %1 of these per purchase.","Você deve adquirir ao menos %1 unidades por compra.",module,Magento_AdvancedCheckout
+"Specify the product's options.","Especifique as opções do produto.",module,Magento_AdvancedCheckout
+"Alert me when this item is available.","Avise-me quando este item estiver disponível.",module,Magento_AdvancedCheckout
+"We can't find this customer.","Cliente não encontrado.",module,Magento_AdvancedCheckout
+"Shopping cart management is disabled for this customer.","Gestão de carrinho de compras está desabilitado para este cliente.",module,Magento_AdvancedCheckout
+"We can't find this store.","Não encontramos esta loja.",module,Magento_AdvancedCheckout
+Customers,Clientes,module,Magento_AdvancedCheckout
+"Shopping Cart","Carrinho de Compras",module,Magento_AdvancedCheckout
+"Sorry, something went wrong. You can find out more in the error log.","Desculpe, algo deu errado. Mais informação disponível no log de erros.",module,Magento_AdvancedCheckout
+"You do not have access to this.","Você não tem acesso.",module,Magento_AdvancedCheckout
+"Ordered item id is not received.","Id do item solicitado não foi recebido.",module,Magento_AdvancedCheckout
+"Ordered item is not loaded.","Item solicitado não está carregado.",module,Magento_AdvancedCheckout
+"Quote item id is not received.","Id do item cotado não foi recebido.",module,Magento_AdvancedCheckout
+"Quote item is not loaded.","Item cotado não está carregado.",module,Magento_AdvancedCheckout
+"The wish list item id is not received.","Id do item da lista de desejos não foi recebido.",module,Magento_AdvancedCheckout
+"The wish list item is not loaded.","O item da lista de desejos não está carregado.",module,Magento_AdvancedCheckout
+"An error has occurred. See error log for details.","Ocorreu um erro. Consulte o log de erros para obter detalhes.",module,Magento_AdvancedCheckout
+"You cannot configure a product.","Você não pode configurar um produto.",module,Magento_AdvancedCheckout
+"You removed the items.","Você removeu os itens.",module,Magento_AdvancedCheckout
+"You removed the item.","Você removeu o item.",module,Magento_AdvancedCheckout
+"You added %1 to your shopping cart.","Você adicionou %1 ao carrinho de compras.",module,Magento_AdvancedCheckout
+"You cannot add a product.","Você não pode adicionar um produto.",module,Magento_AdvancedCheckout
+"Order by SKU","Ordenar por SKU",module,Magento_AdvancedCheckout
+"SKU not found in catalog.","SKU não encontrado no catálogo.",module,Magento_AdvancedCheckout
+"Availability: Out of stock.","Disponibilidade: Sem estoque.",module,Magento_AdvancedCheckout
+"We don't have as many of these as you want.","Não temos tantos quanto você deseja.",module,Magento_AdvancedCheckout
+"You can't add this many to your cart.","Não é possível adicionar esta quantidade no seu carrinho.",module,Magento_AdvancedCheckout
+"You need to choose options for your item.","Você precisa escolher opções para seu item.",module,Magento_AdvancedCheckout
+"We can't add the item to your cart.","Nós foi possível adicionar o item ao seu carrinho.",module,Magento_AdvancedCheckout
+"Please enter an actual number in the ""Qty"" field.","Por favor, digite um número atual no campo ""Qtd"".",module,Magento_AdvancedCheckout
+"This product is assigned to another website.","Este produto está atribuído a outro website.",module,Magento_AdvancedCheckout
+"You can add only enabled products.","Você pode adicionar somente produtos habilitados.",module,Magento_AdvancedCheckout
+"You cannot upload this file.","Você não pode enviar este arquivo.",module,Magento_AdvancedCheckout
+"The file is empty.","O arquivo está vazio.",module,Magento_AdvancedCheckout
+"You have not entered a product SKU. Please <a href=""%1"">click here</a> to add product(s) by SKU.","Você não inseriu um SKU de produto. Por favor, <a href=""%1"">clique aqui</a> para adicionar produto(s) pelo SKU.",module,Magento_AdvancedCheckout
+"You have not entered a product SKU.","Você não inseriu um SKU de produto.",module,Magento_AdvancedCheckout
+"We can't add a product to cart by id \"%1\".","Não foi possível adicionar o produto \"%1\" no carrinho.",module,Magento_AdvancedCheckout
+"Something went wrong while reordering this product.","Algo deu errado durante a reordenação deste produto.",module,Magento_AdvancedCheckout
+"We can't find this wish list.","Esta lista de desejos não foi encontrada.",module,Magento_AdvancedCheckout
+"You added %1 product to your shopping cart.","Você adicionou %1 produto ao carrinho de compras.",module,Magento_AdvancedCheckout
+"You added %1 products to your shopping cart.","Você adicionou %1 produtos ao carrinho de compras.",module,Magento_AdvancedCheckout
+"%1 product requires your attention.","%1 produto requer sua atenção.",module,Magento_AdvancedCheckout
+"%1 products require your attention.","%1 produtos requerem sua atenção.",module,Magento_AdvancedCheckout
+"Yes, for Specified Customer Groups","Sim, para o Grupo de Clientes Especificado",module,Magento_AdvancedCheckout
+"Yes, for Everyone","Sim, para Todos",module,Magento_AdvancedCheckout
+No,Não,module,Magento_AdvancedCheckout
+"The file is corrupt.","O arquivo está corrompido.",module,Magento_AdvancedCheckout
+"This file needs to be in .csv format.","O arquivo precisa estar no formato .csv.",module,Magento_AdvancedCheckout
+"%1 item(s) need your attention.","%1 item(ns) precisa(m) de sua atenção.",module,Magento_AdvancedCheckout
+"Apply Coupon Code","Aplicar Cupom de Desconto",module,Magento_AdvancedCheckout
+"Remove Coupon Code","Remover Cupom de Desconto",module,Magento_AdvancedCheckout
+Remove,Remover,module,Magento_AdvancedCheckout
+"The coupon code ""%1"" is not valid.","O cupom de desconto ""%1"" é inválido.",module,Magento_AdvancedCheckout
+"Shopping Cart Items","Itens do Carrinho de Compras",module,Magento_AdvancedCheckout
+Qty,Qtd,module,Magento_AdvancedCheckout
+Subtotal,Subtotal,module,Magento_AdvancedCheckout
+Discount,Desconto,module,Magento_AdvancedCheckout
+"Row Subtotal","Linha de Subtotal",module,Magento_AdvancedCheckout
+Action,Ação,module,Magento_AdvancedCheckout
+"No ordered items","Não há itens solicitados",module,Magento_AdvancedCheckout
+"Total %1 product(s)","%1 produto(s) no total",module,Magento_AdvancedCheckout
+Subtotal:,Subtotal:,module,Magento_AdvancedCheckout
+"Please select","Selecione por favor",module,Magento_AdvancedCheckout
+"Move to Wish List","Mover para Lista de Desejos",module,Magento_AdvancedCheckout
+"No item specified.","Nenhum item especificado.",module,Magento_AdvancedCheckout
+"Are you sure you want to remove this item?","Tem certeza que deseja remover este item?",module,Magento_AdvancedCheckout
+"SKU number","Número do SKU",module,Magento_AdvancedCheckout
+"Upload File","Enviar Arquivo",module,Magento_AdvancedCheckout
+"Your csv file must include ""sku"" and ""qty"" columns.","Seu arquivo csv deve incluir as colunas ""sku"" e ""qty"".",module,Magento_AdvancedCheckout
+Reset,Reiniciar,module,Magento_AdvancedCheckout
+"SKU: ","SKU: ",module,Magento_AdvancedCheckout
+"Only <span id=""%1_max_allowed"">%2</span> in stock","Só <span id=""%1_max_allowed"">%2</span> em estoque",module,Magento_AdvancedCheckout
+Item,Item,module,Magento_AdvancedCheckout
+"See price before order confirmation.","Ver preço antes de confirmar pedido.",module,Magento_AdvancedCheckout
+"What's this?","O que é isto?",module,Magento_AdvancedCheckout
+"Incl. Tax","Imposto Incl.",module,Magento_AdvancedCheckout
+"Excl. Tax","Excl. Impostos",module,Magento_AdvancedCheckout
+"Edit item parameters","Editar parâmetros do item",module,Magento_AdvancedCheckout
+Edit,Editar,module,Magento_AdvancedCheckout
+"Remove item","Remover item",module,Magento_AdvancedCheckout
+"Products Requiring Attention","Produtos que Requerem Atenção",module,Magento_AdvancedCheckout
+"Add to Cart","Adicionar ao Carrinho",module,Magento_AdvancedCheckout
+Sku,Sku,module,Magento_AdvancedCheckout
+File,Arquivo,module,Magento_AdvancedCheckout
+"File extensions allowed: .csv","Extensões de arquivos permitidas: .csv",module,Magento_AdvancedCheckout
+"Add Row","Adicionar linha",module,Magento_AdvancedCheckout
+"Remove Row","Remover linha",module,Magento_AdvancedCheckout
+"Add Products By SKU",按SKU添加产品,module,Magento_AdvancedCheckout
+"Order by SKU Settings","Order by SKU Settings",module,Magento_AdvancedCheckout
+"Enable Order by SKU on My Account in Storefront","Enable Order by SKU on My Account in Storefront",module,Magento_AdvancedCheckout
+"Customer Groups","Grupos de Cliente",module,Magento_AdvancedCheckout
+"Apply Coupon","Aplicar cupom",module,Magento_AdvancedCheckout
+"Shopping Cart Management","Shopping Cart Management",module,Magento_AdvancedCheckout
+"Order by SKU Description","Order by SKU Description",module,Magento_AdvancedCheckout
+"Display a Link to Loading a Spreadsheet","Display a Link to Loading a Spreadsheet",module,Magento_AdvancedCheckout
+"Defines whether a link to My Account &gt; Order by SKU page will be displayed on the widget","Defines whether a link to My Account &gt; Order by SKU page will be displayed on the widget",module,Magento_AdvancedCheckout
+"Link Text","Link Text",module,Magento_AdvancedCheckout
+"The text of the link to the My Account &gt; Order by SKU page","The text of the link to the My Account &gt; Order by SKU page",module,Magento_AdvancedCheckout
+"Load a list of SKUs","Carregar uma lista de SKUs",module,Magento_AdvancedCheckout
+"Order by SKU Template","Order by SKU Template",module,Magento_AdvancedCheckout

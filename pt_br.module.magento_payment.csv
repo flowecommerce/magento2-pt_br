@@ -1,0 +1,49 @@
+"We cannot retrieve the payment method model object.","Não foi possível recuperar o objeto de modelo do método de pagamento.",module,Magento_Payment
+Month,Mês,module,Magento_Payment
+Year,Ano,module,Magento_Payment
+"We cannot retrieve the payment info model object.","Não foi possível recuperar o objeto de info do método de pagamento.",module,Magento_Payment
+N/A,"Não Disponível",module,Magento_Payment
+"Credit Card Type","Tipo do Cartão de Crédito",module,Magento_Payment
+"Credit Card Number","Número do Cartão de Crédito",module,Magento_Payment
+"Switch/Solo/Maestro Issue Number","Número de emissão Switch/Solo/Maestro",module,Magento_Payment
+"Switch/Solo/Maestro Start Date","Data de início Maestro/Switch/Solo",module,Magento_Payment
+"We cannot retrieve the transparent payment method model object.","Não foi possível recuperar o objeto de modelo do método de pagamento transparente.",module,Magento_Payment
+"Command %1 does not exist.","Comando %1 não existe.",module,Magento_Payment
+"Wrong gateway response format.","O formato da resposta do gateway esta incorreta.",module,Magento_Payment
+"Validator for field %1 does not exist.","Validador do campo %1 não existe.",module,Magento_Payment
+Discount,Desconto,module,Magento_Payment
+Shipping,Frete,module,Magento_Payment
+"All Allowed Countries","Todos os países permitido",module,Magento_Payment
+"Specific Countries","Países específicos",module,Magento_Payment
+"The payment method you requested is not available.","O método de pagamento que você solicitou não está disponível.",module,Magento_Payment
+"The payment disallows storing objects.","O pagamento não permite armazenar objetos.",module,Magento_Payment
+"We cannot retrieve the payment method code.","Não foi possível recuperar o código do método de pagamento.",module,Magento_Payment
+"We cannot retrieve the payment information object instance.","Não foi possível recuperar a instância de objeto de informações de pagamento.",module,Magento_Payment
+"You can't use the payment type you selected to make payments to the billing country.","Você não pode usar o tipo de pagamento selecionado para fazer pagamentos para o faturamento em seu país.",module,Magento_Payment
+"The order action is not available.","A ação de pedido não está disponível.",module,Magento_Payment
+"The authorize action is not available.","A ação de autorização não está disponível.",module,Magento_Payment
+"The capture action is not available.","A ação de captura não está disponível.",module,Magento_Payment
+"The refund action is not available.","A ação de reembolso não está disponível.",module,Magento_Payment
+"The void action is not available.","A ação de anular não está disponível.",module,Magento_Payment
+"The payment review action is unavailable.","A ação de revisão de pagamento não está disponível.",module,Magento_Payment
+"The credit card number doesn't match the credit card type.","O número de cartão de crédito não corresponde ao tipo de cartão de crédito.",module,Magento_Payment
+"Invalid Credit Card Number","Número inválido de cartão de crédito",module,Magento_Payment
+"This credit card type is not allowed for this payment method.","O tipo de cartão de crédito não é permitido para esta forma de pagamento.",module,Magento_Payment
+"Please enter a valid credit card verification number.","Por favor, insira um número de verificação de cartão de crédito válido.",module,Magento_Payment
+"Please enter a valid credit card expiration date.","Por favor, introduza uma data de expiração do cartão de crédito válida.",module,Magento_Payment
+"%1 class doesn't implement \Magento\Payment\Model\MethodInterface","%1 classe não implementa \Magento\Payment\Model\MethodInterface",module,Magento_Payment
+Yes,Sim,module,Magento_Payment
+No,Não,module,Magento_Payment
+"Expiration Date","Data de Validade",module,Magento_Payment
+"Card Verification Number","Código de Verificação do Cartão",module,Magento_Payment
+"Switch/Solo/Maestro Only","Apenas Switch/Solo/Maestro",module,Magento_Payment
+"Issue Number","Número de emissão",module,Magento_Payment
+"Start Date","Data de Início",module,Magento_Payment
+" is not available. You still can process offline actions."," is not available. You still can process offline actions.",module,Magento_Payment
+"Please Select","Por Favor Selecione",module,Magento_Payment
+"We'll ask for your payment details before you place an order.","Nós vamos solicitar os dados de pagamento antes de efetuar o pedido.",module,Magento_Payment
+"--Please Select--","--Por Favor Selecione--",module,Magento_Payment
+"Card Verification Number Visual Reference","Referência Visual do Número de Verificação do Cartão",module,Magento_Payment
+"What is this?","O que é isto?",module,Magento_Payment
+"Credit Card Information","Informações do cartão de crédito",module,Magento_Payment
+"Payment Methods","Forma de pagamento",module,Magento_Payment

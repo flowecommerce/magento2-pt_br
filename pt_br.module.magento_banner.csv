@@ -1,0 +1,68 @@
+Banners,Banners,module,Magento_Banner
+"Add Banner","Adicionar Banner",module,Magento_Banner
+"Save Banner","Salvar Banner",module,Magento_Banner
+"Delete Banner","Excluir Banner",module,Magento_Banner
+"Save and Continue Edit","Salvar e Continuar a Editar",module,Magento_Banner
+"New Banner","Novo Banner",module,Magento_Banner
+Content,Conteúdo,module,Magento_Banner
+"Default Content","Conteúdo Padrão",module,Magento_Banner
+"No Default Content","Nenhum Conteúdo Padrão",module,Magento_Banner
+"Banner Default Content for All Store Views","Banner Padrão para Todas as Visões de Loja",module,Magento_Banner
+"Store View Specific Content","Conteúdo Específico para Visão de Loja",module,Magento_Banner
+"Use Default","Usar Padrão",module,Magento_Banner
+"Related Promotions","Promoções Relacionadas",module,Magento_Banner
+ID,ID,module,Magento_Banner
+Rule,Regra,module,Magento_Banner
+"Start Date","Data de Início",module,Magento_Banner
+"End Date","Data de Término",module,Magento_Banner
+Status,Status,module,Magento_Banner
+"Banner Properties","Propriedades do Banner",module,Magento_Banner
+"Banner Name","Nome do Banner",module,Magento_Banner
+Active,Ativo,module,Magento_Banner
+Inactive,Inativo,module,Magento_Banner
+"Applies To","Aplica-se a",module,Magento_Banner
+"Any Banner Type","Qualquer Tipo de Banner",module,Magento_Banner
+"Specified Banner Types","Tipos de Banner Específicos",module,Magento_Banner
+"Specify Types","Especificar tipos",module,Magento_Banner
+"Banner Information","Informação do Banner",module,Magento_Banner
+Banner,Banner,module,Magento_Banner
+"Banner Type","Tipo de Banner",module,Magento_Banner
+Visibility,Visibilidade,module,Magento_Banner
+Delete,Excluir,module,Magento_Banner
+"Are you sure you want to delete these banners?","Tem certeza que deseja excluir estes banners?",module,Magento_Banner
+"Related Banners","Banners relacionados",module,Magento_Banner
+Position,Posição,module,Magento_Banner
+"This rule no longer exists.","Esta regra não existe mais.",module,Magento_Banner
+"This banner does not exist.","Esse banner não existe.",module,Magento_Banner
+"You deleted the banner.","Você excluiu o banner.",module,Magento_Banner
+"Something went wrong while deleting banner data. Please review the action log and try again.","Algo deu errado ao excluir os dados do banner. Por favor, analise o log de ações e tente novamente.",module,Magento_Banner
+"We cannot find a banner to delete.","Não encontramos um banner para excluir.",module,Magento_Banner
+"This banner no longer exists.","Esse banner não existe mais.",module,Magento_Banner
+"Edit Banner","Editar Banner",module,Magento_Banner
+"Please select a banner(s).","Por favor, selecione o banner(s).",module,Magento_Banner
+"You deleted %1 record(s).","Você excluiu %1 registro (s).",module,Magento_Banner
+"Something went wrong while mass-deleting banners. Please review the action log and try again.","Algo deu errado na exclusão em massa dos banners. Por favor, revise o log de ação e tente novamente.",module,Magento_Banner
+"You saved the banner.","Você salvou o banner.",module,Magento_Banner
+"We cannot save the banner.","Não conseguimos salvar o banner.",module,Magento_Banner
+"Please enter a name.","Por favor digite um nome.",module,Magento_Banner
+"Please specify default content for at least one store view.","Por favor, especifique o conteúdo padrão para a exibição de pelo menos uma loja.",module,Magento_Banner
+"-- None --","-- Nenhum --",module,Magento_Banner
+Error,Erro,module,Magento_Banner
+"Related Cart Price Rules","Regras de preço de carrinho relacionados",module,Magento_Banner
+"Related Catalog Price Rules","Regras de preço de catálogo relacionado",module,Magento_Banner
+"Manage Banners","Gerenciar banners",module,Magento_Banner
+"Banner Rotator","Banner rotativo",module,Magento_Banner
+"Displays Specified or Promotion Banners","Displays Specified or Promotion Banners",module,Magento_Banner
+"Banners to Display","Banners to Display",module,Magento_Banner
+"Specified Banners","Specified Banners",module,Magento_Banner
+"Shopping Cart Promotions Related","Shopping Cart Promotions Related",module,Magento_Banner
+"Catalog Promotions Related","Catalog Promotions Related",module,Magento_Banner
+"Restrict by Banner Types","Restrict by Banner Types",module,Magento_Banner
+"Rotation Mode","Modo de rotação",module,Magento_Banner
+"Display all instead of rotating","Display all instead of rotating",module,Magento_Banner
+"One at the time, Random","One at the time, Random",module,Magento_Banner
+"One at the time, Series","One at the time, Series",module,Magento_Banner
+"One at the time, Shuffle","One at the time, Shuffle",module,Magento_Banner
+"Specify Banners","Specify Banners",module,Magento_Banner
+"Banner Block Template","Banner Block Template",module,Magento_Banner
+"Banner Inline Template","Banner Inline Template",module,Magento_Banner

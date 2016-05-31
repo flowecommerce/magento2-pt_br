@@ -1,0 +1,29 @@
+[GLOBAL],[GLOBAL],module,Magento_CustomAttributeManagement
+[WEBSITE],[WEBSITE],module,Magento_CustomAttributeManagement
+"[STORE VIEW]","[VISÃO DE LOJA]",module,Magento_CustomAttributeManagement
+"The current module XML block name is undefined.","O nome do bloco atual módulo XML é indefinido.",module,Magento_CustomAttributeManagement
+"The current module form model pathname is undefined.","O atual módulo formulário modelo 'pathname' esta indefinido.",module,Magento_CustomAttributeManagement
+No,Não,module,Magento_CustomAttributeManagement
+Yes,Sim,module,Magento_CustomAttributeManagement
+"Use helper with defined EAV entity.","Use ajudante com entidade EAV definida.",module,Magento_CustomAttributeManagement
+"Default EAV Form","Formulário EAV padrão",module,Magento_CustomAttributeManagement
+"Please correct the values for minimum and maximum text length validation rules.","Por favor, corrija os valores para as regras mínimas e máximas de validação de comprimento de texto.",module,Magento_CustomAttributeManagement
+"Please correct the values for minimum and maximum date validation rules.","Por favor, corrija os valores para validar as regras mínimos e máximo das datas.",module,Magento_CustomAttributeManagement
+"Text Field","Campo de Texto",module,Magento_CustomAttributeManagement
+"Text Area","Área de Texto",module,Magento_CustomAttributeManagement
+"Multiple Line","Linha Múltipla",module,Magento_CustomAttributeManagement
+Date,Data,module,Magento_CustomAttributeManagement
+Dropdown,"Menu suspenso",module,Magento_CustomAttributeManagement
+"Multiple Select","Múltipla Seleção",module,Magento_CustomAttributeManagement
+Yes/No,Sim/Não,module,Magento_CustomAttributeManagement
+"File (attachment)","Arquivo (anexo)",module,Magento_CustomAttributeManagement
+"Image File","Arquivo de imagem",module,Magento_CustomAttributeManagement
+Alphanumeric,Alfanumérico,module,Magento_CustomAttributeManagement
+"Numeric Only","Somente Numérico",module,Magento_CustomAttributeManagement
+"Alpha Only","Somente alfa",module,Magento_CustomAttributeManagement
+URL,URL,module,Magento_CustomAttributeManagement
+Email,E-mail,module,Magento_CustomAttributeManagement
+"Strip HTML Tags","remover tags HTML",module,Magento_CustomAttributeManagement
+"Escape HTML Entities","Escape para Entidades HTML",module,Magento_CustomAttributeManagement
+"Normalize Date","Normalizar a Data",module,Magento_CustomAttributeManagement
+"The attribute code is invalid. Please use only letters (a-z), numbers (0-9) or underscores (_) in this field. The first character should be a letter.","The attribute code is invalid. Please use only letters (a-z), numbers (0-9) or underscores (_) in this field. The first character should be a letter.",module,Magento_CustomAttributeManagement

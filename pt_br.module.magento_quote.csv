@@ -1,0 +1,55 @@
+"Unable to save address. Please, check input data.","Não é possível salvar o endereço. Por favor, verifique os dados de entrada.",module,Magento_Quote
+"Cart %1 doesn't contain products","O carrinho %1 não contém produtos",module,Magento_Quote
+"Could not apply coupon code","Não foi possivel aplicar o código do cupom",module,Magento_Quote
+"Coupon code is not valid","O código do cupom não é válido",module,Magento_Quote
+"Could not delete coupon code","Não foi possível excluir o código do cupom",module,Magento_Quote
+"Shipping address is not set","Endereço de envio não está definido",module,Magento_Quote
+"The requested Payment Method is not available.","O método de pagamento solicitado não está disponível.",module,Magento_Quote
+"We found an invalid request for adding product to quote.","Encontramos uma solicitação inválida para adicionar o produto para cotação.",module,Magento_Quote
+"This is the wrong quote item id to update configuration.","This is the wrong quote item id to update configuration.",module,Magento_Quote
+"This shipping method is not available. To use this shipping method, please contact us.","This shipping method is not available. To use this shipping method, please contact us.",module,Magento_Quote
+"The address model is not defined.","O modelo de endereço não está definido.",module,Magento_Quote
+"The address total model should be extended from
+                    \Magento\Quote\Model\Quote\Address\Total\AbstractTotal.","The address total model should be extended from
+                    \Magento\Quote\Model\Quote\Address\Total\AbstractTotal.",module,Magento_Quote
+"Grand Total","Total geral",module,Magento_Quote
+"Shipping & Handling (%1)","Envio e Manuseio (%1)",module,Magento_Quote
+"Shipping & Handling","Envio e Manuseio",module,Magento_Quote
+Shipping,Frete,module,Magento_Quote
+Subtotal,Subtotal,module,Magento_Quote
+"We found an invalid item option format.","We found an invalid item option format.",module,Magento_Quote
+"An item option with code %1 already exists.","Uma opção de item com o código %1 já existe.",module,Magento_Quote
+"Item qty declaration error","Item qty declaration error",module,Magento_Quote
+"Some of the products below do not have all the required options.","Some of the products below do not have all the required options.",module,Magento_Quote
+"Something went wrong during the item options declaration.","Something went wrong during the item options declaration.",module,Magento_Quote
+"We found an item options declaration error.","We found an item options declaration error.",module,Magento_Quote
+"Some of the selected options are not currently available.","Some of the selected options are not currently available.",module,Magento_Quote
+"Selected option(s) or their combination is not currently available.","Selected option(s) or their combination is not currently available.",module,Magento_Quote
+"Some item options or their combination are not currently available.","Some item options or their combination are not currently available.",module,Magento_Quote
+"Cart %1 doesn't contain item  %2","Cart %1 doesn't contain item  %2",module,Magento_Quote
+"Could not save quote","Could not save quote",module,Magento_Quote
+"Could not remove item from quote","Could not remove item from quote",module,Magento_Quote
+"The qty value is required to update quote item.","The qty value is required to update quote item.",module,Magento_Quote
+"Invalid customer id %1","Invalid customer id %1",module,Magento_Quote
+"Invalid address id %1","Invalid address id %1",module,Magento_Quote
+"Cannot create quote","Cannot create quote",module,Magento_Quote
+"Cannot assign customer to the given cart. The cart belongs to different store.","Cannot assign customer to the given cart. The cart belongs to different store.",module,Magento_Quote
+"Cannot assign customer to the given cart. The cart is not anonymous.","Cannot assign customer to the given cart. The cart is not anonymous.",module,Magento_Quote
+"Cannot assign customer to the given cart. Customer already has active cart.","Cannot assign customer to the given cart. Customer already has active cart.",module,Magento_Quote
+"Cannot place order.","Não foi possível fechar o pedido.",module,Magento_Quote
+"This item price or quantity is not valid for checkout.","This item price or quantity is not valid for checkout.",module,Magento_Quote
+"Please check the shipping address information. %1","Please check the shipping address information. %1",module,Magento_Quote
+"Please specify a shipping method.","Por favor, especifique um método de envio.",module,Magento_Quote
+"Please check the billing address information. %1","Please check the billing address information. %1",module,Magento_Quote
+"Please select a valid payment method.","Please select a valid payment method.",module,Magento_Quote
+"Store Credit","Loja de Crédito",module,Magento_Quote
+Discount,Desconto,module,Magento_Quote
+Tax,Taxa,module,Magento_Quote
+"Cart contains virtual product(s) only. Shipping address is not applicable.","O carrinho contem somente produtos virtuais. Endereço de entrega não se aplica.",module,Magento_Quote
+"Shipping address not set.","Shipping address not set.",module,Magento_Quote
+"Shipping method is not applicable for empty cart","Método de envio não aplicável para Carrinho de Compras vazio",module,Magento_Quote
+"Cart contains virtual product(s) only. Shipping method is not applicable.","Cart contains virtual product(s) only. Shipping method is not applicable.",module,Magento_Quote
+"Carrier with such method not found: %1, %2","Transportador com esse método não encontrado: %1, %2",module,Magento_Quote
+"Cannot set shipping method. %1","Cannot set shipping method. %1",module,Magento_Quote
+error123,error123,module,Magento_Quote
+error345,error345,module,Magento_Quote

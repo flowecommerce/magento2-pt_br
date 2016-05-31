@@ -1,0 +1,52 @@
+"You removed this %1 from the update and saved it in a new one.","You removed this %1 from the update and saved it in a new one.",module,Magento_SalesRuleStaging
+"You removed this %1 from the update and saved it in the other one.","You removed this %1 from the update and saved it in the other one.",module,Magento_SalesRuleStaging
+"You removed this %1 from the update.","You removed this %1 from the update.",module,Magento_SalesRuleStaging
+"Required parameters are missing.","Required parameters are missing.",module,Magento_SalesRuleStaging
+"You saved this %1 update.","You saved this %1 update.",module,Magento_SalesRuleStaging
+ID,ID,module,Magento_SalesRuleStaging
+Rule,Rule,module,Magento_SalesRuleStaging
+"Coupon Code","Coupon Code",module,Magento_SalesRuleStaging
+Priority,Priority,module,Magento_SalesRuleStaging
+Status,Status,module,Magento_SalesRuleStaging
+Active,Active,module,Magento_SalesRuleStaging
+Inactive,Inactive,module,Magento_SalesRuleStaging
+"Web Site","Web Site",module,Magento_SalesRuleStaging
+Action,Action,module,Magento_SalesRuleStaging
+Edit,Edit,module,Magento_SalesRuleStaging
+"Scheduled Changes","Scheduled Changes",module,Magento_SalesRuleStaging
+"Start Date","Start Date",module,Magento_SalesRuleStaging
+"Start Time","Start Time",module,Magento_SalesRuleStaging
+Name,Name,module,Magento_SalesRuleStaging
+Description,Description,module,Magento_SalesRuleStaging
+"End Date","End Date",module,Magento_SalesRuleStaging
+"End Time","End Time",module,Magento_SalesRuleStaging
+"Update Information","Update Information",module,Magento_SalesRuleStaging
+"Remove Sales Rule from Update","Remove Sales Rule from Update",module,Magento_SalesRuleStaging
+"Save as a new update","Save as a new update",module,Magento_SalesRuleStaging
+"Update Name","Update Name",module,Magento_SalesRuleStaging
+"Start date","Start date",module,Magento_SalesRuleStaging
+"End date","End date",module,Magento_SalesRuleStaging
+"Select from existing Scheduled Update","Select from existing Scheduled Update",module,Magento_SalesRuleStaging
+"Rule Information","Rule Information",module,Magento_SalesRuleStaging
+Websites,Websites,module,Magento_SalesRuleStaging
+"Customer Groups","Customer Groups",module,Magento_SalesRuleStaging
+"Public In RSS Feed","Public In RSS Feed",module,Magento_SalesRuleStaging
+Conditions,Conditions,module,Magento_SalesRuleStaging
+Actions,Actions,module,Magento_SalesRuleStaging
+Apply,Apply,module,Magento_SalesRuleStaging
+"Discount Amount","Discount Amount",module,Magento_SalesRuleStaging
+"Maximum Qty Discount is Applied To","Maximum Qty Discount is Applied To",module,Magento_SalesRuleStaging
+"Discount Qty Step (Buy X)","Discount Qty Step (Buy X)",module,Magento_SalesRuleStaging
+"Apply to Shipping Amount","Apply to Shipping Amount",module,Magento_SalesRuleStaging
+"Discard subsequent rules","Discard subsequent rules",module,Magento_SalesRuleStaging
+Labels,Labels,module,Magento_SalesRuleStaging
+"Default Rule Label for All Store Views","Default Rule Label for All Store Views",module,Magento_SalesRuleStaging
+"Move to another scheduled change","Move to another scheduled change",module,Magento_SalesRuleStaging
+"Delete the scheduled change","Delete the scheduled change",module,Magento_SalesRuleStaging
+"Deleting the change will remove the sales rule from this update and all scheduled changes will be lost.","Deleting the change will remove the sales rule from this update and all scheduled changes will be lost.",module,Magento_SalesRuleStaging
+20,20,module,Magento_SalesRuleStaging
+30,30,module,Magento_SalesRuleStaging
+50,50,module,Magento_SalesRuleStaging
+100,100,module,Magento_SalesRuleStaging
+200,200,module,Magento_SalesRuleStaging
+"Cart Price Rules","Cart Price Rules",module,Magento_SalesRuleStaging

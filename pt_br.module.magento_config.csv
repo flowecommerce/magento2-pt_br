@@ -1,0 +1,90 @@
+"Default Config","Configuração Padrão",module,Magento_Config
+"Save Config","Gravar Configuração",module,Magento_Config
+[GLOBAL],[GLOBAL],module,Magento_Config
+[WEBSITE],[WEBSITE],module,Magento_Config
+"[STORE VIEW]","[VISÃO DE LOJA]",module,Magento_Config
+"Use Default","Usar Padrão",module,Magento_Config
+"Use Website","Usar Website",module,Magento_Config
+Add,Adicionar,module,Magento_Config
+"Delete File","Excluir Arquivo",module,Magento_Config
+"Search String","String de busca",module,Magento_Config
+"Design Theme","Design do Tema",module,Magento_Config
+"Add \Exception","Adicionar \Exceção",module,Magento_Config
+"-- No Theme --","-- Nenhum Tema --",module,Magento_Config
+Enable,Habilitado,module,Magento_Config
+Disable,Desabilitado,module,Magento_Config
+Configuration,Configuração,module,Magento_Config
+System,Sistema,module,Magento_Config
+"You saved the configuration.","Você salvou a configuração.",module,Magento_Config
+"Something went wrong while saving this configuration:","Problema ao gravar esta configuração:",module,Magento_Config
+"Page not found.","Página não encontrada.",module,Magento_Config
+"Please specify the admin custom URL.","Por favor, especifique uma URL personalizada para de admin.",module,Magento_Config
+"Invalid %1. %2","%1 inválido. %2",module,Magento_Config
+"Value must be a URL or one of placeholders: %1","Valor deve ser um URL ou um dos espaços reservados: %1",module,Magento_Config
+"Specify a URL or path that starts with placeholder(s): %1, and ends with ""/"".","Especifique um URL ou caminho que começa com: %1 e termina com ""/"".",module,Magento_Config
+"%1 An empty value is allowed as well.","%1 um valor vazio é permitido também.",module,Magento_Config
+"Specify a fully qualified URL.","Especifique uma URL completa e válida.",module,Magento_Config
+"Selected allowed currency ""%1"" is not available in installed currencies.","Moeda permitida selecionada ""%1"" não está disponível em moedas instaladas.",module,Magento_Config
+"Default display currency ""%1"" is not available in allowed currencies.","Moeda de exibição padrão ""%1"" não está disponível em moedas permitidas.",module,Magento_Config
+"Sorry, we haven't installed the base currency you selected.","Desculpe, a moeda base que você selecionou não está instalada.",module,Magento_Config
+"We can't save the Cron expression.","Não podemos salvar a expressão ""Cron"".",module,Magento_Config
+"Sorry, we haven't installed the default display currency you selected.","Desculpe, a moeda padrão selecionada não foi instalada.",module,Magento_Config
+"Sorry, the default display currency you selected is not available in allowed currencies.","Desculpa, a moeda de exibição padrão selecionado não está disponível em moedas permitidas.",module,Magento_Config
+"Please correct the email address: ""%1"".","Por favor, corrija o endereço de e-mail: ""%1"".",module,Magento_Config
+"The sender name ""%1"" is not valid. Please use only visible characters and spaces.","O nome do remetente ""%1"" não é válido. Por favor, use apenas caracteres visíveis e espaços.",module,Magento_Config
+"Maximum sender name length is 255. Please correct your settings.","Comprimento do nome do remetente máximo é 255. Por favor, corrija suas configurações.",module,Magento_Config
+"The file you're uploading exceeds the server size limit of %1 kilobytes.","O arquivo que você está enviando excede o limite de tamanho do servidor de %1 kb.",module,Magento_Config
+"The base directory to upload file is not specified.","O diretório base para carregar o arquivo não foi especificado.",module,Magento_Config
+"The specified image adapter cannot be used because of: %1","The specified image adapter cannot be used because of: %1",module,Magento_Config
+"Default scope","Escopo Padrão",module,Magento_Config
+"Base currency","Moeda base",module,Magento_Config
+"Display default currency","Exibir a moeda padrão",module,Magento_Config
+"website(%1) scope","escopo website (%1)",module,Magento_Config
+"store(%1) scope","escopo loja (%1)",module,Magento_Config
+"Currency ""%1"" is used as %2 in %3.","Moeda ""%1"" é usada como %2 em %3.",module,Magento_Config
+"Please correct the timezone.","Por favor, corrija o fuso horário.",module,Magento_Config
+"The file ""%1"" does not exist","The file ""%1"" does not exist",module,Magento_Config
+"Always (during development)","Sempre (durante o desenvolvimento)",module,Magento_Config
+"Only Once (version upgrade)","Apenas uma vez (atualização de versão)",module,Magento_Config
+"Never (production)","Nunca (produção)",module,Magento_Config
+Bcc,BCC,module,Magento_Config
+"Separate Email","Separar o E-mail",module,Magento_Config
+"%1 (Default)","%1 (padrão)",module,Magento_Config
+title,título,module,Magento_Config
+No,Não,module,Magento_Config
+Optional,Opcional,module,Magento_Config
+Required,Obrigatório,module,Magento_Config
+Website,Website,module,Magento_Config
+Store,Loja,module,Magento_Config
+"Store View","Visão de Loja",module,Magento_Config
+"HTTP (unsecure)","HTTP (não segura)",module,Magento_Config
+"HTTPS (SSL)","HTTPS (SSL)",module,Magento_Config
+"Yes (302 Found)","Sim (302 encontrados)",module,Magento_Config
+"Yes (301 Moved Permanently)","Sim (301 movido permanentemente)",module,Magento_Config
+Yes,Sim,module,Magento_Config
+Specified,Especificado,module,Magento_Config
+"Config form fieldset clone model required to be able to clone fields","Modelo clone de conjunto de campo de formulation de configuração precisa ser capaz de clonar campos",module,Magento_Config
+"Invalid XML in file %1:
+%2","XML inválido no arquivo %1:%2",module,Magento_Config
+.,.,module,Magento_Config
+some_label,"rótulo (some_label)",module,Magento_Config
+some_comment,comentário,module,Magento_Config
+"some prefix","um prefixo",module,Magento_Config
+"element label",rótulo,module,Magento_Config
+"element hint","dica do elemento",module,Magento_Config
+"element comment","comentário do elemento",module,Magento_Config
+"element tooltip","ferramenta de dica do elemento",module,Magento_Config
+test,teste,module,Magento_Config
+test2,teste2,module,Magento_Config
+"Add after","Adicionar depois",module,Magento_Config
+Delete,Excluir,module,Magento_Config
+"Current Configuration Scope:","Configuração de Escopo Atual:",module,Magento_Config
+Stores,Lojas,module,Magento_Config
+"Group Label","Rótulo de grupo",module,Magento_Config
+"Some Label","Um rótulo",module,Magento_Config
+"Tab Label","Etiqueta de guia",module,Magento_Config
+"Field 2","Campo 2",module,Magento_Config
+"Field 3","Campo 3",module,Magento_Config
+"Field 3.1","Campo 3.1",module,Magento_Config
+"Field 3.1.1","Campo 3.1.1",module,Magento_Config
+"Field 4","campo 4",module,Magento_Config

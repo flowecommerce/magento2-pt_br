@@ -1,0 +1,23 @@
+"Make Check payable to:","Make Check payable to:",module,Magento_OfflinePayments
+"Send Check to:","Enviar cheque para:",module,Magento_OfflinePayments
+"Purchase Order Number","Purchase Order Number",module,Magento_OfflinePayments
+"Make Check payable to: %1","Make Check payable to: %1",module,Magento_OfflinePayments
+"Purchase Order Number: %1","Purchase Order Number: %1",module,Magento_OfflinePayments
+"Make Check payable to","Make Check payable to",module,Magento_OfflinePayments
+"Send Check to","Enviar cheque para",module,Magento_OfflinePayments
+"Check / Money Order","Cheque / Dinheiro",module,Magento_OfflinePayments
+Enabled,Habilitado,module,Magento_OfflinePayments
+"New Order Status","New Order Status",module,Magento_OfflinePayments
+"Sort Order",Ordernação,module,Magento_OfflinePayments
+Title,Título,module,Magento_OfflinePayments
+"Payment from Applicable Countries","Payment from Applicable Countries",module,Magento_OfflinePayments
+"Payment from Specific Countries","Payment from Specific Countries",module,Magento_OfflinePayments
+"Make Check Payable to","Make Check Payable to",module,Magento_OfflinePayments
+"Minimum Order Total","Minimum Order Total",module,Magento_OfflinePayments
+"Maximum Order Total","Maximum Order Total",module,Magento_OfflinePayments
+"Purchase Order","Purchase Order",module,Magento_OfflinePayments
+"Bank Transfer Payment","Bank Transfer Payment",module,Magento_OfflinePayments
+Instructions,Instruções,module,Magento_OfflinePayments
+"Cash On Delivery Payment","Cash On Delivery Payment",module,Magento_OfflinePayments
+"Zero Subtotal Checkout","Zero Subtotal Checkout",module,Magento_OfflinePayments
+"Automatically Invoice All Items","Automatically Invoice All Items",module,Magento_OfflinePayments

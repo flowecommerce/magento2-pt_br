@@ -1,0 +1,49 @@
+Country,País,module,Magento_OfflineShipping
+Region/State,Região/estado,module,Magento_OfflineShipping
+"Zip/Postal Code",CEP,module,Magento_OfflineShipping
+"Shipping Price","Preço do envio",module,Magento_OfflineShipping
+"Export CSV","Exportar CSV",module,Magento_OfflineShipping
+"Store Pickup","Store Pickup",module,Magento_OfflineShipping
+"Weight vs. Destination","Peso vs destino",module,Magento_OfflineShipping
+"Price vs. Destination","Preço vs. Destino",module,Magento_OfflineShipping
+"# of Items vs. Destination","# de Itens vs Destino",module,Magento_OfflineShipping
+"Weight (and above)","Peso (e acima)",module,Magento_OfflineShipping
+"Order Subtotal (and above)","Subtotal do Pedido (e acima)",module,Magento_OfflineShipping
+"# of Items (and above)","# de itens (e acima)",module,Magento_OfflineShipping
+"Please correct Table Rate code type: %1.","Please correct Table Rate code type: %1.",module,Magento_OfflineShipping
+"Please correct Table Rate code for type %1: %2.","Please correct Table Rate code for type %1: %2.",module,Magento_OfflineShipping
+None,Nenhum,module,Magento_OfflineShipping
+"Per Order","Por pedido",module,Magento_OfflineShipping
+"Per Item","Por Item",module,Magento_OfflineShipping
+"Please correct Table Rates File Format.","Please correct Table Rates File Format.",module,Magento_OfflineShipping
+"Something went wrong while importing table rates.","Something went wrong while importing table rates.",module,Magento_OfflineShipping
+"We couldn't import this file because of these errors: %1","We couldn't import this file because of these errors: %1",module,Magento_OfflineShipping
+"Please correct Table Rates format in the Row #%1.","Please correct Table Rates format in the Row #%1.",module,Magento_OfflineShipping
+"Please correct Country ""%1"" in the Row #%2.","Please correct Country ""%1"" in the Row #%2.",module,Magento_OfflineShipping
+"Please correct Region/State ""%1"" in the Row #%2.","Please correct Region/State ""%1"" in the Row #%2.",module,Magento_OfflineShipping
+"Please correct %1 ""%2"" in the Row #%3.","Please correct %1 ""%2"" in the Row #%3.",module,Magento_OfflineShipping
+"Please correct Shipping Price ""%1"" in the Row #%2.","Please correct Shipping Price ""%1"" in the Row #%2.",module,Magento_OfflineShipping
+"Duplicate Row #%1 (Country ""%2"", Region/State ""%3"", Zip ""%4"" and Value ""%5"")","Duplicate Row #%1 (Country ""%2"", Region/State ""%3"", Zip ""%4"" and Value ""%5"")",module,Magento_OfflineShipping
+"Free Shipping","Frete grátis",module,Magento_OfflineShipping
+No,Não,module,Magento_OfflineShipping
+"For matching items only","Apenas para os itens correspondentes",module,Magento_OfflineShipping
+"For shipment with matching items","Para envio com os itens correspondentes",module,Magento_OfflineShipping
+"Flat Rate","Flat Rate",module,Magento_OfflineShipping
+Enabled,Habilitado,module,Magento_OfflineShipping
+"Method Name","Method Name",module,Magento_OfflineShipping
+Price,Preço,module,Magento_OfflineShipping
+"Calculate Handling Fee","Calculate Handling Fee",module,Magento_OfflineShipping
+"Handling Fee","Handling Fee",module,Magento_OfflineShipping
+"Sort Order",Ordernação,module,Magento_OfflineShipping
+Title,Título,module,Magento_OfflineShipping
+Type,Tipo,module,Magento_OfflineShipping
+"Ship to Applicable Countries","Ship to Applicable Countries",module,Magento_OfflineShipping
+"Ship to Specific Countries","Ship to Specific Countries",module,Magento_OfflineShipping
+"Show Method if Not Applicable","Show Method if Not Applicable",module,Magento_OfflineShipping
+"Displayed Error Message","Displayed Error Message",module,Magento_OfflineShipping
+"Table Rates","Table Rates",module,Magento_OfflineShipping
+Condition,Condição,module,Magento_OfflineShipping
+"Include Virtual Products in Price Calculation","Include Virtual Products in Price Calculation",module,Magento_OfflineShipping
+Export,Exportar,module,Magento_OfflineShipping
+Import,Importar,module,Magento_OfflineShipping
+"Minimum Order Amount","Minimum Order Amount",module,Magento_OfflineShipping

@@ -1,0 +1,13 @@
+"Change Encryption Key","Alterar chave de criptografia",module,Magento_EncryptionKey
+"Encryption Key","Chave de criptografia",module,Magento_EncryptionKey
+"New Encryption Key","Nova chave de criptografia",module,Magento_EncryptionKey
+"The encryption key is used to protect passwords and other sensitive data.","A chave de criptografia é utilizada para proteger senhas e outros dados sensíveis.",module,Magento_EncryptionKey
+"Auto-generate a Key","Auto-gerar uma chave",module,Magento_EncryptionKey
+No,Não,module,Magento_EncryptionKey
+Yes,Sim,module,Magento_EncryptionKey
+"The generated key will be displayed after changing.","A chave gerada será exibida após a alteração.",module,Magento_EncryptionKey
+"New Key","Nova chave",module,Magento_EncryptionKey
+"Deployment configuration file is not writable.","Deployment configuration file is not writable.",module,Magento_EncryptionKey
+"Please enter an encryption key.","Por favor digite uma chave de criptografia.",module,Magento_EncryptionKey
+"The encryption key has been changed.","A chave de criptografia foi alterada.",module,Magento_EncryptionKey
+"This is your new encryption key: <span style=""font-family:monospace;"">%1</span>. Be sure to write it down and take good care of it!","This is your new encryption key: <span style=""font-family:monospace;"">%1</span>. Be sure to write it down and take good care of it!",module,Magento_EncryptionKey

@@ -1,0 +1,21 @@
+"Related Search Terms","Termos de Pesquisa Relacionados",module,Magento_AdvancedSearch
+"Add New Search Term","Adicionar Novo Termo de Pesquisa",module,Magento_AdvancedSearch
+"Enable Search Recommendations","Enable Search Recommendations",module,Magento_AdvancedSearch
+"When you enable this option your site may slow down.","When you enable this option your site may slow down.",module,Magento_AdvancedSearch
+"Search Recommendations Count","Search Recommendations Count",module,Magento_AdvancedSearch
+"Show Results Count for Each Recommendation","Show Results Count for Each Recommendation",module,Magento_AdvancedSearch
+"Enable Search Suggestions","Enable Search Suggestions",module,Magento_AdvancedSearch
+"Search Suggestions Count","Search Suggestions Count",module,Magento_AdvancedSearch
+"Show Results Count for Each Suggestion","Show Results Count for Each Suggestion",module,Magento_AdvancedSearch
+ID,ID,module,Magento_AdvancedSearch
+"Search Query","Search Query",module,Magento_AdvancedSearch
+Store,Loja,module,Magento_AdvancedSearch
+Results,Resultados,module,Magento_AdvancedSearch
+Uses,Usos,module,Magento_AdvancedSearch
+Synonym,Sinônimo,module,Magento_AdvancedSearch
+"Redirect URL","URL de redirecionamento",module,Magento_AdvancedSearch
+"Suggested Term","Suggested Term",module,Magento_AdvancedSearch
+Yes,Sim,module,Magento_AdvancedSearch
+No,Não,module,Magento_AdvancedSearch
+Action,Ação,module,Magento_AdvancedSearch
+Edit,Editar,module,Magento_AdvancedSearch

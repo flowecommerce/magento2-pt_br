@@ -1,0 +1,36 @@
+Home,Home,module,Magento_CatalogSearch
+"Go to Home Page","Ir para a página inicial",module,Magento_CatalogSearch
+"Catalog Advanced Search","Busca Avançada do Catálogo",module,Magento_CatalogSearch
+All,Todos,module,Magento_CatalogSearch
+Yes,Sim,module,Magento_CatalogSearch
+No,Não,module,Magento_CatalogSearch
+Results,Resultados,module,Magento_CatalogSearch
+Grid,Grade,module,Magento_CatalogSearch
+List,Lista,module,Magento_CatalogSearch
+"Search Weight","Peso da Pesquisa",module,Magento_CatalogSearch
+Relevance,Relevância,module,Magento_CatalogSearch
+"Search results for: '%1'","Resultados da busca por: '%1'",module,Magento_CatalogSearch
+"Minimum Search query length is %1","Tamanho mínimo para pesquisa é %1",module,Magento_CatalogSearch
+"Please specify at least one search term.","Por favor, especifique pelo menos um termo de pesquisa.",module,Magento_CatalogSearch
+"%1 and greater","%1 e maior",module,Magento_CatalogSearch
+"up to %1","até %1",module,Magento_CatalogSearch
+Category,Categoria,module,Magento_CatalogSearch
+"%1 and above","%1 e acima",module,Magento_CatalogSearch
+"%1 - %2","%1 - %2",module,Magento_CatalogSearch
+"Bucket do not exists","Bucket não existe",module,Magento_CatalogSearch
+Product,Produto,module,Magento_CatalogSearch
+"Search Settings","Configurações de Pesquisa",module,Magento_CatalogSearch
+Search,Pesquisa,module,Magento_CatalogSearch
+"Advanced Search","Pesquisa Avançada",module,Magento_CatalogSearch
+"<strong>%1 item</strong> were found using the following search criteria","<strong>item de%1</strong> foram encontrados utilizando os seguintes critérios de pesquisa",module,Magento_CatalogSearch
+"<strong>%1 items</strong> were found using the following search criteria","<strong>%1 itens</strong> foram encontrados utilizando os seguintes critérios de pesquisa",module,Magento_CatalogSearch
+"We can't find any items matching these search criteria.","Não é possível encontrar itens correspondentes a estes critérios de pesquisa.",module,Magento_CatalogSearch
+"Modify your search","Modificar a sua pesquisa",module,Magento_CatalogSearch
+name,nome,module,Magento_CatalogSearch
+"Don't see what you're looking for?","Não achou o que você está procurando?",module,Magento_CatalogSearch
+"Your search returned no results.","A sua pesquisa não retornou resultados.",module,Magento_CatalogSearch
+"Popular Search Terms","Pesquisas Populares",module,Magento_CatalogSearch
+"Catalog Search","Pesquisar Catálogo",module,Magento_CatalogSearch
+"Minimal Query Length","Minimal Query Length",module,Magento_CatalogSearch
+"Maximum Query Length","Maximum Query Length",module,Magento_CatalogSearch
+"Rebuild Catalog product fulltext search index","Reconstruir o índice de pesquisa para texto do produto",module,Magento_CatalogSearch

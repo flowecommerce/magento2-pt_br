@@ -1,0 +1,42 @@
+"Payment Type","Tipo de Pagamento",module,Magento_Eway
+"Transaction Type","Tipo de Transação",module,Magento_Eway
+"Transaction ID","ID Transação",module,Magento_Eway
+BeagleScore,BeagleScore,module,Magento_Eway
+"CVV Verification","Verificação de CVV",module,Magento_Eway
+"Address Verification","Verificação de endereço",module,Magento_Eway
+"Email Verification","Verificação de e-mail",module,Magento_Eway
+"Mobile Verification","Verificação mobile",module,Magento_Eway
+"Phone Verification","Verificação de telefone",module,Magento_Eway
+"Card number","Número do cartão",module,Magento_Eway
+"Expiration Date","Data de Validade",module,Magento_Eway
+"Response Code","Código de resposta",module,Magento_Eway
+"Fraud Message","Mensagem de Fraude",module,Magento_Eway
+"Approve Message","Aprovar Mensagem",module,Magento_Eway
+"Sorry, but something went wrong","Sorry, but something went wrong",module,Magento_Eway
+"Wrong response type","Tipo de resposta errada",module,Magento_Eway
+"Transaction has been declined, please, try again later.","A transação foi recusada, por favor tente mais tarde.",module,Magento_Eway
+"Authorize Only","Apenas Autorizar",module,Magento_Eway
+"Authorize and Capture","Autorizar e Capturar",module,Magento_Eway
+"Credit Card Type","Tipo do Cartão de Crédito",module,Magento_Eway
+"Credit Card Number","Número do Cartão de Crédito",module,Magento_Eway
+"Card Verification Number","Código de Verificação do Cartão",module,Magento_Eway
+"Switch/Solo/Maestro Only","Apenas Switch/Solo/Maestro",module,Magento_Eway
+"Issue Number","Número de emissão",module,Magento_Eway
+"Start Date","Data de Início",module,Magento_Eway
+eWAY,eWAY,module,Magento_Eway
+Enabled,Habilitado,module,Magento_Eway
+"Connection Type","Connection Type",module,Magento_Eway
+Title,Título,module,Magento_Eway
+"Sandbox Mode","Sandbox Mode",module,Magento_Eway
+"Live API Key","Live API Key",module,Magento_Eway
+"Live API Password","Live API Password",module,Magento_Eway
+"Live Client-side Encryption Key","Live Client-side Encryption Key",module,Magento_Eway
+"Sandbox API Key","Sandbox API Key",module,Magento_Eway
+"Sandbox API Password","Sandbox API Password",module,Magento_Eway
+"Sandbox Client-side Encryption Key","Sandbox Client-side Encryption Key",module,Magento_Eway
+"Payment Action","Payment Action",module,Magento_Eway
+Debug,Depurar/Debug,module,Magento_Eway
+"Credit Card Types","Credit Card Types",module,Magento_Eway
+"Payment from Applicable Countries","Payment from Applicable Countries",module,Magento_Eway
+"Payment from Specific Countries","Payment from Specific Countries",module,Magento_Eway
+"Sort Order",Ordernação,module,Magento_Eway

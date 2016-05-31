@@ -1,0 +1,19 @@
+All,Todos,module,Magento_AdminGws
+None,Nenhum,module,Magento_AdminGws
+"Allowed Scopes","Escopos Permitidos",module,Magento_AdminGws
+"You need more permissions to delete this item(s): %1.","Você precisa de mais permissões para apagar este item(ns): %1.",module,Magento_AdminGws
+"You need more permissions to apply some of the rule updates.","Você precisa de mais permissões para aplicar algumas das atualizações de regras.",module,Magento_AdminGws
+"Please assign this entity to a store view.","Por favor, atribua esta entidade para uma visão de loja.",module,Magento_AdminGws
+"You can create orders only in an active store.","Você pode criar ordens apenas em uma loja ativa.",module,Magento_AdminGws
+"Please assign this item to a store view.","Por favor, atribua este registro para uma visão de loja.",module,Magento_AdminGws
+"You need more permissions to save this item.","Você precisa ter mais permissões para gravar este registro.",module,Magento_AdminGws
+"You need more permissions to delete this item.","Você precisa ter mais permissões para eliminar este registo.",module,Magento_AdminGws
+"You need more permissions to view this item.","Você precisa ter mais permissões para visualizar este registo.",module,Magento_AdminGws
+"Please specify at least one website or one store group.","Por favor, selecione ao menos um website ou um grupo de loja.",module,Magento_AdminGws
+"You need more permissions to set All Scopes to a Role.","Você precisa ter mais permissões para associar a regra a todos escopos.",module,Magento_AdminGws
+"Incorrect website ID: %1","Website ID incorreto: %1",module,Magento_AdminGws
+"You need more permissions to access website ""%1"".","Você precisa ter mais permissões para acessar o website ""%1"".",module,Magento_AdminGws
+"Incorrect store ID: %1","Store ID incorreto: %1",module,Magento_AdminGws
+"You need more permissions to save this setting.","Você precisa ter mais permissões para gravar esta configuração.",module,Magento_AdminGws
+"Role Scopes","Escopos da Regra",module,Magento_AdminGws
+Custom,Personalizado,module,Magento_AdminGws

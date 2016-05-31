@@ -1,0 +1,41 @@
+"New Permission","Nova Permissão",module,Magento_CatalogPermissions
+"You already have a permission with this scope.","Você já tem uma permissão com este escopo.",module,Magento_CatalogPermissions
+(Allow),(Permitir),module,Magento_CatalogPermissions
+(Deny),(Negar),module,Magento_CatalogPermissions
+"Category Permissions","Permissões da Categoria",module,Magento_CatalogPermissions
+"Browsing Category","Categoria de Navegação",module,Magento_CatalogPermissions
+"Display Product Prices","Exibir Preços dos Produtos",module,Magento_CatalogPermissions
+"Add to Cart","Adicionar ao Carrinho",module,Magento_CatalogPermissions
+"Yes, for Everyone","Sim, para Todos",module,Magento_CatalogPermissions
+"Yes, for Specified Customer Groups","Sim, para o Grupo de Clientes Especificado",module,Magento_CatalogPermissions
+No,Não,module,Magento_CatalogPermissions
+"No, Redirect to Landing Page","Não, Redirecionar para Landing Page",module,Magento_CatalogPermissions
+"Permission with the same scope","Permissão com o mesmo escopo",module,Magento_CatalogPermissions
+"You may need more permissions to access this category.","Você precisa de mais permissões para acessar esta categoria.",module,Magento_CatalogPermissions
+"You may need more permissions to access this product.","Você precisa de mais permissões para acessar este produto.",module,Magento_CatalogPermissions
+"You cannot add ""%1"" to the cart.","Não foi possível adicionar ""%1"" no carrinho.",module,Magento_CatalogPermissions
+"Permissions do not depend on store views.","As permissões não dependem de visão de loja.",module,Magento_CatalogPermissions
+Website,Website,module,Magento_CatalogPermissions
+"Customer Group","Grupo de clientes",module,Magento_CatalogPermissions
+Action,Ação,module,Magento_CatalogPermissions
+"-- Please Select --","-- Selecione uma opção --",module,Magento_CatalogPermissions
+"All Websites","Todos os sites",module,Magento_CatalogPermissions
+"All Customer Groups","Todos Grupos de Clientes",module,Magento_CatalogPermissions
+Allow,Permitir,module,Magento_CatalogPermissions
+Deny,Negar,module,Magento_CatalogPermissions
+"Use parent","Use mãe",module,Magento_CatalogPermissions
+Enable,Habilitado,module,Magento_CatalogPermissions
+"
+                        <strong style=""color:red"">Warning!</strong> By default this feature restricts all categories.
+                    ","
+                        <strong style=""color:red"">Warning!</strong> By default this feature restricts all categories.
+                    ",module,Magento_CatalogPermissions
+"Allow Browsing Category","Allow Browsing Category",module,Magento_CatalogPermissions
+"Customer Groups","Grupos de Cliente",module,Magento_CatalogPermissions
+"Allow Adding to Cart","Allow Adding to Cart",module,Magento_CatalogPermissions
+"Landing Page","Landing Page",module,Magento_CatalogPermissions
+"Disallow Catalog Search By","Disallow Catalog Search By",module,Magento_CatalogPermissions
+"Catalog Category Permissions","Catalog Category Permissions",module,Magento_CatalogPermissions
+"Indexed permissions for categories","Indexed permissions for categories",module,Magento_CatalogPermissions
+"Catalog Product Permissions","Catalog Product Permissions",module,Magento_CatalogPermissions
+"Indexed permissions for products","Indexed permissions for products",module,Magento_CatalogPermissions

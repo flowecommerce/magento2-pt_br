@@ -1,0 +1,29 @@
+"Account Activity","Atividade da conta",module,Magento_Security
+"All other open sessions for this account were terminated.","All other open sessions for this account were terminated.",module,Magento_Security
+"We couldn't logout because of an error.","We couldn't logout because of an error.",module,Magento_Security
+"Someone logged into this account from another device or browser. Your current session is terminated.","Someone logged into this account from another device or browser. Your current session is terminated.",module,Magento_Security
+"Your current session is terminated by another user of this account.","Your current session is terminated by another user of this account.",module,Magento_Security
+"Your account is temporarily disabled.","A sua conta está temporariamente desativada.",module,Magento_Security
+"Your current session has been expired.","Sua atual sessão expirou.",module,Magento_Security
+"By IP and Email","Por IP e E-mail",module,Magento_Security
+"By IP","Por IP",module,Magento_Security
+"By Email","Por E-mail",module,Magento_Security
+None,Nenhum,module,Magento_Security
+"Security module: Unknown security event type","Security module: Unknown security event type",module,Magento_Security
+"Too many password reset requests. Please wait and try again or contact %1.","Too many password reset requests. Please wait and try again or contact %1.",module,Magento_Security
+"Incorrect Security Checker class. It has to implement SecurityCheckerInterface","Incorrect Security Checker class. It has to implement SecurityCheckerInterface",module,Magento_Security
+"some error","algum erro",module,Magento_Security
+"This administrator account is open in more than one location. Note that other locations might be different browsers or sessions on the same computer.","This administrator account is open in more than one location. Note that other locations might be different browsers or sessions on the same computer.",module,Magento_Security
+"Concurrent session information:","Concurrent session information:",module,Magento_Security
+"IP Address","Endereço de IP",module,Magento_Security
+"Time of session start","Tempo de início de sessão",module,Magento_Security
+"Are you sure that you want to log out all other sessions?","Tem a certeza que deseja sair de todas as outras sessões?",module,Magento_Security
+"Log out all other sessions","Log out all other sessions",module,Magento_Security
+"This computer is using IP address %1.","This computer is using IP address %1.",module,Magento_Security
+"Admin Account Sharing","Admin Account Sharing",module,Magento_Security
+"If set to Yes, you can log in from multiple computers into same account. Default setting No improves security.","If set to Yes, you can log in from multiple computers into same account. Default setting No improves security.",module,Magento_Security
+"Limit Password Reset Requests Method","Limit Password Reset Requests Method",module,Magento_Security
+"Limit Number of Password Reset Requests","Limit Number of Password Reset Requests",module,Magento_Security
+"Limit the number of password reset request per hour. Use 0 to disable.","Limit the number of password reset request per hour. Use 0 to disable.",module,Magento_Security
+"Limit Time Between Password Reset Requests","Limit Time Between Password Reset Requests",module,Magento_Security
+"Delay in minutes between password reset requests. Use 0 to disable.","Delay in minutes between password reset requests. Use 0 to disable.",module,Magento_Security

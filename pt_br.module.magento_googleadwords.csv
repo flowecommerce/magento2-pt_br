@@ -1,0 +1,13 @@
+Dynamic,Dinâmico,module,Magento_GoogleAdwords
+Constant,Constante,module,Magento_GoogleAdwords
+"Conversion Color value is not valid ""%1"". Please set hexadecimal 6-digit value.","Conversion Color value is not valid ""%1"". Please set hexadecimal 6-digit value.",module,Magento_GoogleAdwords
+"Conversion Id value is not valid ""%1"". Conversion Id should be an integer.","Conversion Id value is not valid ""%1"". Conversion Id should be an integer.",module,Magento_GoogleAdwords
+"Google AdWords","Google AdWords",module,Magento_GoogleAdwords
+Enable,Habilitado,module,Magento_GoogleAdwords
+"Conversion ID","ID de conversão",module,Magento_GoogleAdwords
+"Conversion Language","Conversion Language",module,Magento_GoogleAdwords
+"Conversion Format","Conversion Format",module,Magento_GoogleAdwords
+"Conversion Color","Conversion Color",module,Magento_GoogleAdwords
+"Conversion Label","Conversion Label",module,Magento_GoogleAdwords
+"Conversion Value Type","Conversion Value Type",module,Magento_GoogleAdwords
+"Conversion Value","Conversion Value",module,Magento_GoogleAdwords

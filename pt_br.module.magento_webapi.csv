@@ -1,0 +1,19 @@
+"Operation allowed only in HTTPS","Operation allowed only in HTTPS",module,Magento_Webapi
+"Cannot perform GET operation with store code 'all'","Cannot perform GET operation with store code 'all'",module,Magento_Webapi
+"Request does not match any route.","Request does not match any route.",module,Magento_Webapi
+"Authentication header format is invalid.","Authentication header format is invalid.",module,Magento_Webapi
+"Authentication header is absent.","Authentication header is absent.",module,Magento_Webapi
+"Not allowed parameters: %1. Please use only %2 and %3.","Not allowed parameters: %1. Please use only %2 and %3.",module,Magento_Webapi
+"Requested service is not available: ""%1""","Requested service is not available: ""%1""",module,Magento_Webapi
+"Operation ""%1"" not found.","Operation ""%1"" not found.",module,Magento_Webapi
+"SOAP extension is not loaded.","SOAP extension is not loaded.",module,Magento_Webapi
+"Invalid XML","Invalid XML",module,Magento_Webapi
+"Invalid XML: Detected use of illegal DOCTYPE","Invalid XML: Detected use of illegal DOCTYPE",module,Magento_Webapi
+message,mensagem,module,Magento_Webapi
+Message,Mensagem,module,Magento_Webapi
+"Magento Web API","Magento Web API",module,Magento_Webapi
+"SOAP Settings","SOAP Settings",module,Magento_Webapi
+"Default Response Charset","Default Response Charset",module,Magento_Webapi
+"If empty, UTF-8 will be used.","If empty, UTF-8 will be used.",module,Magento_Webapi
+"Web Services Configuration","Web Services Configuration",module,Magento_Webapi
+"REST and SOAP configurations, generated WSDL file.","REST and SOAP configurations, generated WSDL file.",module,Magento_Webapi

@@ -1,0 +1,109 @@
+Integrations,Integrations,module,Magento_Integration
+"Add New Integration","Add New Integration",module,Magento_Integration
+API,API,module,Magento_Integration
+Save,Salvar,module,Magento_Integration
+"Save & Activate","Salvar e ativar",module,Magento_Integration
+"New Integration","Nova integração",module,Magento_Integration
+"Edit Integration '%1'","Editar integração '%1'",module,Magento_Integration
+"Integration Info","Informações de integração",module,Magento_Integration
+General,Geral,module,Magento_Integration
+Name,Nome,module,Magento_Integration
+Email,E-mail,module,Magento_Integration
+"Callback URL","Callback URL",module,Magento_Integration
+"Enter URL where Oauth credentials can be sent when using Oauth for token exchange. We strongly recommend using https://.","Enter URL where Oauth credentials can be sent when using Oauth for token exchange. We strongly recommend using https://.",module,Magento_Integration
+"Identity link URL","Identity link URL",module,Magento_Integration
+"URL to redirect user to link their 3rd party account with this Magento integration credentials.","URL to redirect user to link their 3rd party account with this Magento integration credentials.",module,Magento_Integration
+"Integration Details","Integration Details",module,Magento_Integration
+"Basic Settings","Configurações Básicas",module,Magento_Integration
+"Integration Tokens for Extensions","Integration Tokens for Extensions",module,Magento_Integration
+"Consumer Key","Consumer Key",module,Magento_Integration
+"Consumer Secret","Consumer Secret",module,Magento_Integration
+"Access Token","Token de acesso",module,Magento_Integration
+"Access Token Secret","Access Token Secret",module,Magento_Integration
+"Uninstall the extension to remove this integration","Uninstall the extension to remove this integration",module,Magento_Integration
+Remove,Remover,module,Magento_Integration
+View,Visualizar,module,Magento_Integration
+Edit,Editar,module,Magento_Integration
+Activate,Ativar,module,Magento_Integration
+Reauthorize,Reautorizar,module,Magento_Integration
+"Uninstall the extension to remove integration '%1'.","Uninstall the extension to remove integration '%1'.",module,Magento_Integration
+"This integration no longer exists.","This integration no longer exists.",module,Magento_Integration
+"The integration '%1' has been deleted.","The integration '%1' has been deleted.",module,Magento_Integration
+"Integration ID is not specified or is invalid.","Integration ID is not specified or is invalid.",module,Magento_Integration
+"Internal error. Check exception log for details.","Internal error. Check exception log for details.",module,Magento_Integration
+"View ""%1"" Integration","View ""%1"" Integration",module,Magento_Integration
+"Edit ""%1"" Integration","Edit ""%1"" Integration",module,Magento_Integration
+"Warning! Integrations not using HTTPS are insecure and potentially expose private or personally identifiable information","Warning! Integrations not using HTTPS are insecure and potentially expose private or personally identifiable information",module,Magento_Integration
+"The integration '%1' has been saved.","The integration '%1' has been saved.",module,Magento_Integration
+"The integration was not saved.","The integration was not saved.",module,Magento_Integration
+"The integration '%1' has been re-authorized.","The integration '%1' has been re-authorized.",module,Magento_Integration
+"The integration '%1' has been activated.","The integration '%1' has been activated.",module,Magento_Integration
+"Integration '%1' has been sent for re-authorization.","Integration '%1' has been sent for re-authorization.",module,Magento_Integration
+"Integration '%1' has been sent for activation.","Integration '%1' has been sent for activation.",module,Magento_Integration
+"You did not sign in correctly or your account is temporarily disabled.","Você não digitou os dados corretamente ou a sua conta está temporariamente desativada.",module,Magento_Integration
+"This user has no tokens.","This user has no tokens.",module,Magento_Integration
+"The tokens could not be revoked.","Os tokens não poderiam ser revogados.",module,Magento_Integration
+"Sorry, something went wrong granting permissions. You can find out more in the exceptions log.","Sorry, something went wrong granting permissions. You can find out more in the exceptions log.",module,Magento_Integration
+"Something went wrong while deleting roles and permissions. You can find out more in the exceptions log.","Something went wrong while deleting roles and permissions. You can find out more in the exceptions log.",module,Magento_Integration
+"This customer has no tokens.","Este cliente não possui tokens.",module,Magento_Integration
+Inactive,Inativo,module,Magento_Integration
+Active,Ativo,module,Magento_Integration
+"Integration with name '%1' exists.","Integration with name '%1' exists.",module,Magento_Integration
+"Integration with ID '%1' does not exist.","Integration with ID '%1' does not exist.",module,Magento_Integration
+"Invalid Callback URL","Invalid Callback URL",module,Magento_Integration
+"Invalid Rejected Callback URL","Invalid Rejected Callback URL",module,Magento_Integration
+"Incorrect timestamp value in the oauth_timestamp parameter","Incorrect timestamp value in the oauth_timestamp parameter",module,Magento_Integration
+"The nonce is already being used by the consumer with ID %1","The nonce is already being used by the consumer with ID %1",module,Magento_Integration
+"An error occurred validating the nonce","An error occurred validating the nonce",module,Magento_Integration
+"Cannot convert to access token due to token is not request type","Cannot convert to access token due to token is not request type",module,Magento_Integration
+"Consumer key has expired","Consumer key has expired",module,Magento_Integration
+"Cannot create request token because consumer token is not a verifier token","Cannot create request token because consumer token is not a verifier token",module,Magento_Integration
+"Request token is not associated with the specified consumer","Request token is not associated with the specified consumer",module,Magento_Integration
+"Token is already being used","Token já está sendo usado",module,Magento_Integration
+"Cannot get access token because consumer token is not a request token","Cannot get access token because consumer token is not a request token",module,Magento_Integration
+"Token is not associated with the specified consumer","Token is not associated with the specified consumer",module,Magento_Integration
+"Token is not an access token","Token is not an access token",module,Magento_Integration
+"Access token has been revoked","Access token has been revoked",module,Magento_Integration
+"Consumer key is not the correct length","Consumer key is not the correct length",module,Magento_Integration
+"A consumer having the specified key does not exist","A consumer having the specified key does not exist",module,Magento_Integration
+"Verifier is invalid","Verifier is invalid",module,Magento_Integration
+"Verifier is not the correct length","Verifier is not the correct length",module,Magento_Integration
+"Token verifier and verifier token do not match","Token verifier and verifier token do not match",module,Magento_Integration
+"A consumer with the ID %1 does not exist","A consumer with the ID %1 does not exist",module,Magento_Integration
+"Token is not the correct length","Token is not the correct length",module,Magento_Integration
+"Specified token does not exist","Specified token does not exist",module,Magento_Integration
+"A token with consumer ID %1 does not exist","A token with consumer ID %1 does not exist",module,Magento_Integration
+"Unexpected error. Unable to create oAuth consumer account.","Unexpected error. Unable to create oAuth consumer account.",module,Magento_Integration
+"Unexpected error. Unable to load oAuth consumer account.","Unexpected error. Unable to load oAuth consumer account.",module,Magento_Integration
+"A consumer with ID %1 does not exist","A consumer with ID %1 does not exist",module,Magento_Integration
+"Unable to post data to consumer due to an unexpected error","Unable to post data to consumer due to an unexpected error",module,Magento_Integration
+"Consumer with ID '%1' does not exist.","Consumer with ID '%1' does not exist.",module,Magento_Integration
+"Invalid token to except","Invalid token to except",module,Magento_Integration
+"Integration with ID '%1' doesn't exist.","Integration with ID '%1' doesn't exist.",module,Magento_Integration
+"A token with consumer ID 0 does not exist","A token with consumer ID 0 does not exist",module,Magento_Integration
+"The integration you selected asks you to approve access to the following:","The integration you selected asks you to approve access to the following:",module,Magento_Integration
+"No permissions requested","No permissions requested",module,Magento_Integration
+"Are you sure ?","Você tem certeza ?",module,Magento_Integration
+"Are you sure you want to delete this integration? You can't undo this action.","Você tem certeza que deseja excluir esta integração? Esta ação não pode ser desfeita.",module,Magento_Integration
+"Please setup or sign in into your 3rd party account to complete setup of this integration.","Por favor, configure ou entrar em sua conta ""3rd party"" para concluir a instalação desta integração.",module,Magento_Integration
+"Available APIs","APIs disponíveis",module,Magento_Integration
+"Resource Access","Acesso a Recursos",module,Magento_Integration
+Custom,Personalizado,module,Magento_Integration
+All,Todos,module,Magento_Integration
+Resources,Recursos,module,Magento_Integration
+"Sorry, something went wrong. Please try again later.","Sorry, something went wrong. Please try again later.",module,Magento_Integration
+Allow,Permitir,module,Magento_Integration
+Done,Concluir,module,Magento_Integration
+OAuth,OAuth,module,Magento_Integration
+"Cleanup Settings","Configurações de limpeza",module,Magento_Integration
+"Cleanup Probability","Probabilidade de limpeza",module,Magento_Integration
+"Expiration Period","Período de validade",module,Magento_Integration
+"Consumer Settings","Consumer Settings",module,Magento_Integration
+"OAuth consumer credentials HTTP Post maxredirects","OAuth consumer credentials HTTP Post maxredirects",module,Magento_Integration
+"OAuth consumer credentials HTTP Post timeout","OAuth consumer credentials HTTP Post timeout",module,Magento_Integration
+"Integrations Configuration","Integrations Configuration",module,Magento_Integration
+"Integration configuration file.","Integration configuration file.",module,Magento_Integration
+"Integrations API Configuration","Integrations API Configuration",module,Magento_Integration
+"Integrations API configuration file.","Integrations API configuration file.",module,Magento_Integration
+"No Integrations Found","No Integrations Found",module,Magento_Integration
+Status,Status,module,Magento_Integration

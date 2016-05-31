@@ -1,0 +1,89 @@
+"Search All Products","Search All Products",module,Magento_VisualMerchandiser
+"Add Product by SKU","Add Product by SKU",module,Magento_VisualMerchandiser
+"Category Products","Produtos da Categoria",module,Magento_VisualMerchandiser
+Position,Posição,module,Magento_VisualMerchandiser
+Action,Ação,module,Magento_VisualMerchandiser
+Unassign,Desatribuir,module,Magento_VisualMerchandiser
+Top,Top,module,Magento_VisualMerchandiser
+Bottom,Bottom,module,Magento_VisualMerchandiser
+"Choose a selection...","Escolha uma seleção...",module,Magento_VisualMerchandiser
+"Page not found.","Página não encontrada.",module,Magento_VisualMerchandiser
+"No SKU entered","No SKU entered",module,Magento_VisualMerchandiser
+"Undefined Action","Undefined Action",module,Magento_VisualMerchandiser
+"Products with the following SKUs do not exist: %s","Products with the following SKUs do not exist: %s",module,Magento_VisualMerchandiser
+"%s SKU(s) processed successfully","%s SKU(s) processed successfully",module,Magento_VisualMerchandiser
+"On Top","On Top",module,Magento_VisualMerchandiser
+"On Bottom","On Bottom",module,Magento_VisualMerchandiser
+"Category rules validation failed","Category rules validation failed",module,Magento_VisualMerchandiser
+"Clone category ID(s)","Clone category ID(s)",module,Magento_VisualMerchandiser
+"Date Created (days ago)","Date Created (days ago)",module,Magento_VisualMerchandiser
+"Date Modified (days ago)","Date Modified (days ago)",module,Magento_VisualMerchandiser
+"Error in reading category rules","Error in reading category rules",module,Magento_VisualMerchandiser
+"There was no category rules to apply","There was no category rules to apply",module,Magento_VisualMerchandiser
+"Category rules applied","Category rules applied",module,Magento_VisualMerchandiser
+Equal,Equal,module,Magento_VisualMerchandiser
+"Not equal","Not equal",module,Magento_VisualMerchandiser
+"Greater than","Greater than",module,Magento_VisualMerchandiser
+"Greater than or equal to","Greater than or equal to",module,Magento_VisualMerchandiser
+"Less than","Less than",module,Magento_VisualMerchandiser
+"Less than or equal to","Less than or equal to",module,Magento_VisualMerchandiser
+Contains,Contains,module,Magento_VisualMerchandiser
+"Error in yes/no format","Error in yes/no format",module,Magento_VisualMerchandiser
+"Category ID '%1' not found","Category ID '%1' not found",module,Magento_VisualMerchandiser
+"%1 doesn't implement SortInterface","%1 doesn't implement SortInterface",module,Magento_VisualMerchandiser
+"Move low stock to top","Move low stock to top",module,Magento_VisualMerchandiser
+"Name: A - Z","Name: A - Z",module,Magento_VisualMerchandiser
+"Name: Z - A","Name: Z - A",module,Magento_VisualMerchandiser
+"Newest products first","Newest products first",module,Magento_VisualMerchandiser
+"Move out of stock to bottom","Move out of stock to bottom",module,Magento_VisualMerchandiser
+"Price: High to low","Price: High to low",module,Magento_VisualMerchandiser
+"Price: Low to high","Price: Low to high",module,Magento_VisualMerchandiser
+"SKU: Ascending","SKU: Ascending",module,Magento_VisualMerchandiser
+"SKU: Descending","SKU: Descending",module,Magento_VisualMerchandiser
+"Sort by color","Sort by color",module,Magento_VisualMerchandiser
+"Special price to bottom","Special price to bottom",module,Magento_VisualMerchandiser
+"Special price to top","Special price to top",module,Magento_VisualMerchandiser
+None,Nenhum,module,Magento_VisualMerchandiser
+"Enter SKUs below, one per line","Enter SKUs below, one per line",module,Magento_VisualMerchandiser
+Assign,Assign,module,Magento_VisualMerchandiser
+Remove,Remover,module,Magento_VisualMerchandiser
+"You can create a rule only to the existing categories.","You can create a rule only to the existing categories.",module,Magento_VisualMerchandiser
+"Only products matched by rule will be present in the category after save. Unmatched products and manual sorting will be removed from the category.","Only products matched by rule will be present in the category after save. Unmatched products and manual sorting will be removed from the category.",module,Magento_VisualMerchandiser
+Attribute,Attribute,module,Magento_VisualMerchandiser
+Operator,Operator,module,Magento_VisualMerchandiser
+Value,Valor,module,Magento_VisualMerchandiser
+Logic,Logic,module,Magento_VisualMerchandiser
+"Add Condition","Add Condition",module,Magento_VisualMerchandiser
+Delete,Excluir,module,Magento_VisualMerchandiser
+Grid,Grade,module,Magento_VisualMerchandiser
+Tile,"Lado a Lado",module,Magento_VisualMerchandiser
+"records found","registros encontrados",module,Magento_VisualMerchandiser
+"per page","por página",module,Magento_VisualMerchandiser
+"Previous page","Página anterior",module,Magento_VisualMerchandiser
+"of %1","de %1",module,Magento_VisualMerchandiser
+"Next page","Próxima página",module,Magento_VisualMerchandiser
+Draggable,Draggable,module,Magento_VisualMerchandiser
+Close,Fechar,module,Magento_VisualMerchandiser
+"Product image","Product image",module,Magento_VisualMerchandiser
+"Match products by rule","Match products by rule",module,Magento_VisualMerchandiser
+Yes,Sim,module,Magento_VisualMerchandiser
+No,Não,module,Magento_VisualMerchandiser
+"Add Products","Adicionar Produtos",module,Magento_VisualMerchandiser
+"Save and Close","Save and Close",module,Magento_VisualMerchandiser
+"Visual Merchandiser","Visual Merchandiser",module,Magento_VisualMerchandiser
+"General Options","Opções gerais",module,Magento_VisualMerchandiser
+"Visible Attributes for Category Rules","Visible Attributes for Category Rules",module,Magento_VisualMerchandiser
+"Additional attributes usable in category rules","Additional attributes usable in category rules",module,Magento_VisualMerchandiser
+"Minimum Stock Threshold","Minimum Stock Threshold",module,Magento_VisualMerchandiser
+"Determines which products are 'low stock'","Determines which products are 'low stock'",module,Magento_VisualMerchandiser
+"Color Attribute Code","Color Attribute Code",module,Magento_VisualMerchandiser
+"Color Order","Color Order",module,Magento_VisualMerchandiser
+"Each color being on a separate row.","Each color being on a separate row.",module,Magento_VisualMerchandiser
+Sort,Sort,module,Magento_VisualMerchandiser
+"Automatic Sorting","Automatic Sorting",module,Magento_VisualMerchandiser
+"Sort order","Sort order",module,Magento_VisualMerchandiser
+Thumbnail,Miniatura,module,Magento_VisualMerchandiser
+Name,Nome,module,Magento_VisualMerchandiser
+Price,Preço,module,Magento_VisualMerchandiser
+SKU,SKU,module,Magento_VisualMerchandiser
+Stock,Estoque,module,Magento_VisualMerchandiser

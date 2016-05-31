@@ -1,0 +1,59 @@
+"Store Credit","Loja de Crédito",module,Magento_CustomerBalance
+"Delete Orphan Balances","Excluir Saldos órfãos",module,Magento_CustomerBalance
+Date,Data,module,Magento_CustomerBalance
+Website,Website,module,Magento_CustomerBalance
+Action,Ação,module,Magento_CustomerBalance
+"Balance Change","Alteração de Saldo",module,Magento_CustomerBalance
+Balance,Saldo,module,Magento_CustomerBalance
+"Customer notified","Cliente notificado",module,Magento_CustomerBalance
+Notified,Notificado,module,Magento_CustomerBalance
+No,Não,module,Magento_CustomerBalance
+"More information","Mais informações",module,Magento_CustomerBalance
+"Update Balance","Atualização de saldo",module,Magento_CustomerBalance
+"An amount on which to change the balance","O saldo será alterado nesse valor",module,Magento_CustomerBalance
+"Notify Customer by Email","Notificar o cliente por e-mail",module,Magento_CustomerBalance
+"Send Email Notification From the Following Store View","Enviar e-mail de notificação da seguinte visão da loja",module,Magento_CustomerBalance
+Comment,Comentar,module,Magento_CustomerBalance
+"Failed to initialize customer","Falha ao inicializar o cliente",module,Magento_CustomerBalance
+"The store credit payment has been removed from shopping cart.","O pagamento de crédito da loja foi removido do carrinho de compras.",module,Magento_CustomerBalance
+"You are not using store credit in your shopping cart.","Você não está usando o crédito da loja em seu carrinho de compras.",module,Magento_CustomerBalance
+"Please set a website ID.","Por favor, defina um ID do site.",module,Magento_CustomerBalance
+"By admin: %1.","Por admin: %1.",module,Magento_CustomerBalance
+"By admin: %1. (%2)","Por admin: %1. (%2)",module,Magento_CustomerBalance
+"Please also set the Store ID.","Por favor, defina também o ID da loja.",module,Magento_CustomerBalance
+"Please enter a store ID to send email notifications.","Por favor insira um ID da loja para enviar notificações por e-mail.",module,Magento_CustomerBalance
+"Please specify a customer ID.","Por favor especifique um ID de cliente.",module,Magento_CustomerBalance
+"Please specify a valid customer.","Por favor, especifique um cliente válido.",module,Magento_CustomerBalance
+Created,Criado,module,Magento_CustomerBalance
+Updated,Atualizado,module,Magento_CustomerBalance
+Used,Usado,module,Magento_CustomerBalance
+Refunded,Reembolsado,module,Magento_CustomerBalance
+Reverted,Revertido,module,Magento_CustomerBalance
+"You need a balance to save your balance history.","Você precisa de um equilíbrio para salvar seu histórico de equilíbrio.",module,Magento_CustomerBalance
+"Order #%1","Pedido #%1",module,Magento_CustomerBalance
+"There is no credit memo set to balance model.","Não há nenhuma nota de crédito definida para equilibrar modelo.",module,Magento_CustomerBalance
+"Order #%1, creditmemo #%2","Pedido #%1, creditmemo #%2",module,Magento_CustomerBalance
+"Unknown balance history action code","Equilíbrio Desconhecido código de ação história",module,Magento_CustomerBalance
+"There is no order set to balance model.","Não há uma ordem definida para equilibrar modelo.",module,Magento_CustomerBalance
+"You do not have enough store credit to complete this order.","Você não tem o suficiente de crédito da loja para completar esta ordem.",module,Magento_CustomerBalance
+"You can't use more store credit than the order amount.","Você não pode usar mais crédito na loja do que o valor do pedido.",module,Magento_CustomerBalance
+"Store Credit Balance","Saldo de crédito de loja",module,Magento_CustomerBalance
+"Balance History","Histórico de saldo",module,Magento_CustomerBalance
+"Refund Store Credit to Store Credit","Loja de restituição de crédito de loja de Crédito",module,Magento_CustomerBalance
+"Refund Money to Store Credit","O reembolso do dinheiro para o crédito da loja",module,Magento_CustomerBalance
+"Refund to Store Credit","Restituição de crédito",module,Magento_CustomerBalance
+"Use Store Credit (%1 available)","Use o crédito na loja (%1 disponível)",module,Magento_CustomerBalance
+"Your balance is:","Seu saldo é:",module,Magento_CustomerBalance
+"Use Store Credit","Use seu crédito",module,Magento_CustomerBalance
+available,disponível,module,Magento_CustomerBalance
+Remove,Remover,module,Magento_CustomerBalance
+"Refunded to Store Credit","Crédito restituído",module,Magento_CustomerBalance
+"%name,","%name,",module,Magento_CustomerBalance
+"We have updated your <a href=""%store_url"">%store_name</a> account and you have credit that you can use for future purchases.","We have updated your <a href=""%store_url"">%store_name</a> account and you have credit that you can use for future purchases.",module,Magento_CustomerBalance
+"Your Store Credit balance is now %balance.","Seu saldo de crédito na loja agora é de %balance.",module,Magento_CustomerBalance
+"Store Credit Options","Store Credit Options",module,Magento_CustomerBalance
+"Enable Store Credit Functionality","Enable Store Credit Functionality",module,Magento_CustomerBalance
+"Show Store Credit History to Customers","Mostrar o histórico de crédito na loja para os clientes",module,Magento_CustomerBalance
+"Refund Store Credit Automatically","Reembolsar crédito na loja automaticamente",module,Magento_CustomerBalance
+"Store Credit Update Email Sender","Store Credit Update Email Sender",module,Magento_CustomerBalance
+"Store Credit Update Email Template","Store Credit Update Email Template",module,Magento_CustomerBalance

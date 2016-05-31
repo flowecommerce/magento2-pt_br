@@ -1,0 +1,130 @@
+Invitations,Convites,module,Magento_Invitation
+"Add Invitations","Adicionar convites",module,Magento_Invitation
+"New Invitations","Novos convites",module,Magento_Invitation
+"Invitations Information","Informações de convites",module,Magento_Invitation
+"Enter Each Email on New Line","Digite cada e-mail em uma nova linha",module,Magento_Invitation
+Message,Mensagem,module,Magento_Invitation
+"Send From","Enviado por",module,Magento_Invitation
+"Invitee Group","Grupo convidado",module,Magento_Invitation
+"View Invitation for %1 (ID: %2)","Ver convite para %1 (ID: %2)",module,Magento_Invitation
+Back,Voltar,module,Magento_Invitation
+"Discard Invitation","Descartar o convite",module,Magento_Invitation
+"Are you sure you want to discard this invitation?","Você tem certeza que deseja descartar este convite?",module,Magento_Invitation
+"Save Invitation","Salvar convite",module,Magento_Invitation
+"Send Invitation","Enviar convite",module,Magento_Invitation
+General,Geral,module,Magento_Invitation
+"Default from System Configuration","Padrão da configuração do sistema",module,Magento_Invitation
+N/A,"Não Disponível",module,Magento_Invitation
+"Status History","Status History",module,Magento_Invitation
+Customers,Clientes,module,Magento_Invitation
+"Order Conversion Rate","Order Conversion Rate",module,Magento_Invitation
+"We can't find this invitation.","Não foi possível encontrar este convite.",module,Magento_Invitation
+"Please select invitations.","Por favor, selecione os convites.",module,Magento_Invitation
+"We discarded %1 of %2 invitations.","We discarded %1 of %2 invitations.",module,Magento_Invitation
+"We skipped %1 of the selected invitations.","We skipped %1 of the selected invitations.",module,Magento_Invitation
+"Something went wrong while sending invitations.","Something went wrong while sending invitations.",module,Magento_Invitation
+"No invitations have been resent.","No invitations have been resent.",module,Magento_Invitation
+"You sent %1 of %2 invitation(s).","You sent %1 of %2 invitation(s).",module,Magento_Invitation
+"Something went wrong while sending %1 invitations.","Something went wrong while sending %1 invitations.",module,Magento_Invitation
+"We discarded %1 invitation(s) addressed to current customers.","We discarded %1 invitation(s) addressed to current customers.",module,Magento_Invitation
+"Please specify at least one email address.","Please specify at least one email address.",module,Magento_Invitation
+"We sent %1 invitation(s).","Enviamos %1 convite(s).",module,Magento_Invitation
+"Something went wrong while sending %1 of %2 invitations.","Something went wrong while sending %1 of %2 invitations.",module,Magento_Invitation
+"%1 invitation(s) were not sent, because customer accounts already exist for these email addresses.","%1 invitation(s) were not sent, because customer accounts already exist for these email addresses.",module,Magento_Invitation
+"The invitation has been saved.","O convite foi salvo.",module,Magento_Invitation
+Reports,Relatórios,module,Magento_Invitation
+"Invitation Report by Customers","Invitation Report by Customers",module,Magento_Invitation
+"Invited Customers Report","Invited Customers Report",module,Magento_Invitation
+"General Report","General Report",module,Magento_Invitation
+"Invitations Report","Invitations Report",module,Magento_Invitation
+"Invitation Report by Order Conversion Rate","Invitation Report by Order Conversion Rate",module,Magento_Invitation
+"Conversion Rate Report","Conversion Rate Report",module,Magento_Invitation
+"The wrong customer account is specified.","The wrong customer account is specified.",module,Magento_Invitation
+"Please enter a correct confirmation key.","Please enter a correct confirmation key.",module,Magento_Invitation
+"Bad request.","Pedido ruim.",module,Magento_Invitation
+"Your invitation is not valid. Please create an account.","Seu convite não é válido. Por favor, crie uma conta.",module,Magento_Invitation
+"Your invitation is not valid. Please contact us at %1.","Your invitation is not valid. Please contact us at %1.",module,Magento_Invitation
+"We can't save this customer.","We can't save this customer.",module,Magento_Invitation
+"Page not found.","Página não encontrada.",module,Magento_Invitation
+"My Invitations","Meus convites",module,Magento_Invitation
+"You sent the invitation for %1.","You sent the invitation for %1.",module,Magento_Invitation
+"Something went wrong while sending an email to %1.","Something went wrong while sending an email to %1.",module,Magento_Invitation
+"We did not send %1 invitation(s) addressed to current customers.","We did not send %1 invitation(s) addressed to current customers.",module,Magento_Invitation
+"Send Invitations","Enviar convites",module,Magento_Invitation
+"Max Invitations Allowed to be Sent at One Time","Max Invitations Allowed to be Sent at One Time",module,Magento_Invitation
+"Please correct the value for \"%1\" parameter, otherwise we'll use the saved value instead.","Please correct the value for \"%1\" parameter, otherwise we'll use the saved value instead.",module,Magento_Invitation
+"Same as Inviter","Same as Inviter",module,Magento_Invitation
+"Default Customer Group from System Configuration","Default Customer Group from System Configuration",module,Magento_Invitation
+"By Invitation Only","Só por convite",module,Magento_Invitation
+"Available to All","Disponível para todos",module,Magento_Invitation
+"Please correct the invitation code.","Please correct the invitation code.",module,Magento_Invitation
+"You need to specify a customer ID group.","You need to specify a customer ID group.",module,Magento_Invitation
+"The wrong store is specified.","A loja especificada está incorreta.",module,Magento_Invitation
+"You can't update this message.","You can't update this message.",module,Magento_Invitation
+"We can't generate encrypted code.","We can't generate encrypted code.",module,Magento_Invitation
+"We can't find an ID for this invitation.","We can't find an ID for this invitation.",module,Magento_Invitation
+"You can't send an invitation with status \"%1\".","You can't send an invitation with status \"%1\".",module,Magento_Invitation
+"Please enter a valid invitation email.","Please enter a valid invitation email.",module,Magento_Invitation
+"We can't identify the proper website.","We can't identify the proper website.",module,Magento_Invitation
+"Please specify an email.","Por favor, especifique um e-mail.",module,Magento_Invitation
+"This invitation is addressed to a current customer: ""%1"".","This invitation is addressed to a current customer: ""%1"".",module,Magento_Invitation
+"This invitation is not valid.","This invitation is not valid.",module,Magento_Invitation
+"Please correct the invitation email.","Please correct the invitation email.",module,Magento_Invitation
+"Invitation for same email address","Invitation for same email address",module,Magento_Invitation
+"Not Sent","Não Enviado",module,Magento_Invitation
+Sent,Enviado,module,Magento_Invitation
+Accepted,Accepted,module,Magento_Invitation
+Discarded,Descartados,module,Magento_Invitation
+"Invitation Information","Invitation Information",module,Magento_Invitation
+"Send At","Send At",module,Magento_Invitation
+"Invitation Message","Invitation Message",module,Magento_Invitation
+Email,E-mail,module,Magento_Invitation
+Status,Status,module,Magento_Invitation
+Website,Website,module,Magento_Invitation
+"Store View","Visão de Loja",module,Magento_Invitation
+"Signed Up At","Signed Up At",module,Magento_Invitation
+"Invitation URL","Invitation URL",module,Magento_Invitation
+Link,Link,module,Magento_Invitation
+"Invitee Information","Invitee Information",module,Magento_Invitation
+"Customer ID","ID do cliente",module,Magento_Invitation
+"Customer Group","Grupo de clientes",module,Magento_Invitation
+"First Name",Nome,module,Magento_Invitation
+"Last Name",Sobrenome,module,Magento_Invitation
+"Sign Up At","Sign Up At",module,Magento_Invitation
+"Inviter Information","Informações do anfitrião",module,Magento_Invitation
+Admin,Admin,module,Magento_Invitation
+"* Required Fields","* Campos Obrigatórios",module,Magento_Invitation
+"Invite your friends by entering their email addresses","Convide seus amigos digitando seus endereços de e-mail",module,Magento_Invitation
+"Maximum %1 email addresses allowed.","Maximum %1 email addresses allowed.",module,Magento_Invitation
+Add,Adicionar,module,Magento_Invitation
+"Back to Invitations","Volta para convites",module,Magento_Invitation
+Remove,Remover,module,Magento_Invitation
+"Enter Email","Digite o E-mail",module,Magento_Invitation
+"You cannot send more invitations","Você não pode enviar mais convites",module,Magento_Invitation
+"There are no sent invitations.","There are no sent invitations.",module,Magento_Invitation
+"Please accept this invitation to join %store_name.","Please accept this invitation to join %store_name.",module,Magento_Invitation
+"%store_name offers limited time sales of products only to members.","%store_name offers limited time sales of products only to members.",module,Magento_Invitation
+"Please use the following link to create an account and view the deals:","Por favor, use o link a seguir para criar uma conta e ver as ofertas:",module,Magento_Invitation
+"Customer Invitation Email Sender","Customer Invitation Email Sender",module,Magento_Invitation
+"Customer Invitation Email Template","Customer Invitation Email Template",module,Magento_Invitation
+"Enable Invitations Functionality","Enable Invitations Functionality",module,Magento_Invitation
+"Enable Invitations on Storefront","Enable Invitations on Storefront",module,Magento_Invitation
+"Referred Customer Group","Referred Customer Group",module,Magento_Invitation
+"New Accounts Registration","New Accounts Registration",module,Magento_Invitation
+"Allow Customers to Add Custom Message to Invitation Email","Allow Customers to Add Custom Message to Invitation Email",module,Magento_Invitation
+"Customer Invitations","Customer Invitations",module,Magento_Invitation
+"Discard Selected","Discard Selected",module,Magento_Invitation
+"Are you sure you want to do this?","Você tem que deseja fazer isso?",module,Magento_Invitation
+"Send Selected","Send Selected",module,Magento_Invitation
+ID,ID,module,Magento_Invitation
+Invitee,Convidado,module,Magento_Invitation
+Registered,Registrado,module,Magento_Invitation
+"Valid Website","Site válido",module,Magento_Invitation
+Name,Nome,module,Magento_Invitation
+Group,Grupo,module,Magento_Invitation
+"Invitations Sent","Invitations Sent",module,Magento_Invitation
+"Invitations Accepted","Invitations Accepted",module,Magento_Invitation
+"Accept Rate","Accept Rate",module,Magento_Invitation
+"Discard Rate","Discard Rate",module,Magento_Invitation
+"Accepted and Purchased","Accepted and Purchased",module,Magento_Invitation
+"Conversion Rate","Conversion Rate",module,Magento_Invitation

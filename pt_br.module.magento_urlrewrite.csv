@@ -1,0 +1,61 @@
+"Edit URL Rewrite for a Category","Edit URL Rewrite for a Category",module,Magento_UrlRewrite
+"Add URL Rewrite for a Category","Add URL Rewrite for a Category",module,Magento_UrlRewrite
+Category:,Category:,module,Magento_UrlRewrite
+"We can't set up a URL rewrite because the product you chose is not associated with a website.","We can't set up a URL rewrite because the product you chose is not associated with a website.",module,Magento_UrlRewrite
+"Please assign a website to the selected category.","Please assign a website to the selected category.",module,Magento_UrlRewrite
+"Edit URL Rewrite for a Product","Edit URL Rewrite for a Product",module,Magento_UrlRewrite
+"Add URL Rewrite for a Product","Add URL Rewrite for a Product",module,Magento_UrlRewrite
+Product:,Product:,module,Magento_UrlRewrite
+"Skip Category Selection","Skip Category Selection",module,Magento_UrlRewrite
+ID,ID,module,Magento_UrlRewrite
+Name,Nome,module,Magento_UrlRewrite
+SKU,SKU,module,Magento_UrlRewrite
+Status,Status,module,Magento_UrlRewrite
+"Edit URL Rewrite for CMS page","Edit URL Rewrite for CMS page",module,Magento_UrlRewrite
+"Add URL Rewrite for CMS page","Add URL Rewrite for CMS page",module,Magento_UrlRewrite
+"CMS page:","CMS page:",module,Magento_UrlRewrite
+"Please assign a website to the selected CMS page.","Please assign a website to the selected CMS page.",module,Magento_UrlRewrite
+Title,Título,module,Magento_UrlRewrite
+"URL Key","Chave URL",module,Magento_UrlRewrite
+"Store View","Visão de Loja",module,Magento_UrlRewrite
+"Edit URL Rewrite","Edit URL Rewrite",module,Magento_UrlRewrite
+"Add New URL Rewrite","Add New URL Rewrite",module,Magento_UrlRewrite
+Reset,Reiniciar,module,Magento_UrlRewrite
+Back,Voltar,module,Magento_UrlRewrite
+Delete,Excluir,module,Magento_UrlRewrite
+"Are you sure you want to do this?","Você tem que deseja fazer isso?",module,Magento_UrlRewrite
+Save,Salvar,module,Magento_UrlRewrite
+"Block Information","Informação do Bloco",module,Magento_UrlRewrite
+"URL Rewrite Information","URL Rewrite Information",module,Magento_UrlRewrite
+"Request Path","Request Path",module,Magento_UrlRewrite
+"Target Path","Target Path",module,Magento_UrlRewrite
+"Redirect Type","Redirect Type",module,Magento_UrlRewrite
+Description,Descrição,module,Magento_UrlRewrite
+Store,Loja,module,Magento_UrlRewrite
+"URL Rewrite Management","URL Rewrite Management",module,Magento_UrlRewrite
+"Add URL Rewrite","Add URL Rewrite",module,Magento_UrlRewrite
+Custom,Personalizado,module,Magento_UrlRewrite
+"For category","For category",module,Magento_UrlRewrite
+"For product","For product",module,Magento_UrlRewrite
+"For CMS page","For CMS page",module,Magento_UrlRewrite
+"Create URL Rewrite:","Create URL Rewrite:",module,Magento_UrlRewrite
+"You deleted the URL rewrite.","You deleted the URL rewrite.",module,Magento_UrlRewrite
+"We can't delete URL Rewrite right now.","We can't delete URL Rewrite right now.",module,Magento_UrlRewrite
+"URL Rewrites","URL Rewrites",module,Magento_UrlRewrite
+"The product you chose is not associated with the selected store or category.","The product you chose is not associated with the selected store or category.",module,Magento_UrlRewrite
+"The category you chose is not associated with the selected store.","The category you chose is not associated with the selected store.",module,Magento_UrlRewrite
+"The URL Rewrite has been saved.","The URL Rewrite has been saved.",module,Magento_UrlRewrite
+"Something went wrong while saving URL Rewrite.","Something went wrong while saving URL Rewrite.",module,Magento_UrlRewrite
+"Do not use two or more consecutive slashes in the request path.","Do not use two or more consecutive slashes in the request path.",module,Magento_UrlRewrite
+"Anchor symbol (#) is not supported in request path.","Anchor symbol (#) is not supported in request path.",module,Magento_UrlRewrite
+"Do not use two or more consecutive slashes in the url rewrite suffix.","Do not use two or more consecutive slashes in the url rewrite suffix.",module,Magento_UrlRewrite
+"Anchor symbol (#) is not supported in url rewrite suffix.","Anchor symbol (#) is not supported in url rewrite suffix.",module,Magento_UrlRewrite
+No,Não,module,Magento_UrlRewrite
+"Temporary (302)","Temporary (302)",module,Magento_UrlRewrite
+"Permanent (301)","Permanent (301)",module,Magento_UrlRewrite
+"Request Path for Specified Store","Request Path for Specified Store",module,Magento_UrlRewrite
+"URL key for specified store already exists.","A chave de URL para loja especificada já existe.",module,Magento_UrlRewrite
+"Custom storage message","Custom storage message",module,Magento_UrlRewrite
+"Select Category","Selecionar categoria",module,Magento_UrlRewrite
+Action,Ação,module,Magento_UrlRewrite
+Edit,Editar,module,Magento_UrlRewrite

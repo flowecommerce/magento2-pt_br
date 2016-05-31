@@ -1,0 +1,766 @@
+"Credit Memos","Memorandos de Crédito",module,Magento_Sales
+Orders,Pedidos,module,Magento_Sales
+Invoices,Faturas,module,Magento_Sales
+"We can't get the order instance right now.","Não foi possível obter a instância do pedido.",module,Magento_Sales
+"Create New Order","Criar novo pedido",module,Magento_Sales
+"Save Order Address","Salvar endereço do pedido",module,Magento_Sales
+Shipping,Frete,module,Magento_Sales
+Billing,Cobrança,module,Magento_Sales
+"Edit Order %1 %2 Address","Editar pedido %1 %2 endereço",module,Magento_Sales
+"Order Address Information","Informações de endereço do pedido",module,Magento_Sales
+"Please correct the parent block for this block.","Por favor, corrija o bloco pai para este bloco.",module,Magento_Sales
+"Submit Comment","Enviar comentário",module,Magento_Sales
+"Submit Order","Enviar pedido",module,Magento_Sales
+"Are you sure you want to cancel this order?","Você tem certeza que deseja cancelar este pedido?",module,Magento_Sales
+Cancel,Cancelar,module,Magento_Sales
+"Billing Address","Endereço de Cobrança",module,Magento_Sales
+"Payment Method","Forma de pagamento",module,Magento_Sales
+"Order Comment","Comentário do pedido",module,Magento_Sales
+Coupons,Cupons,module,Magento_Sales
+"Please select a customer","Por favor selecione um cliente",module,Magento_Sales
+"Create New Customer","Criar novo cliente",module,Magento_Sales
+"Account Information","Informações da Conta",module,Magento_Sales
+From,De,module,Magento_Sales
+To,Até,module,Magento_Sales
+Message,Mensagem,module,Magento_Sales
+"Edit Order #%1","Editar pedido #%1",module,Magento_Sales
+"Create New Order for %1 in %2","Criar novo pedido para %1 em %2",module,Magento_Sales
+"Create New Order for New Customer in %1","Criar novo pedido, para um novo cliente em %1",module,Magento_Sales
+"Create New Order for %1","Criar novo pedido para %1",module,Magento_Sales
+"Create New Order for New Customer","Criar novo pedido, para um novo cliente",module,Magento_Sales
+"Items Ordered","Itens comprados",module,Magento_Sales
+"This product is disabled.","Este produto está desabilitado.",module,Magento_Sales
+"Buy %1 for price %2","Compre %1 pelo preço de %2",module,Magento_Sales
+"Item ordered qty","Qtde comprada do item",module,Magento_Sales
+"%1 with %2 discount each","%1 com %2 de desconto cada",module,Magento_Sales
+"%1 for %2","%1 por %2",module,Magento_Sales
+"* - Enter custom price including tax","* - Inserir preço personalizado, incluindo impostos",module,Magento_Sales
+"* - Enter custom price excluding tax","* - Inserir preço personalizado, excluindo impostos",module,Magento_Sales
+Configure,Configurar,module,Magento_Sales
+"This product does not have any configurable options","Este produto não possui qualquer opções configuráveis",module,Magento_Sales
+"Newsletter Subscription","Assinar Newsletter",module,Magento_Sales
+"Please select products","Por favor, selecione os produtos",module,Magento_Sales
+"Add Selected Product(s) to Order","Adicionar o(s) produto(s) selecionado(s) ao pedido",module,Magento_Sales
+ID,ID,module,Magento_Sales
+Product,Produto,module,Magento_Sales
+SKU,SKU,module,Magento_Sales
+Price,Preço,module,Magento_Sales
+Select,Selecione,module,Magento_Sales
+Quantity,Quantidade,module,Magento_Sales
+"Shipping Address","Endereço de entrega",module,Magento_Sales
+"Shipping Method","Método de Entrega",module,Magento_Sales
+"Update Changes","Atualizar as alterações",module,Magento_Sales
+"Shopping Cart","Carrinho de Compras",module,Magento_Sales
+"Are you sure you want to delete all items from shopping cart?","Você tem certeza que deseja excluir todos os itens do carrinho de compras?",module,Magento_Sales
+"Clear Shopping Cart","Limpar Carrinho de Compras",module,Magento_Sales
+"Products in Comparison List","Produtos na lista de comparação",module,Magento_Sales
+"Recently Compared Products","Produtos comparados recentemente",module,Magento_Sales
+"Recently Viewed Products","Produtos visualizados recentemente",module,Magento_Sales
+"Last Ordered Items","Últimos itens comprados",module,Magento_Sales
+"Recently Viewed","Visualizados recentemente",module,Magento_Sales
+"Wish List","Lista de desejos",module,Magento_Sales
+"Please select a store","Por favor, selecione uma loja",module,Magento_Sales
+"Order Totals","Total do pedido",module,Magento_Sales
+"Shipping Incl. Tax (%1)","Frete incl. imposto (%1)",module,Magento_Sales
+"Shipping Excl. Tax (%1)","Frete excl. imposto (%1)",module,Magento_Sales
+"New Credit Memo for Invoice #%1","Novo memorando de crédito para fatura #%1",module,Magento_Sales
+"New Credit Memo for Order #%1","Novo memorando de crédito para o pedido #%1",module,Magento_Sales
+"Refund Shipping (Incl. Tax)","Reembolso de frete (incl. imposto)",module,Magento_Sales
+"Refund Shipping (Excl. Tax)","Reembolso de frete (excl. imposto)",module,Magento_Sales
+"Refund Shipping","Reembolso de frete",module,Magento_Sales
+"Update Qty's","Atualizar qtde",module,Magento_Sales
+Refund,Reembolso,module,Magento_Sales
+"Refund Offline","Restituido off-line",module,Magento_Sales
+"Paid Amount","Valor pago",module,Magento_Sales
+"Refund Amount","Valor reembolsado",module,Magento_Sales
+"Shipping Amount","Valor do envio",module,Magento_Sales
+"Shipping Refund","Frete reembolsado",module,Magento_Sales
+"Order Grand Total","Total geral do pedido",module,Magento_Sales
+"Adjustment Refund","Ajuste de reembolso",module,Magento_Sales
+"Adjustment Fee","Taxa de ajuste",module,Magento_Sales
+"Send Email","Enviar e-mail",module,Magento_Sales
+"Are you sure you want to send a credit memo email to customer?","Você tem certeza que deseja enviar um e-mail de memorando de crédito para o cliente?",module,Magento_Sales
+Void,Anular,module,Magento_Sales
+Print,Imprimir,module,Magento_Sales
+"The credit memo email was sent.","O e-mail de memorando de crédito foi enviado.",module,Magento_Sales
+"The credit memo email wasn't sent.","O e-mail de memorando de crédito não foi enviado.",module,Magento_Sales
+"Credit Memo #%1 | %3 | %2 (%4)","Memorando de Crédito #%1 | %3 | %2 (%4)",module,Magento_Sales
+"Total Refund","Total reembolsado",module,Magento_Sales
+"New Invoice and Shipment for Order #%1","Nova fatura e envio para o pedido #%1",module,Magento_Sales
+"New Invoice for Order #%1","Nova fatura para o pedido #%1",module,Magento_Sales
+"Submit Invoice and Shipment","Enviar fatura e postagem",module,Magento_Sales
+"Submit Invoice","Enviar fatura",module,Magento_Sales
+"Are you sure you want to send an invoice email to customer?","Você tem certeza que deseja enviar um e-mail de fatura para o cliente?",module,Magento_Sales
+"Credit Memo","Memorando de Crédito",module,Magento_Sales
+Capture,Captura,module,Magento_Sales
+"The invoice email was sent.","O e-mail de fatura foi enviado.",module,Magento_Sales
+"The invoice email wasn't sent.","O e-mail de fatura não foi enviado.",module,Magento_Sales
+"Invoice #%1 | %2 | %4 (%3)","Fatura #%1 | %2 | %4 (%3)",module,Magento_Sales
+"Invalid parent block for this block","O bloco pai é inválido para este bloco",module,Magento_Sales
+"Order Statuses","Status do pedido",module,Magento_Sales
+"Create New Status","Criar novo status",module,Magento_Sales
+"Assign Status to State","Assign Status to State",module,Magento_Sales
+"Save Status Assignment","Save Status Assignment",module,Magento_Sales
+"Assign Order Status to State","Assign Order Status to State",module,Magento_Sales
+"Assignment Information","Informações de atribuição",module,Magento_Sales
+"Order Status","Situação do pedido",module,Magento_Sales
+"Order State","Order State",module,Magento_Sales
+"Use Order Status As Default","Use Order Status As Default",module,Magento_Sales
+"Visible On Storefront","Visible On Storefront",module,Magento_Sales
+"Edit Order Status","Edit Order Status",module,Magento_Sales
+"Save Status","Salvar status",module,Magento_Sales
+"New Order Status","New Order Status",module,Magento_Sales
+"Order Status Information","Order Status Information",module,Magento_Sales
+"Status Code","Código de status",module,Magento_Sales
+"Status Label","Rótulo do status",module,Magento_Sales
+"Store View Specific Labels","Store View Specific Labels",module,Magento_Sales
+"Total Paid","Total pago",module,Magento_Sales
+"Total Refunded","Total reembolsado",module,Magento_Sales
+"Total Due","Total devido",module,Magento_Sales
+Edit,Editar,module,Magento_Sales
+"Are you sure you want to send an order email to customer?","Tem certeza de que deseja enviar um e-mail de pedido para o cliente?",module,Magento_Sales
+"This will create an offline refund. To create an online refund, open an invoice and create credit memo for it. Do you want to continue?","This will create an offline refund. To create an online refund, open an invoice and create credit memo for it. Do you want to continue?",module,Magento_Sales
+"Are you sure you want to void the payment?","Você tem certeza que deseja anular o pagamento?",module,Magento_Sales
+Hold,Hold,module,Magento_Sales
+hold,hold,module,Magento_Sales
+Unhold,Unhold,module,Magento_Sales
+unhold,unhold,module,Magento_Sales
+"Are you sure you want to accept this payment?","Você tem certeza que deseja aceitar este pagamento?",module,Magento_Sales
+"Accept Payment","Aceitar pagamento",module,Magento_Sales
+"Are you sure you want to deny this payment?","Você tem certeza que deseja negar este pagamento?",module,Magento_Sales
+"Deny Payment","Negar pagamento",module,Magento_Sales
+"Get Payment Update","Obter atualização do pagamento",module,Magento_Sales
+"Invoice and Ship","Fatura e envio",module,Magento_Sales
+Invoice,Fatura,module,Magento_Sales
+Ship,Enviar,module,Magento_Sales
+Reorder,"Refazer pedido",module,Magento_Sales
+"Order # %1 %2 | %3","Pedido # %1 %2 | %3",module,Magento_Sales
+"This order contains (%1) items and therefore cannot be edited through the admin interface. If you wish to continue editing, the (%2) items will be removed,  the order will be canceled and a new order will be placed.","This order contains (%1) items and therefore cannot be edited through the admin interface. If you wish to continue editing, the (%2) items will be removed,  the order will be canceled and a new order will be placed.",module,Magento_Sales
+"Are you sure? This order will be canceled and a new one will be created instead.","Você tem certeza? Este pedido será cancelado e um novo será criado.",module,Magento_Sales
+"Save Gift Message","Salvar a mensagem de presente",module,Magento_Sales
+" [deleted]"," [apagado]",module,Magento_Sales
+"Order Credit Memos","Memorandos de crédito do pedido",module,Magento_Sales
+"Credit memo #%1 created","Memorando de Crédito #%1 criado",module,Magento_Sales
+"Credit memo #%1 comment added","Memorando de Crédito #%1 comentário adicionado",module,Magento_Sales
+"Shipment #%1 created","Postagem #%1 criada",module,Magento_Sales
+"Shipment #%1 comment added","Postagem #%1 comentário adicionado",module,Magento_Sales
+"Invoice #%1 created","Fatura #%1 criada",module,Magento_Sales
+"Invoice #%1 comment added","Fatura #%1 comentário adicionado",module,Magento_Sales
+"Tracking number %1 for %2 assigned","Número de rastreamento %1 para %2 atribuído",module,Magento_Sales
+"Comments History","Histórico de comentários",module,Magento_Sales
+"Order History","Histórico de pedidos",module,Magento_Sales
+Information,Informação,module,Magento_Sales
+"Order Information","Informações do pedido",module,Magento_Sales
+"Order Invoices","Faturas do pedido",module,Magento_Sales
+Shipments,Postagens,module,Magento_Sales
+"Order Shipments","Postagens do pedido",module,Magento_Sales
+Transactions,Transações,module,Magento_Sales
+"Order View","Visualizar pedido",module,Magento_Sales
+Any,Qualquer,module,Magento_Sales
+Specified,Especificado,module,Magento_Sales
+"Applies to Any of the Specified Order Statuses except canceled orders","Aplica-se a qualquer um dos status de pedidos especificados, exceto pedidos cancelados",module,Magento_Sales
+"Cart Price Rule","Regra de preço no carrinho",module,Magento_Sales
+Yes,Sim,module,Magento_Sales
+No,Não,module,Magento_Sales
+"Show Actual Values","Mostrar valores atuais",module,Magento_Sales
+"New Order RSS","RSS de novos pedidos",module,Magento_Sales
+Subtotal,Subtotal,module,Magento_Sales
+"Shipping & Handling","Envio e Manuseio",module,Magento_Sales
+"Discount (%1)","Desconto (%1)",module,Magento_Sales
+Discount,Desconto,module,Magento_Sales
+"Grand Total","Total geral",module,Magento_Sales
+Back,Voltar,module,Magento_Sales
+Fetch,Busca,module,Magento_Sales
+"Transaction # %1 | %2","Transação # %1 | %2",module,Magento_Sales
+N/A,"Não Disponível",module,Magento_Sales
+Key,Chave,module,Magento_Sales
+Value,Valor,module,Magento_Sales
+"We found an invalid entity model.","Encontramos um modelo de entidade inválido.",module,Magento_Sales
+"Order # %1","Pedido #%1",module,Magento_Sales
+"Back to My Orders","Voltar para Meus Pedidos",module,Magento_Sales
+"View Another Order","Ver outro pedido",module,Magento_Sales
+"About Your Refund","Sobre seu reembolso",module,Magento_Sales
+"My Orders","Meus pedidos",module,Magento_Sales
+"Subscribe to Order Status","Assine o status do pedido",module,Magento_Sales
+"About Your Invoice","Sobre sua fatura",module,Magento_Sales
+"Print Order # %1","Impressão do pedido # %1",module,Magento_Sales
+"Grand Total to be Charged","Valor total a cobrar",module,Magento_Sales
+Unassign,Desatribuir,module,Magento_Sales
+"We can't add this item to your shopping cart right now.","Nós não podemos adicionar este item ao seu carrinho de compras agora.",module,Magento_Sales
+"You sent the message.","Você enviou a mensagem.",module,Magento_Sales
+Sales,Vendas,module,Magento_Sales
+"This order no longer exists.","Este pedido não existe mais.",module,Magento_Sales
+"Please enter a comment.","Por favor, digite um comentário.",module,Magento_Sales
+"We cannot add order history.","Não foi possível adicionar o histórico de pedidos.",module,Magento_Sales
+"You updated the order address.","Você atualizou o endereço do pedido.",module,Magento_Sales
+"We can't update the order address right now.","Não foi possível atualizar o endereço do pedido.",module,Magento_Sales
+"You have not canceled the item.","Você não cancelou o item.",module,Magento_Sales
+"You canceled the order.","Você cancelou o pedido.",module,Magento_Sales
+"""%1"" coupon code was not applied. Do not apply discount is selected for item(s)","código de cupom ""%1"" não foi aplicado. Não aplicar desconto foi selecionado para o(s) item(ns)",module,Magento_Sales
+"""%1"" coupon code is not valid.","O código do cupom ""%1"" não é válido.",module,Magento_Sales
+"The coupon code has been accepted.","O código do cupom foi aceito.",module,Magento_Sales
+"Quote item id is not received.","Id do item cotado não foi recebido.",module,Magento_Sales
+"Quote item is not loaded.","Item cotado não está carregado.",module,Magento_Sales
+"New Order","Novo pedido",module,Magento_Sales
+"You created the order.","Você criou o pedido.",module,Magento_Sales
+"Order saving error: %1","Erro na gravação do pedido: %1",module,Magento_Sales
+"Cannot add new comment.","Não é possível adicionar novos comentários.",module,Magento_Sales
+"The credit memo has been canceled.","O memorando de crédito foi cancelado.",module,Magento_Sales
+"Credit memo has not been canceled.","O memorando de crédito não foi cancelado.",module,Magento_Sales
+"New Memo for #%1","Novo memorando para #%1",module,Magento_Sales
+"New Memo","Novo memorando",module,Magento_Sales
+"The credit memo's total must be positive.","O total do memorando de crédito deve ser positivo.",module,Magento_Sales
+"Cannot create online refund for Refund to Store Credit.","Não é possível criar um reembolso on-line para reembolsar crédito na loja.",module,Magento_Sales
+"You created the credit memo.","Você criou o memorando de crédito.",module,Magento_Sales
+"We can't save the credit memo right now.","Não foi possível salvar o memorando de crédito.",module,Magento_Sales
+"We can't update the item's quantity right now.","Não foi possível atualizar a quantidade do item.",module,Magento_Sales
+"View Memo for #%1","Ver memorando para #%1",module,Magento_Sales
+"View Memo","Ver memorando",module,Magento_Sales
+"You voided the credit memo.","Você anulou o memorando de crédito.",module,Magento_Sales
+"We can't void the credit memo.","Não foi possível anular o memorando de crédito.",module,Magento_Sales
+"The order no longer exists.","O pedido não existe mais.",module,Magento_Sales
+"We can't create credit memo for the order.","Não foi possível criar o memorando de crédito para o pedido.",module,Magento_Sales
+"Edit Order","Editar pedido",module,Magento_Sales
+"You sent the order email.","Você enviou o e-mail do pedido.",module,Magento_Sales
+"We can't send the email order right now.","Não foi possível enviar o e-mail do pedido.",module,Magento_Sales
+"You have not put the order on hold.","You have not put the order on hold.",module,Magento_Sales
+"You put the order on hold.","You put the order on hold.",module,Magento_Sales
+"You canceled the invoice.","Você cancelou a fatura.",module,Magento_Sales
+"Invoice canceling error","Erro ao cancelar a fatura",module,Magento_Sales
+"The invoice has been captured.","A fatura foi capturada.",module,Magento_Sales
+"Invoice capturing error","Erro na captura da fatura",module,Magento_Sales
+"The order does not allow an invoice to be created.","O pedido não permite a criação de fatura.",module,Magento_Sales
+"You can't create an invoice without products.","Não é possível criar uma fatura sem produtos.",module,Magento_Sales
+"New Invoice","Nova fatura",module,Magento_Sales
+"We can't save the invoice right now.","Não foi possível salvar a fatura.",module,Magento_Sales
+"The invoice and the shipment  have been created. The shipping label cannot be created now.","The invoice and the shipment  have been created. The shipping label cannot be created now.",module,Magento_Sales
+"You created the invoice and shipment.","Você criou a fatura e a postagem.",module,Magento_Sales
+"The invoice has been created.","A fatura foi criada.",module,Magento_Sales
+"We can't send the invoice email right now.","Não foi possível enviar o e-mail da fatura.",module,Magento_Sales
+"We can't send the shipment right now.","Não foi possível enviar a postagem.",module,Magento_Sales
+"Cannot update item quantity.","Não foi possível atualizar a quantidade do item.",module,Magento_Sales
+"The invoice has been voided.","A fatura foi anulada.",module,Magento_Sales
+"Invoice voiding error","Ocorreu um erro ao anular a fatura",module,Magento_Sales
+"%1 order(s) cannot be canceled.","%1 order(s) cannot be canceled.",module,Magento_Sales
+"You cannot cancel the order(s).","Você não pode cancelar o(s) pedido(s).",module,Magento_Sales
+"We canceled %1 order(s).","Nós cancelamos %1 pedido(s).",module,Magento_Sales
+"%1 order(s) were not put on hold.","%1 order(s) were not put on hold.",module,Magento_Sales
+"No order(s) were put on hold.","No order(s) were put on hold.",module,Magento_Sales
+"You have put %1 order(s) on hold.","You have put %1 order(s) on hold.",module,Magento_Sales
+"%1 order(s) were not released from on hold status.","%1 order(s) were not released from on hold status.",module,Magento_Sales
+"No order(s) were released from on hold status.","No order(s) were released from on hold status.",module,Magento_Sales
+"%1 order(s) have been released from on hold status.","%1 order(s) have been released from on hold status.",module,Magento_Sales
+"There are no printable documents related to selected orders.","Não ha documentos impressos relacionados aos pedidos selecionados.",module,Magento_Sales
+"The payment has been accepted.","O pagamento foi aceito.",module,Magento_Sales
+"The payment has been denied.","O pagamento foi negado.",module,Magento_Sales
+"Transaction has been approved.","A transação foi aprovada.",module,Magento_Sales
+"Transaction has been voided/declined.","A transação foi anulada/declinada.",module,Magento_Sales
+"There is no update for the transaction.","Não há nenhuma atualização para a transação.",module,Magento_Sales
+"We can't update the payment right now.","Não foi possível atualizar o pagamento.",module,Magento_Sales
+"You assigned the order status.","Você atribuiu o status do pedido.",module,Magento_Sales
+"Something went wrong while assigning the order status.","Ocorreu um ao atribuir o status do pedido.",module,Magento_Sales
+"We can't find this order status.","Não encontramos este status de pedido.",module,Magento_Sales
+"Create New Order Status","Criar novo status de pedido",module,Magento_Sales
+"We found another order status with the same order status code.","Encontramos outro status de pedido com o mesmo código de status.",module,Magento_Sales
+"You saved the order status.","Você salvou o status do pedido.",module,Magento_Sales
+"We can't add the order status right now.","Não foi possível adicionar o status do pedido.",module,Magento_Sales
+"You have unassigned the order status.","Você desatribui o status do pedido.",module,Magento_Sales
+"Something went wrong while unassigning the order.","Ocorreu um erro ao desatribuir o pedido.",module,Magento_Sales
+"Can't unhold order.","Can't unhold order.",module,Magento_Sales
+"You released the order from holding status.","You released the order from holding status.",module,Magento_Sales
+"The order was not on hold.","The order was not on hold.",module,Magento_Sales
+"Exception occurred during order load","Ocorreu uma exceção durante o carregamento do pedido",module,Magento_Sales
+"Something went wrong while saving the gift message.","Ocorreu um erro ao salvar a mensagem do cartão de presente.",module,Magento_Sales
+"You saved the gift card message.","Você salvou a mensagem do cartão de presente.",module,Magento_Sales
+"The payment has been voided.","O pagamento foi anulado.",module,Magento_Sales
+"We can't void the payment right now.","Não foi possível anular o pagamento.",module,Magento_Sales
+"Please correct the transaction ID and try again.","Por favor, corrija o ID de transação e tente novamente.",module,Magento_Sales
+"The transaction details have been updated.","Os detalhes da transação foram atualizados.",module,Magento_Sales
+"We can't update the transaction details.","Não foi possível atualizar os detalhes da transação.",module,Magento_Sales
+"Orders and Returns","Pedidos e Devoluções",module,Magento_Sales
+"You entered incorrect data. Please try again.","Você inseriu dados incorretos. Por favor, tente novamente.",module,Magento_Sales
+Home,Home,module,Magento_Sales
+"Go to Home Page","Ir para a página inicial",module,Magento_Sales
+"We can't find this wish list.","Esta lista de desejos não foi encontrada.",module,Magento_Sales
+"We could not add a product to cart by the ID ""%1"".","Não foi possível adicionar o produto no carrinho pelo ID ""%1"".",module,Magento_Sales
+"There is an error in one of the option rows.","Há um erro em uma das linhas de opções.",module,Magento_Sales
+"Shipping Address: ","Endereço de entrega: ",module,Magento_Sales
+"Billing Address: ","Endereço de cobrança: ",module,Magento_Sales
+"Please specify order items.","Por favor, especifique os itens do pedido.",module,Magento_Sales
+"Please specify a shipping method.","Por favor, especifique um método de envio.",module,Magento_Sales
+"Please specify a payment method.","Por favor, especifique um método de pagamento.",module,Magento_Sales
+"This payment method is not available.","Este método de pagamento não está disponível.",module,Magento_Sales
+"Validation is failed.","Ocorreu uma falha na validação.",module,Magento_Sales
+"You did not email your customer. Please check your email settings.","Você não enviou o e-mail para seu cliente. Por favor, verifique suas configurações de e-mail.",module,Magento_Sales
+"Path ""%1"" is not part of allowed directory ""%2""","Path ""%1"" is not part of allowed directory ""%2""",module,Magento_Sales
+"Identifying Fields required","Identificar os campos obrigatórios",module,Magento_Sales
+"Id required","Id required",module,Magento_Sales
+"A hold action is not available.","A hold action is not available.",module,Magento_Sales
+"You cannot remove the hold.","You cannot remove the hold.",module,Magento_Sales
+"We cannot cancel this order.","Você não pode cancelar esse pedido.",module,Magento_Sales
+Guest,Visitante,module,Magento_Sales
+"Please enter the first name.","Por favor, informe o nome.",module,Magento_Sales
+"Please enter the last name.","Por favor, informe o sobrenome.",module,Magento_Sales
+"Please enter the street.","Por favor, informe a rua.",module,Magento_Sales
+"Please enter the city.","Por favor, informe a cidade.",module,Magento_Sales
+"Please enter the phone number.","Por favor, informe o telefone.",module,Magento_Sales
+"Please enter the zip/postal code.","Por favor, informe o Cep.",module,Magento_Sales
+"Please enter the country.","Por favor, informe o país.",module,Magento_Sales
+"Please enter the state/province.","Por favor digite o estado/província.",module,Magento_Sales
+"Requested entity doesn't exist","A entidade solicitada não existe",module,Magento_Sales
+"Could not delete order address","Não foi possível excluir o endereço do pedido",module,Magento_Sales
+"Could not save order address","Não foi possível salvar o endereço do pedido",module,Magento_Sales
+Pending,Pendente,module,Magento_Sales
+Refunded,Reembolsado,module,Magento_Sales
+Canceled,Cancelado,module,Magento_Sales
+"Unknown State","Situação desconhecida",module,Magento_Sales
+"We found an invalid quantity to refund item ""%1"".","Encontramos uma quantidade inválida para reembolsar o item ""%1"".",module,Magento_Sales
+"Maximum shipping amount allowed to refund is: %1","O valor máximo de envio permitido para reembolso é: %1",module,Magento_Sales
+"Could not delete credit memo","Não foi possível excluir o memorando de crédito",module,Magento_Sales
+"Could not save credit memo","Não foi possível salvar o memorando de crédito",module,Magento_Sales
+"This order already has associated customer account","Este pedido já associado a conta de um cliente",module,Magento_Sales
+Paid,Pago,module,Magento_Sales
+"We cannot register an existing invoice","Não foi possível registrar uma fatura existente",module,Magento_Sales
+"ID required","ID required",module,Magento_Sales
+"Unknown Status","Status desconhecido",module,Magento_Sales
+Ordered,Ordenado,module,Magento_Sales
+Shipped,Enviado,module,Magento_Sales
+Invoiced,Faturado,module,Magento_Sales
+Backordered,Backordered,module,Magento_Sales
+Returned,Devolvido,module,Magento_Sales
+Partial,Parcial,module,Magento_Sales
+Mixed,Mixed,module,Magento_Sales
+"Registered a Void notification.","Registrada uma notificação de anulação.",module,Magento_Sales
+"If the invoice was created offline, try creating an offline credit memo.","Se a fatura foi criada off-line, tente criar um memorando de crédito off-line.",module,Magento_Sales
+"We refunded %1 online.","Nós reembolsamos %1 on-line.",module,Magento_Sales
+"We refunded %1 offline.","Nós reembolsamos %1 off-line.",module,Magento_Sales
+"IPN ""Refunded"". Refund issued by merchant. Registered notification about refunded amount of %1. Transaction ID: ""%2"". Credit Memo has not been created. Please create offline Credit Memo.","IPN ""Devolução"". Devolução emitida pelo comerciante. Registrada notificação sobre o valor reembolsado de %1. ID da transação: ""%2"". O memorando de credito não foi criado. Por favor, crie o memorando de crédito off-line.",module,Magento_Sales
+"The credit memo has been created automatically.","O memorando de crédito foi criado automaticamente.",module,Magento_Sales
+"Registered notification about refunded amount of %1.","Registrada notificação sobre valor da devolução de %1.",module,Magento_Sales
+"Canceled order online","Pedido cancelado on-line",module,Magento_Sales
+"Canceled order offline","Pedido cancelado off-line",module,Magento_Sales
+"Approved the payment online.","Pagamento aprovado on-line.",module,Magento_Sales
+"There is no need to approve this payment.","Não há necessidade de aprovar este pagamento.",module,Magento_Sales
+"Denied the payment online","O pagamento foi negado on-line",module,Magento_Sales
+"Registered update about approved payment.","Registrado atualização sobre pagamento aprovado.",module,Magento_Sales
+"Registered update about denied payment.","Registrada atualização sobre o pagamento negado.",module,Magento_Sales
+"There is no update for the payment.","Não há nenhuma atualização para o pagamento.",module,Magento_Sales
+"Voided authorization.","Autorização anulada.",module,Magento_Sales
+"Amount: %1.","Quantia: %1.",module,Magento_Sales
+"Transaction ID: ""%1""","ID da transação: ""%1""",module,Magento_Sales
+"The payment method you requested is not available.","O método de pagamento que você solicitou não está disponível.",module,Magento_Sales
+"The payment disallows storing objects.","O pagamento não permite armazenar objetos.",module,Magento_Sales
+"The transaction ""%1"" cannot be captured yet.","A transação ""%1"" ainda não pode ser capturada.",module,Magento_Sales
+"We will authorize %1 after the payment is approved at the payment gateway.","Nós vamos autorizar %1 depois que o pagamento for aprovado no gateway de pagamento.",module,Magento_Sales
+"Order is suspended as its authorizing amount %1 is suspected to be fraudulent.","Order is suspended as its authorizing amount %1 is suspected to be fraudulent.",module,Magento_Sales
+"Authorized amount of %1","Valor autorizado de %1",module,Magento_Sales
+"An amount of %1 will be captured after being approved at the payment gateway.","An amount of %1 will be captured after being approved at the payment gateway.",module,Magento_Sales
+"Captured amount of %1 online","Capturado o valor de %1 online",module,Magento_Sales
+"The order amount of %1 is pending approval on the payment gateway.","The order amount of %1 is pending approval on the payment gateway.",module,Magento_Sales
+"Ordered amount of %1","Valor comprado de %1",module,Magento_Sales
+"Registered notification about captured amount of %1.","Registered notification about captured amount of %1.",module,Magento_Sales
+"Order is suspended as its capture amount %1 is suspected to be fraudulent.","Order is suspended as its capture amount %1 is suspected to be fraudulent.",module,Magento_Sales
+"The parent transaction ID must have a transaction ID.","The parent transaction ID must have a transaction ID.",module,Magento_Sales
+"Payment transactions disallow storing objects.","Payment transactions disallow storing objects.",module,Magento_Sales
+"The transaction ""%1"" (%2) is already closed.","The transaction ""%1"" (%2) is already closed.",module,Magento_Sales
+"Set order for existing transactions not allowed","Set order for existing transactions not allowed",module,Magento_Sales
+"At minimum, you need to set a payment ID.","At minimum, you need to set a payment ID.",module,Magento_Sales
+Order,Pedido,module,Magento_Sales
+Authorization,Autorização,module,Magento_Sales
+"We found an unsupported transaction type ""%1"".","We found an unsupported transaction type ""%1"".",module,Magento_Sales
+"Please set a proper payment and order id.","Please set a proper payment and order id.",module,Magento_Sales
+"Please enter a Transaction ID.","Por favor, digite o ID de transação.",module,Magento_Sales
+"You can't do this without a transaction object.","Você não pode fazer isso sem o objeto de transação.",module,Magento_Sales
+"Order # ","Pedido # ",module,Magento_Sales
+"Order Date: ","Data do pedido: ",module,Magento_Sales
+"Sold to:","Vendido para:",module,Magento_Sales
+"Ship to:","Enviar para:",module,Magento_Sales
+"Payment Method:","Forma de pagamento:",module,Magento_Sales
+"Shipping Method:","Método de envio:",module,Magento_Sales
+"Total Shipping Charges","Total Shipping Charges",module,Magento_Sales
+Title,Título,module,Magento_Sales
+Number,Número,module,Magento_Sales
+"We found an invalid renderer model.","We found an invalid renderer model.",module,Magento_Sales
+"Please define the PDF object before using.","Por favor, defina o objeto PDF antes de usar.",module,Magento_Sales
+"We don't recognize the draw line data. Please define the \"lines\" array.","We don't recognize the draw line data. Please define the \"lines\" array.",module,Magento_Sales
+Products,Produtos,module,Magento_Sales
+"Total (ex)","Total (ex)",module,Magento_Sales
+Qty,Qtd,module,Magento_Sales
+Tax,Taxa,module,Magento_Sales
+"Total (inc)","Total (inc)",module,Magento_Sales
+"Credit Memo # ","Memorando de crédito # ",module,Magento_Sales
+"Invoice # ","Fatura # ",module,Magento_Sales
+"The order object is not specified.","O objeto do pedido não foi especificado.",module,Magento_Sales
+"The source object is not specified.","O objeto de origem não foi especificado.",module,Magento_Sales
+"An item object is not specified.","O objeto do item não foi especificado.",module,Magento_Sales
+"A PDF object is not specified.","O objeto PDF não está especificado.",module,Magento_Sales
+"A PDF page object is not specified.","A PDF page object is not specified.",module,Magento_Sales
+"Excl. Tax","Excl. Impostos",module,Magento_Sales
+"Incl. Tax","Imposto Incl.",module,Magento_Sales
+"Packing Slip # ","Packing Slip # ",module,Magento_Sales
+title,título,module,Magento_Sales
+"The PDF total model %1 must be or extend \Magento\Sales\Model\Order\Pdf\Total\DefaultTotal.","O modelo de PDF total %1 deve ser ou estender o \Magento\Sales\Model\Order\Pdf\Total\DefaultTotal.",module,Magento_Sales
+"We cannot register an existing shipment","We cannot register an existing shipment",module,Magento_Sales
+"We found an invalid quantity to ship for item ""%1"".","We found an invalid quantity to ship for item ""%1"".",module,Magento_Sales
+"Please enter a tracking number.","Por favor, digite um número de rastreamento.",module,Magento_Sales
+"Could not delete shipment","Não foi possível excluir a postagem",module,Magento_Sales
+"Could not save shipment","Não foi possivel salvar a postagem",module,Magento_Sales
+"The last status can't be unassigned from its current state.","The last status can't be unassigned from its current state.",module,Magento_Sales
+"Status can't be unassigned, because it is used by existing order(s).","Status can't be unassigned, because it is used by existing order(s).",module,Magento_Sales
+"The total model should be extended from \Magento\Sales\Model\Order\Total\AbstractTotal.","O modelo total deve ser estendido de \Magento\Sales\Model\Order\Total\AbstractTotal.",module,Magento_Sales
+"We cannot determine the field name.","We cannot determine the field name.",module,Magento_Sales
+City,Cidade,module,Magento_Sales
+Company,Empresa,module,Magento_Sales
+Country,País,module,Magento_Sales
+Email,E-mail,module,Magento_Sales
+"First Name",Nome,module,Magento_Sales
+"Last Name",Sobrenome,module,Magento_Sales
+State/Province,Estado/Província,module,Magento_Sales
+"Street Address",Endereço,module,Magento_Sales
+"Phone Number","Número do Telefone",module,Magento_Sales
+"Zip/Postal Code",CEP,module,Magento_Sales
+"We can't save the address:\n%1","We can't save the address:\n%1",module,Magento_Sales
+"Cannot save comment:
+%1","Cannot save comment:
+%1",module,Magento_Sales
+"We don't have enough information to save the parent transaction ID.","We don't have enough information to save the parent transaction ID.",module,Magento_Sales
+"We cannot create an empty shipment.","We cannot create an empty shipment.",module,Magento_Sales
+"Cannot save track:
+%1","Cannot save track:
+%1",module,Magento_Sales
+"Cannot unassign status from state","Cannot unassign status from state",module,Magento_Sales
+"New Orders","Novos pedidos",module,Magento_Sales
+"Order #%1 created at %2","Order #%1 created at %2",module,Magento_Sales
+"Details for %1 #%2","Detalhes para %1 #%2",module,Magento_Sales
+"Notified Date: %1","Data da notificação: %1",module,Magento_Sales
+"Comment: %1<br/>","Comentário: %1 <br/>",module,Magento_Sales
+"Current Status: %1<br/>","Status atual: %1 <br/>",module,Magento_Sales
+"Total: %1<br/>","Total: %1 <br/>",module,Magento_Sales
+"Order # %1 Notification(s)","Order # %1 Notification(s)",module,Magento_Sales
+"You can not cancel Credit Memo","You can not cancel Credit Memo",module,Magento_Sales
+"Could not cancel creditmemo","Could not cancel creditmemo",module,Magento_Sales
+"We cannot register an existing credit memo.","We cannot register an existing credit memo.",module,Magento_Sales
+"The most money available to refund is %1.","The most money available to refund is %1.",module,Magento_Sales
+"We found an invalid quantity to invoice item ""%1"".","We found an invalid quantity to invoice item ""%1"".",module,Magento_Sales
+"The Order State ""%1"" must not be set manually.","The Order State ""%1"" must not be set manually.",module,Magento_Sales
+"VAT Request Identifier","VAT Request Identifier",module,Magento_Sales
+"VAT Request Date","VAT Request Date",module,Magento_Sales
+"Pending Payment","Pagamento pendente",module,Magento_Sales
+Processing,Processando,module,Magento_Sales
+"On Hold","On Hold",module,Magento_Sales
+Complete,Finalizado,module,Magento_Sales
+Closed,Fechado,module,Magento_Sales
+"Suspected Fraud","Suspeita de fraude",module,Magento_Sales
+"Payment Review","Payment Review",module,Magento_Sales
+New,Novo,module,Magento_Sales
+"test message","test message",module,Magento_Sales
+"Email has not been sent","Email não foi enviado",module,Magento_Sales
+" Transaction ID: ""%1"""," ID da transação: ""%1""",module,Magento_Sales
+View,Visualizar,module,Magento_Sales
+"Group was removed","O grupo foi removido",module,Magento_Sales
+"Changing address information will not recalculate shipping, tax or other order amount.","Alterar as informações de endereço não recalculará o envio, impostos ou outros valores do pedido.",module,Magento_Sales
+"Comment Text","Texto do comentário",module,Magento_Sales
+"Notify Customer by Email","Notificar o cliente por e-mail",module,Magento_Sales
+"Visible on Storefront","Visible on Storefront",module,Magento_Sales
+Customer,Cliente,module,Magento_Sales
+Notified,Notificado,module,Magento_Sales
+"Not Notified","Não notificado",module,Magento_Sales
+"No Payment Methods","Não há Formas de Pagamento",module,Magento_Sales
+"Order Comments","Comentários do pedido",module,Magento_Sales
+"Apply Coupon Code","Aplicar Cupom de Desconto",module,Magento_Sales
+Apply,Aplicar,module,Magento_Sales
+"Remove Coupon Code","Remover Cupom de Desconto",module,Magento_Sales
+Remove,Remover,module,Magento_Sales
+"Address Information","Informações de Endereço",module,Magento_Sales
+"Payment &amp; Shipping Information","Informações de Pagamento &amp; Postagem",module,Magento_Sales
+"Order Total","Total do Pedido",module,Magento_Sales
+"Order Currency:","Moeda do pedido:",module,Magento_Sales
+"Same As Billing Address","Mesmo que o endereço de cobrança",module,Magento_Sales
+"Select from existing customer addresses:","Selecione endereços de cliente existentes:",module,Magento_Sales
+"Add New Address","Adicionar Novo Endereço",module,Magento_Sales
+"Save in address book","Salvar no catálogo de endereços",module,Magento_Sales
+"You don't need to select a shipping address.","Você não precisa selecionar um endereço de entrega.",module,Magento_Sales
+"Gift Message for the Entire Order","Gift Message for the Entire Order",module,Magento_Sales
+"Leave this box blank if you don't want to leave a gift message for the entire order.","Deixe essa caixa em branco se você não quer deixar uma mensagem de presente para todo o pedido.",module,Magento_Sales
+"Row Subtotal","Linha de Subtotal",module,Magento_Sales
+Action,Ação,module,Magento_Sales
+"No ordered items","Não há itens solicitados",module,Magento_Sales
+"Update Items and Quantities","Atualizar Itens e Quantidades",module,Magento_Sales
+"Total %1 product(s)","%1 produto(s) no total",module,Magento_Sales
+Subtotal:,Subtotal:,module,Magento_Sales
+"Tier Pricing","Nível de Preços",module,Magento_Sales
+"Custom Price","Preço personalizado ",module,Magento_Sales
+"Please select","Selecione por favor",module,Magento_Sales
+"Move to Shopping Cart","Mover para o carrinho de compras",module,Magento_Sales
+"Move to Wish List","Mover para Lista de Desejos",module,Magento_Sales
+"Subscribe to Newsletter","Assinar newsletter",module,Magento_Sales
+"Click to change shipping method","Clique para alterar o método de envio",module,Magento_Sales
+"Sorry, no quotes are available for this order.","Desculpe, nenhuma cotação está disponível para este pedido.",module,Magento_Sales
+"Get shipping methods and rates","Obter métodos de envio e taxas",module,Magento_Sales
+"You don't need to select a shipping method.","Você não precisa selecionar um método de envio.",module,Magento_Sales
+"Customer's Activities","Atividades do cliente",module,Magento_Sales
+Refresh,Atualizar,module,Magento_Sales
+Item,Item,module,Magento_Sales
+"Add To Order","Adicionar ao pedido",module,Magento_Sales
+"Configure and Add to Order","Configurar e adicionar ao pedido",module,Magento_Sales
+"No items","Não há itens",module,Magento_Sales
+"Append Comments","Acrescentar comentários",module,Magento_Sales
+"Email Order Confirmation","E-mail de confirmação de pedido",module,Magento_Sales
+"Grand Total Excl. Tax","Grand Total Excl. Tax",module,Magento_Sales
+"Grand Total Incl. Tax","Grand Total Incl. Tax",module,Magento_Sales
+"Subtotal (Excl. Tax)","Subtotal (Excl. Tax)",module,Magento_Sales
+"Subtotal (Incl. Tax)","Subtotal (Incl. Tax)",module,Magento_Sales
+"Payment &amp; Shipping Method","Pagamento &amp; método de envio",module,Magento_Sales
+"Payment Information","Informação de Pagamento",module,Magento_Sales
+"The order was placed using %1.","O pedido foi realizado usando %1.",module,Magento_Sales
+"Shipping Information","Dados de Entrega",module,Magento_Sales
+"Items to Refund","Itens para reembolso",module,Magento_Sales
+"Return to Stock","Retornar ao estoque",module,Magento_Sales
+"Qty to Refund","Qtde para reembolso",module,Magento_Sales
+"Tax Amount","Valor do imposto",module,Magento_Sales
+"Discount Amount","Quantidade do Desconto",module,Magento_Sales
+"Row Total","Linha Total",module,Magento_Sales
+"No Items To Refund","Não há itens para reembolso",module,Magento_Sales
+"Credit Memo Comments","Credit Memo Comments",module,Magento_Sales
+"Refund Totals","Total reembolsado",module,Magento_Sales
+"Email Copy of Credit Memo","Email Copy of Credit Memo",module,Magento_Sales
+"Please enter a positive number in this field.","Please enter a positive number in this field.",module,Magento_Sales
+"Items Refunded","Itens reembolsados",module,Magento_Sales
+"No Items","Não há itens",module,Magento_Sales
+"Memo Total","Memo Total",module,Magento_Sales
+"Credit Memo History","Credit Memo History",module,Magento_Sales
+"Credit Memo Totals","Credit Memo Totals",module,Magento_Sales
+"Customer Name: %1","Nome do cliente: %1",module,Magento_Sales
+"Purchased From: %1","Purchased From: %1",module,Magento_Sales
+"Gift Message","Mensagem do presente",module,Magento_Sales
+From:,De:,module,Magento_Sales
+To:,Para:,module,Magento_Sales
+Message:,Mensagem:,module,Magento_Sales
+"Shipping &amp; Handling","Shipping &amp; Handling",module,Magento_Sales
+"Gift Options","Opções de presente",module,Magento_Sales
+"Create Shipment","Create Shipment",module,Magento_Sales
+"Invoice and shipment types do not match for some items on this order. You can create a shipment only after creating the invoice.","Invoice and shipment types do not match for some items on this order. You can create a shipment only after creating the invoice.",module,Magento_Sales
+%1,%1,module,Magento_Sales
+"Qty to Invoice","Qty to Invoice",module,Magento_Sales
+"Invoice History","Invoice History",module,Magento_Sales
+"Invoice Comments","Invoice Comments",module,Magento_Sales
+"Invoice Totals","Invoice Totals",module,Magento_Sales
+Amount,Quantidade,module,Magento_Sales
+"Capture Online","Capturar on-line",module,Magento_Sales
+"Capture Offline","Capturar off-line",module,Magento_Sales
+"Not Capture","Não capturar",module,Magento_Sales
+"The invoice will be created offline without the payment gateway.","A fatura será criada off-line sem o gateway de pagamento.",module,Magento_Sales
+"Email Copy of Invoice","Cópia do e-mail de fatura",module,Magento_Sales
+"Items Invoiced","Itens faturados",module,Magento_Sales
+"Total Tax","Imposto total",module,Magento_Sales
+"From Name","Nome do remetente",module,Magento_Sales
+"To Name","To Name",module,Magento_Sales
+Status,Status,module,Magento_Sales
+Comment,Comentar,module,Magento_Sales
+"Notification Not Applicable","Notification Not Applicable",module,Magento_Sales
+"Order & Account Information","Order & Account Information",module,Magento_Sales
+"The order confirmation email was sent","The order confirmation email was sent",module,Magento_Sales
+"The order confirmation email is not sent","The order confirmation email is not sent",module,Magento_Sales
+"Order Date","Order Date",module,Magento_Sales
+"Order Date (%1)","Order Date (%1)",module,Magento_Sales
+"Purchased From","Purchased From",module,Magento_Sales
+"Link to the New Order","Link to the New Order",module,Magento_Sales
+"Link to the Previous Order","Link to the Previous Order",module,Magento_Sales
+"Placed from IP","Placed from IP",module,Magento_Sales
+"%1 / %2 rate:","%1 / %2 rate:",module,Magento_Sales
+"Customer Name","Nome do cliente",module,Magento_Sales
+"Customer Group","Grupo de clientes",module,Magento_Sales
+"Item Status","Item Status",module,Magento_Sales
+"Original Price","Preço original",module,Magento_Sales
+"Tax Percent","Tax Percent",module,Magento_Sales
+"Notes for this Order","Notes for this Order",module,Magento_Sales
+"Comment added","Comment added",module,Magento_Sales
+"Transaction Data","Transaction Data",module,Magento_Sales
+"Transaction ID","ID Transação",module,Magento_Sales
+"Parent Transaction ID","Parent Transaction ID",module,Magento_Sales
+"Order ID","ID do Pedido",module,Magento_Sales
+"Transaction Type","Tipo de Transação",module,Magento_Sales
+"Is Closed","Is Closed",module,Magento_Sales
+"Created At","Criado em",module,Magento_Sales
+"Child Transactions","Child Transactions",module,Magento_Sales
+"Transaction Details","Transaction Details",module,Magento_Sales
+Items,Itens,module,Magento_Sales
+"Gift Message for this Order","Gift Message for this Order",module,Magento_Sales
+"Shipped By","Shipped By",module,Magento_Sales
+"Tracking Number","Número de rastreamento",module,Magento_Sales
+"Billing Last Name","Billing Last Name",module,Magento_Sales
+"Find Order By","Find Order By",module,Magento_Sales
+"ZIP Code","Código postal",module,Magento_Sales
+"Billing ZIP Code","Billing ZIP Code",module,Magento_Sales
+Continue,Próximo,module,Magento_Sales
+"Print All Refunds","Imprimir todos os reembolsos",module,Magento_Sales
+"Refund #","Reembolso #",module,Magento_Sales
+"Print Refund","Impressão reembolso",module,Magento_Sales
+"Product Name","Nome do produto",module,Magento_Sales
+"Order #","Pedido #",module,Magento_Sales
+Date,Data,module,Magento_Sales
+"Ship To","Enviar para",module,Magento_Sales
+Actions,Ações,module,Magento_Sales
+"View Order","Visualizar pedido",module,Magento_Sales
+"You have placed no orders.","You have placed no orders.",module,Magento_Sales
+"No shipping information available","No shipping information available",module,Magento_Sales
+"Print Order","Print Order",module,Magento_Sales
+"Print All Invoices","Print All Invoices",module,Magento_Sales
+"Invoice #","Invoice #",module,Magento_Sales
+"Print Invoice","Print Invoice",module,Magento_Sales
+"Qty Invoiced","Quantidade faturada",module,Magento_Sales
+Close,Fechar,module,Magento_Sales
+"About Your Order","About Your Order",module,Magento_Sales
+"<span class=""label"">Order Date:</span> %1","<span class=""label"">Order Date:</span> %1",module,Magento_Sales
+"Refund #%1","Reembolso #%1",module,Magento_Sales
+"Shipment #%1","Shipment #%1",module,Magento_Sales
+"Qty Shipped","Quantidade enviada",module,Magento_Sales
+"Recent Orders","Recent Orders",module,Magento_Sales
+"View All","Ver tudo",module,Magento_Sales
+"Gift Message for This Order","Gift Message for This Order",module,Magento_Sales
+"Add to Cart","Adicionar ao Carrinho",module,Magento_Sales
+Search,Pesquisa,module,Magento_Sales
+"%name,","%name,",module,Magento_Sales
+"Thank you for your order from %store_name.","Obrigado pelo seu pedido na loja %store_name.",module,Magento_Sales
+"You can check the status of your order by <a href=""%account_url"">logging into your account</a>.","You can check the status of your order by <a href=""%account_url"">logging into your account</a>.",module,Magento_Sales
+"If you have questions about your order, you can email us at <a href=""mailto:%store_email"">%store_email</a>","If you have questions about your order, you can email us at <a href=""mailto:%store_email"">%store_email</a>",module,Magento_Sales
+"or call us at <a href=""tel:%store_phone"">%store_phone</a>","or call us at <a href=""tel:%store_phone"">%store_phone</a>",module,Magento_Sales
+"Our hours are <span class=""no-link"">%store_hours</span>.","Our hours are <span class=""no-link"">%store_hours</span>.",module,Magento_Sales
+"Your Credit Memo #%creditmemo_id for Order #%order_id","Your Credit Memo #%creditmemo_id for Order #%order_id",module,Magento_Sales
+"Billing Info","Informações de cobrança",module,Magento_Sales
+"Shipping Info","Informações de entrega",module,Magento_Sales
+"Your order #%increment_id has been updated with a status of <strong>%order_status</strong>.","Your order #%increment_id has been updated with a status of <strong>%order_status</strong>.",module,Magento_Sales
+"Your Invoice #%invoice_id for Order #%order_id","Your Invoice #%invoice_id for Order #%order_id",module,Magento_Sales
+"%customer_name,","%customer_name,",module,Magento_Sales
+"Once your package ships we will send you a tracking number.","Once your package ships we will send you a tracking number.",module,Magento_Sales
+"Your Order <span class=""no-link"">#%increment_id</span>","Your Order <span class=""no-link"">#%increment_id</span>",module,Magento_Sales
+"Placed on <span class=""no-link"">%created_at</span>","Placed on <span class=""no-link"">%created_at</span>",module,Magento_Sales
+"Once your package ships we will send an email with a link to track your order.","Once your package ships we will send an email with a link to track your order.",module,Magento_Sales
+"Your shipping confirmation is below. Thank you again for your business.","Your shipping confirmation is below. Thank you again for your business.",module,Magento_Sales
+"Your Shipment #%shipment_id for Order #%order_id","Your Shipment #%shipment_id for Order #%order_id",module,Magento_Sales
+"Gift Options for ","Gift Options for ",module,Magento_Sales
+"Add Products","Adicionar Produtos",module,Magento_Sales
+"You have item changes","You have item changes",module,Magento_Sales
+Ok,Ok,module,Magento_Sales
+General,Geral,module,Magento_Sales
+"Hide Customer IP","Hide Customer IP",module,Magento_Sales
+"Choose whether a customer IP is shown in orders, invoices, shipments, and credit memos.","Choose whether a customer IP is shown in orders, invoices, shipments, and credit memos.",module,Magento_Sales
+"Checkout Totals Sort Order","Checkout Totals Sort Order",module,Magento_Sales
+"Allow Reorder","Allow Reorder",module,Magento_Sales
+"Invoice and Packing Slip Design","Invoice and Packing Slip Design",module,Magento_Sales
+"Logo for PDF Print-outs (200x50)","Logo for PDF Print-outs (200x50)",module,Magento_Sales
+"
+                        Your default logo will be used in PDF and HTML documents.<br />(jpeg, tiff, png) If your pdf image is distorted, try to use larger file-size image.
+                    ","
+                        Your default logo will be used in PDF and HTML documents.<br />(jpeg, tiff, png) If your pdf image is distorted, try to use larger file-size image.
+                    ",module,Magento_Sales
+"Logo for HTML Print View","Logo for HTML Print View",module,Magento_Sales
+"
+                        Logo for HTML documents only. If empty, default will be used.<br />(jpeg, gif, png)
+                    ","
+                        Logo for HTML documents only. If empty, default will be used.<br />(jpeg, gif, png)
+                    ",module,Magento_Sales
+Address,Endereço,module,Magento_Sales
+"Minimum Order Amount","Minimum Order Amount",module,Magento_Sales
+Enable,Habilitado,module,Magento_Sales
+"Minimum Amount","Quantidade mínima",module,Magento_Sales
+"Subtotal after discount","Subtotal after discount",module,Magento_Sales
+"Include Tax to Amount","Incluso o imposto sobre a quantidade",module,Magento_Sales
+"Description Message","Mensagem de descrição",module,Magento_Sales
+"This message will be shown in the shopping cart when the subtotal (after discount) is lower than the minimum allowed amount.","This message will be shown in the shopping cart when the subtotal (after discount) is lower than the minimum allowed amount.",module,Magento_Sales
+"Error to Show in Shopping Cart","Error to Show in Shopping Cart",module,Magento_Sales
+"Validate Each Address Separately in Multi-address Checkout","Validate Each Address Separately in Multi-address Checkout",module,Magento_Sales
+"Multi-address Description Message","Multi-address Description Message",module,Magento_Sales
+"We'll use the default description above if you leave this empty.","We'll use the default description above if you leave this empty.",module,Magento_Sales
+"Multi-address Error to Show in Shopping Cart","Multi-address Error to Show in Shopping Cart",module,Magento_Sales
+"We'll use the default error above if you leave this empty.","We'll use the default error above if you leave this empty.",module,Magento_Sales
+Dashboard,"Painel de Controle",module,Magento_Sales
+"Use Aggregated Data (beta)","Use Aggregated Data (beta)",module,Magento_Sales
+"Orders Cron Settings","Orders Cron Settings",module,Magento_Sales
+"Pending Payment Order Lifetime (minutes)","Pending Payment Order Lifetime (minutes)",module,Magento_Sales
+"Sales Emails","E-mails de vendas",module,Magento_Sales
+"Asynchronous sending","Asynchronous sending",module,Magento_Sales
+Enabled,Habilitado,module,Magento_Sales
+"New Order Confirmation Email Sender","New Order Confirmation Email Sender",module,Magento_Sales
+"New Order Confirmation Template","New Order Confirmation Template",module,Magento_Sales
+"Email template chosen based on theme fallback when ""Default"" option is selected.","O modelo de e-mail escolhido baseado no tema ""fallback"" quando a opção ""Padrão"" é selecionada.",module,Magento_Sales
+"New Order Confirmation Template for Guest","New Order Confirmation Template for Guest",module,Magento_Sales
+"Send Order Email Copy To","Send Order Email Copy To",module,Magento_Sales
+Comma-separated,Comma-separated,module,Magento_Sales
+"Send Order Email Copy Method","Send Order Email Copy Method",module,Magento_Sales
+"Order Comment Email Sender","Order Comment Email Sender",module,Magento_Sales
+"Order Comment Email Template","Order Comment Email Template",module,Magento_Sales
+"Order Comment Email Template for Guest","Order Comment Email Template for Guest",module,Magento_Sales
+"Send Order Comment Email Copy To","Send Order Comment Email Copy To",module,Magento_Sales
+"Send Order Comments Email Copy Method","Send Order Comments Email Copy Method",module,Magento_Sales
+"Invoice Email Sender","Invoice Email Sender",module,Magento_Sales
+"Invoice Email Template","Invoice Email Template",module,Magento_Sales
+"Invoice Email Template for Guest","Invoice Email Template for Guest",module,Magento_Sales
+"Send Invoice Email Copy To","Send Invoice Email Copy To",module,Magento_Sales
+"Send Invoice Email Copy Method","Send Invoice Email Copy Method",module,Magento_Sales
+"Invoice Comment Email Sender","Invoice Comment Email Sender",module,Magento_Sales
+"Invoice Comment Email Template","Invoice Comment Email Template",module,Magento_Sales
+"Invoice Comment Email Template for Guest","Invoice Comment Email Template for Guest",module,Magento_Sales
+"Send Invoice Comment Email Copy To","Send Invoice Comment Email Copy To",module,Magento_Sales
+"Send Invoice Comments Email Copy Method","Send Invoice Comments Email Copy Method",module,Magento_Sales
+Shipment,Envio,module,Magento_Sales
+"Shipment Email Sender","Shipment Email Sender",module,Magento_Sales
+"Shipment Email Template","Shipment Email Template",module,Magento_Sales
+"Shipment Email Template for Guest","Shipment Email Template for Guest",module,Magento_Sales
+"Send Shipment Email Copy To","Send Shipment Email Copy To",module,Magento_Sales
+"Send Shipment Email Copy Method","Send Shipment Email Copy Method",module,Magento_Sales
+"Shipment Comments","Shipment Comments",module,Magento_Sales
+"Shipment Comment Email Sender","Shipment Comment Email Sender",module,Magento_Sales
+"Shipment Comment Email Template","Shipment Comment Email Template",module,Magento_Sales
+"Shipment Comment Email Template for Guest","Shipment Comment Email Template for Guest",module,Magento_Sales
+"Send Shipment Comment Email Copy To","Send Shipment Comment Email Copy To",module,Magento_Sales
+"Send Shipment Comments Email Copy Method","Send Shipment Comments Email Copy Method",module,Magento_Sales
+"Credit Memo Email Sender","Credit Memo Email Sender",module,Magento_Sales
+"Credit Memo Email Template","Credit Memo Email Template",module,Magento_Sales
+"Credit Memo Email Template for Guest","Credit Memo Email Template for Guest",module,Magento_Sales
+"Send Credit Memo Email Copy To","Send Credit Memo Email Copy To",module,Magento_Sales
+"Send Credit Memo Email Copy Method","Send Credit Memo Email Copy Method",module,Magento_Sales
+"Credit Memo Comment Email Sender","Credit Memo Comment Email Sender",module,Magento_Sales
+"Credit Memo Comment Email Template","Credit Memo Comment Email Template",module,Magento_Sales
+"Credit Memo Comment Email Template for Guest","Credit Memo Comment Email Template for Guest",module,Magento_Sales
+"Send Credit Memo Comment Email Copy To","Send Credit Memo Comment Email Copy To",module,Magento_Sales
+"Send Credit Memo Comments Email Copy Method","Send Credit Memo Comments Email Copy Method",module,Magento_Sales
+"PDF Print-outs","PDF Print-outs",module,Magento_Sales
+"Display Order ID in Header","Display Order ID in Header",module,Magento_Sales
+"Customer Order Status Notification","Customer Order Status Notification",module,Magento_Sales
+"Asynchronous indexing","Asynchronous indexing",module,Magento_Sales
+"Orders and Returns Search Form","Orders and Returns Search Form",module,Magento_Sales
+"Anchor Custom Title","Anchor Custom Title",module,Magento_Sales
+Template,Template,module,Magento_Sales
+"Default Template","Modelo padrão",module,Magento_Sales
+Name,Nome,module,Magento_Sales
+Phone,Telefone,module,Magento_Sales
+"ZIP/Post Code","Código postal / CEP",module,Magento_Sales
+"Signed-up Point","Signed-up Point",module,Magento_Sales
+Website,Website,module,Magento_Sales
+order-header,order-header,module,Magento_Sales
+"Bill-to Name","Nome de Cobrança",module,Magento_Sales
+Created,Criado,module,Magento_Sales
+"Invoice Date","Data da factura",module,Magento_Sales
+"Ship-to Name","Nome de Entrega",module,Magento_Sales
+"Ship Date","Data de envio",module,Magento_Sales
+"Total Quantity","Quantidade total",module,Magento_Sales
+"Default Status","Default Status",module,Magento_Sales
+"State Code and Title","State Code and Title",module,Magento_Sales
+"All Store Views","Todas as Visões de Loja",module,Magento_Sales
+"PDF Credit Memos","PDF Credit Memos",module,Magento_Sales
+"Purchase Point","Ponto de compra",module,Magento_Sales
+"Print Invoices","Print Invoices",module,Magento_Sales
+"Print Packing Slips","Print Packing Slips",module,Magento_Sales
+"Print Credit Memos","Print Credit Memos",module,Magento_Sales
+"Print All","Imprimir tudo",module,Magento_Sales
+"Print Shipping Labels","Print Shipping Labels",module,Magento_Sales
+"Purchase Date","Purchase Date",module,Magento_Sales
+"Grand Total (Base)","Total geral (Base)",module,Magento_Sales
+"Grand Total (Purchased)","Total geral (comprado)",module,Magento_Sales
+"Customer Email","E-mail do cliente",module,Magento_Sales
+"Shipping and Handling","Shipping and Handling",module,Magento_Sales
+"PDF Invoices","Faturas PDF",module,Magento_Sales
+"PDF Shipments","PDF Shipments",module,Magento_Sales
+"PDF Creditmemos","PDF Creditmemos",module,Magento_Sales
+Refunds,Refunds,module,Magento_Sales

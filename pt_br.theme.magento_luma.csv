@@ -1,0 +1,44 @@
+"Now Shopping by","Comprar por",theme,Magento_luma
+Previous,Anterior,theme,Magento_luma
+Remove,Remover,theme,Magento_luma
+"Remove This Item","Remover este Item",theme,Magento_luma
+"Shop By","Filtrar por",theme,Magento_luma
+"Clear All","Limpar Tudo",theme,Magento_luma
+"Shopping Options","Opções de Compra",theme,Magento_luma
+"%name,","%name,",theme,Magento_luma
+"Welcome to %store_name.","Bem-vindo a %store_name.",theme,Magento_luma
+"To sign in to our site, use these credentials during checkout or on the <a href=""%customer_url"">My Account</a> page:","Para entrar em nosso site, use estas credenciais durante a compra ou na página <a href=""%customer_url"">Conta</a>:",theme,Magento_luma
+Email:,E-mail:,theme,Magento_luma
+Password:,Senha:,theme,Magento_luma
+"Password you set when creating account","Senha que você definiu ao criar a conta",theme,Magento_luma
+"Forgot your account password? Click <a href=""%reset_url"">here</a> to reset it.","Esqueceu sua senha? Clique <a href=""%reset_url""> aqui</a> para redefinir.",theme,Magento_luma
+"When you sign in to your account, you will be able to:","Quando você entrar em sua conta, você vai poder:",theme,Magento_luma
+"Quick Checkout","Compra Rápida",theme,Magento_luma
+"Proceed through checkout faster","Finalizar a compra de forma mais rápida",theme,Magento_luma
+"Order Status","Situação do pedido",theme,Magento_luma
+"Check the status of orders","Verificar o status dos seus pedidos",theme,Magento_luma
+"Manage Addresses","Gerenciar endereços",theme,Magento_luma
+"Store alternative addresses","Endereços alternativos da loja",theme,Magento_luma
+"For shipping to multiple family members and friends","Para enviar para vários familiares e amigos",theme,Magento_luma
+"Order History","Histórico de pedidos",theme,Magento_luma
+"View past orders","Ver os pedidos que você já realizou",theme,Magento_luma
+"About Us","Sobre nós",theme,Magento_luma
+"Customer Service","Atendimento ao cliente",theme,Magento_luma
+"<a href=""tel:%store_phone"">%store_phone</a>","<a href=""tel:%store_phone""> %store_phone</a>",theme,Magento_luma
+"Hours of Operation:<br /><span class=""no-link"">%store_hours</span>.","Horário de Funcionamento:<br /><span class=""no-link"">%store_hours</span>.",theme,Magento_luma
+"Thank you for your order from %store_name.","Obrigado pelo seu pedido na loja %store_name.",theme,Magento_luma
+"You can check the status of your order by <a href=""%account_url"">logging into your account</a>.","Você pode verificar o status do seu pedido ao <a href=""%account_url""> logar em sua conta</a>.",theme,Magento_luma
+"If you have questions about your order, you can email us at <a href=""mailto:%store_email"">%store_email</a>.","Se você tem perguntas sobre seu pedido, você pode nos enviar em <a href=""mailto:%store_email""> %store_email</a>.",theme,Magento_luma
+"Your Credit Memo #%creditmemo_id for Order #%order_id","Your Credit Memo #%creditmemo_id for Order #%order_id",theme,Magento_luma
+"Billing Info","Informações de cobrança",theme,Magento_luma
+"Shipping Info","Informações de entrega",theme,Magento_luma
+"Payment Method","Forma de pagamento",theme,Magento_luma
+"Shipping Method","Método de Entrega",theme,Magento_luma
+"Your order #%increment_id has been updated with a status of <strong>%order_status</strong>.","Seu pedido #%increment_id foi atualizado com um status de <strong>%order_status</strong>.",theme,Magento_luma
+"Your Invoice #%invoice_id for Order #%order_id","Your Invoice #%invoice_id for Order #%order_id",theme,Magento_luma
+"%customer_name,","%customer_name,",theme,Magento_luma
+"Once your package ships we will send you a tracking number.","Once your package ships we will send you a tracking number.",theme,Magento_luma
+"Your Order <span class=""no-link"">#%increment_id</span>","Your Order <span class=""no-link"">#%increment_id</span>",theme,Magento_luma
+"Placed on <span class=""no-link"">%created_at</span>","Placed on <span class=""no-link"">%created_at</span>",theme,Magento_luma
+"Your shipping confirmation is below. Thank you again for your business.","Your shipping confirmation is below. Thank you again for your business.",theme,Magento_luma
+"Your Shipment #%shipment_id for Order #%order_id","Your Shipment #%shipment_id for Order #%order_id",theme,Magento_luma

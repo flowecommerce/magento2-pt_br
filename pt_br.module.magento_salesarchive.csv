@@ -1,0 +1,73 @@
+"Move to Archive","Move to Archive",module,Magento_SalesArchive
+"Move to Order Management","Move to Order Management",module,Magento_SalesArchive
+"We have archived the order.","We have archived the order.",module,Magento_SalesArchive
+"Please specify the order ID to be archived.","Please specify the order ID to be archived.",module,Magento_SalesArchive
+"Credit Memos","Memorandos de Crédito",module,Magento_SalesArchive
+Invoices,Faturas,module,Magento_SalesArchive
+"We archived %1 order(s).","We archived %1 order(s).",module,Magento_SalesArchive
+"We can't archive the selected order(s).","We can't archive the selected order(s).",module,Magento_SalesArchive
+"We removed %1 order(s) from the archive.","We removed %1 order(s) from the archive.",module,Magento_SalesArchive
+Orders,Pedidos,module,Magento_SalesArchive
+"We have removed the order from the archive.","We have removed the order from the archive.",module,Magento_SalesArchive
+"Please specify the order ID to be removed from archive.","Please specify the order ID to be removed from archive.",module,Magento_SalesArchive
+Shipments,Postagens,module,Magento_SalesArchive
+"There are %1 orders in this archive. All of them will be moved to the regular table after the archive is disabled.","There are %1 orders in this archive. All of them will be moved to the regular table after the archive is disabled.",module,Magento_SalesArchive
+"Orders, Invoices, Shipments, Credit Memos Archiving","Orders, Invoices, Shipments, Credit Memos Archiving",module,Magento_SalesArchive
+"Enable Archiving","Habilitar o arquivamento",module,Magento_SalesArchive
+"Archive Orders Purchased","Archive Orders Purchased",module,Magento_SalesArchive
+"Order Statuses to be Archived","Order Statuses to be Archived",module,Magento_SalesArchive
+"Mass Add","Mass Add",module,Magento_SalesArchive
+Add,Adicionar,module,Magento_SalesArchive
+"Sales Archive","Sales Archive",module,Magento_SalesArchive
+"All Store Views","Todas as Visões de Loja",module,Magento_SalesArchive
+"Purchased From","Purchased From",module,Magento_SalesArchive
+"PDF Credit Memos","PDF Credit Memos",module,Magento_SalesArchive
+"Credit Memo","Memorando de Crédito",module,Magento_SalesArchive
+Created,Criado,module,Magento_SalesArchive
+Order,Pedido,module,Magento_SalesArchive
+"Order Date","Order Date",module,Magento_SalesArchive
+"Bill-to Name","Nome de Cobrança",module,Magento_SalesArchive
+Status,Status,module,Magento_SalesArchive
+Refunded,Reembolsado,module,Magento_SalesArchive
+"Order Status","Situação do pedido",module,Magento_SalesArchive
+"Billing Address","Endereço de Cobrança",module,Magento_SalesArchive
+"Shipping Address","Endereço de entrega",module,Magento_SalesArchive
+"Customer Name","Nome do cliente",module,Magento_SalesArchive
+Email,E-mail,module,Magento_SalesArchive
+"Customer Group","Grupo de clientes",module,Magento_SalesArchive
+"Payment Method","Forma de pagamento",module,Magento_SalesArchive
+"Shipping Information","Dados de Entrega",module,Magento_SalesArchive
+Subtotal,Subtotal,module,Magento_SalesArchive
+"Shipping & Handling","Envio e Manuseio",module,Magento_SalesArchive
+"Adjustment Refund","Ajuste de reembolso",module,Magento_SalesArchive
+"Adjustment Fee","Taxa de ajuste",module,Magento_SalesArchive
+"Grand Total","Total geral",module,Magento_SalesArchive
+"Return to Order Management","Return to Order Management",module,Magento_SalesArchive
+"Purchase Point","Ponto de compra",module,Magento_SalesArchive
+Cancel,Cancelar,module,Magento_SalesArchive
+Hold,Hold,module,Magento_SalesArchive
+Unhold,Unhold,module,Magento_SalesArchive
+"Print Invoices","Print Invoices",module,Magento_SalesArchive
+"Print Packing Slips","Print Packing Slips",module,Magento_SalesArchive
+"Print Credit Memos","Print Credit Memos",module,Magento_SalesArchive
+"Print All","Imprimir tudo",module,Magento_SalesArchive
+"Print Shipping Labels","Print Shipping Labels",module,Magento_SalesArchive
+"Remove to Archive","Remove to Archive",module,Magento_SalesArchive
+ID,ID,module,Magento_SalesArchive
+"Purchase Date","Purchase Date",module,Magento_SalesArchive
+"Ship-to Name","Nome de Entrega",module,Magento_SalesArchive
+"Grand Total (Base)","Total geral (Base)",module,Magento_SalesArchive
+"Grand Total (Purchased)","Total geral (comprado)",module,Magento_SalesArchive
+"Customer Email","E-mail do cliente",module,Magento_SalesArchive
+"Shipping and Handling","Shipping and Handling",module,Magento_SalesArchive
+"Total Refunded","Total reembolsado",module,Magento_SalesArchive
+"PDF Invoices","Faturas PDF",module,Magento_SalesArchive
+Invoice,Fatura,module,Magento_SalesArchive
+"Invoice Date","Data da factura",module,Magento_SalesArchive
+"Order #","Pedido #",module,Magento_SalesArchive
+Amount,Quantidade,module,Magento_SalesArchive
+"PDF Shipments","PDF Shipments",module,Magento_SalesArchive
+Shipment,Envio,module,Magento_SalesArchive
+"Ship Date","Data de envio",module,Magento_SalesArchive
+"Total Quantity","Quantidade total",module,Magento_SalesArchive
+"Go to Archive","Ir para arquivo",module,Magento_SalesArchive

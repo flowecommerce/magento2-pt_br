@@ -1,0 +1,9 @@
+"Format for IDE '%1' is not supported","O formato para IDE '%1' não é suportado",module,Magento_Developer
+"Client side less compilation","Compilação less no cliente",module,Magento_Developer
+"Server side less compilation","Compilação less no servidor",module,Magento_Developer
+"Front-end development workflow","Front-end development workflow",module,Magento_Developer
+"Workflow type","Workflow type",module,Magento_Developer
+"Not available in production mode","Não disponível em modo de produção",module,Magento_Developer
+"Developer Client Restrictions","Developer Client Restrictions",module,Magento_Developer
+"Allowed IPs (comma separated)","IPs Permitidos (separados por vírgula)",module,Magento_Developer
+"Leave empty for access from any location.","Leave empty for access from any location.",module,Magento_Developer

@@ -1,0 +1,34 @@
+"Current store is not active.","A loja atual não está ativa.",module,Magento_Store
+"Requested store is inactive","A loja solicitada está inativa",module,Magento_Store
+"Requested store is not found","A loja solicitada não foi encontrada",module,Magento_Store
+"Environment emulation nesting is not allowed.","A emulação de ambiente aninhada não é permitido.",module,Magento_Store
+"Only default scope allowed","Apenas é permitido o escopo padrão",module,Magento_Store
+"Invalid scope object","Objeto de escopo inválido",module,Magento_Store
+"Store with the same code","Loja com o mesmo código",module,Magento_Store
+"Website with the same code","Site com o mesmo código",module,Magento_Store
+"Website code may only contain letters (a-z), numbers (0-9) or underscore (_), and the first character must be a letter.","Website code may only contain letters (a-z), numbers (0-9) or underscore (_), and the first character must be a letter.",module,Magento_Store
+"Name is required","Nome é obrigatório",module,Magento_Store
+"The store code may contain only letters (a-z), numbers (0-9) or underscore (_), and the first character must be a letter.","The store code may contain only letters (a-z), numbers (0-9) or underscore (_), and the first character must be a letter.",module,Magento_Store
+"Store is inactive","A loja está inativa",module,Magento_Store
+"Default store is inactive","A loja padrão está inativa",module,Magento_Store
+"All Store Views","Todas as Visões de Loja",module,Magento_Store
+"-- Please Select --","-- Selecione uma opção --",module,Magento_Store
+Admin,Admin,module,Magento_Store
+"More than one default website is defined","Mais de um site padrão esta definido",module,Magento_Store
+"Default website is not defined","O site padrão não está definido",module,Magento_Store
+"Your Language:","Seu idioma:",module,Magento_Store
+"Your Language","Seu idioma",module,Magento_Store
+Language,Idioma,module,Magento_Store
+"Select Store","Selecionar loja",module,Magento_Store
+Configuration,Configuração,module,Magento_Store
+"Various XML configurations that were collected across modules and merged.","Várias configurações de XML que foram coletados através de módulos e mescladas.",module,Magento_Store
+Layouts,Layouts,module,Magento_Store
+"Layout building instructions.","Instruções de construção de layout.",module,Magento_Store
+"Blocks HTML output","Saída de blocos HTML",module,Magento_Store
+"Page blocks HTML.","Blocos de página HTML.",module,Magento_Store
+"Collections Data","Coleções de dados",module,Magento_Store
+"Collection data files.","Arquivos de coleção de dados.",module,Magento_Store
+"Reflection Data","Reflection Data",module,Magento_Store
+"API interfaces reflection data.","API interfaces reflection data.",module,Magento_Store
+"Database DDL operations","Database DDL operations",module,Magento_Store
+"Results of DDL queries, such as describing tables or indexes.","Results of DDL queries, such as describing tables or indexes.",module,Magento_Store

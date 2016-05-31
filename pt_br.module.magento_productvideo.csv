@@ -1,0 +1,40 @@
+Url,Url,module,Magento_ProductVideo
+Title,Título,module,Magento_ProductVideo
+Description,Descrição,module,Magento_ProductVideo
+"Preview Image","Preview Image",module,Magento_ProductVideo
+"Get Video Information","Obter informações do vídeo",module,Magento_ProductVideo
+"Hide from Product Page","Ocultar da Página de Produtos",module,Magento_ProductVideo
+Role,Função,module,Magento_ProductVideo
+"YouTube and Vimeo supported.","YouTube and Vimeo supported.",module,Magento_ProductVideo
+"Vimeo supported.<br />To add YouTube video, please <a href=""%1"">enter YouTube API Key</a> first.","Vimeo supported.<br />To add YouTube video, please <a href=""%1"">enter YouTube API Key</a> first.",module,Magento_ProductVideo
+"Could not get preview image information. Please check your connection and try again.","Could not get preview image information. Please check your connection and try again.",module,Magento_ProductVideo
+"Click here to add videos.","Clique aqui para adicionar vídeos.",module,Magento_ProductVideo
+"New Video","Novo vídeo",module,Magento_ProductVideo
+"Add Video","Add Video",module,Magento_ProductVideo
+"Add video","Add video",module,Magento_ProductVideo
+"Click here or drag and drop to add images.","Clique aqui ou arraste e solte para adicionar imagens.",module,Magento_ProductVideo
+"Delete video","Delete video",module,Magento_ProductVideo
+"Delete image","Excluir Imagem",module,Magento_ProductVideo
+"Make Base","Tornar Base",module,Magento_ProductVideo
+Hidden,Oculto,module,Magento_ProductVideo
+"Alt Text","Texto Alternativo",module,Magento_ProductVideo
+Title:,Title:,module,Magento_ProductVideo
+Uploaded:,Uploaded:,module,Magento_ProductVideo
+Uploader:,Uploader:,module,Magento_ProductVideo
+Duration:,Duration:,module,Magento_ProductVideo
+"Video Error","Video Error",module,Magento_ProductVideo
+"Unknown video type","Unknown video type",module,Magento_ProductVideo
+"Invalid video url","Invalid video url",module,Magento_ProductVideo
+"Youtube API key is invalid","Youtube API key is invalid",module,Magento_ProductVideo
+"Video cant be shown due to the following reason: ","Video cant be shown due to the following reason: ",module,Magento_ProductVideo
+"Video not found","Video not found",module,Magento_ProductVideo
+Save,Salvar,module,Magento_ProductVideo
+Cancel,Cancelar,module,Magento_ProductVideo
+Delete,Excluir,module,Magento_ProductVideo
+"Edit Video","Edit Video",module,Magento_ProductVideo
+"Images and Videos","Imagens e Vídeos",module,Magento_ProductVideo
+"Product Video","Product Video",module,Magento_ProductVideo
+"YouTube API Key","YouTube API Key",module,Magento_ProductVideo
+"Autostart base video","Autostart base video",module,Magento_ProductVideo
+"Show related video","Show related video",module,Magento_ProductVideo
+"Auto restart video","Auto restart video",module,Magento_ProductVideo

@@ -1,0 +1,131 @@
+"Save Review","Salvar Opinião",module,Magento_Review
+"New Review","Nova Avaliação",module,Magento_Review
+"Review Details","Detalhes da Avaliação",module,Magento_Review
+Product,Produto,module,Magento_Review
+"Product Rating","Avaliação do Produto",module,Magento_Review
+Status,Status,module,Magento_Review
+Visibility,Visibilidade,module,Magento_Review
+Nickname,Apelido,module,Magento_Review
+"Summary of Review","Resumo de Avaliação",module,Magento_Review
+Review,Avaliação,module,Magento_Review
+Previous,Anterior,module,Magento_Review
+"Save and Previous","Salvar e Voltar",module,Magento_Review
+"Save and Next","Salvar e avançar",module,Magento_Review
+Next,Próximo,module,Magento_Review
+"Delete Review","Apagar Avaliação",module,Magento_Review
+"Are you sure you want to do this?","Você tem que deseja fazer isso?",module,Magento_Review
+"Edit Review '%1'","Editar Avaliação '%1'",module,Magento_Review
+"<a href=""%1"" onclick=""this.target='blank'"">%2 %3</a> <a href=""mailto:%4"">(%4)</a>","<a href=""%1"" onclick=""this.target='blank'"">%2 %3</a> <a href=""mailto:%4""> (%4)</a>",module,Magento_Review
+Administrator,Administrador,module,Magento_Review
+Guest,Visitante,module,Magento_Review
+Author,Autor,module,Magento_Review
+"Summary Rating","Classificação Resumida",module,Magento_Review
+"Detailed Rating","Classificação Detalhada",module,Magento_Review
+ID,ID,module,Magento_Review
+Created,Criado,module,Magento_Review
+Title,Título,module,Magento_Review
+Type,Tipo,module,Magento_Review
+SKU,SKU,module,Magento_Review
+Action,Ação,module,Magento_Review
+Edit,Editar,module,Magento_Review
+Delete,Excluir,module,Magento_Review
+"Are you sure?","Você tem certeza?",module,Magento_Review
+"Update Status","Status de atualização",module,Magento_Review
+Customer,Cliente,module,Magento_Review
+"Pending Reviews of Customer `%1`","Avaliações de Clientes Pendentes '%1'",module,Magento_Review
+"Pending Reviews","Comentários pendentes",module,Magento_Review
+"All Reviews of Customer `%1`","Todas Avaliações de Clientes '%1'",module,Magento_Review
+"All Reviews of Product `%1`","Todas Avaliações de Produto '%1'",module,Magento_Review
+"All Reviews","Todas Avaliações",module,Magento_Review
+Name,Nome,module,Magento_Review
+"Product Store Name","Nome do Produto da Loja",module,Magento_Review
+Price,Preço,module,Magento_Review
+Quantity,Quantidade,module,Magento_Review
+Websites,Websites,module,Magento_Review
+"Manage Ratings","Gerenciar Classificações",module,Magento_Review
+"Add New Rating","Adicionar Nova Classificação",module,Magento_Review
+"Save Rating","Salvar avaliação",module,Magento_Review
+"Delete Rating","Apagar avaliação",module,Magento_Review
+"Edit Rating #%1","Editar Classificação #%1",module,Magento_Review
+"New Rating","Nova avaliação",module,Magento_Review
+"Rating Title","Título de Classificação",module,Magento_Review
+"Default Value","Valor Padrão",module,Magento_Review
+"Rating Visibility","Visibilidade de Classificação",module,Magento_Review
+"Is Active","Está Ativo",module,Magento_Review
+"Sort Order",Ordernação,module,Magento_Review
+"Rating Information","Informação de Classificação",module,Magento_Review
+"Product Reviews","Avaliações do Produto",module,Magento_Review
+"Pending product review(s)","Avaliações pendentes do produto",module,Magento_Review
+"Product: <a href=""%1"" target=""_blank"">%2</a> <br/>","Produto: <a href=""%1"" target=""_blank"">%2</a> <br/>",module,Magento_Review
+"Summary of review: %1 <br/>","Resumo da Avaliação: %1 <br />",module,Magento_Review
+"Review: %1 <br/>","Avaliação: %1 <br/>",module,Magento_Review
+"Store: %1 <br/>","Loja: %1 <br/>",module,Magento_Review
+"Click <a href=""%1"">here</a> to see the review.","Clique <a href=""%1""> aqui</a> para ver a avaliação.",module,Magento_Review
+"Product: ""%1"" reviewed by: %2","Produto: ""%1"" avaliado por: %2",module,Magento_Review
+"Pending Reviews RSS","Avaliações RSS Pendentes",module,Magento_Review
+"Reviews %1","Avaliações %1",module,Magento_Review
+Reviews,Avaliações,module,Magento_Review
+"The review has been deleted.","A avaliação foi excluída.",module,Magento_Review
+"Something went wrong  deleting this review.","Algo deu errado ao apagar esta avaliação.",module,Magento_Review
+"Customer Reviews","Avaliações de Clientes",module,Magento_Review
+"Edit Review","Editar Avaliação",module,Magento_Review
+"We can't retrieve the product ID.","Não podemos recuperar o ID do produto.",module,Magento_Review
+"Please select review(s).","Por favor, selecione uma ou mais avaliações.",module,Magento_Review
+"A total of %1 record(s) have been deleted.","Um total de %1 registro(s) foram excluídos.",module,Magento_Review
+"Something went wrong while deleting these records.","Algo deu errado ao excluir esses registros.",module,Magento_Review
+"A total of %1 record(s) have been updated.","Um total de %1 registro(s) foram atualizados.",module,Magento_Review
+"Something went wrong while updating these review(s).","Algo deu errado durante a atualização destas avaliações.",module,Magento_Review
+"You saved the review.","Você salvou a avaliação.",module,Magento_Review
+"Something went wrong while saving this review.","Algo deu errado ao salvar esta avaliação.",module,Magento_Review
+"The review was removed by another user or does not exist.","A avaliação foi removida por outro usuário ou não existe.",module,Magento_Review
+"You deleted the rating.","Você excluiu a classificação.",module,Magento_Review
+Ratings,Avaliações,module,Magento_Review
+"You saved the rating.","Você salvou a avaliação.",module,Magento_Review
+"My Product Reviews","Minhas Avaliações de Produto",module,Magento_Review
+"You submitted your review for moderation.","Você enviou sua avaliação para análise.",module,Magento_Review
+"We can't post your review right now.","Não podemos postar sua avaliação agora.",module,Magento_Review
+"Storage key was not set","Chave de armazenamento não foi definida",module,Magento_Review
+Approved,Aprovado,module,Magento_Review
+Pending,Pendente,module,Magento_Review
+"Not Approved","Não Aprovado",module,Magento_Review
+"Please enter a review summary.","Por favor, preencha um resumo da avaliação.",module,Magento_Review
+"Please enter a nickname.","Por favor digite um apelido.",module,Magento_Review
+"Please enter a review.","Por favor insira uma avaliação.",module,Magento_Review
+"Rating isn't Available","Classificação não Disponível",module,Magento_Review
+"Please specify a rating title for a store, or we'll just use the default value.","Por favor, especifique um titulo de classificação para uma loja, ou usaremos o valor padrão.",module,Magento_Review
+"Assigned Options","Opções Atribuidas",module,Magento_Review
+"Option Title:","Título da Opção:",module,Magento_Review
+"Product Name","Nome do produto",module,Magento_Review
+Rating,Classificação,module,Magento_Review
+Actions,Ações,module,Magento_Review
+"See Details","Visualizar Detalhes",module,Magento_Review
+"You have submitted no reviews.","Você não enviou avaliações.",module,Magento_Review
+Back,Voltar,module,Magento_Review
+"My Recent Reviews","Minhas Avaliações Recentes",module,Magento_Review
+"View All","Ver tudo",module,Magento_Review
+"Average Customer Rating:","Avaliação Média do Cliente:",module,Magento_Review
+"Your Review","Sua Avaliação",module,Magento_Review
+"Submitted on %1","Enviado em %1",module,Magento_Review
+"Back to My Reviews","Voltar para Minhas Avaliações",module,Magento_Review
+"Ratings Review Summary","Resumo de Avaliações",module,Magento_Review
+"Be the first to review this product","Seja o primeiro a avaliar este produto",module,Magento_Review
+"Write Your Own Review","Escreva sua Própria Avaliação",module,Magento_Review
+"* Required Fields","* Campos Obrigatórios",module,Magento_Review
+"You're reviewing:","Você está avaliando:",module,Magento_Review
+"Your Rating","Sua Classificação",module,Magento_Review
+"%1 %2","%1 %2",module,Magento_Review
+Summary,Resumo,module,Magento_Review
+"Submit Review","Enviar Avaliação",module,Magento_Review
+"Only registered users can write reviews. Please, <a href=""%1"">Sign in</a> or <a href=""%2"">create an account</a>","Somente usuários cadastrados podem escrever comentários. Por favor, <a href=""%1""> entrar</a> ou <a href=""%2""> criar uma conta</a>",module,Magento_Review
+"Add Your Review","Adicionar sua Avaliação",module,Magento_Review
+"%1 Review(s)","%1 Avaliações",module,Magento_Review
+"Review by","Avaliado por",module,Magento_Review
+"Posted on","Enviado por",module,Magento_Review
+"Back to Main Product Info","Voltar para Informações Principais do Produto",module,Magento_Review
+"Average Customer Rating","Classificação Média de Clientes",module,Magento_Review
+"Product Rating:","Classificação do Produto:",module,Magento_Review
+"Product Review (submitted on %1):","Avaliação do Produto (Enviada em %1):",module,Magento_Review
+"Back to Product Reviews","Voltar para Avaliações do Produto",module,Magento_Review
+"Allow Guests to Write Reviews","Permitir Avaliações por Visitantes",module,Magento_Review
+Active,Ativo,module,Magento_Review
+Inactive,Inativo,module,Magento_Review

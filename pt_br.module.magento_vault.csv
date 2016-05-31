@@ -1,0 +1,17 @@
+"No token found.","No token found.",module,Magento_Vault
+"Wrong request.","Wrong request.",module,Magento_Vault
+"Deletion failure. Please try again.","Deletion failure. Please try again.",module,Magento_Vault
+"Credit Card was successfully removed","Credit Card was successfully removed",module,Magento_Vault
+"My Credit Cards","My Credit Cards",module,Magento_Vault
+"Select vault provider","Select vault provider",module,Magento_Vault
+vault_payment1,vault_payment1,module,Magento_Vault
+vault_payment2,vault_payment2,module,Magento_Vault
+"Card Number","Card Number",module,Magento_Vault
+"Expiration Date","Expiration Date",module,Magento_Vault
+Type,Type,module,Magento_Vault
+"You have no credit cards.","You have no credit cards.",module,Magento_Vault
+Actions,Actions,module,Magento_Vault
+Delete,Delete,module,Magento_Vault
+Cancel,Cancel,module,Magento_Vault
+"Vault Provider","Vault Provider",module,Magento_Vault
+"Specified provider should be enabled.","Specified provider should be enabled.",module,Magento_Vault
