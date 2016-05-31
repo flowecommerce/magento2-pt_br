@@ -1,6 +1,6 @@
 # Language Pack do Magento2 em Português do Brasil (pt_BR)
 Tradução do Magento2 para português do Brasil. Este language pack é construído com as traduções feitas no repositório oficial de traduções do Magento 2: https://crowdin.com/project/magento-2/pt-BR.
-Caso deseje colaborar com algum termo, favor fazê-lo no crowdin. As traduções serão constantemente atualizadas.
+Caso deseje colaborar com algum termo, favor fazê-lo no crowdin: https://crowdin.com/project/magento-2/pt-BR. As traduções serão constantemente atualizadas.
 
 # Instalação
 Composer
