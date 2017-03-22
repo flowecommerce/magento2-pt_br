@@ -1,18 +1,21 @@
 {
-  "name": "flowecommerce/pt_br",
-  "description": "Magento2 - Language Pack para tradução ao Português do Brasil (pt_BR) - Brazilian Portuguese Language Pack",
-  "version": "100.0.1",
-  "license": [
-    "OSL-3.0",
-    "AFL-3.0"
-  ],
-  "require": {
-    "magento/framework": "100.0.*"
-  },
-  "type": "magento2-language",
-  "autoload": {
-    "files": [
-      "registration.php"
-    ]
-  }
-}
+    " Nome " : " flowecommerce / pt_br " ,
+    " Descrição " : " Magento2 - Pacote de Idiomas para Português do Brasil (pt_BR) - Brazilian Portuguese Language Pack " ,
+ -   " Versão " : " 100.0. 1 " ,
+ +   " Versão " : " . 100.0 2 " ,
+    " Licença " : [
+      " OSL-3.0 " ,
+      " AFL-3.0 "
+    ],
+    " Require " : {
+ -     " magento / framework " : " 100.0. * "
+ +     " Magento / framework " : " ^ 100,0. 0 "
+    },
+    " Type " : " magento2-language " ,
+    " Autoload " : {
+      " Arquivos " : [
+        " Registration.php "
+      ]
+    }
+ -} 
+ +}
